@@ -1,0 +1,10 @@
+# Curves — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: curves
+name: Curves
+brand_regex: Curves
+spelling_variants:
+- Curves
+- CURVES
+- curves
+seed_parent_msts: []
+default_store_type: Curves

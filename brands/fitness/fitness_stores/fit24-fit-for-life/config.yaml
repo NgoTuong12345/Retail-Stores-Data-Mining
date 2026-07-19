@@ -1,0 +1,10 @@
+# Fit24 (Fit for life) — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: fit24-fit-for-life
+name: Fit24 (Fit for life)
+brand_regex: Fit24\ \(Fit\ for\ life\)
+spelling_variants:
+- Fit24 (Fit for life)
+- FIT24 (FIT FOR LIFE)
+- fit24 (fit for life)
+seed_parent_msts: []
+default_store_type: Fit24 (Fit for life)

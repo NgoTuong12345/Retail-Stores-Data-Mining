@@ -1,0 +1,12 @@
+# Guardian — auto-generated from vn_retail_system.json (pharma / drug_stores)
+slug: guardian
+name: Guardian
+brand_regex: Guardian
+spelling_variants:
+- Guardian
+- GUARDIAN
+- guardian
+seed_parent_msts:
+- '0310618188'
+default_store_type: Guardian
+

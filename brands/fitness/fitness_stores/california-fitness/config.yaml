@@ -1,0 +1,10 @@
+# California fitness — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: california-fitness
+name: California fitness
+brand_regex: California\ fitness
+spelling_variants:
+- California fitness
+- CALIFORNIA FITNESS
+- california fitness
+seed_parent_msts: []
+default_store_type: California fitness

@@ -1,0 +1,10 @@
+# Vshape Gym — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: vshape-gym
+name: Vshape Gym
+brand_regex: Vshape\ Gym
+spelling_variants:
+- Vshape Gym
+- VSHAPE GYM
+- vshape gym
+seed_parent_msts: []
+default_store_type: Vshape Gym

@@ -1,0 +1,10 @@
+# Hotpot Story — auto-generated from vn_retail_system.json (F&B / food_chain)
+slug: hotpot-story
+name: Hotpot Story
+brand_regex: Hotpot\ Story
+spelling_variants:
+- Hotpot Story
+- HOTPOT STORY
+- hotpot story
+seed_parent_msts: []
+default_store_type: Hotpot Story

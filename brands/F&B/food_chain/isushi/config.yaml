@@ -1,0 +1,10 @@
+# Isushi — auto-generated from vn_retail_system.json (F&B / food_chain)
+slug: isushi
+name: Isushi
+brand_regex: Isushi
+spelling_variants:
+- Isushi
+- ISUSHI
+- isushi
+seed_parent_msts: []
+default_store_type: Isushi

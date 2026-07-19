@@ -1,0 +1,10 @@
+# Hokkaido Baked Cheese — auto-generated from vn_retail_system.json (F&B / food_chain)
+slug: hokkaido-baked-cheese
+name: Hokkaido Baked Cheese
+brand_regex: Hokkaido\ Baked\ Cheese
+spelling_variants:
+- Hokkaido Baked Cheese
+- HOKKAIDO BAKED CHEESE
+- hokkaido baked cheese
+seed_parent_msts: []
+default_store_type: Hokkaido Baked Cheese

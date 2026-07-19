@@ -1,0 +1,10 @@
+# Massimo Dutti — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: massimo-dutti
+name: Massimo Dutti
+brand_regex: Massimo\ Dutti
+spelling_variants:
+- Massimo Dutti
+- MASSIMO DUTTI
+- massimo dutti
+seed_parent_msts: []
+default_store_type: Massimo Dutti

@@ -1,0 +1,10 @@
+# Snowee — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: snowee
+name: Snowee
+brand_regex: Snowee
+spelling_variants:
+- Snowee
+- SNOWEE
+- snowee
+seed_parent_msts: []
+default_store_type: Snowee

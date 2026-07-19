@@ -1,0 +1,15 @@
+# Medicare — auto-generated from vn_retail_system.json (pharma / drug_stores)
+slug: medicare
+name: Medicare
+brand_regex: 'Medicare|MEDICARE|Mê\ Đi\ Ca|MÊ\ ĐI\ CA|Me\ Di\ Ca|ME\ DI\ CA'
+spelling_variants:
+- Medicare
+- MEDICARE
+- medicare
+- Mê Đi Ca
+- MÊ ĐI CA
+- Me Di Ca
+seed_parent_msts:
+- '0302209992'
+default_store_type: Medicare
+

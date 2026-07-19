@@ -1,0 +1,10 @@
+# Soc&Brothers — auto-generated from vn_retail_system.json (mother_baby / kids_baby_stores)
+slug: soc-brothers
+name: Soc&Brothers
+brand_regex: Soc\&Brothers
+spelling_variants:
+- Soc&Brothers
+- SOC&BROTHERS
+- soc&brothers
+seed_parent_msts: []
+default_store_type: Soc&Brothers

@@ -1,0 +1,10 @@
+# Thien Hoa — auto-generated from vn_retail_system.json (electronics / electronic_stores)
+slug: thien-hoa
+name: Thien Hoa
+brand_regex: Thien\ Hoa
+spelling_variants:
+- Thien Hoa
+- THIEN HOA
+- thien hoa
+seed_parent_msts: []
+default_store_type: Thien Hoa

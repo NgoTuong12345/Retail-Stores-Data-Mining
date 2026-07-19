@@ -1,0 +1,10 @@
+# Shop tre tho — auto-generated from vn_retail_system.json (mother_baby / kids_baby_stores)
+slug: shop-tre-tho
+name: Shop tre tho
+brand_regex: Shop\ tre\ tho
+spelling_variants:
+- Shop tre tho
+- SHOP TRE THO
+- shop tre tho
+seed_parent_msts: []
+default_store_type: Shop tre tho

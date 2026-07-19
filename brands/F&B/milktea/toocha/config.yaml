@@ -1,0 +1,10 @@
+# Toocha — auto-generated from vn_retail_system.json (F&B / milktea)
+slug: toocha
+name: Toocha
+brand_regex: Toocha
+spelling_variants:
+- Toocha
+- TOOCHA
+- toocha
+seed_parent_msts: []
+default_store_type: Toocha

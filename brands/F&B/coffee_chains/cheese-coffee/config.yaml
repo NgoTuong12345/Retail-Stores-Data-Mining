@@ -1,0 +1,10 @@
+# Cheese Coffee — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: cheese-coffee
+name: Cheese Coffee
+brand_regex: Cheese\ Coffee
+spelling_variants:
+- Cheese Coffee
+- CHEESE COFFEE
+- cheese coffee
+seed_parent_msts: []
+default_store_type: Cheese Coffee

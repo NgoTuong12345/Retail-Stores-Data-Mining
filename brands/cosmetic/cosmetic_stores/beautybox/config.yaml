@@ -1,0 +1,10 @@
+# Beautybox — auto-generated from vn_retail_system.json (cosmetic / cosmetic_stores)
+slug: beautybox
+name: Beautybox
+brand_regex: Beautybox
+spelling_variants:
+- Beautybox
+- BEAUTYBOX
+- beautybox
+seed_parent_msts: []
+default_store_type: Beautybox

@@ -1,0 +1,10 @@
+# Crescent Mall — auto-generated from vn_retail_system.json (mall / shopping_malls)
+slug: crescent-mall
+name: Crescent Mall
+brand_regex: Crescent\ Mall
+spelling_variants:
+- Crescent Mall
+- CRESCENT MALL
+- crescent mall
+seed_parent_msts: []
+default_store_type: Crescent Mall

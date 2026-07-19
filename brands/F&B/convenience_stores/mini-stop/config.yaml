@@ -1,0 +1,16 @@
+# Mini Stop — auto-generated from vn_retail_system.json (F&B / convenience_stores)
+slug: mini-stop
+name: Mini Stop
+brand_regex: MiniStop|Mini\ Stop
+spelling_variants:
+- Mini Stop
+- MINI STOP
+- mini stop
+- MiniStop
+seed_parent_msts:
+- '0313096162'
+default_store_type: Mini Stop
+
+classification:
+  # National cross-brand Id->date curve instead of the degenerate 2-point fallback.
+  date_calibration_force_global: true

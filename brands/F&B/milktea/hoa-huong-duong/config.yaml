@@ -1,0 +1,10 @@
+# Hoa Huong Duong — auto-generated from vn_retail_system.json (F&B / milktea)
+slug: hoa-huong-duong
+name: Hoa Huong Duong
+brand_regex: Hoa\ Huong\ Duong
+spelling_variants:
+- Hoa Huong Duong
+- HOA HUONG DUONG
+- hoa huong duong
+seed_parent_msts: []
+default_store_type: Hoa Huong Duong

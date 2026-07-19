@@ -1,0 +1,10 @@
+slug: lotte-mart
+name: Lotte Mart
+brand_regex: 'LOTTE\s*MART|LOTTE\s*SUPER|SIÊU\s*THỊ\s*LOTTE'
+spelling_variants:
+  - 'LOTTE MART'
+  - 'LOTTE SUPER'
+  - 'LOTTE-MART'
+seed_parent_msts:
+  - '0304741634' # Lotte Vietnam Shopping
+default_store_type: Lotte Mart

@@ -1,0 +1,15 @@
+# GS25 — auto-generated from vn_retail_system.json (F&B / convenience_stores)
+slug: gs25
+name: GS25
+brand_regex: GS25|GS\ 25
+spelling_variants:
+- GS25
+- gs25
+- GS 25
+seed_parent_msts:
+- '0314658576'
+default_store_type: GS25
+
+classification:
+  # National cross-brand Id->date curve instead of the degenerate 2-point fallback.
+  date_calibration_force_global: true

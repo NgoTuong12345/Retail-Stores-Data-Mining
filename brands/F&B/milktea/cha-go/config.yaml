@@ -1,0 +1,10 @@
+# Cha Go — auto-generated from vn_retail_system.json (F&B / milktea)
+slug: cha-go
+name: Cha Go
+brand_regex: Cha\ Go
+spelling_variants:
+- Cha Go
+- CHA GO
+- cha go
+seed_parent_msts: []
+default_store_type: Cha Go

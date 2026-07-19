@@ -1,0 +1,10 @@
+# Hasaki — auto-generated from vn_retail_system.json (cosmetic / cosmetic_stores)
+slug: hasaki
+name: Hasaki
+brand_regex: Hasaki
+spelling_variants:
+- Hasaki
+- HASAKI
+- hasaki
+seed_parent_msts: []
+default_store_type: Hasaki

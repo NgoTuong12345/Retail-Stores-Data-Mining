@@ -1,0 +1,12 @@
+# Long Chau — auto-generated from vn_retail_system.json (pharma / drug_stores)
+slug: long-chau
+name: Long Châu
+brand_regex: 'Dược phẩm FPT Long Châu|Long Châu|Long Chau'
+spelling_variants:
+- Long Châu
+- Long Chau
+- NHÀ THUỐC LONG CHÂU
+- Nha Thuoc Long Chau
+seed_parent_msts:
+- '0315275368'
+default_store_type: Long Châu

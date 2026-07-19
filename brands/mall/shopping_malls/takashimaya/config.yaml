@@ -1,0 +1,10 @@
+# Takashimaya — auto-generated from vn_retail_system.json (mall / shopping_malls)
+slug: takashimaya
+name: Takashimaya
+brand_regex: Takashimaya
+spelling_variants:
+- Takashimaya
+- TAKASHIMAYA
+- takashimaya
+seed_parent_msts: []
+default_store_type: Takashimaya

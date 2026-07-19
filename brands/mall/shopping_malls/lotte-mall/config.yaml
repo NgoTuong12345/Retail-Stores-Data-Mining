@@ -1,0 +1,10 @@
+# Lotte Mall — auto-generated from vn_retail_system.json (mall / shopping_malls)
+slug: lotte-mall
+name: Lotte Mall
+brand_regex: Lotte\ Mall
+spelling_variants:
+- Lotte Mall
+- LOTTE MALL
+- lotte mall
+seed_parent_msts: []
+default_store_type: Lotte Mall

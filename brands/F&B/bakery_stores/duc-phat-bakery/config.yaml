@@ -1,0 +1,10 @@
+# Duc Phat Bakery — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: duc-phat-bakery
+name: Duc Phat Bakery
+brand_regex: Duc\ Phat\ Bakery
+spelling_variants:
+- Duc Phat Bakery
+- DUC PHAT BAKERY
+- duc phat bakery
+seed_parent_msts: []
+default_store_type: Duc Phat Bakery

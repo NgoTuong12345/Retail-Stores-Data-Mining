@@ -1,0 +1,10 @@
+# R&B Tea — auto-generated from vn_retail_system.json (F&B / milktea)
+slug: r-b-tea
+name: R&B Tea
+brand_regex: R\&B\ Tea
+spelling_variants:
+- R&B Tea
+- R&B TEA
+- r&b tea
+seed_parent_msts: []
+default_store_type: R&B Tea

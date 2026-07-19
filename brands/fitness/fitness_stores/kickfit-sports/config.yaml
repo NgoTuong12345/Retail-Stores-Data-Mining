@@ -1,0 +1,9 @@
+# KICKFIT SPORTS — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: kickfit-sports
+name: KICKFIT SPORTS
+brand_regex: KICKFIT\ SPORTS
+spelling_variants:
+- KICKFIT SPORTS
+- kickfit sports
+seed_parent_msts: []
+default_store_type: KICKFIT SPORTS

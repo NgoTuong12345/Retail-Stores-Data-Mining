@@ -1,0 +1,10 @@
+# DN Cosmetics — auto-generated from vn_retail_system.json (cosmetic / cosmetic_stores)
+slug: dn-cosmetics
+name: DN Cosmetics
+brand_regex: DN\ Cosmetics
+spelling_variants:
+- DN Cosmetics
+- DN COSMETICS
+- dn cosmetics
+seed_parent_msts: []
+default_store_type: DN Cosmetics

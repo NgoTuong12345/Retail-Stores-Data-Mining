@@ -1,0 +1,10 @@
+# The Coffee Factory — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: the-coffee-factory
+name: The Coffee Factory
+brand_regex: The\ Coffee\ Factory
+spelling_variants:
+- The Coffee Factory
+- THE COFFEE FACTORY
+- the coffee factory
+seed_parent_msts: []
+default_store_type: The Coffee Factory

@@ -1,0 +1,10 @@
+# Dolpansam — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: dolpansam
+name: Dolpansam
+brand_regex: Dolpansam
+spelling_variants:
+- Dolpansam
+- DOLPANSAM
+- dolpansam
+seed_parent_msts: []
+default_store_type: Dolpansam

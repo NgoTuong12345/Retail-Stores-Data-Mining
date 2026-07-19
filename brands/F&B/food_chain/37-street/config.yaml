@@ -1,0 +1,9 @@
+# 37 street — auto-generated from vn_retail_system.json (F&B / food_chain)
+slug: 37-street
+name: 37 street
+brand_regex: 37\ street
+spelling_variants:
+- 37 street
+- 37 STREET
+seed_parent_msts: []
+default_store_type: 37 street

@@ -1,0 +1,10 @@
+# Baskin-Robbins — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: baskin-robbins
+name: Baskin-Robbins
+brand_regex: Baskin\-Robbins
+spelling_variants:
+- Baskin-Robbins
+- BASKIN-ROBBINS
+- baskin-robbins
+seed_parent_msts: []
+default_store_type: Baskin-Robbins

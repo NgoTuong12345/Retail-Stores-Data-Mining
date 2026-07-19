@@ -1,0 +1,1723 @@
+{
+  "meta": {
+    "title": "Vietnam Retail Brand Documentation",
+    "description": "Structured brand registry grouped by sector and store type",
+    "total_brands": 295,
+    "total_sectors": 14,
+    "sectors": [
+      "F&B",
+      "ICT",
+      "books",
+      "cosmetic",
+      "electronics",
+      "fashion",
+      "fitness",
+      "lifestyle",
+      "mall",
+      "mother_baby",
+      "movie",
+      "optical",
+      "pharma",
+      "sports"
+    ]
+  },
+  "sectors": [
+    {
+      "sector": "F&B",
+      "total_brands": 156,
+      "store_types": [
+        {
+          "store_type": "bakery_stores",
+          "brand_count": 26,
+          "brands": [
+            {
+              "brand_name": "ABC Bakery",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Anh Hoa Bakery",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Baskin-Robbins",
+              "parent_company": "Inspire Brands (US)",
+              "country_of_origin": "United States"
+            },
+            {
+              "brand_name": "Beard Papa's",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Bread Talk",
+              "parent_company": "BreadTalk Group (Singapore, privatised 2021)",
+              "country_of_origin": "Singapore"
+            },
+            {
+              "brand_name": "Bud's",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Chewy Chewy",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Dairy Queen",
+              "parent_company": "International Dairy Queen / Berkshire Hathaway (US)",
+              "country_of_origin": "United States"
+            },
+            {
+              "brand_name": "Duc Phat Bakery",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Fresh Garden",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Givral",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Goofoo",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Hokkaido Baked Cheese Tart",
+              "parent_company": "BAKE Inc. (Japan)",
+              "country_of_origin": "Japan"
+            },
+            {
+              "brand_name": "Hy Lam Mon Bakery",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Häagen-Dazs",
+              "parent_company": "General Mills (US)",
+              "country_of_origin": "United States"
+            },
+            {
+              "brand_name": "IT Cream & Bakery",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Maison Marou",
+              "parent_company": "Marou SAS (Vietnam/France — artisan chocolate brand)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Mochi Sweets",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Morico - Contemporary Japanese Lifestyle",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Nguyen Son Bakery",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Origato Cake",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Paris Baguette",
+              "parent_company": "SPC Group (South Korea)",
+              "country_of_origin": "South Korea"
+            },
+            {
+              "brand_name": "Savoure Bakery",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Snowee",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Swensen's",
+              "parent_company": "Minor International (Thailand)",
+              "country_of_origin": "Thailand"
+            },
+            {
+              "brand_name": "Tous Les Jours",
+              "parent_company": "CJ Foodville / CJ Group (Korea)",
+              "country_of_origin": "South Korea"
+            }
+          ]
+        },
+        {
+          "store_type": "restaurant_chains",
+          "brand_count": 28,
+          "brands": [
+            {
+              "brand_name": "Ashima",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Ba Con Cuu",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "BukBuk",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Daruma",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Dolpansam",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "GogiHouse",
+              "parent_company": "Golden Gate Restaurant Group (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Khao Lao",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "King BBQ",
+              "parent_company": "Golden Gate Restaurant Group (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Kpub",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Marukame Udon",
+              "parent_company": "Toridoll Holdings Corp (Japan)",
+              "country_of_origin": "Japan"
+            },
+            {
+              "brand_name": "Meiwei",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Pho 24",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "RuNam",
+              "parent_company": "RuNam Bistro (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Seoul Garden",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Shogun",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Sumo BBQ",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Sumo Yakiniku",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Sushi Hokkaido Sachi",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Sushi Kei",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Sushi Tei",
+              "parent_company": "Sushi Tei Pte Ltd (Singapore)",
+              "country_of_origin": "Singapore"
+            },
+            {
+              "brand_name": "Sushi bar",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Tasaki BBQ",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Thai Express",
+              "parent_company": "Thai Express / BreadTalk Group (Singapore)",
+              "country_of_origin": "Singapore"
+            },
+            {
+              "brand_name": "Tokyo Deli",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Vuvuzela",
+              "parent_company": "Golden Gate Restaurant Group (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Wrap & Roll",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Yaki - Chang dung nuong",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Yutang",
+              "parent_company": null,
+              "country_of_origin": null
+            }
+          ]
+        },
+        {
+          "store_type": "coffee_chains",
+          "brand_count": 26,
+          "brands": [
+            {
+              "brand_name": "Aha coffee",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Café Ông Bầu",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Cheese Coffee",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Cong Caphe",
+              "parent_company": "Cong Caphe JSC (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "E-Coffee",
+              "parent_company": "E-Coffee / Trung Nguyen Group (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Effoc",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Gemini",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Guta Café",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Highland",
+              "parent_company": "SuperFoods Group — JFC 60% + VTI 40% (Philippines/Vietnam)",
+              "country_of_origin": "Philippines/Vietnam"
+            },
+            {
+              "brand_name": "Kafa Café",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Katinat",
+              "parent_company": "Katinat Coffee (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "King Coffee",
+              "parent_company": "TNI Corp / Lê Hoàng Diệp Thảo (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Milano",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Passio",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Phindeli",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Phuc Long",
+              "parent_company": "Masan (MSN)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Starbucks",
+              "parent_company": "Starbucks Corp (US) — licensee: Coffee Concepts VN",
+              "country_of_origin": "United States"
+            },
+            {
+              "brand_name": "The Coffee Bean and Tea Leaf",
+              "parent_company": "Jollibee Foods Corporation (Philippines)",
+              "country_of_origin": "Philippines"
+            },
+            {
+              "brand_name": "The Coffee Factory",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "The Coffee House",
+              "parent_company": "Seedcom (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Thuc Coffee",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Trung Nguyen",
+              "parent_company": "Trung Nguyen Group (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Urban Station Coffee",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Viva Star Coffee",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Wayne's Coffee",
+              "parent_company": "Wayne's Coffee AB (Sweden)",
+              "country_of_origin": "Sweden"
+            },
+            {
+              "brand_name": "Phê La",
+              "parent_company": "Phe La (Vietnam, private — fast-growing specialty coffee chain)",
+              "country_of_origin": "Vietnam"
+            }
+          ]
+        },
+        {
+          "store_type": "convenience_stores",
+          "brand_count": 7,
+          "brands": [
+            {
+              "brand_name": "7 Eleven",
+              "parent_company": "7-Eleven Inc. / Seven & I Holdings (Japan)",
+              "country_of_origin": "Japan"
+            },
+            {
+              "brand_name": "B's Mart",
+              "parent_company": "Berli Jucker PCL (BJC, Thailand)",
+              "country_of_origin": "Thailand"
+            },
+            {
+              "brand_name": "Cheers",
+              "parent_company": "Saigon Co.op",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Circle K",
+              "parent_company": "Alimentation Couche-Tard (Canada)",
+              "country_of_origin": "Canada"
+            },
+            {
+              "brand_name": "Family Mart",
+              "parent_company": "FamilyMart Co., Ltd (Japan)",
+              "country_of_origin": "Japan"
+            },
+            {
+              "brand_name": "GS25",
+              "parent_company": "GS Retail / GS Group (Korea)",
+              "country_of_origin": "South Korea"
+            },
+            {
+              "brand_name": "Mini Stop",
+              "parent_company": "AEON Group (Japan)",
+              "country_of_origin": "Japan"
+            }
+          ]
+        },
+        {
+          "store_type": "fast_food_chains",
+          "brand_count": 12,
+          "brands": [
+            {
+              "brand_name": "Burger King",
+              "parent_company": "Restaurant Brands International (Canada)",
+              "country_of_origin": "Canada"
+            },
+            {
+              "brand_name": "Domino's Pizza",
+              "parent_company": "Domino's Pizza Inc. (US)",
+              "country_of_origin": "United States"
+            },
+            {
+              "brand_name": "Jollibee",
+              "parent_company": "Jollibee Foods Corporation (Philippines)",
+              "country_of_origin": "Philippines"
+            },
+            {
+              "brand_name": "KFC",
+              "parent_company": "Yum! Brands (US)",
+              "country_of_origin": "United States"
+            },
+            {
+              "brand_name": "Lotteria",
+              "parent_company": "Lotte GRS / Lotte Group (Korea)",
+              "country_of_origin": "South Korea"
+            },
+            {
+              "brand_name": "McDonald's",
+              "parent_company": "McDonald's Corporation (US)",
+              "country_of_origin": "United States"
+            },
+            {
+              "brand_name": "Pizza Hut",
+              "parent_company": "Yum! Brands (US)",
+              "country_of_origin": "United States"
+            },
+            {
+              "brand_name": "Pizza Inn",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Popeyes",
+              "parent_company": "Restaurant Brands International (Canada)",
+              "country_of_origin": "Canada"
+            },
+            {
+              "brand_name": "Texas chicken",
+              "parent_company": "Cajun Operating Corp (US) — SEA licensee: Envictus International (Malaysia)",
+              "country_of_origin": "United States"
+            },
+            {
+              "brand_name": "The Pizza Company",
+              "parent_company": "Minor Food Group / Minor International (Thailand)",
+              "country_of_origin": "Thailand"
+            },
+            {
+              "brand_name": "Subway",
+              "parent_company": "Subway IP LLC (US)",
+              "country_of_origin": "United States"
+            }
+          ]
+        },
+        {
+          "store_type": "food_chain",
+          "brand_count": 15,
+          "brands": [
+            {
+              "brand_name": "37 street",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Al Fresco's",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Capricciosa",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Cowboy Jack's",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Hokkaido Baked Cheese",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Hotpot Story",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Hutong",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Isushi",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Kichi-Kichi",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Manwah",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Món Huế",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Osaka Ohsho",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Papaxốt",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Pho Hung",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Pizza 4P's",
+              "parent_company": null,
+              "country_of_origin": null
+            }
+          ]
+        },
+        {
+          "store_type": "hyper_supermarket",
+          "brand_count": 5,
+          "brands": [
+            {
+              "brand_name": "AEON (Supermarket)",
+              "parent_company": "AEON Group (Japan)",
+              "country_of_origin": "Japan"
+            },
+            {
+              "brand_name": "Coop-Extra",
+              "parent_company": "Saigon Co.op",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Go!",
+              "parent_company": "Central Group (Thailand, ex-BigC)",
+              "country_of_origin": "Thailand"
+            },
+            {
+              "brand_name": "Lotte Mart",
+              "parent_company": "Lotte Shopping / Lotte Group (South Korea)",
+              "country_of_origin": "South Korea"
+            },
+            {
+              "brand_name": "MM Mega Market",
+              "parent_company": "TCC Group / BJC (Thailand) — formerly Metro Cash & Carry Vietnam",
+              "country_of_origin": "Thailand"
+            }
+          ]
+        },
+        {
+          "store_type": "milktea",
+          "brand_count": 23,
+          "brands": [
+            {
+              "brand_name": "Bobapop",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Cha Go",
+              "parent_company": "Cha Go (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Chamichi",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Coco fresh tea & juice",
+              "parent_company": "CocoFresh Tea & Juice (Taiwan)",
+              "country_of_origin": "Taiwan"
+            },
+            {
+              "brand_name": "Comebuy",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Dingtea",
+              "parent_company": "Ding Tea International (Taiwan)",
+              "country_of_origin": "Taiwan"
+            },
+            {
+              "brand_name": "Gong Cha",
+              "parent_company": "Gong Cha Group (Taiwan / TA Associates PE)",
+              "country_of_origin": "Taiwan"
+            },
+            {
+              "brand_name": "Heekaa",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Hoa Huong Duong",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Hot & Cold",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Koi Thé",
+              "parent_company": "KOI Thé (Taiwan)",
+              "country_of_origin": "Taiwan"
+            },
+            {
+              "brand_name": "Lavida",
+              "parent_company": "Lavida Coffee (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Mixue",
+              "parent_company": "Mixue Group (China, HKEX: 2097)",
+              "country_of_origin": "China"
+            },
+            {
+              "brand_name": "Onezo",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "R&B Tea",
+              "parent_company": "R&B Tea (Taiwan)",
+              "country_of_origin": "Taiwan"
+            },
+            {
+              "brand_name": "Royal Tea Viet Nam",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Sharetea",
+              "parent_company": "Sharetea International (Taiwan)",
+              "country_of_origin": "Taiwan"
+            },
+            {
+              "brand_name": "Ten Ren",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "The Alley",
+              "parent_company": "The Alley International (Taiwan)",
+              "country_of_origin": "Taiwan"
+            },
+            {
+              "brand_name": "Tiger Sugar",
+              "parent_company": "Tiger Sugar International (Taiwan)",
+              "country_of_origin": "Taiwan"
+            },
+            {
+              "brand_name": "Tocotoco",
+              "parent_company": "Tocotoco (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Toocha",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Uncle Tea",
+              "parent_company": null,
+              "country_of_origin": null
+            }
+          ]
+        },
+        {
+          "store_type": "mini_supermarket",
+          "brand_count": 12,
+          "brands": [
+            {
+              "brand_name": "Bách Hóa Xanh (BHX)",
+              "parent_company": "Mobile World (MWG)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Co.op food",
+              "parent_company": "Saigon Co.op",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Co.op smile",
+              "parent_company": "Saigon Co.op",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Hapro foods",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "K-market",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Satrafoods",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Soi Bien",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "T-Mart",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "WiN (is all you need)",
+              "parent_company": "Masan (MSN)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Winmart + (Nông thôn)",
+              "parent_company": "Masan (MSN)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Winmart + (Thành Thị)",
+              "parent_company": "Masan (MSN)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Zakkamart",
+              "parent_company": null,
+              "country_of_origin": null
+            }
+          ]
+        },
+        {
+          "store_type": "supermarket",
+          "brand_count": 2,
+          "brands": [
+            {
+              "brand_name": "Co.op mart",
+              "parent_company": "Saigon Co.op",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Winmart (WMT Siêu thị)",
+              "parent_company": "Masan (MSN)",
+              "country_of_origin": "Vietnam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector": "ICT",
+      "total_brands": 8,
+      "store_types": [
+        {
+          "store_type": "ict_stores",
+          "brand_count": 8,
+          "brands": [
+            {
+              "brand_name": "CellphoneS",
+              "parent_company": "CellphoneS JSC (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Di Dong Viet",
+              "parent_company": "Di Dong Viet JSC (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "FPT Shop",
+              "parent_company": "FPT Retail (FRT)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Hoang Ha",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Phong Vu",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Topzone",
+              "parent_company": "Mobile World (MWG)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Viettel Store",
+              "parent_company": "Viettel Group (Vietnam, state-owned)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Điện Máy Xanh",
+              "parent_company": "Mobile World (MWG)",
+              "country_of_origin": "Vietnam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector": "cosmetic",
+      "total_brands": 14,
+      "store_types": [
+        {
+          "store_type": "cosmetic_stores",
+          "brand_count": 14,
+          "brands": [
+            {
+              "brand_name": "Beautybox",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Beautygarden",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Biciocosmetics",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Cocoshop",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "DN Cosmetics",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Hasaki",
+              "parent_company": "Hasaki Beauty & Spa JSC (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Mat Hoa Da Phan",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Mint Cosmetics",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Nutycosmetic",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Sammi Shop",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "THE FACE SHOP",
+              "parent_company": "LG H&H (South Korea, listed: KRX)",
+              "country_of_origin": "South Korea"
+            },
+            {
+              "brand_name": "The Body Shop",
+              "parent_company": "Aurelius Group (UK) — post-Natura",
+              "country_of_origin": "United Kingdom"
+            },
+            {
+              "brand_name": "The Gioi SkinFood",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Watsons Vietnam",
+              "parent_company": "AS Watson / CK Hutchison (Hong Kong)",
+              "country_of_origin": "Hong Kong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector": "electronics",
+      "total_brands": 8,
+      "store_types": [
+        {
+          "store_type": "electronic_stores",
+          "brand_count": 8,
+          "brands": [
+            {
+              "brand_name": "Cho Lon",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Mediamart",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Nguyen Kim",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Pico",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Thien Hoa",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Thế giới di động (TGDĐ)",
+              "parent_company": "Mobile World (MWG)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Tran Anh",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Vinpro",
+              "parent_company": null,
+              "country_of_origin": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector": "fashion",
+      "total_brands": 42,
+      "store_types": [
+        {
+          "store_type": "fashion_apparel",
+          "brand_count": 42,
+          "brands": [
+            {
+              "brand_name": "Adidas",
+              "parent_company": "Adidas AG (Germany)",
+              "country_of_origin": "Germany"
+            },
+            {
+              "brand_name": "An Phuoc",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Bita's",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Biti's",
+              "parent_company": "Biti's (Binh Tien Consumer Goods, Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Blue Exchange",
+              "parent_company": "Blue Exchange JSC (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Canifa",
+              "parent_company": "Canifa Group (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Converse",
+              "parent_company": "Nike, Inc. (US)",
+              "country_of_origin": "United States"
+            },
+            {
+              "brand_name": "Couple TX",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Crazyteen",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Elise",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "G2000",
+              "parent_company": "G2000 Group (Hong Kong)",
+              "country_of_origin": "Hong Kong"
+            },
+            {
+              "brand_name": "H&M",
+              "parent_company": "H&M Group (Sweden)",
+              "country_of_origin": "Sweden"
+            },
+            {
+              "brand_name": "HNOSS",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Hoang Phuc",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "IVY Moda",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Juno",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "K&K Fashion",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Kelly Bùi",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Lacoste",
+              "parent_company": "Maus Frères (Switzerland)",
+              "country_of_origin": "Switzerland"
+            },
+            {
+              "brand_name": "Levi’s",
+              "parent_company": "Levi Strauss & Co. (US)",
+              "country_of_origin": "United States"
+            },
+            {
+              "brand_name": "Lime Orange",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Luxme",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "MARC",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Mango",
+              "parent_company": "Punto Fa S.L. / Mango (Spain, private)",
+              "country_of_origin": "Spain"
+            },
+            {
+              "brand_name": "NEM",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Nike",
+              "parent_company": "Nike, Inc. (US)",
+              "country_of_origin": "United States"
+            },
+            {
+              "brand_name": "Ninomaxx",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Old Navy",
+              "parent_company": "Gap Inc. (US)",
+              "country_of_origin": "United States"
+            },
+            {
+              "brand_name": "PT2000",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Puma",
+              "parent_company": "Puma SE (Germany)",
+              "country_of_origin": "Germany"
+            },
+            {
+              "brand_name": "Sea Collection",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Uniqlo",
+              "parent_company": "Fast Retailing Co., Ltd (Japan)",
+              "country_of_origin": "Japan"
+            },
+            {
+              "brand_name": "Vans",
+              "parent_company": "VF Corporation (US)",
+              "country_of_origin": "United States"
+            },
+            {
+              "brand_name": "Vascara",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Viet Tien",
+              "parent_company": "Viet Tien Garment Corp (VGT — listed HoSE)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Vina Giày",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Yame",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Zara",
+              "parent_company": "Inditex (Spain)",
+              "country_of_origin": "Spain"
+            },
+            {
+              "brand_name": "Bershka",
+              "parent_company": "Inditex (Spain) — Vietnam licensee: Mitra Adiperkasa (Indonesia)",
+              "country_of_origin": "Spain"
+            },
+            {
+              "brand_name": "Charles & Keith",
+              "parent_company": "Charles & Keith Group (Singapore)",
+              "country_of_origin": "Singapore"
+            },
+            {
+              "brand_name": "Massimo Dutti",
+              "parent_company": "Inditex (Spain) — Vietnam licensee: Mitra Adiperkasa (Indonesia)",
+              "country_of_origin": "Spain"
+            },
+            {
+              "brand_name": "Pull & Bear",
+              "parent_company": "Inditex (Spain) — Vietnam licensee: Mitra Adiperkasa (Indonesia)",
+              "country_of_origin": "Spain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector": "fitness",
+      "total_brands": 17,
+      "store_types": [
+        {
+          "store_type": "fitness_stores",
+          "brand_count": 17,
+          "brands": [
+            {
+              "brand_name": "Body fit",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "California fitness",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "City Gym",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Curves",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Diamond Fitness Center",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "EMS Fitness & Yoga",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Elite fitness",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Fit24 (Fit for life)",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Gym Newlife",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "KICKFIT SPORTS",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "MMA - Gym",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "MVP Fitness",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Nutrifort",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Olympia Hadong",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Olympia Viet Nam",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "S'Life GYM",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Vshape Gym",
+              "parent_company": null,
+              "country_of_origin": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector": "lifestyle",
+      "total_brands": 10,
+      "store_types": [
+        {
+          "store_type": "mini_stores",
+          "brand_count": 10,
+          "brands": [
+            {
+              "brand_name": "Daiso",
+              "parent_company": "Daiso Industries (Japan, private)",
+              "country_of_origin": "Japan"
+            },
+            {
+              "brand_name": "Hachi Hachi",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Ilahui",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Komonoya",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Minigood",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Miniso",
+              "parent_company": "Miniso Group Holdings (China, NYSE: MNSO)",
+              "country_of_origin": "China"
+            },
+            {
+              "brand_name": "Moji",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Mumuso",
+              "parent_company": "Mumuso (China)",
+              "country_of_origin": "China"
+            },
+            {
+              "brand_name": "Usupso",
+              "parent_company": "Usupso Co., Ltd (South Korea)",
+              "country_of_origin": "South Korea"
+            },
+            {
+              "brand_name": "Yoyoso",
+              "parent_company": "Yoyoso (China)",
+              "country_of_origin": "China"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector": "mall",
+      "total_brands": 9,
+      "store_types": [
+        {
+          "store_type": "shopping_malls",
+          "brand_count": 9,
+          "brands": [
+            {
+              "brand_name": "AEON Mall",
+              "parent_company": "AEON Group (Japan)",
+              "country_of_origin": "Japan"
+            },
+            {
+              "brand_name": "Crescent Mall",
+              "parent_company": "Keppel Land Vietnam (Singapore)",
+              "country_of_origin": "Singapore"
+            },
+            {
+              "brand_name": "Diamond",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Lotte Mall",
+              "parent_company": "Lotte Group (Korea)",
+              "country_of_origin": "South Korea"
+            },
+            {
+              "brand_name": "Parkson",
+              "parent_company": "Parkson Holdings Berhad (Malaysia)",
+              "country_of_origin": "Malaysia"
+            },
+            {
+              "brand_name": "Robins",
+              "parent_company": "Central Group (Thailand)",
+              "country_of_origin": "Thailand"
+            },
+            {
+              "brand_name": "Takashimaya",
+              "parent_company": "Takashimaya Co., Ltd (Japan)",
+              "country_of_origin": "Japan"
+            },
+            {
+              "brand_name": "Vincom",
+              "parent_company": "Vingroup (VIC)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "VivoCity",
+              "parent_company": "Mapletree Investments (Singapore)",
+              "country_of_origin": "Singapore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector": "mother_baby",
+      "total_brands": 10,
+      "store_types": [
+        {
+          "store_type": "kids_baby_stores",
+          "brand_count": 10,
+          "brands": [
+            {
+              "brand_name": "AVA Kids",
+              "parent_company": "Mobile World (MWG)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Bibomart",
+              "parent_company": "Bibomart JSC (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Concung",
+              "parent_company": "Con Cung JSC (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Hallo shop",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Kids Plaza",
+              "parent_company": "Kids Plaza JSC (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "MevaBe 1080",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Shop tre tho",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Soc&Brothers",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "TutiCare",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Vuon cua be",
+              "parent_company": null,
+              "country_of_origin": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector": "movie",
+      "total_brands": 7,
+      "store_types": [
+        {
+          "store_type": "movie_theatres",
+          "brand_count": 7,
+          "brands": [
+            {
+              "brand_name": "BHD Star Cineplex",
+              "parent_company": "BHD Corporation (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Beta Cineplex",
+              "parent_company": "Beta Media (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "CGV Cinemas",
+              "parent_company": "CJ CGV / CJ Group (Korea)",
+              "country_of_origin": "South Korea"
+            },
+            {
+              "brand_name": "Cinestar",
+              "parent_company": "Cinestar JSC (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Galaxy Cinema",
+              "parent_company": "Galaxy Studio JSC (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Lotte Cinema",
+              "parent_company": "Lotte Cultureworks / Lotte Group (Korea)",
+              "country_of_origin": "South Korea"
+            },
+            {
+              "brand_name": "Platinum Cineplex",
+              "parent_company": "Platinum Cineplex (Indonesia / Southeast Asia)",
+              "country_of_origin": "Indonesia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector": "pharma",
+      "total_brands": 10,
+      "store_types": [
+        {
+          "store_type": "drug_stores",
+          "brand_count": 10,
+          "brands": [
+            {
+              "brand_name": "ECO pharma",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Guardian",
+              "parent_company": "DFI Retail Group (HK/Dairy Farm Intl)",
+              "country_of_origin": "Hong Kong"
+            },
+            {
+              "brand_name": "Long Chau",
+              "parent_company": "FPT Retail (FRT)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Matsumoto Kiyoshi",
+              "parent_company": "Matsumoto Kiyoshi Holdings (Japan)",
+              "country_of_origin": "Japan"
+            },
+            {
+              "brand_name": "Medicare",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "My Chau",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Nhà thuốc An Khang",
+              "parent_company": "Mobile World (MWG)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Phano Pharmacy",
+              "parent_company": null,
+              "country_of_origin": null
+            },
+            {
+              "brand_name": "Pharmacity",
+              "parent_company": "Pharmacity (private — backed by Mekong Capital, LeapFrog)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "SK Pharmacy",
+              "parent_company": "SK Pharmacy (Vietnam, private)",
+              "country_of_origin": "Vietnam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector": "sports",
+      "total_brands": 1,
+      "store_types": [
+        {
+          "store_type": "sports_stores",
+          "brand_count": 1,
+          "brands": [
+            {
+              "brand_name": "Decathlon",
+              "parent_company": "Decathlon SE (France)",
+              "country_of_origin": "France"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector": "books",
+      "total_brands": 2,
+      "store_types": [
+        {
+          "store_type": "bookstores",
+          "brand_count": 2,
+          "brands": [
+            {
+              "brand_name": "Fahasa",
+              "parent_company": "FAHASA — Phuong Nam Culture Corp (Vietnam, state-affiliated, 130+ stores)",
+              "country_of_origin": "Vietnam"
+            },
+            {
+              "brand_name": "Phuong Nam Bookstore",
+              "parent_company": "Phuong Nam Corp (Vietnam — being acquired by Thien Long Group, ~50 stores)",
+              "country_of_origin": "Vietnam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector": "optical",
+      "total_brands": 1,
+      "store_types": [
+        {
+          "store_type": "optical_stores",
+          "brand_count": 1,
+          "brands": [
+            {
+              "brand_name": "OWNDAYS",
+              "parent_company": "OWNDAYS Co., Ltd (Japan)",
+              "country_of_origin": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

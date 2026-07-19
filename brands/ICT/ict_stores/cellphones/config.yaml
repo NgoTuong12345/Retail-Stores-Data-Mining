@@ -1,0 +1,27 @@
+# CellphoneS
+slug: cellphones
+name: CellphoneS
+brand_regex: 'Kỹ\ thuật\ Diệu\ Phúc|Ky\ thuat\ Dieu\ Phuc'
+spelling_variants:
+- Kỹ thuật Diệu Phúc
+- KỸ THUẬT DIỆU PHÚC
+- Ky thuat Dieu Phuc
+- KY THUAT DIEU PHUC
+seed_parent_msts:
+- '0316172372'
+default_store_type: CellphoneS
+classification:
+  corporate_keywords:
+    - 'KHO'
+    - 'VĂN PHÒNG'
+    - 'VP'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'BẢO HÀNH'
+    - 'TRUNG TÂM ĐIỀU HÀNH'
+    - 'HỘI SỞ'
+  corporate_regexes:
+    - '^CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ KỸ THUẬT DIỆU PHÚC$'
+    - '^CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ KỸ THUẬT DIỆU PHÚC$'
+backtest:
+  report_label: "Official website"
+  expected_total: 124

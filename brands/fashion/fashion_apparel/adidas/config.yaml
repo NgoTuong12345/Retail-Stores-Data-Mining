@@ -1,0 +1,10 @@
+# Adidas — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: adidas
+name: Adidas
+brand_regex: Adidas
+spelling_variants:
+- Adidas
+- ADIDAS
+- adidas
+seed_parent_msts: []
+default_store_type: Adidas

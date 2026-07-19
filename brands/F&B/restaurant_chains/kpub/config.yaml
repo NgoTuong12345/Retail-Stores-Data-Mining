@@ -1,0 +1,10 @@
+# Kpub — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: kpub
+name: Kpub
+brand_regex: Kpub
+spelling_variants:
+- Kpub
+- KPUB
+- kpub
+seed_parent_msts: []
+default_store_type: Kpub

@@ -1,0 +1,10 @@
+# Texas chicken — auto-generated from vn_retail_system.json (F&B / fast_food_chains)
+slug: texas-chicken
+name: Texas chicken
+brand_regex: Texas\ chicken
+spelling_variants:
+- Texas chicken
+- TEXAS CHICKEN
+- texas chicken
+seed_parent_msts: []
+default_store_type: Texas chicken

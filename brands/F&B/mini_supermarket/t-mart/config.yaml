@@ -1,0 +1,12 @@
+# T-Mart — auto-generated from vn_retail_system.json (F&B / mini_supermarket)
+slug: t-mart
+name: T-Mart
+brand_regex: 'T[\s\-]?MART'
+spelling_variants:
+  - 'T-MART'
+  - 'T MART'
+  - 'TMART'
+  - 'T-Mart'
+  - 'T Mart'
+seed_parent_msts: []
+default_store_type: T-Mart

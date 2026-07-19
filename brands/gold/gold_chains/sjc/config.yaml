@@ -1,0 +1,67 @@
+# brands/sjc/config.yaml
+# SJC (Saigon Jewellery Company) — national gold bar brand
+# ~200 direct stores + 43 agents (linked retail not under SJC MST)
+
+slug: sjc
+name: SJC
+# 'SJC' alone: every genuine SJC store carries the token. The bare
+# 'VÀNG BẠC ĐÁ QUÝ SÀI GÒN' phrase matched other "Sài Gòn …gold" firms
+# (Minh Châu, Kim Lộc Phát, Kim Hảo, Ngân Hà) — see tests/test_sjc_brand_filter.py.
+brand_regex: 'SJC'
+spelling_variants:
+  - 'SJC'
+  - 'VÀNG SJC'
+  - 'VANG SJC'
+  - 'VÀNG BẠC ĐÁ QUÝ SÀI GÒN'
+  - 'VANG BAC DA QUY SAI GON'
+  - 'VÀNG BẠC ĐÁ QUÍ SÀI GÒN'
+  - 'VANG BAC DA QUI SAI GON'
+  - 'SJC JEWELRY'
+
+seed_parent_msts:
+  - '0301045759'
+
+default_store_type: 'SJC Store'
+
+classification:
+  # National cross-brand Id->date curve instead of sjc's own masothue calibration
+  # (suffix-axis capped at 'low' regardless of accuracy). See enrich.py GlobalDateInterpolator.
+  date_calibration_force_global: true
+  date_calibration_parent_mst: '0301045759'
+  date_calibration_min_date: '2010-01-01'
+  masothue_parent_url: 'https://masothue.com/0301045759-cong-ty-tnhh-mot-thanh-vien-vang-bac-da-quy-sai-gon-sjc'
+  corporate_keywords:
+    - 'VĂN PHÒNG'
+    - 'VPĐD'
+    - 'VP ĐẠI DIỆN'
+    - 'KHO '
+    - 'XÍ NGHIỆP'
+    - 'NHÀ MÁY'
+    - 'XƯỞNG CHẾ TÁC'
+    - 'XƯỞNG'
+    - 'XUONG'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'LOGISTICS'
+    - 'VĂN PHÒNG ĐẠI DIỆN'
+    - 'VAN PHONG'
+    - 'VP DAI DIEN'
+    - 'XUONG CHE TAC'
+    - 'TRUNG TAM PHAN PHOI'
+    - 'VAN PHONG DAI DIEN'
+  # Generic BHX-shaped schema_export defaults (CỬA HÀNG/KHO/ONLINE/FARM) don't
+  # recognize jewelry-sector vocabulary — SJC's own showroom formats span
+  # "TRUNG TÂM NỮ TRANG/TRANG SỨC/VÀNG BẠC/KIM HOÀN SJC", which fell into
+  # 'Other' without this override. Order matters: Warehouse/Services checked
+  # before Retail so 'TRUNG TÂM PHÂN PHỐI' (distribution center) and 'GIÁM
+  # ĐỊNH' (appraisal service, e.g. "TRUNG TÂM GIÁM ĐỊNH VÀNG BẠC ĐÁ QUÝ SJC")
+  # don't get swept into the broader retail-center match.
+  schema_export:
+    store_type_patterns:
+      - ['Warehouse', 'TRUNG TÂM PHÂN PHỐI|\bXƯỞNG\b|\bNHÀ MÁY\b|\bKHO\b']
+      - ['Services', 'GIÁM ĐỊNH']
+      - ['Retail', 'C[ỬU]A H[ÀA]NG|TRUNG TÂM (VÀNG BẠC|TRANG SỨC|KIM HOÀN|NỮ TRANG)']
+
+store_type_rules:
+  - ['ĐẠI LÝ|DAI LY', 'SJC Agent']
+  - ['TRUNG TÂM|CENTER', 'SJC Center']
+  - ['SỈ|WHOLESALE', 'SJC Wholesale']

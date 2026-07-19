@@ -1,0 +1,12 @@
+# Hapro foods — auto-generated from vn_retail_system.json (F&B / mini_supermarket)
+slug: hapro-foods
+name: Hapro foods
+brand_regex: 'HAPRO\s*(FOODS?|MART)'
+spelling_variants:
+  - 'HAPRO FOODS'
+  - 'HAPRO FOOD'
+  - 'HAPROMART'
+  - 'HAPRO MART'
+  - 'Hapro foods'
+seed_parent_msts: []
+default_store_type: Hapro foods

@@ -1,0 +1,15 @@
+slug: go
+name: Go!
+brand_regex: '\bGO\b|BIG\s*C|TOPS\s*MARKET|TOPSMARKET'
+spelling_variants:
+  - 'GO'
+  - 'BIG C'
+  - 'TOPS MARKET'
+  - 'BIGC'
+  - 'TOPSMARKET'
+seed_parent_msts:
+  - '0100956381' # Big C Thăng Long
+  - '3600258976' # Big C Đồng Nai
+  - '0301472278' # Big C An Lạc
+  - '0312467752' # Central Retail Corporation Vietnam
+default_store_type: Go!

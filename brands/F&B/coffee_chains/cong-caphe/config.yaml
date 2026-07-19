@@ -1,0 +1,10 @@
+# Cong Caphe — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: cong-caphe
+name: Cong Caphe
+brand_regex: Cong\ Caphe
+spelling_variants:
+- Cong Caphe
+- CONG CAPHE
+- cong caphe
+seed_parent_msts: []
+default_store_type: Cong Caphe

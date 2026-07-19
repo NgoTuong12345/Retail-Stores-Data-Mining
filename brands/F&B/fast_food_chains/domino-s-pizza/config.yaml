@@ -1,0 +1,10 @@
+# Domino's Pizza — auto-generated from vn_retail_system.json (F&B / fast_food_chains)
+slug: domino-s-pizza
+name: Domino's Pizza
+brand_regex: Domino's\ Pizza
+spelling_variants:
+- Domino's Pizza
+- DOMINO'S PIZZA
+- domino's pizza
+seed_parent_msts: []
+default_store_type: Domino's Pizza

@@ -1,0 +1,10 @@
+# Burger King — auto-generated from vn_retail_system.json (F&B / fast_food_chains)
+slug: burger-king
+name: Burger King
+brand_regex: Burger\ King
+spelling_variants:
+- Burger King
+- BURGER KING
+- burger king
+seed_parent_msts: []
+default_store_type: Burger King

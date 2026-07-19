@@ -1,0 +1,14 @@
+# SK Pharmacy — auto-generated from vn_retail_system.json (pharma / drug_stores)
+slug: sk-pharmacy
+name: SK Pharmacy
+brand_regex: 'SK\ Pharmacy|SK\ PHARMACY|Nhà\ thuốc\ SK|SK\ Plus|SK\ PLUS'
+spelling_variants:
+- SK Pharmacy
+- SK PHARMACY
+- sk pharmacy
+- Nhà thuốc SK
+- SK Plus
+seed_parent_msts:
+- '0314352355'
+default_store_type: SK Pharmacy
+

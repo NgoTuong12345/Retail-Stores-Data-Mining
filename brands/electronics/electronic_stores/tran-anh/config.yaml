@@ -1,0 +1,10 @@
+# Tran Anh — auto-generated from vn_retail_system.json (electronics / electronic_stores)
+slug: tran-anh
+name: Tran Anh
+brand_regex: Tran\ Anh
+spelling_variants:
+- Tran Anh
+- TRAN ANH
+- tran anh
+seed_parent_msts: []
+default_store_type: Tran Anh

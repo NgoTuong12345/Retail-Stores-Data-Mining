@@ -1,0 +1,10 @@
+# Beautygarden — auto-generated from vn_retail_system.json (cosmetic / cosmetic_stores)
+slug: beautygarden
+name: Beautygarden
+brand_regex: Beautygarden
+spelling_variants:
+- Beautygarden
+- BEAUTYGARDEN
+- beautygarden
+seed_parent_msts: []
+default_store_type: Beautygarden

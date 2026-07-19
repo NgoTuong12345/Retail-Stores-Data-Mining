@@ -1,0 +1,28 @@
+# Nhà thuốc An Khang — auto-generated from vn_retail_system.json (pharma / drug_stores)
+slug: nha-thuoc-an-khang
+name: Nhà thuốc An Khang
+brand_regex: Nhà\ thuốc\ An\ Khang|Nha\ thuoc\ An\ Khang|An\ Khang\ Pharma
+spelling_variants:
+- Nhà thuốc An Khang
+- NHÀ THUỐC AN KHANG
+- nhà thuốc an khang
+- Nha thuoc An Khang
+- NHA THUOC AN KHANG
+- nha thuoc an khang
+seed_parent_msts:
+- "0314587300"
+default_store_type: Nhà thuốc An Khang
+classification:
+  corporate_keywords:
+    - 'KHO'
+    - 'VĂN PHÒNG'
+    - 'VP'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'BẢO HÀNH'
+    - 'TRUNG TÂM ĐIỀU HÀNH'
+    - 'HỘI SỞ'
+  corporate_regexes:
+    - '^CHI NHÁNH CÔNG TY CỔ PHẦN DƯỢC PHẨM AN KHANG PHARMA TẠI [^-\n]*$'
+    - '^CHI NHÁNH [^-\n]* - CÔNG TY CỔ PHẦN DƯỢC PHẨM AN KHANG PHARMA$'
+    - '^CÔNG TY CỔ PHẦN DƯỢC PHẨM AN KHANG PHARMA - CHI NHÁNH [^-\n]*$'
+    - '^CÔNG TY CỔ PHẦN DƯỢC PHẨM AN KHANG PHARMA$'

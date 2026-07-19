@@ -1,0 +1,10 @@
+# Jollibee — auto-generated from vn_retail_system.json (F&B / fast_food_chains)
+slug: jollibee
+name: Jollibee
+brand_regex: Jollibee
+spelling_variants:
+- Jollibee
+- JOLLIBEE
+- jollibee
+seed_parent_msts: []
+default_store_type: Jollibee

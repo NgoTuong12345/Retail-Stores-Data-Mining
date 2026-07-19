@@ -1,0 +1,10 @@
+# Al Fresco's — auto-generated from vn_retail_system.json (F&B / food_chain)
+slug: al-fresco-s
+name: Al Fresco's
+brand_regex: Al\ Fresco's
+spelling_variants:
+- Al Fresco's
+- AL FRESCO'S
+- al fresco's
+seed_parent_msts: []
+default_store_type: Al Fresco's

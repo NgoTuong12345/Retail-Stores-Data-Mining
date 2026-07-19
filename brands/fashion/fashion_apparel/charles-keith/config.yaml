@@ -1,0 +1,10 @@
+# Charles & Keith — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: charles-keith
+name: Charles & Keith
+brand_regex: Charles\ \&\ Keith
+spelling_variants:
+- Charles & Keith
+- CHARLES & KEITH
+- charles & keith
+seed_parent_msts: []
+default_store_type: Charles & Keith

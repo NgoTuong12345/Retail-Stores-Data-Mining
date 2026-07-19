@@ -1,0 +1,13 @@
+# Kafa Café — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: kafa-cafe
+name: Kafa Café
+brand_regex: Kafa\ Café|Kafa\ Cafe
+spelling_variants:
+- Kafa Café
+- KAFA CAFÉ
+- kafa café
+- Kafa Cafe
+- KAFA CAFE
+- kafa cafe
+seed_parent_msts: []
+default_store_type: Kafa Café

@@ -1,0 +1,22 @@
+# Thế giới di động (TGDĐ) — auto-generated from vn_retail_system.json (electronics / electronic_stores)
+slug: the-gioi-di-dong-tgdd
+name: Thế giới di động (TGDĐ)
+brand_regex: 'Thế\ giới\ di\ động|The\ gioi\ di\ dong|Thế\ Giới\ Di\ Động|TGDĐ|TGDD|Điện\ Máy\ Xanh|Dien\ May\ Xanh|ĐMX|DMX'
+spelling_variants:
+- Thế giới di động
+- The gioi di dong
+seed_parent_msts:
+- '0303217354'
+default_store_type: Thế giới di động (TGDĐ)
+classification:
+  corporate_keywords:
+    - 'KHO'
+    - 'VĂN PHÒNG'
+    - 'VP'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'BẢO HÀNH'
+    - 'TRUNG TÂM ĐIỀU HÀNH'
+    - 'HỘI SỞ'
+  corporate_regexes:
+    - '^CÔNG TY CỔ PHẦN THẾ GIỚI DI ĐỘNG$'
+    - '^CÔNG TY CỔ PHẦN ĐẦU TƯ THẾ GIỚI DI ĐỘNG$'

@@ -1,0 +1,10 @@
+# Thai Express — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: thai-express
+name: Thai Express
+brand_regex: Thai\ Express
+spelling_variants:
+- Thai Express
+- THAI EXPRESS
+- thai express
+seed_parent_msts: []
+default_store_type: Thai Express

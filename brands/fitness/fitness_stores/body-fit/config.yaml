@@ -1,0 +1,10 @@
+# Body fit — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: body-fit
+name: Body fit
+brand_regex: Body\ fit
+spelling_variants:
+- Body fit
+- BODY FIT
+- body fit
+seed_parent_msts: []
+default_store_type: Body fit

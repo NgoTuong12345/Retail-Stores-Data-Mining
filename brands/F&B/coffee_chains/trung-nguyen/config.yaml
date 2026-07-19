@@ -1,0 +1,10 @@
+# Trung Nguyen — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: trung-nguyen
+name: Trung Nguyen
+brand_regex: Trung\ Nguyen
+spelling_variants:
+- Trung Nguyen
+- TRUNG NGUYEN
+- trung nguyen
+seed_parent_msts: []
+default_store_type: Trung Nguyen

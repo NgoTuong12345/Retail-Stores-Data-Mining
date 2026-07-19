@@ -1,0 +1,40 @@
+# Circle K — auto-generated from vn_retail_system.json (F&B / convenience_stores)
+slug: circle-k
+name: Circle K
+brand_regex: Circle\ K|VÒNG TRÒN ĐỎ|VONG TRON DO
+spelling_variants:
+- Circle K
+- CIRCLE K
+- circle k
+- VÒNG TRÒN ĐỎ
+- VONG TRON DO
+seed_parent_msts:
+- '0306182043'
+default_store_type: Circle K
+
+# ── Post-scrape classification rules ──────────────────────────────
+classification:
+  # National cross-brand Id->date curve instead of circle-k's own masothue calibration
+  # (suffix-axis capped at 'low' regardless of accuracy). See enrich.py GlobalDateInterpolator.
+  date_calibration_force_global: true
+  corporate_keywords:
+    - 'VĂN PHÒNG'
+    - 'VPĐD'
+    - 'VP ĐẠI DIỆN'
+    - 'VĂN PHÒNG ĐẠI DIỆN'
+    - 'BĐS'
+    - 'BẤT ĐỘNG SẢN'
+  operating_status:
+    enabled: true
+    sources: [locator, gdt]   # reserved: not yet enforced by the resolver
+
+# ── Backtest reference counts ─────────────────────────────────────
+backtest:
+  report_label: "Circle K Website"
+  expected_total: 502
+  expected_by_format:
+    Circle K: 502
+  expected_by_region:
+    North: 154
+    Central: 0
+    South: 348

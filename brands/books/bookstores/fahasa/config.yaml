@@ -1,0 +1,10 @@
+# Fahasa — auto-generated from vn_retail_system.json (books / bookstores)
+slug: fahasa
+name: Fahasa
+brand_regex: Fahasa
+spelling_variants:
+- Fahasa
+- FAHASA
+- fahasa
+seed_parent_msts: []
+default_store_type: Fahasa

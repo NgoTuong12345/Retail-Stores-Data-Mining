@@ -1,0 +1,99 @@
+slug: winmart
+name: WinMart
+brand_regex: 'WIN\s*MART|VIN\s*MART|WINMART|VINMART|WINCOMMERCE|VINCOMMERCE'
+spelling_variants:
+  - 'WINMART'
+  - 'VINMART'
+  - 'WIN MART'
+  - 'VIN MART'
+  - 'WINCOMMERCE'
+  - 'VINCOMMERCE'
+seed_parent_msts:
+  - '0104918404'
+  - '0107078094'
+  - '0310563034'
+default_store_type: 'WinMart'
+
+# ── Post-scrape classification rules ──────────────────────────────
+classification:
+  # Parent entity status mapping
+  # Maps parent MST → GDT tax status string
+  entity_status:
+    '0104918404': 'NNT đang hoạt động'
+    '0107078094': 'NNT ngừng HĐ nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực MST'
+    '0310563034': 'NNT không hoạt động tại địa chỉ đã đăng ký'
+
+  # Corporate / non-store keywords in Name field
+  corporate_keywords:
+    - 'KHO '
+    - 'VĂN PHÒNG'
+    - 'VPĐD'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'LOGISTICS'
+    - 'VP ĐẠI DIỆN'
+    - 'TRẠM TRUNG CHUYỂN'
+    - 'VĂN PHÒNG ĐẠI DIỆN'
+
+  # GDT codes that are corporate HQ registrations (not stores)
+  corporate_gdt_codes:
+    - '0104918404'
+    - '0107078094'
+    - '0310563034'
+
+  # Rural address keywords (Vietnamese)
+  rural_keywords:
+    - 'XÃ'
+    - 'ẤP'
+    - 'THÔN'
+    - 'BẢN'
+    - 'COMMUNE'
+    - 'HAMLET'
+    - 'HUYỆN'
+    - 'HUYEN'
+
+  # WiN format launch date — stores registered after this date in urban areas are WiN
+  win_launch_date: '2022-09-01'
+
+  # Active supermarket cap — number of most-recently-registered supermarkets
+  # that are still commercially operating (from MSN investor report)
+  active_supermarket_cap: 130
+
+  # MSN report format names mapping
+  msn_format_map:
+    'WiN (Urban - All You Need)': 'WiN'
+    'WinMart+ Thanh thi (Urban)': 'WM+ Thanh thi'
+    'WinMart+ Nong thon (Rural)': 'WM+ Nong thon'
+    'WinMart (Supermarket)': 'WMT Sieu thi'
+    'WinMart (Supermarket/Closed)': 'WMT Sieu thi (Commercially Closed / Warehouse)'
+
+  # Province abbreviation queries for high-branch sweep
+  # These are branch abbreviations for provinces added after initial scrape
+  province_sweep_queries:
+    - 'WINMART+ HGG'
+    - 'WINMART+ LCU'
+    - 'WINMART+ BPC'
+    - 'WINMART+ BKN'
+    - 'WINMART+ CB'
+    - 'WINMART+ ĐBN'
+    - 'WINMART+ DBN'
+    - 'WINMART+ LCI'
+
+  # Date interpolation settings
+  # Use the cross-brand national DKKD Id→date curve instead of winmart's own
+  # per-MST masothue calibration (see build_global_id_date_model in enrich.py).
+  date_calibration_force_global: true
+  date_calibration_parent_mst: '0104918404'
+  date_calibration_min_date: '2010-06-21'
+
+  # masothue.com URL pattern for branch date lookup
+  masothue_parent_url: 'https://masothue.com/0104918404-cong-ty-co-phan-dich-vu-thuong-mai-tong-hop-wincommerce'
+  masothue_num_samples: 25
+
+backtest:
+  report_label: "User-reported 2026-07-02"
+  expected_total: 5167
+  expected_by_format:
+    "WiN": 766
+    "WMT Sieu thi": 132
+  # WinMart+ combined (Thanh thi + Nong thon) = 4269 per user report; no
+  # urban/rural split was provided for this reconciliation point.

@@ -1,0 +1,10 @@
+# Couple TX — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: couple-tx
+name: Couple TX
+brand_regex: Couple\ TX
+spelling_variants:
+- Couple TX
+- COUPLE TX
+- couple tx
+seed_parent_msts: []
+default_store_type: Couple TX

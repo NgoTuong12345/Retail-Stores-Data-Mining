@@ -1,0 +1,10 @@
+# IVY Moda — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: ivy-moda
+name: IVY Moda
+brand_regex: IVY\ Moda
+spelling_variants:
+- IVY Moda
+- IVY MODA
+- ivy moda
+seed_parent_msts: []
+default_store_type: IVY Moda

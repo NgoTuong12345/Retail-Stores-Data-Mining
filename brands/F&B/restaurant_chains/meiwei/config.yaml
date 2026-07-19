@@ -1,0 +1,10 @@
+# Meiwei — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: meiwei
+name: Meiwei
+brand_regex: Meiwei
+spelling_variants:
+- Meiwei
+- MEIWEI
+- meiwei
+seed_parent_msts: []
+default_store_type: Meiwei

@@ -1,0 +1,12 @@
+# Soi Bien — auto-generated from vn_retail_system.json (F&B / mini_supermarket)
+slug: soi-bien
+name: Soi Bien
+brand_regex: 'SÓI BIỂN|SÓI BIÊN|SÓI BIEN|SOI BIEN'
+spelling_variants:
+  - 'SÓI BIỂN'
+  - 'Sói Biển'
+  - 'SOI BIEN'
+  - 'Soi Bien'
+  - 'soi bien'
+seed_parent_msts: []
+default_store_type: Soi Bien

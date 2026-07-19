@@ -1,0 +1,50698 @@
+# Quyết định 124/2004/QĐ-TTg - Về việc ban hành bảng danh mục và mã số các đơn vị hành chính Việt Nam
+
+> Nguồn: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-124-2004-QD-TTg-bang-danh-muc-ma-so-don-vi-hanh-chinh-Viet-Nam-52328.aspx
+> Retrieved 2026-07-06. Ban hành 2004-08-07. Chuẩn mã hành chính của Tổng cục Thống kê (GSO) — CHỈ THAM KHẢO ĐỐI CHIẾU: CLAUDE.md đã ghi rõ City_Id/District_Id/Ward_Id của DKKD là khóa nội bộ NBRP, KHÔNG PHẢI mã GSO này. Tài liệu này lớn (danh mục đầy đủ mọi xã/phường/huyện/tỉnh tính đến 2004) và đã lỗi thời sau cải cách 2025 (bãi bỏ cấp huyện, sáp nhập tỉnh/xã) — chỉ dùng để hiểu khái niệm mã hành chính phân cấp, không dùng làm nguồn tra cứu hiện hành.
+
+**THỦ TƯỚNG CHÍNH PHỦ
+
+--------**
+
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+---------------**
+
+Số: 124/2004/QĐ-TTg
+
+Hà Nội, ngày 08 tháng 07 năm 2004
+
+
+
+**QUYẾT ĐỊNH**
+
+VỀ VIỆC BAN HÀNH BẢNG DANH MỤC VÀ MÃ
+SỐ CÁC ĐƠN VỊ HÀNH CHÍNH VIỆT NAM.
+
+**THỦ TƯỚNG CHÍNH PHỦ**
+
+Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+
+Căn cứ Luật Thống kê ngày 26 tháng 6 năm 2003;
+
+Căn cứ Nghị định số 40/2004/NĐ-CP ngày 13 tháng 02 năm 2004
+của Chính phủ về quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thống
+kê;
+
+Theo đề nghị của Tổng cục trưởng Tổng cục Thống kê,
+
+**QUYẾT ĐỊNH:**
+
+**Điều 1.** Ban hành kèm theo Quyết định này
+Bảng danh mục và mã số các đơn vị hành chính Việt Nam có đến ngày 30 tháng 6
+năm 2004 để thực hiện thống nhất trong cả nước.
+
+Mã số cấp cho một đơn vị hành chính là số định danh duy
+nhất, không thay đổi trong suốt quá trình đơn vị hành chính đó tồn tại thực tế.
+Khi có thay đổi, mã số được cấp theo nguyên tắc sau:
+
+**a) Đối với cấp tỉnh:**
+
+- Trường hợp tách tỉnh:
+
++ Tỉnh có trụ sở Ủy ban nhân dân đóng trên địa điểm cũ thì
+mã số đơn vị hành chính cấp tỉnh, cấp huyện và cấp xã không thay đổi.
+
++ Tỉnh có trụ sở Ủy ban nhân dân đóng trên địa điểm mới được
+xếp vào vị trí phù hợp và cấp mã mới. Mã số đơn vị hành chính cấp huyện, cấp xã
+thuộc tỉnh đó không thay đổi.
+
+- Trường hợp nhập tỉnh:
+
++ Tỉnh hợp nhất có trụ sở Ủy ban nhân dân đóng tại tỉnh nào
+thì mang mã số của tỉnh đó, mã số của tỉnh còn lại sẽ bị đóng và không cấp lại
+cho đơn vị hành chính khác. Mã số cấp huyện và cấp xã của tỉnh hợp nhất không
+thay đổi.
+
+**b) Đối với cấp huyện:**
+
+- Trường hợp tách huyện:
+
++ Huyện có trụ sở Ủy ban nhân dân đóng trên địa điểm cũ có
+mã số cấp huyện, cấp xã không thay đổi.
+
++ Huyện có trụ sở Ủy ban nhân dân đóng trên địa điểm mới
+được xếp vào vị trí phù hợp và cấp mã mới, mã số đơn vị hành chính cấp xã thuộc
+huyện đó không thay đổi.
+
+- Trường hợp nhập huyện:
+
++ Huyện có trụ sở Ủy ban nhân dân đóng tại huyện cũ nào thì
+mang mã số của huyện đó, mã số còn lại sẽ bị đóng và không cấp lại cho các đơn
+vị hành chính khác. Mã số của đơn vị hành chính cấp xã thuộc huyện hợp nhất
+không thay đổi.
+
+- Trường hợp đơn vị hành chính cấp huyện chuyển tỉnh thì mã
+số đơn vị hành chính cấp huyện, cấp xã không thay đổi.
+
+**c) Đối với cấp xã:**
+
+- Trường hợp tách xã
+
++ Xã có trụ sở Ủy ban nhân dân đóng trên địa điểm cũ thì
+mang mã số cũ.
+
++ Xã có trụ sở Ủy ban nhân dân đóng trên địa điểm mới được
+xếp vào vị trí phù hợp và cấp mã số mới.
+
+- Trường hợp nhập xã:
+
+ Xã hợp nhất có trụ sở Ủy ban nhân dân đóng tại xã nào thì
+mang mã số của xã đó, mã số của xã còn lại bị đóng và không cấp lại cho đơn vị
+hành chính khác.
+
+- Trường hợp đơn vị hành chính cấp xã chuyển huyện thì mã số
+của đơn vị hành chính cấp xã đó không thay đổi.
+
+**d)**
+Trường hợp đơn vị hành chính các cấp đổi tên, chuyển từ khu vực nông thôn sang
+thành thị hoặc ngược lại thì mã số không thay đổi.
+
+**Điều 2.** Giao Tổng cục Thống kê:
+
+- Quản lý, sắp xếp và cấp mã số mới cho đơn vị hành chính
+các cấp khi có thay đổi.
+
+- Hướng dẫn các Bộ, ngành, cơ quan thực hiện theo đúng quy
+định của Quyết định này.
+
+**Điều 3.** Quyết định này có hiệu lực thi hành
+sau 30 ngày, kể từ ngày đăng Công báo. Các văn bản trước đây trái với Quyết
+định này đều bãi bỏ.
+
+**Điều 4.** Các Bộ trưởng, Thủ trưởng cơ quan
+ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các
+tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này.
+
+
+
+** **
+
+**THỦ TƯỚNG CHÍNH PHỦ
+
+Phan Văn Khải**
+
+
+
+**BẢNG DANH MỤC VÀ MÃ SỐ CÁC ĐƠN VỊ
+HÀNH CHÍNH VIỆT NAM**
+
+(Ban hành kèm theo Quyết định số
+124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ)
+
+**Phần I**
+
+QUY ĐỊNH CHUNG
+
+**1. Nguyên tắc mã h****óa**
+
+Mã
+số đơn vị hành chính là một dãy số được quy định cho từng đơn vị theo nguyên
+tắc thống nhất, là số định danh duy nhất, không thay đổi, ổn định trong suốt
+quá trình một đơn vị hành chính tồn tại thực tế. Mã số đã cấp không được sử
+dụng để cấp lại cho đơn vị hành chính khác cùng cấp.
+
+**2. Cấu trúc mã số đơn vị hành chính**
+
+Mã
+số đơn vị hành chính gồm 10 số, được phân làm 3 cấp độc lập, mỗi cấp có mã số
+mở để cấp mã số mới cho đơn vị hành chính khi thay đổi. Cụ thể:
+
++
+Cấp tỉnh được mã hóa bằng 2 chữ số từ 01 đến 99;
+
++
+Cấp huyện được mã hóa bằng 3 chữ số từ 001 đến
+999;
+
++
+Cấp xã được mã hóa bằng
+5 chữ số từ 00001 đến 99999.
+
+**3. Nguyên tắc sắp xếp đơn vị hành chính khi mã h****óa**
+
+Đơn
+vị hành chính được xếp theo thứ tự Bắc - Nam, Tây - Đông, lấy đường ranh giới ở
+điểm địa đầu và có kết hợp với vùng địa lý của từng cấp làm căn cứ xác định.
+Trong phạm vi cả nước, thành phố Hà Nội được xếp thứ nhất, các tỉnh thành phố
+còn lại được xếp theo nguyên tắc trên. Trong phạm vi cấp tỉnh và cấp huyện, đơn
+vị hành chính có trụ sở Ủy ban nhân dân được xếp thứ
+nhất, các đơn vị hành chính còn lại được xếp theo thứ tự thành thị trước, nông
+thôn sau, từ Bắc xuống Nam, từ Tây sang Đông.
+
+**4. Nguyên tắc mã h****óa**** và sắp xếp đơn vị hành chính khi có thay đổi**
+
+**4.1. Đối với cấp tỉnh:**
+
+-
+Trường hợp tách tỉnh:
+
++
+Tỉnh có trụ sở Ủy ban nhân dân đóng trên địa
+điểm cũ thì không thay đổi mã số, đơn vị hành chính cấp huyện, cấp xã cũng
+không thay đổi mã số.
+
++
+Tỉnh có trụ sở Ủy ban nhân dân đóng trên địa
+điểm mới được xếp vào vị trí phù hợp và cấp mã mới. Mã số đơn vị hành chính cấp
+huyện, cấp xã thuộc tỉnh đó không thay đổi.
+
+-
+Trường hợp nhập tỉnh:
+
++
+Tỉnh hợp nhất có trụ sở Ủy ban nhân dân đóng tại tỉnh
+nào thì mang mã số của tỉnh đó, mã số của tỉnh còn lại sẽ bị đóng và không cấp
+lại cho đơn vị hành chính khác. Mã số cấp huyện và cấp xã của tỉnh hợp nhất
+không thay đổi.
+
+**4.2. Đối với cấp huyên:**
+
+-
+Trường hợp tách huyện:
+
++
+Huyện có trụ sở Ủy ban nhân dân đóng trên địa
+điểm cũ có mã số cấp huyện, cấp xã không thay đổi.
+
++
+Huyện có trụ sở Ủy ban nhân dân đóng trên địa
+điểm mới được xếp vào vị trí phù hợp của tỉnh đó và được cấp mã mới. Mã số đơn
+vị hành chính cấp xã của huyện đó không thay đổi.
+
+-
+Trường hợp nhập huyện:
+
++
+Huyện hợp nhất có trụ sở Ủy ban nhân dân đóng tại huyện
+cũ nào thì mang mã số của huyện đó, mã số của huyện còn lại sẽ bị đóng và không
+cấp lại cho đơn vị hành chính khác. Mã số của đơn vị hành chính cấp xã thuộc
+huyện hợp nhất không thay đổi.
+
+-
+Trường hợp đơn vị hành chính cấp huyện chuyển tỉnh thì mã số đơn vị hành chính
+cấp huyện, cấp xã không thay đổi.
+
+**4.3. Đối với cấp xã:**
+
+-
+Trường hợp tách xã:
+
++
+Xã có trụ sở Ủy ban nhân dân đóng trên địa
+điểm cũ thì mang mã số cũ.
+
++
+Xã có trụ sở Ủy ban nhân dân đóng trên địa
+điểm mới được xếp vào vị trí phù hợp và cấp mã số mới.
+
+-
+Trường hợp nhập xã:
+
+Xã
+hợp nhất có trụ sở Ủy ban nhân dân đóng tại xã
+nào thì mang mã số của xã đó, mã số của xã còn lại bị đóng và không cấp lại cho
+đơn vị hành chính khác.
+
+-
+Trường hợp đơn vị hành chính cấp xã chuyển huyện thì mã số của đơn vị hành
+chính cấp xã đó không thay đổi.
+
+**4.4. Một số trường hợp khác**
+
+Trường
+hợp đơn vị hành chính các cấp đổi tên, chuyển từ khu vực nông thôn sang thành
+thị hoặc ngược lại thì mã số không thay đổi.
+
+**5. Quản lý và thông báo mã số đơn vị hành chính**
+
+Thủ
+tướng Chính phủ ban hành bảng Danh mục và mã số các đơn vị hành chính. Tổng cục
+Thống kê có trách nhiệm quản lý hệ thống mã số đơn vị hành chính các cấp trong
+cả nước.
+
+-
+Căn cứ vào Nghị quyết của Quốc hội và Nghị định của Chính phủ về việc thay đổi
+đơn vị hành chính, Tổng cục Thống kê có trách nhiệm sắp xếp, đóng mã số, cấp mã
+số đơn vị hành chính các cấp và thông báo kịp thời cho các đơn vị trong toàn
+quốc để thống nhất sử dụng.
+
+II. DANH MỤC VÀ MÃ SỐ CÁC TỈNH,
+THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG
+
+**Số thứ tự**
+
+**Mã số**
+
+**Tên đơn vị hành chính**
+
+**No**
+
+**Code**
+
+**Name of the Administrative
+Divisions**
+
+1
+
+01
+
+Thành phố Hà Nội
+
+2
+
+02
+
+Tỉnh Hà Giang
+
+3
+
+04
+
+Tỉnh Cao Bằng
+
+4
+
+06
+
+Tỉnh Bắc Kạn
+
+5
+
+08
+
+Tỉnh Tuyên Quang
+
+6
+
+10
+
+Tỉnh Lào Cai
+
+7
+
+11
+
+Tỉnh Điện Biên
+
+8
+
+12
+
+Tỉnh Lai Châu
+
+9
+
+14
+
+Tỉnh Sơn La
+
+10
+
+15
+
+Tỉnh Yên Bái
+
+11
+
+17
+
+Tỉnh Hòa Bình
+
+12
+
+19
+
+Tỉnh Thái Nguyên
+
+13
+
+20
+
+Tỉnh Lạng Sơn
+
+14
+
+22
+
+Tỉnh Quảng Ninh
+
+15
+
+24
+
+Tỉnh Bắc Giang
+
+16
+
+25
+
+Tỉnh Phú Thọ
+
+17
+
+26
+
+Tỉnh Vĩnh Phúc
+
+18
+
+27
+
+Tỉnh Bắc Ninh
+
+19
+
+28
+
+Tỉnh Hà Tây
+
+20
+
+30
+
+Tỉnh Hải Dương
+
+21
+
+31
+
+Thành phố Hải Phòng
+
+22
+
+33
+
+Tỉnh H­ưng Yên
+
+23
+
+34
+
+Tỉnh Thái Bình
+
+24
+
+35
+
+Tỉnh Hà Nam
+
+25
+
+36
+
+Tỉnh Nam Định
+
+26
+
+37
+
+Tỉnh Ninh Bình
+
+27
+
+38
+
+Tỉnh Thanh Hóa
+
+28
+
+40
+
+Tỉnh Nghệ An
+
+29
+
+42
+
+Tỉnh Hà Tĩnh
+
+30
+
+44
+
+Tỉnh Quảng Bình
+
+31
+
+45
+
+Tỉnh Quảng Trị
+
+32
+
+46
+
+Tỉnh Thừa Thiên Huế
+
+33
+
+48
+
+Thành phố Đà Nẵng
+
+34
+
+49
+
+Tỉnh Quảng Nam
+
+35
+
+51
+
+Tỉnh Quảng Ngãi
+
+36
+
+52
+
+Tỉnh Bình Định
+
+37
+
+54
+
+Tỉnh Phú Yên
+
+38
+
+56
+
+Tỉnh Khánh Hòa
+
+39
+
+58
+
+Tỉnh Ninh Thuận
+
+40
+
+60
+
+Tỉnh Bình Thuận
+
+41
+
+62
+
+Tỉnh Kon Tum
+
+42
+
+64
+
+Tỉnh Gia Lai
+
+43
+
+66
+
+Tỉnh Đăk Lăk
+
+44
+
+67
+
+Tỉnh Đăk Nông
+
+45
+
+68
+
+Tỉnh Lâm Đồng
+
+46
+
+70
+
+Tỉnh Bình Phước
+
+47
+
+72
+
+Tỉnh Tây Ninh
+
+48
+
+74
+
+Tỉnh Bình Dương
+
+49
+
+75
+
+Tỉnh Đồng Nai
+
+50
+
+77
+
+Tỉnh Bà Rịa - Vũng Tàu
+
+51
+
+79
+
+TP. Hồ Chí Minh
+
+52
+
+80
+
+Tỉnh Long An
+
+53
+
+82
+
+Tỉnh Tiền Giang
+
+54
+
+83
+
+Tỉnh Bến Tre
+
+55
+
+84
+
+Tỉnh Trà Vinh
+
+56
+
+86
+
+Tỉnh Vĩnh Long
+
+57
+
+87
+
+Tỉnh Đồng Tháp
+
+58
+
+89
+
+Tỉnh An Giang
+
+59
+
+91
+
+Tỉnh Kiên Giang
+
+60
+
+92
+
+Thành phố Cần Thơ
+
+61
+
+93
+
+Tỉnh Hậu Giang
+
+62
+
+94
+
+Tỉnh Sóc Trăng
+
+63
+
+95
+
+Tỉnh Bạc Liêu
+
+64
+
+96
+
+Tỉnh Cà Mau
+
+III. DANH MỤC VÀ MÃ SỐ CÁC HUYỆN,
+QUẬN, THỊ XÃ, THÀNH PHỐ TRỰC THUỘC TỈNH
+
+**Mã số**
+
+**Tên đơn vị hành chính**
+
+**Code**
+
+**Name of the Administrative
+Divisions**
+
+1
+
+2
+
+**01. Thành phố Hà Nội**
+
+(9 quận, 5 huyện)
+
+001
+
+Quận Ba Đình
+
+002
+
+Quận Hoàn Kiếm
+
+003
+
+Quận Tây Hồ
+
+004
+
+Quận Long Biên
+
+005
+
+Quận Cầu Giấy
+
+006
+
+Quận Đống Đa
+
+007
+
+Quận Hai Bà Trư­ng
+
+008
+
+Quận Hoàng Mai
+
+009
+
+Quận Thanh Xuân
+
+016
+
+Huyện Sóc Sơn
+
+017
+
+Huyện Đông Anh
+
+018
+
+Huyện Gia Lâm
+
+019
+
+Huyện Từ Liêm
+
+020
+
+Huyện Thanh Trì
+
+**02. Tỉnh Hà Giang**
+
+(1 thị xã, 10 huyện)
+
+024
+
+Thị xã Hà Giang
+
+026
+
+Huyện Đồng Văn
+
+027
+
+Huyện Mèo Vạc
+
+028
+
+Huyện Yên Minh
+
+029
+
+Huyện Quản Bạ
+
+030
+
+Huyện Vị Xuyên
+
+031
+
+Huyện Bắc Mê
+
+032
+
+Huyện Hoàng Su Phì
+
+033
+
+Huyện Xín Mần
+
+034
+
+Huyện Bắc Quang
+
+035
+
+Huyện Quang Bình
+
+**04. Tỉnh Cao Bằng**
+
+(1 thị xã, 12 huyện)
+
+040
+
+Thị xã Cao Bằng
+
+042
+
+Huyện Bảo Lâm
+
+043
+
+Huyện Bảo Lạc
+
+044
+
+Huyện Thông Nông
+
+045
+
+Huyện Hà Quảng
+
+046
+
+Huyện Trà Lĩnh
+
+047
+
+Huyện Trùng Khánh
+
+048
+
+Huyện Hạ Lang
+
+049
+
+Huyện Quảng Uyên
+
+050
+
+Huyện Phục Hòa
+
+051
+
+Huyện Hòa An
+
+052
+
+Huyện Nguyên Bình
+
+053
+
+Huyện Thạch An
+
+**06. Tỉnh Bắc Kạn**
+
+(1 thị xã, 7 huyện)
+
+058
+
+Thị xã Bắc Kạn
+
+060
+
+Huyện Pác Nặm
+
+061
+
+Huyện Ba Bể
+
+062
+
+Huyện Ngân Sơn
+
+063
+
+Huyện Bạch Thông
+
+064
+
+Huyện Chợ Đồn
+
+065
+
+Huyện Chợ Mới
+
+066
+
+Huyện Na Rì
+
+**08. Tỉnh Tuyên Quang**
+
+(1 thị xã, 5 huyện)
+
+070
+
+Thị xã Tuyên Quang
+
+072
+
+Huyện Nà Hang
+
+073
+
+Huyện Chiêm Hóa
+
+074
+
+Huyện Hàm Yên
+
+075
+
+Huyện Yên Sơn
+
+076
+
+Huyện Sơn Dương
+
+**10. Tỉnh Lào Cai**
+
+(1 thị xã, 8 huyện)
+
+080
+
+Thị xã Lào Cai
+
+082
+
+Huyện Bát Xát
+
+083
+
+Huyện Mường Khương
+
+084
+
+Huyện Si Ma Cai
+
+085
+
+Huyện Bắc Hà
+
+086
+
+Huyện Bảo Thắng
+
+087
+
+Huyện Bảo Yên
+
+088
+
+Huyện Sa Pa
+
+089
+
+Huyện Văn Bàn
+
+**11. Tỉnh Điện Biên**
+
+(1 thành phố, 1 thị xã, 6 huyện)
+
+094
+
+Thành phố Điện Biên Phủ
+
+095
+
+Thị xã Lai Châu
+
+096
+
+Huyện Mường Nhé
+
+097
+
+Huyện Mường Lay
+
+098
+
+Huyện Tủa Chùa
+
+099
+
+Huyện Tuần Giáo
+
+100
+
+Huyện Điện Biên
+
+101
+
+Huyện Điện Biên Đông
+
+**12. Tỉnh Lai Châu**
+
+(5 huyện)
+
+106
+
+Huyện Tam Đường
+
+107
+
+Huyện Mường Tè
+
+108
+
+Huyện Sìn Hồ
+
+109
+
+Huyện Phong Thổ
+
+110
+
+Huyện Than Uyên
+
+**14. Tỉnh Sơn La**
+
+(1 thị xã, 10 huyện)
+
+116
+
+Thị xã Sơn La
+
+118
+
+Huyện Quỳnh Nhai
+
+119
+
+Huyện Thuận Châu
+
+120
+
+Huyện Mường La
+
+121
+
+Huyện Bắc Yên
+
+122
+
+Huyện Phù Yên
+
+123
+
+Huyện Mộc Châu
+
+124
+
+Huyện Yên Châu
+
+125
+
+Huyện Mai Sơn
+
+126
+
+Huyện Sông Mã
+
+127
+
+Huyện Sốp Cộp
+
+**15. Tỉnh Yên Bái**
+
+(1 thành phố, 1 thị xã, 7 huyện)
+
+132
+
+Thành phố Yên Bái
+
+133
+
+Thị xã Nghĩa Lộ
+
+135
+
+Huyện Lục Yên
+
+136
+
+Huyện Văn Yên
+
+137
+
+Huyện Mù Căng Chải
+
+138
+
+Huyện Trấn Yên
+
+139
+
+Huyện Trạm Tấu
+
+140
+
+Huyện Văn Chấn
+
+141
+
+Huyện Yên Bình
+
+**17. Tỉnh Hòa Bình**
+
+(1 thị xã, 10 huyện)
+
+148
+
+Thị xã Hòa Bình
+
+150
+
+Huyện Đà Bắc
+
+151
+
+Huyện Kỳ Sơn
+
+152
+
+Huyện Lương Sơn
+
+153
+
+Huyện Kim Bôi
+
+154
+
+Huyện Cao Phong
+
+155
+
+Huyện Tân Lạc
+
+156
+
+Huyện Mai Châu
+
+157
+
+Huyện Lạc Sơn
+
+158
+
+Huyện Yên Thủy
+
+159
+
+Huyện Lạc Thủy
+
+**19. Tỉnh Thái Nguyên**
+
+(1 thành phố, 1 thị xã, 7 huyện)
+
+164
+
+Thành phố Thái Nguyên
+
+165
+
+Thị xã Sông Công
+
+167
+
+Huyện Định Hóa
+
+168
+
+Huyện Phú Lương
+
+169
+
+Huyện Đồng Hỷ
+
+170
+
+Huyện Võ Nhai
+
+171
+
+Huyện Đại Từ
+
+172
+
+Huyện Phổ Yên
+
+173
+
+Huyện Phú Bình
+
+**20. Tỉnh Lạng Sơn**
+
+(1 thành phố, 10 huyện)
+
+178
+
+Thành phố Lạng Sơn
+
+180
+
+Huyện Tràng Định
+
+181
+
+Huyện Bình Gia
+
+182
+
+Huyện Văn Lãng
+
+183
+
+Huyện Cao Lộc
+
+184
+
+Huyện Văn Quan
+
+185
+
+Huyện Bắc Sơn
+
+186
+
+Huyện Hữu Lũng
+
+187
+
+Huyện Chi Lăng
+
+188
+
+Huyện Lộc Bình
+
+189
+
+Huyện Đình Lập
+
+**22. Tỉnh Quảng Ninh**
+
+(1 thành phố, 3 thị xã, 10 huyện)
+
+193
+
+Thành phố Hạ Long
+
+194
+
+Thị xã Móng Cái
+
+195
+
+Thị xã Cẩm Phả
+
+196
+
+Thị xã Uông Bí
+
+198
+
+Huyện Bình Liêu
+
+199
+
+Huyện Tiên Yên
+
+200
+
+Huyện Đầm Hà
+
+201
+
+Huyện Hải Hà
+
+202
+
+Huyện Ba Chẽ
+
+203
+
+Huyện Vân Đồn
+
+204
+
+Huyện Hoành Bồ
+
+205
+
+Huyện Đông Triều
+
+206
+
+Huyện Yên Hư­ng
+
+207
+
+Huyện Cô Tô
+
+**24. Tỉnh Bắc Giang**
+
+(1 thị xã, 9 huyện)
+
+213
+
+Thị xã Bắc Giang
+
+215
+
+Huyện Yên Thế
+
+216
+
+Huyện Tân Yên
+
+217
+
+Huyện Lạng Giang
+
+218
+
+Huyện Lục Nam
+
+219
+
+Huyện Lục Ngạn
+
+220
+
+Huyện Sơn Động
+
+221
+
+Huyện Yên Dũng
+
+222
+
+Huyện Việt Yên
+
+223
+
+Huyện Hiệp Hòa
+
+**25. Tỉnh Phú Thọ**
+
+(1 thành phố, 1 thị xã, 10 huyện)
+
+227
+
+Thành phố Việt Trì
+
+228
+
+Thị xã Phú Thọ
+
+230
+
+Huyện Đoan Hùng
+
+231
+
+Huyện Hạ Hòa
+
+232
+
+Huyện Thanh Ba
+
+233
+
+Huyện Phù Ninh
+
+234
+
+Huyện Yên Lập
+
+235
+
+Huyện Cẩm Khê
+
+236
+
+Huyện Tam Nông
+
+237
+
+Huyện Lâm Thao
+
+238
+
+Huyện Thanh Sơn
+
+239
+
+Huyện Thanh Thủy
+
+**26. Tỉnh Vĩnh Phúc**
+
+(2 thị xã, 7 huyện)
+
+243
+
+Thị xã Vĩnh Yên
+
+244
+
+Thị xã Phúc Yên
+
+246
+
+Huyện Lập Thạch
+
+247
+
+Huyện Tam Dương
+
+248
+
+Huyện Tam Đảo
+
+249
+
+Huyện Bình Xuyên
+
+250
+
+Huyện Mê Linh
+
+251
+
+Huyện Yên Lạc
+
+252
+
+Huyện Vĩnh Tường
+
+**27. Tỉnh Bắc Ninh**
+
+(1 thị xã, 7 huyện)
+
+256
+
+Thị xã Bắc Ninh
+
+258
+
+Huyện Yên Phong
+
+259
+
+Huyện Quế Võ
+
+260
+
+Huyện Tiên Du
+
+261
+
+Huyện Từ Sơn
+
+262
+
+Huyện Thuận Thành
+
+263
+
+Huyện Gia Bình
+
+264
+
+Huyện Lương Tài
+
+**28. Tỉnh Hà Tây**
+
+(2 thị xã, 12 huyện)
+
+268
+
+Thị xã Hà Đông
+
+269
+
+Thị xã Sơn Tây
+
+271
+
+Huyện Ba Vì
+
+272
+
+Huyện Phúc Thọ
+
+273
+
+Huyện Đan Phượng
+
+274
+
+Huyện Hoài Đức
+
+275
+
+Huyện Quốc Oai
+
+276
+
+Huyện Thạch Thất
+
+277
+
+Huyện Chương Mỹ
+
+278
+
+Huyện Thanh Oai
+
+279
+
+Huyện Thường Tín
+
+280
+
+Huyện Phú Xuyên
+
+281
+
+Huyện Ứng Hòa
+
+282
+
+Huyện Mỹ Đức
+
+**30. Tỉnh Hải Dương**
+
+(1 thành phố, 11 huyện)
+
+288
+
+Thành phố Hải Dương
+
+290
+
+Huyện Chí Linh
+
+291
+
+Huyện Nam Sách
+
+292
+
+Huyện Kinh Môn
+
+293
+
+Huyện Kim Thành
+
+294
+
+Huyện Thanh Hà
+
+295
+
+Huyện Cẩm Giàng
+
+296
+
+Huyện Bình Giang
+
+297
+
+Huyện Gia Lộc
+
+298
+
+Huyện Tứ Kỳ
+
+299
+
+Huyện Ninh Giang
+
+300
+
+Huyện Thanh Miện
+
+**31. Thành phố Hải Phòng**
+
+(1 thị xã, 5 quận, 8 huyện)
+
+303
+
+Quận Hồng Bàng
+
+304
+
+Quận Ngô Quyền
+
+305
+
+Quận Lê Chân
+
+306
+
+Quận Hải An
+
+307
+
+Quận Kiến An
+
+308
+
+Thị xã Đồ Sơn
+
+311
+
+Huyện Thủy Nguyên
+
+312
+
+Huyện An Dương
+
+313
+
+Huyện An Lão
+
+314
+
+Huyện Kiến Thuỵ
+
+315
+
+Huyện Tiên Lãng
+
+316
+
+Huyện Vĩnh Bảo
+
+317
+
+Huyện Cát Hải
+
+318
+
+Huyện Bạch Long Vĩ
+
+**33. Tỉnh H­ưng Yên**
+
+(1 thị xã, 9 huyện)
+
+323
+
+Thị xã Hưng Yên
+
+325
+
+Huyện Văn Lâm
+
+326
+
+Huyện Văn Giang
+
+327
+
+Huyện Yên Mỹ
+
+328
+
+Huyện Mỹ Hào
+
+329
+
+Huyện Ân Thi
+
+330
+
+Huyện Khoái Châu
+
+331
+
+Huyện Kim Động
+
+332
+
+Huyện Tiên Lữ
+
+333
+
+Huyện Phù Cừ
+
+**34. Tỉnh Thái Bình**
+
+(1 thị xã, 7 huyện)
+
+336
+
+Thị xã Thái Bình
+
+338
+
+Huyện Quỳnh Phụ
+
+339
+
+Huyện Hưng Hà
+
+340
+
+Huyện Đông Hưng
+
+341
+
+Huyện Thái Thụy
+
+342
+
+Huyện Tiền Hải
+
+343
+
+Huyện Kiến Xương
+
+344
+
+Huyện Vũ Thư
+
+**35. Tỉnh Hà Nam**
+
+(1 thị xã, 5 huyện)
+
+347
+
+Thị xã Phủ Lý
+
+349
+
+Huyện Duy Tiên
+
+350
+
+Huyện Kim Bảng
+
+351
+
+Huyện Thanh Liêm
+
+352
+
+Huyện Bình Lục
+
+353
+
+Huyện Lý Nhân
+
+**36. Tỉnh Nam Định**
+
+(1 thành phố, 9 huyện)
+
+356
+
+Thành phố Nam Định
+
+358
+
+Huyện Mỹ Lộc
+
+359
+
+Huyện Vụ Bản
+
+360
+
+Huyện Ý Yên
+
+361
+
+Huyện Nghĩa Hưng
+
+362
+
+Huyện Nam Trực
+
+363
+
+Huyện Trực Ninh
+
+364
+
+Huyện Xuân Trường
+
+365
+
+Huyện Giao Thủy
+
+366
+
+Huyện Hải Hậu
+
+**37. Tỉnh Ninh Bình**
+
+(2 thị xã, 6 huyện)
+
+369
+
+Thị xã Ninh Bình
+
+370
+
+Thị xã Tam Điệp
+
+372
+
+Huyện Nho Quan
+
+373
+
+Huyện Gia Viễn
+
+374
+
+Huyện Hoa Lư
+
+375
+
+Huyện Yên Khánh
+
+376
+
+Huyện Kim Sơn
+
+377
+
+Huyện Yên Mô
+
+**38. Tỉnh Thanh Hóa**
+
+(1 thành phố, 2 thị xã, 24 huyện)
+
+380
+
+Thành phố Thanh Hóa
+
+381
+
+Thị xã Bỉm Sơn
+
+382
+
+Thị xã Sầm Sơn
+
+384
+
+Huyện Mường Lát
+
+385
+
+Huyện Quan Hóa
+
+386
+
+Huyện Bá Thước
+
+387
+
+Huyện Quan Sơn
+
+388
+
+Huyện Lang Chánh
+
+389
+
+Huyện Ngọc Lạc
+
+390
+
+Huyện Cẩm Thủy
+
+391
+
+Huyện Thạch Thành
+
+392
+
+Huyện Hà Trung
+
+393
+
+Huyện Vĩnh Lộc
+
+394
+
+Huyện Yên Định
+
+395
+
+Huyện Thọ Xuân
+
+396
+
+Huyện Thường Xuân
+
+397
+
+Huyện Triệu Sơn
+
+398
+
+Huyện Thiệu Hóa
+
+399
+
+Huyện Hoằng Hóa
+
+400
+
+Huyện Hậu Lộc
+
+401
+
+Huyện Nga Sơn
+
+402
+
+Huyện Như Xuân
+
+403
+
+Huyện Như Thanh
+
+404
+
+Huyện Nông Cống
+
+405
+
+Huyện Đông Sơn
+
+406
+
+Huyện Quảng Xương
+
+407
+
+Huyện Tĩnh Gia
+
+**40. Tỉnh Nghệ An**
+
+(1 thành phố, 1 thị xã, 17 huyện)
+
+412
+
+Thành phố Vinh
+
+413
+
+Thị xã Cửa Lò
+
+415
+
+Huyện Quế Phong
+
+416
+
+Huyện Quỳ Châu
+
+417
+
+Huyện Kỳ Sơn
+
+418
+
+Huyện Tương Dương
+
+419
+
+Huyện Nghĩa Đàn
+
+420
+
+Huyện Quỳ Hợp
+
+421
+
+Huyện Quỳnh Lưu
+
+422
+
+Huyện Con Cuông
+
+423
+
+Huyện Tân Kỳ
+
+424
+
+Huyện Anh Sơn
+
+425
+
+Huyện Diễn Châu
+
+426
+
+Huyện Yên Thành
+
+427
+
+Huyện Đô Lương
+
+428
+
+Huyện Thanh Chương
+
+429
+
+Huyện Nghi Lộc
+
+430
+
+Huyện Nam Đàn
+
+431
+
+Huyện Hưng Nguyên
+
+**42. Tỉnh Hà Tĩnh**
+
+(2 thị xã, 9 huyện)
+
+436
+
+ Thị xã Hà Tĩnh
+
+437
+
+ Thị xã Hồng Lĩnh
+
+439
+
+ Huyện Hương Sơn
+
+440
+
+ Huyện Đức Thọ
+
+441
+
+ Huyện Vũ Quang
+
+442
+
+ Huyện Nghi Xuân
+
+443
+
+ Huyện Can Lộc
+
+444
+
+ Huyện Hương Khê
+
+445
+
+ Huyện Thạch Hà
+
+446
+
+ Huyện Cẩm Xuyên
+
+447
+
+ Huyện Kỳ Anh
+
+**44. Tỉnh Quảng Bình**
+
+(1 thị xã, 6 huyện)
+
+450
+
+Thị xã Đồng Hới
+
+452
+
+Huyện Minh Hóa
+
+453
+
+Huyện Tuyên Hóa
+
+454
+
+Huyện Quảng Trạch
+
+455
+
+Huyện Bố Trạch
+
+456
+
+Huyện Quảng Ninh
+
+457
+
+Huyện Lệ Thủy
+
+**45. Tỉnh Quảng Trị**
+
+(2 thị xã, 7 huyện)
+
+461
+
+Thị xã Đông Hà
+
+462
+
+Thị xã Quảng Trị
+
+464
+
+Huyện Vĩnh Linh
+
+465
+
+Huyện Hướng Hóa
+
+466
+
+Huyện Gio Linh
+
+467
+
+Huyện Đa Krông
+
+468
+
+Huyện Cam Lộ
+
+469
+
+Huyện Triệu Phong
+
+470
+
+Huyện Hải Lăng
+
+**46. Tỉnh Thừa Thiên Huế**
+
+(1 thành phố, 8 huyện)
+
+474
+
+Thành phố Huế
+
+476
+
+Huyện Phong Điền
+
+477
+
+Huyện Quảng Điền
+
+478
+
+Huyện Phú Vang
+
+479
+
+Huyện Hương Thủy
+
+480
+
+Huyện Hương Trà
+
+481
+
+Huyện A Lưới
+
+482
+
+Huyện Phú Lộc
+
+483
+
+Huyện Nam Đông
+
+**48. Thành phố Đà Nẵng**
+
+(5 quận, 2 huyện)
+
+490
+
+Quận Liên Chiểu
+
+491
+
+Quận Thanh Khê
+
+492
+
+Quận Hải Châu
+
+493
+
+Quận Sơn Trà
+
+494
+
+Quận Ngũ Hành Sơn
+
+497
+
+Huyện Hòa Vang
+
+498
+
+Huyện Hoàng Sa
+
+**49. Tỉnh Quảng Nam**
+
+(2 thị xã, 14 huyện)
+
+502
+
+Thị xã Tam Kỳ
+
+503
+
+Thị xã Hội An
+
+504
+
+Huyện Tây Giang
+
+505
+
+Huyện Đông Giang
+
+506
+
+Huyện Đại Lộc
+
+507
+
+Huyện Điện Bàn
+
+508
+
+Huyện Duy Xuyên
+
+509
+
+Huyện Quế Sơn
+
+510
+
+Huyện Nam Giang
+
+511
+
+Huyện Phước Sơn
+
+512
+
+Huyện Hiệp Đức
+
+513
+
+Huyện Thăng Bình
+
+514
+
+Huyện Tiên Phước
+
+515
+
+Huyện Bắc Trà My
+
+516
+
+Huyện Nam Trà My
+
+517
+
+Huyện Núi Thành
+
+**51. Tỉnh Quảng Ngãi**
+
+(1 thị xã, 13 huyện)
+
+522
+
+Thị xã Quảng Ngãi
+
+524
+
+Huyện Bình Sơn
+
+525
+
+Huyện Trà Bồng
+
+526
+
+Huyên Tây Trà
+
+527
+
+Huyện Sơn Tịnh
+
+528
+
+Huyện Tư Nghĩa
+
+529
+
+Huyện Sơn Hà
+
+530
+
+Huyện Sơn Tây
+
+531
+
+Huyện Minh Long
+
+532
+
+Huyện Nghĩa Hành
+
+533
+
+Huyện Mộ Đức
+
+534
+
+Huyện Đức Phổ
+
+535
+
+Huyện Ba Tơ
+
+536
+
+Huyện Lý Sơn
+
+**52. Tỉnh Bình Định**
+
+(1 thành phố, 10 huyện)
+
+540
+
+Thành phố Qui Nhơn
+
+542
+
+Huyện An Lão
+
+543
+
+Huyện Hoài Nhơn
+
+544
+
+Huyện Hoài Ân
+
+545
+
+Huyện Phù Mỹ
+
+546
+
+Huyện Vĩnh Thạnh
+
+547
+
+Huyện Tây Sơn
+
+548
+
+Huyện Phù Cát
+
+549
+
+Huyện An Nhơn
+
+550
+
+Huyện Tuy Phước
+
+551
+
+Huyện Vân Canh
+
+**54. Tỉnh Phú Yên**
+
+(1 thị xã, 7 huyện)
+
+555
+
+Thị xã Tuy Hòa
+
+557
+
+Huyện Sông Cầu
+
+558
+
+Huyện Đồng Xuân
+
+559
+
+Huyện Tuy An
+
+560
+
+Huyện Sơn Hòa
+
+561
+
+Huyện Sông Hinh
+
+562
+
+Huyện Tuy Hòa
+
+563
+
+Huyện Phú Hòa
+
+**56. Tỉnh Khánh Hòa**
+
+(1 thành phố, 1 thị xã, 6 huyện)
+
+568
+
+Thành phố Nha Trang
+
+569
+
+Thị xã Cam Ranh
+
+571
+
+Huyện Vạn Ninh
+
+572
+
+Huyện Ninh Hòa
+
+573
+
+Huyện Khánh Vĩnh
+
+574
+
+Huyện Diên Khánh
+
+575
+
+Huyện Khánh Sơn
+
+576
+
+Huyện Trường Sa
+
+**58. Tỉnh Ninh Thuận**
+
+(1 thị xã, 4 huyện)
+
+582
+
+Thị xã Phan Rang - Tháp Chàm
+
+584
+
+Huyện Bác Ái
+
+585
+
+Huyện Ninh Sơn
+
+586
+
+Huyện Ninh Hải
+
+587
+
+Huyện Ninh Phước
+
+**60. Tỉnh Bình Thuận**
+
+(1 thành phố, 8 huyện)
+
+593
+
+Thành phố Phan Thiết
+
+595
+
+Huyện Tuy Phong
+
+596
+
+Huyện Bắc Bình
+
+597
+
+Huyện Hàm Thuận Bắc
+
+598
+
+Huyện Hàm Thuận Nam
+
+599
+
+Huyện Tánh Linh
+
+600
+
+Huyện Đức Linh
+
+601
+
+Huyện Hàm Tân
+
+602
+
+Huyện Phú Quý
+
+**62. Tỉnh Kon Tum**
+
+(1 thị xã, 7 huyện)
+
+608
+
+Thị xã Kon Tum
+
+610
+
+Huyện Đắk Glei
+
+611
+
+Huyện Ngọc Hồi
+
+612
+
+Huyện Đắk Tô
+
+613
+
+Huyện Kon Plông
+
+614
+
+Huyện Kon Rẫy
+
+615
+
+Huyện Đắk Hà
+
+616
+
+Huyện Sa Thầy
+
+**64. Tỉnh Gia Lai**
+
+(1 thành phố, 1 thị xã, 13 huyện)
+
+622
+
+Thành phố Pleiku
+
+623
+
+Thị Xã An Khê
+
+625
+
+Huyện KBang
+
+626
+
+Huyện Đắk Đoa
+
+627
+
+Huyện Chư Păh
+
+628
+
+Huyện Ia Grai
+
+629
+
+Huyện Mang Yang
+
+630
+
+Huyện Kông Chro
+
+631
+
+Huyện Đức Cơ
+
+632
+
+Huyện Chư Prông
+
+633
+
+Huyện Chư Sê
+
+634
+
+Huyện Đắk Pơ
+
+635
+
+Huyện Ia Pa
+
+636
+
+Huyện Ayun Pa
+
+637
+
+Huyện Krông Pa
+
+**66. Tỉnh Đắk Lắk**
+
+(1 thành phố, 12 huyện)
+
+643
+
+Thành phố Buôn Ma Thuột
+
+645
+
+Huyện Ea H'leo
+
+646
+
+Huyện Ea Súp
+
+647
+
+Huyện Buôn Đôn
+
+648
+
+Huyện Cư M'gar
+
+649
+
+Huyện Krông Búk
+
+650
+
+Huyện Krông Năng
+
+651
+
+Huyện Ea Kar
+
+652
+
+Huyện M'Đrắk
+
+653
+
+Huyện Krông Bông
+
+654
+
+Huyện Krông Pắc
+
+655
+
+Huyện Krông A Na
+
+656
+
+Huyện Lắk
+
+**67. Tỉnh Đắk Nông**
+
+(6 huyện)
+
+661
+
+Huyện Đắk Nông
+
+662
+
+Huyện Cư Jút
+
+663
+
+Huyện Đắk Mil
+
+664
+
+Huyện Krông Nô
+
+665
+
+Huyện Đắk Song
+
+666
+
+Huyện Đắk R'Lấp
+
+**68. Tỉnh Lâm Đồng**
+
+(1 thành phố, 1 thị xã, 9 huyện)
+
+672
+
+Thành phố Đà Lạt
+
+673
+
+Thị xã Bảo Lộc
+
+675
+
+Huyện Lạc D­ơng
+
+676
+
+Huyện Lâm Hà
+
+677
+
+Huyện Đơn D­ơng
+
+678
+
+Huyện Đức Trọng
+
+679
+
+Huyện Di Linh
+
+680
+
+Huyện Bảo Lâm
+
+681
+
+Huyện Đạ Huoai
+
+682
+
+Huyện Đạ Tẻh
+
+683
+
+Huyện Cát Tiên
+
+**70. Tỉnh Bình Phước**
+
+(1 thị xã, 7 huyện)
+
+689
+
+Thị xã Đồng Xoài
+
+691
+
+Huyện Phước Long
+
+692
+
+Huyện Lộc Ninh
+
+693
+
+Huyện Bù Đốp
+
+694
+
+Huyện Bình Long
+
+695
+
+Huyện Đồng Phù
+
+696
+
+Huyện Bù Đăng
+
+697
+
+Huyện Chơn Thành
+
+**72. Tỉnh Tây Ninh**
+
+(1 thị xã, 8 huyện)
+
+703
+
+Thị xã Tây Ninh
+
+705
+
+Huyện Tân Biên
+
+706
+
+Huyện Tân Châu
+
+707
+
+Huyện Dương Minh Châu
+
+708
+
+Huyện Châu Thành
+
+709
+
+Huyện Hòa Thành
+
+710
+
+Huyện Gò Dầu
+
+711
+
+Huyện Bến Cầu
+
+712
+
+Huyện Trảng Bàng
+
+**74. Tỉnh Bình Dương**
+
+(1 thị xã, 6 huyện)
+
+718
+
+Thị xã Thủ Dầu Một
+
+720
+
+Huyện Dầu tiếng
+
+721
+
+Huyện Bến Cát
+
+722
+
+Huyện Phú Giáo
+
+723
+
+Huyện Tân Uyên
+
+724
+
+Huyện Dĩ An
+
+725
+
+Huyện Thuận An
+
+**75. Tỉnh Đồng Nai**
+
+(1 thành phố, 1 thị xã, 9 huyện)
+
+731
+
+Thành phố Biên Hòa
+
+732
+
+Thị xã Long Khánh
+
+734
+
+Huyện Tân Phú
+
+735
+
+Huyện Vĩnh Cửu
+
+736
+
+Huyện Định Quán
+
+737
+
+Huyện Trảng Bom
+
+738
+
+Huyện Thống Nhất
+
+739
+
+Huyện Cẩm Mỹ
+
+740
+
+Huyện Long Thành
+
+741
+
+Huyện Xuân Lộc
+
+742
+
+Huyện Nhơn Trạch
+
+**77. Tỉnh Bà Rịa - Vũng Tàu**
+
+(1 thành phố, 1 thị xã, 6 huyện)
+
+747
+
+Thành phố Vũng Tàu
+
+748
+
+Thị xã Bà Rịa
+
+750
+
+Huyện Châu Đức
+
+751
+
+Huyện Xuyên Mộc
+
+752
+
+Huyện Long Điền
+
+753
+
+Huyện Đất Đỏ
+
+754
+
+Huyện Tân Thành
+
+755
+
+Huyện Côn Đảo
+
+**79. TP. Hồ Chí Minh**
+
+(19 quận, 5 huyện)
+
+760
+
+Quận 1
+
+761
+
+Quận 12
+
+762
+
+Quận Thủ Đức
+
+763
+
+Quận 9
+
+764
+
+Quận Gò Vấp
+
+765
+
+Quận Bình Thạnh
+
+766
+
+Quận Tân Bình
+
+767
+
+Quận Tân Phú
+
+768
+
+Quận Phú Nhuận
+
+769
+
+Quận 2
+
+770
+
+Quận 3
+
+771
+
+Quận 10
+
+772
+
+Quận 11
+
+773
+
+Quận 4
+
+774
+
+Quận 5
+
+775
+
+Quận 6
+
+776
+
+Quận 8
+
+777
+
+Quận Bình Tân
+
+778
+
+Quận 7
+
+783
+
+Huyện Củ Chi
+
+784
+
+Huyện Hóc Môn
+
+785
+
+Huyện Bình Chánh
+
+786
+
+Huyện Nhà Bè
+
+787
+
+Huyện Cần Giờ
+
+**80. Tỉnh Long An**
+
+(1 thị xã, 13 huyện)
+
+794
+
+Thị xã Tân An
+
+796
+
+Huyện Tân Hưng
+
+797
+
+Huyện Vĩnh Hưng
+
+798
+
+Huyện Mộc Hóa
+
+799
+
+Huyện Tân Thạnh
+
+800
+
+Huyện Thạnh Hóa
+
+801
+
+Huyện Đức Huệ
+
+802
+
+Huyện Đức Hòa
+
+803
+
+Huyện Bến Lức
+
+804
+
+Huyện Thủ Thừa
+
+805
+
+Huyện Tân Trụ
+
+806
+
+Huyện Cần Đước
+
+807
+
+Huyện Cần Giuộc
+
+808
+
+Huyện Châu Thành
+
+**82. Tỉnh Tiền Giang**
+
+(1 thành phố, 1 thị xã, 7 huyện)
+
+815
+
+Thành phố Mỹ Tho
+
+816
+
+Thị xã Gò Công
+
+818
+
+Huyện Tân Phước
+
+819
+
+Huyện Cái Bè
+
+820
+
+Huyện Cai Lậy
+
+821
+
+Huyện Châu Thành
+
+822
+
+Huyện Chợ Gạo
+
+823
+
+Huyện Gò Công Tây
+
+824
+
+Huyện Gò Công Đông
+
+**83. Tỉnh Bến Tre**
+
+(1 thị xã, 7 huyện)
+
+829
+
+Thị xã Bến Tre
+
+831
+
+Huyện Châu Thành
+
+832
+
+Huyện Chợ Lách
+
+833
+
+Huyện Mỏ Cày
+
+834
+
+Huyện Giồng Trôm
+
+835
+
+Huyện Bình Đại
+
+836
+
+Huyện Ba Tri
+
+837
+
+Huyện Thạnh Phú
+
+**84. Tỉnh Trà Vinh**
+
+(1 thị xã, 7 huyện)
+
+842
+
+Thị xã Trà Vinh
+
+844
+
+Huyện Càng Long
+
+845
+
+Huyện Cầu Kè
+
+846
+
+Huyện Tiểu Cần
+
+847
+
+Huyện Châu Thành
+
+848
+
+Huyện Cầu Ngang
+
+849
+
+Huyện Trà Cú
+
+850
+
+Huyện Duyên Hải
+
+**86. Tỉnh Vĩnh Long**
+
+(1 thị xã, 6 huyện)
+
+855
+
+Thị xã Vĩnh Long
+
+857
+
+Huyện Long Hồ
+
+858
+
+Huyện Mang Thít
+
+859
+
+Huyện Vũng Liêm
+
+860
+
+Huyện Tam Bình
+
+861
+
+Huyện Bình Minh
+
+862
+
+Huyện Trà Ôn
+
+**87. Tỉnh Đồng Tháp**
+
+(2 thị xã, 9 huyện)
+
+866
+
+Thị xã Cao Lãnh
+
+867
+
+Thị xã Sa Đéc
+
+869
+
+Huyện Tân Hồng
+
+870
+
+Huyện Hồng Ngự
+
+871
+
+Huyện Tam Nông
+
+872
+
+Huyện Tháp Mười
+
+873
+
+Huyện Cao Lãnh
+
+874
+
+Huyện Thanh Bình
+
+875
+
+Huyện Lấp Vò
+
+876
+
+Huyện Lai Vung
+
+877
+
+Huyện Châu Thành
+
+**89. Tỉnh An Giang**
+
+(1 thành phố, 1 thị xã, 9 huyện)
+
+883
+
+Thành phố Long Xuyên
+
+884
+
+Thị xã Châu Đốc
+
+886
+
+Huyện An Phú
+
+887
+
+Huyện Tân Châu
+
+888
+
+Huyện Phú Tân
+
+889
+
+Huyện Châu Phú
+
+890
+
+Huyện Tịnh Biên
+
+891
+
+Huyện Tri Tôn
+
+892
+
+Huyện Chợ Mới
+
+893
+
+Huyện Châu Thành
+
+894
+
+Huyện Thoại Sơn
+
+**91. Tỉnh Kiên Giang**
+
+(2 thị xã, 11 huyện)
+
+899
+
+Thị xã Rạch Giá
+
+900
+
+Thị xã Hà Tiên
+
+902
+
+Huyện Kiên Lương
+
+903
+
+Huyện Hòn Đất
+
+904
+
+Huyện Tân Hiệp
+
+905
+
+Huyện Châu Thành
+
+906
+
+Huyện Giồng Giềng
+
+907
+
+Huyện Gò Quao
+
+908
+
+Huyện An Biên
+
+909
+
+Huyện An Minh
+
+910
+
+Huyện Vĩnh Thuận
+
+911
+
+Huyện Phú Quốc
+
+912
+
+Huyện Kiên Hải
+
+**92. Thành phố Cần Thơ**
+
+(4 quận, 4 huyện)
+
+916
+
+Quận Ninh Kiều
+
+917
+
+Quận Ô Môn
+
+918
+
+Quận Bình Thủy
+
+919
+
+Quận Cái Răng
+
+923
+
+Huyện Thốt Nốt
+
+924
+
+Huyện Vĩnh Thạnh
+
+925
+
+Huyện Cờ Đỏ
+
+926
+
+Huyện Phong Điền
+
+**93. Tỉnh Hậu Giang**
+
+(1 thị xã, 5 huyện)
+
+930
+
+Thị xã Vị Thanh
+
+932
+
+Huyện Châu Thành A
+
+933
+
+Huyện Châu Thành
+
+934
+
+Huyện Phụng Hiệp
+
+935
+
+Huyện Vị Thủy
+
+936
+
+Huyện Long Mỹ
+
+**94. Tỉnh Sóc Trăng**
+
+(1 thị xã, 8 huyện)
+
+941
+
+Thị xã Sóc Trăng
+
+943
+
+Huyện Kế Sách
+
+944
+
+Huyện Mỹ Tú
+
+945
+
+Huyện Cù Lao Dung
+
+946
+
+Huyện Long Phú
+
+947
+
+Huyện Mỹ Xuyên
+
+948
+
+Huyện Ngã Năm
+
+949
+
+Huyện Thạnh Trị
+
+950
+
+Huyện Vĩnh Châu
+
+**95. Tỉnh Bạc Liêu**
+
+(1 thị xã, 5 huyện)
+
+954
+
+Thị xã Bạc Liêu
+
+956
+
+Huyện Hồng Dân
+
+957
+
+Huyện Phước Long
+
+958
+
+Huyện Vĩnh Lợi
+
+959
+
+Huyện Giá Rai
+
+960
+
+Huyện Đông Hải
+
+**96. Tỉnh Cà Mau**
+
+(1 thành phố, 8 huyện)
+
+964
+
+Thành phố Cà Mau
+
+966
+
+Huyện U Minh
+
+967
+
+Huyện Thới Bình
+
+968
+
+Huyện Trần Văn Thời
+
+969
+
+Huyện Cái Nước
+
+970
+
+Huyện Đầm Dơi
+
+971
+
+Huyện Năm Căn
+
+972
+
+Huyện Phú Tân
+
+973
+
+Huyện Ngọc Hiển
+
+IV. DANH MỤC VÀ MÃ SỐ CÁC XÃ,
+PHƯỜNG, THỊ TRẤN
+
+01. THÀNH PHỐ
+HÀ NỘI
+
+(Tổng số
+xã, phường, thị trấn: 229; xã: 99, phường: 125, thị trấn: 5)
+
+(Total
+number of communes, subdistricts, subtowns: 229)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**001**
+
+**Quận Ba Đình**
+
+00001
+
+Phường Phúc Xá
+
+00004
+
+Phường Trúc Bạch
+
+00007
+
+Phường Cống Vị
+
+00010
+
+Phường Nguyễn Trung Trực
+
+00013
+
+Phường Quán Thánh
+
+00016
+
+Phường Ngọc Hà
+
+00019
+
+Phường Điện Biên
+
+00022
+
+Phường Đội Cấn
+
+00025
+
+Phường Ngọc Khánh
+
+00028
+
+Phường Kim Mã
+
+00031
+
+Phường Giảng Võ
+
+00034
+
+Phường Thành Công
+
+**002**
+
+**Quận Hoàn Kiếm**
+
+00037
+
+Phường Phúc Tân
+
+00040
+
+Phường Đồng Xuân
+
+00043
+
+Phường Hàng Mã
+
+00046
+
+Phường Hàng Buồm
+
+00049
+
+Phường Hàng Đào
+
+00052
+
+Phường Hàng Bồ
+
+00055
+
+Phường Cửa Đông
+
+00058
+
+Phường Lý Thái Tổ
+
+00061
+
+Phường Hàng Bạc
+
+00064
+
+Phường Hàng Gai
+
+00067
+
+Phường Chương Dương Độ
+
+00070
+
+Phường Hàng Trống
+
+00073
+
+Phường Cửa Nam
+
+00076
+
+Phường Hàng Bông
+
+00079
+
+Phường Tràng Tiền
+
+00082
+
+Phường Trần Hưng Đạo
+
+00085
+
+Phường Phan Chu Trinh
+
+00088
+
+Phường Hàng Bài
+
+**003**
+
+** Quận Tây Hồ**
+
+00091
+
+Phường Phú Thượng
+
+00094
+
+Phường Nhật Tân
+
+00097
+
+Phường Tứ Liên
+
+00100
+
+Phường Quảng An
+
+00103
+
+Phường Xuân La
+
+00106
+
+Phường Yên Phụ
+
+00109
+
+Phường Bưởi
+
+00112
+
+Phường Thụy Khuê
+
+** 004**
+
+**Quận Long Biên**
+
+00115
+
+Phường Thượng Thanh
+
+00118
+
+Phường Ngọc Thụy
+
+00121
+
+Phường Giang Biên
+
+00124
+
+Phường Đức Giang
+
+00127
+
+Phường Việt Hưng
+
+00130
+
+Phường Gia Thụy
+
+00133
+
+Phường Ngọc Lâm
+
+00136
+
+Phường Phúc Lợi
+
+00139
+
+Phường Bồ Đề
+
+00142
+
+Phường Sài Đồng
+
+00145
+
+Phường Long Biên
+
+00148
+
+Phường Thạch Bàn
+
+00151
+
+Phường Phúc Đồng
+
+00154
+
+Phường Cự Khối
+
+** 005**
+
+**Quận Cầu Giấy**
+
+00157
+
+Phường Nghĩa Đô
+
+00160
+
+Phường Nghĩa Tân
+
+00163
+
+Phường Mai Dịch
+
+00166
+
+Phường Dịch Vọng
+
+00169
+
+Phường Quan Hoa
+
+00172
+
+Phường Yên Hòa
+
+00175
+
+Phường Trung Hòa
+
+**006**
+
+**Quận Đống Đa**
+
+00178
+
+Phường Cát Linh
+
+00181
+
+Phường Văn Miếu
+
+00184
+
+Phường Quốc Tử Giám
+
+00187
+
+Phường Láng Thượng
+
+00190
+
+Phường Ô Chợ Dừa
+
+00193
+
+Phường Văn Chương
+
+00196
+
+Phường Hàng Bột
+
+00199
+
+Phường Láng Hạ
+
+00202
+
+Phường Khâm Thiên
+
+00205
+
+Phường Thổ Quan
+
+00208
+
+Phường Nam Đồng
+
+00211
+
+Phường Trung Phụng
+
+00214
+
+Phường Quang Trung
+
+00217
+
+Phường Trung Liệt
+
+00220
+
+Phường Phương Liên
+
+00223
+
+Phường Thịnh Quang
+
+00226
+
+Phường Trung Tự
+
+00229
+
+Phường Kim Liên
+
+00232
+
+Phường Phương Mai
+
+00235
+
+Phường Ngã Tư Sở
+
+00238
+
+Phường Khương Thượng
+
+**007**
+
+**Quận Hai Bà Trưng**
+
+00241
+
+Phường Nguyễn Du
+
+00244
+
+Phường Bạch Đằng
+
+00247
+
+Phường Phạm Đình Hổ
+
+00250
+
+Phường Bùi Thị Xuân
+
+00253
+
+Phường Ngô Thì Nhậm
+
+00256
+
+Phường Lê Đại Hành
+
+00259
+
+Phường Đồng Nhân
+
+00262
+
+Phường Phố Huế
+
+00265
+
+Phường Đống Mác
+
+00268
+
+Phường Thanh Lương
+
+00271
+
+Phường Thanh Nhàn
+
+00274
+
+Phường Cầu Dền
+
+00277
+
+Phường Bách Khoa
+
+00280
+
+Phường Đồng Tâm
+
+00283
+
+Phường Vĩnh Tuy
+
+00286
+
+Phường Bạch Mai
+
+00289
+
+Phường Quỳnh Mai
+
+00292
+
+Phường Quỳnh Lôi
+
+00295
+
+Phường Minh Khai
+
+00298
+
+Phường Trương Định
+
+**008**
+
+**Quận Hoàng Mai**
+
+00301
+
+Phường Thanh Trì
+
+00304
+
+Phường Vĩnh Hưng
+
+00307
+
+Phường Định Công
+
+00310
+
+Phường Mai Động
+
+00313
+
+Phường Tương Mai
+
+00316
+
+Phường Đại Kim
+
+00319
+
+Phường Tân Mai
+
+00322
+
+Phường Hoàng Văn Thụ
+
+00325
+
+Phường Giáp Bát
+
+00328
+
+Phường Lĩnh Nam
+
+00331
+
+Phường Thịnh Liệt
+
+00334
+
+Phường Trần Phú
+
+00337
+
+Phường Hoàng Liệt
+
+00340
+
+Phường Yên Sở
+
+**009**
+
+**Quận Thanh Xuân**
+
+00343
+
+Phường Nhân Chính
+
+00346
+
+Phường Thượng Đình
+
+00349
+
+Phường Khương Trung
+
+00352
+
+Phường Khương Mai
+
+00355
+
+Phường Thanh Xuân Trung
+
+00358
+
+Phường Phương Liệt
+
+00361
+
+Phường Hạ Đình
+
+00364
+
+Phường Khương Đình
+
+00367
+
+Phường Thanh Xuân Bắc
+
+00370
+
+Phường Thanh Xuân Nam
+
+00373
+
+Phường Kim Giang
+
+**016**
+
+**Huyện Sóc Sơn**
+
+00376
+
+Thị trấn Sóc Sơn
+
+00379
+
+Xã Bắc Sơn
+
+00382
+
+Xã Minh Trí
+
+00385
+
+Xã Hồng Kỳ
+
+00388
+
+Xã Nam Sơn
+
+00391
+
+Xã Trung Giã
+
+00394
+
+Xã Tân Hưng
+
+00397
+
+Xã Minh Phú
+
+00400
+
+Xã Phù Linh
+
+00403
+
+Xã Bắc Phú
+
+00406
+
+Xã Tân Minh
+
+00409
+
+Xã Quang Tiến
+
+00412
+
+Xã Hiền Ninh
+
+00415
+
+Xã Tân Dân
+
+00418
+
+Xã Tiên Dược
+
+00421
+
+Xã Việt Long
+
+00424
+
+Xã Xuân Giang
+
+00427
+
+Xã Mai Đình
+
+00430
+
+Xã Đức Hòa
+
+00433
+
+Xã Thanh Xuân
+
+00436
+
+Xã Đông Xuân
+
+00439
+
+Xã Kim Lũ
+
+00442
+
+Xã Phú Cường
+
+00445
+
+Xã Phú Minh
+
+00448
+
+Xã Phù Lỗ
+
+00451
+
+Xã Xuân Thu
+
+**017**
+
+**Huyện Đông Anh**
+
+00454
+
+Thị trấn Đông Anh
+
+00457
+
+Xã Xuân Nộn
+
+00460
+
+Xã Thụy Lâm
+
+00463
+
+Xã Bắc Hồng
+
+00466
+
+Xã Nguyên Khê
+
+00469
+
+Xã Nam Hồng
+
+00472
+
+Xã Tiên Dương
+
+00475
+
+Xã Vân Hà
+
+00478
+
+Xã Uy Nỗ
+
+00481
+
+Xã Vân Nội
+
+00484
+
+Xã Liên Hà
+
+00487
+
+Xã Việt Hùng
+
+00490
+
+Xã Kim Nỗ
+
+00493
+
+Xã Kim Chung
+
+00496
+
+Xã Dục Tú
+
+00499
+
+Xã Đại Mạch
+
+00502
+
+Xã Vĩnh Ngọc
+
+00505
+
+Xã Cổ Loa
+
+00508
+
+Xã Hải Bối
+
+00511
+
+Xã Xuân Canh
+
+00514
+
+Xã Võng La
+
+00517
+
+Xã Tầm Xá
+
+00520
+
+Xã Mai Lâm
+
+00523
+
+Xã Đông Hội
+
+**018**
+
+**Huyện Gia Lâm**
+
+00526
+
+Thị trấn Yên Viên
+
+00529
+
+Xã Yên Thường
+
+00532
+
+Xã Yên Viên
+
+00535
+
+Xã Ninh Hiệp
+
+00538
+
+Xã Đình Xuyên
+
+00541
+
+Xã Dương Hà
+
+00544
+
+Xã Phù Đổng
+
+00547
+
+Xã Trung Mầu
+
+00550
+
+Xã Lệ Chi
+
+00553
+
+Xã Cổ Bi
+
+00556
+
+Xã Đặng Xá
+
+00559
+
+Xã Phú Thị
+
+00562
+
+Xã Kim Sơn
+
+00565
+
+Xã Trâu Quỳ
+
+00568
+
+Xã Dương Quang
+
+00571
+
+Xã Dương Xá
+
+00574
+
+Xã Đông Dư
+
+00577
+
+Xã Đa Tốn
+
+00580
+
+Xã Kiêu Kỵ
+
+00583
+
+Xã Bát Tràng
+
+00586
+
+Xã Kim Lan
+
+00589
+
+Xã Văn Đức
+
+**019**
+
+**Huyện Từ Liêm**
+
+00592
+
+Thị trấn Cầu Diễn
+
+00595
+
+Xã Thượng Cát
+
+00598
+
+Xã Liên Mạc
+
+00601
+
+Xã Đông Ngạc
+
+00604
+
+Xã Thụy Phương
+
+00607
+
+Xã Tây Tựu
+
+00610
+
+Xã Xuân Đỉnh
+
+00613
+
+Xã Minh Khai
+
+00616
+
+Xã Cổ Nhuế
+
+00619
+
+Xã Phú Diễn
+
+00622
+
+Xã Xuân Phương
+
+00625
+
+Xã Mỹ Đình
+
+00628
+
+Xã Tây Mỗ
+
+00631
+
+Xã Mễ Trì
+
+00634
+
+Xã Đại Mỗ
+
+00637
+
+Xã Trung Văn
+
+**020**
+
+**Huyện Thanh Trì**
+
+00640
+
+Thị trấn Văn Điển
+
+00643
+
+Xã Tân Triều
+
+00646
+
+Xã Thanh Liệt
+
+00649
+
+Xã Tả Thanh Oai
+
+00652
+
+Xã Hữu Hòa
+
+00655
+
+Xã Tam Hiệp
+
+00658
+
+Xã Tứ Hiệp
+
+00661
+
+Xã Yên Mỹ
+
+00664
+
+Xã Vĩnh Quỳnh
+
+00667
+
+Xã Ngũ Hiệp
+
+00670
+
+Xã Duyên Hà
+
+00673
+
+Xã Ngọc Hồi
+
+00676
+
+Xã Vạn Phúc
+
+00679
+
+Xã Đại Áng
+
+00682
+
+Xã Liên Ninh
+
+00685
+
+Xã Đông Mỹ
+
+02. TỈNH HÀ GIANG
+
+(Tổng số
+xã, phường, thị trấn: 193; xã: 180, phường: 4, thị trấn: 9)
+
+(Total
+number of communes, subdistricts, subtowns: 193)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**024**
+
+**Thị xã Hà Giang**
+
+00688
+
+Phường Quang Trung
+
+00691
+
+Phường Trần Phú
+
+00694
+
+Phường Nguyễn Trãi
+
+00697
+
+Phường Minh Khai
+
+00700
+
+Xã Ngọc Đường
+
+00703
+
+Xã Kim Thạch
+
+00706
+
+Xã Phú Linh
+
+00709
+
+Xã Kim Linh
+
+**026**
+
+**Huyện Đồng Văn**
+
+00712
+
+Thị trấn Phó Bảng
+
+00715
+
+Xã Lũng Cú
+
+00718
+
+Xã Má Lé
+
+00721
+
+Xã Đồng Văn
+
+00724
+
+Xã Lũng Táo
+
+00727
+
+Xã Phố Là
+
+00730
+
+Xã Thài Phìn Tủng
+
+00733
+
+Xã Sủng Là
+
+00736
+
+Xã Xà Phìn
+
+00739
+
+Xã Tả Phìn
+
+00742
+
+Xã Tả Lủng
+
+00745
+
+Xã Phố Cáo
+
+00748
+
+Xã Sính Lủng
+
+00751
+
+Xã Sảng Tủng
+
+00754
+
+Xã Lũng Thầu
+
+00757
+
+Xã Hố Quáng Phìn
+
+00760
+
+Xã Vần Chải
+
+00763
+
+Xã Lũng Phìn
+
+00766
+
+Xã Sủng Trái
+
+**027**
+
+**Huyện Mèo Vạc**
+
+00769
+
+Thị trấn Mèo Vạc
+
+00772
+
+Xã Thượng Phùng
+
+00775
+
+Xã Pải Lủng
+
+00778
+
+Xã Xín Cái
+
+00781
+
+Xã Pả Vi
+
+00784
+
+Xã Giàng Chu Phìn
+
+00787
+
+Xã Sủng Trà
+
+00790
+
+Xã Sủng Máng
+
+00793
+
+Xã Sơn Vĩ
+
+00796
+
+Xã Tả Lủng
+
+00799
+
+Xã Cán Chu Phìn
+
+00802
+
+Xã Lũng Pù
+
+00805
+
+Xã Lũng Chinh
+
+00808
+
+Xã Tát Ngà
+
+00811
+
+Xã Nậm Ban
+
+00814
+
+Xã Khâu Vai
+
+00817
+
+Xã Niêm Sơn
+
+**028**
+
+**Huyện Yên Minh**
+
+00820
+
+Thị trấn Yên Minh
+
+00823
+
+Xã Thắng Mố
+
+00826
+
+Xã Phú Lũng
+
+00829
+
+Xã Sủng Tráng
+
+00832
+
+Xã Bạch Đích
+
+00835
+
+Xã Na Khê
+
+00838
+
+Xã Sủng Thài
+
+00841
+
+Xã Hữu Vinh
+
+00844
+
+Xã Lao Và Chải
+
+00847
+
+Xã Mậu Duệ
+
+00850
+
+Xã Đông Minh
+
+00853
+
+Xã Mậu Long
+
+00856
+
+Xã Ngam La
+
+00859
+
+Xã Ngọc Long
+
+00862
+
+Xã Đường Thượng
+
+00865
+
+Xã Lũng Hồ
+
+00868
+
+Xã Du Tiến
+
+00871
+
+Xã Du Già
+
+**029**
+
+**Huyện Quản Bạ**
+
+00874
+
+Thị trấn Tam Sơn
+
+00877
+
+Xã Bát Đại Sơn
+
+00880
+
+Xã Nghĩa Thuận
+
+00883
+
+Xã Cán Tỷ
+
+00886
+
+Xã Cao Mã Pờ
+
+00889
+
+Xã Thanh Vân
+
+00892
+
+Xã Tùng Vài
+
+00895
+
+Xã Đông Hà
+
+00898
+
+Xã Quản Bạ
+
+00901
+
+Xã Lùng Tám
+
+00904
+
+Xã Quyết Tiến
+
+00907
+
+Xã Tả Ván
+
+00910
+
+Xã Thái An
+
+**030**
+
+**Huyện Vị Xuyên**
+
+00913
+
+Thị trấn Vị Xuyên
+
+00916
+
+Thị trấn Nông Trường Việt Lâm
+
+00919
+
+Xã Minh Tân
+
+00922
+
+Xã Thuận Hòa
+
+00925
+
+Xã Tùng Bá
+
+00928
+
+Xã Thanh Thủy
+
+00931
+
+Xã Thanh Đức
+
+00934
+
+Xã Phong Quang
+
+00937
+
+Xã Xín Chải
+
+00940
+
+Xã Phương Tiến
+
+00943
+
+Xã Lao Chải
+
+00946
+
+Xã Phương Độ
+
+00949
+
+Xã Phương Thiện
+
+00952
+
+Xã Cao Bồ
+
+00955
+
+Xã Đạo Đức
+
+00958
+
+Xã Thượng Sơn
+
+00961
+
+Xã Linh Hồ
+
+00964
+
+Xã Quảng Ngần
+
+00967
+
+Xã Việt Lâm
+
+00970
+
+Xã Ngọc Linh
+
+00973
+
+Xã Ngọc Minh
+
+00976
+
+Xã Bạch Ngọc
+
+00979
+
+Xã Trung Thành
+
+**031**
+
+**Huyện Bắc Mê**
+
+00982
+
+Xã Minh Sơn
+
+00985
+
+Xã Giáp Trung
+
+00988
+
+Xã Yên Định
+
+00991
+
+Xã Yên Phú
+
+00994
+
+Xã Minh Ngọc
+
+00997
+
+Xã Yên Phong
+
+01000
+
+Xã Lạc Nông
+
+01003
+
+Xã Phú Nam
+
+01006
+
+Xã Yên Cường
+
+01009
+
+Xã Thượng Tân
+
+01012
+
+Xã Đường Âm
+
+01015
+
+Xã Đường Hồng
+
+01018
+
+Xã Phiêng Luông
+
+**032**
+
+**Huyện Hoàng Su Phì**
+
+01021
+
+Thị trấn Vinh Quang
+
+01024
+
+Xã Bản Máy
+
+01027
+
+Xã Thàng Tín
+
+01030
+
+Xã Thèn Chu Phìn
+
+01033
+
+Xã Pố Lồ
+
+01036
+
+Xã Bản Phùng
+
+01039
+
+Xã Túng Sán
+
+01042
+
+Xã Chiến Phố
+
+01045
+
+Xã Đản Ván
+
+01048
+
+Xã Tụ Nhân
+
+01051
+
+Xã Tân Tiến
+
+01054
+
+Xã Nàng Đôn
+
+01057
+
+Xã Pờ Ly Ngài
+
+01060
+
+Xã Sán Xả Hồ
+
+01063
+
+Xã Bản Luốc
+
+01066
+
+Xã Ngàm Đăng Vài
+
+01069
+
+Xã Bản Nhùng
+
+01072
+
+Xã Tả Sử Choóng
+
+01075
+
+Xã Nậm Dịch
+
+01078
+
+Xã Bản Péo
+
+01081
+
+Xã Hồ Thầu
+
+01084
+
+Xã Nam Sơn
+
+01087
+
+Xã Nậm Tỵ
+
+01090
+
+Xã Thông Nguyên
+
+01093
+
+Xã Nậm Khòa
+
+**033**
+
+**Huyện Xín Mần**
+
+01096
+
+Xã Cốc Pài
+
+01099
+
+Xã Nàn Xỉn
+
+01102
+
+Xã Bản Díu
+
+01105
+
+Xã Chí Cà
+
+01108
+
+Xã Xín Mần
+
+01111
+
+Xã Trung Thịnh
+
+01114
+
+Xã Thèn Phàng
+
+01117
+
+Xã Ngán Chiên
+
+01120
+
+Xã Pà Vầy Sủ
+
+01123
+
+Xã Cốc Rế
+
+01126
+
+Xã Thu Tà
+
+01129
+
+Xã Nàn Ma
+
+01132
+
+Xã Tả Nhìu
+
+01135
+
+Xã Bản Ngò
+
+01138
+
+Xã Chế Là
+
+01141
+
+Xã Nấm Dẩn
+
+01144
+
+Xã Quảng Nguyên
+
+01147
+
+Xã Nà Chì
+
+01150
+
+Xã Khuôn Lùng
+
+**034**
+
+**Huyện Bắc Quang**
+
+01153
+
+Thị trấn Việt Quang
+
+01156
+
+Thị trấn Vĩnh Tuy
+
+01159
+
+Xã Tân Lập
+
+01162
+
+Xã Tân Thành
+
+01165
+
+Xã Đồng Tiến
+
+01168
+
+Xã Đồng Tâm
+
+01171
+
+Xã Tân Quang
+
+01174
+
+Xã Thượng Bình
+
+01177
+
+Xã Hữu Sản
+
+01180
+
+Xã Kim Ngọc
+
+01183
+
+Xã Việt Vinh
+
+01186
+
+Xã Bằng Hành
+
+01189
+
+Xã Quang Minh
+
+01192
+
+Xã Liên Hiệp
+
+01195
+
+Xã Vô Điếm
+
+01198
+
+Xã Việt Hồng
+
+01201
+
+Xã Hùng An
+
+01204
+
+Xã Đức Xuân
+
+01207
+
+Xã Tiên Kiều
+
+01210
+
+Xã Vĩnh Hảo
+
+01213
+
+Xã Vĩnh Phúc
+
+01216
+
+Xã Đồng Yên
+
+01219
+
+Xã Đông Thành
+
+**035**
+
+**Huyện Quang Bình**
+
+01222
+
+Xã Xuân Minh
+
+01225
+
+Xã Tiên Nguyên
+
+01228
+
+Xã Tân Nam
+
+01231
+
+Xã Bản Rịa
+
+01234
+
+Xã Yên Thành
+
+01237
+
+Xã Yên Bình
+
+01240
+
+Xã Tân Trịnh
+
+01243
+
+Xã Tân Bắc
+
+01246
+
+Xã Bằng Lang
+
+01249
+
+Xã Yên Hà
+
+01252
+
+Xã Hương Sơn
+
+01255
+
+Xã Xuân Giang
+
+01258
+
+Xã Nà Khương
+
+01261
+
+Xã Tiên Yên
+
+01264
+
+Xã Vĩ Thượng
+
+04. TỈNH
+CAO BẰNG
+
+(Tổng số
+xã, phường, thị trấn: 189; xã: 175, phường: 4, thị trấn: 10)
+
+(Total
+number of communes, subdistricts, subtowns: 189)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**040**
+
+**Thị xã Cao Bằng**
+
+01267
+
+Phường Sông Hiến
+
+01270
+
+Phường Sông Bằng
+
+01273
+
+Phường Hợp Giang
+
+01276
+
+Phường Tân Giang
+
+01279
+
+Xã Ngọc Xuân
+
+01282
+
+Xã Đề Thám
+
+01285
+
+Xã Hòa Chung
+
+01288
+
+Xã Duyệt Trung
+
+**042**
+
+**Huyện Bảo Lâm**
+
+01291
+
+Xã Đức Hạnh
+
+01294
+
+Xã Lý Bôn
+
+01297
+
+Xã Nam Quang
+
+01300
+
+Xã Vĩnh Quang
+
+01303
+
+Xã Quảng Lâm
+
+01306
+
+Xã Tân Việt
+
+01309
+
+Xã Vĩnh Phong
+
+01312
+
+Xã Mông Ân
+
+01315
+
+Xã Thái Học
+
+01318
+
+Xã Yên Thổ
+
+**043**
+
+**Huyện Bảo Lạc**
+
+01321
+
+Thị trấn Bảo Lạc
+
+01324
+
+Xã Cốc Pàng
+
+01327
+
+Xã Thượng Hà
+
+01330
+
+Xã Cô Ba
+
+01333
+
+Xã Bảo Toàn
+
+01336
+
+Xã Khánh Xuân
+
+01339
+
+Xã Xuân Trường
+
+01342
+
+Xã Hồng Trị
+
+01345
+
+Xã Phan Thanh
+
+01348
+
+Xã Hồng An
+
+01351
+
+Xã Hưng Đạo
+
+01354
+
+Xã Huy Giáp
+
+01357
+
+Xã Đình Phùng
+
+01360
+
+Xã Sơn Lộ
+
+**044**
+
+**Huyện Thông Nông**
+
+01363
+
+Thị trấn Thông Nông
+
+01366
+
+Xã Cần Yên
+
+01369
+
+Xã Vị Quang
+
+01372
+
+Xã Lương Thông
+
+01375
+
+Xã Đa Thông
+
+01378
+
+Xã Ngọc Động
+
+01381
+
+Xã Yên Sơn
+
+01384
+
+Xã Lương Can
+
+01387
+
+Xã Thanh Long
+
+01390
+
+Xã Bình Lãng
+
+**045**
+
+**Huyện Hà Quảng**
+
+01393
+
+Xã Lũng Nặm
+
+01396
+
+Xã Kéo Yên
+
+01399
+
+Xã Trường Hà
+
+01402
+
+Xã Vân An
+
+01405
+
+Xã Cải Viên
+
+01408
+
+Xã Nà Sác
+
+01411
+
+Xã Nội Thôn
+
+01414
+
+Xã Tổng Cọt
+
+01417
+
+Xã Sóc Hà
+
+01420
+
+Xã Thượng Thôn
+
+01423
+
+Xã Xuân Hòa
+
+01426
+
+Xã Hồng Sĩ
+
+01429
+
+Xã Sĩ Hai
+
+01432
+
+Xã Quý Quân
+
+01435
+
+Xã Mã Ba
+
+01438
+
+Xã Phù Ngọc
+
+01441
+
+Xã Đào Ngạn
+
+01444
+
+Xã Hạ Thôn
+
+**046**
+
+**Huyện Trà Lĩnh**
+
+01447
+
+Thị trấn Hùng Quốc
+
+01450
+
+Xã Cô Mười
+
+01453
+
+Xã Tri Phương
+
+01456
+
+Xã Quang Hán
+
+01459
+
+Xã Quang Vinh
+
+01462
+
+Xã Xuân Nội
+
+01465
+
+Xã Quang Trung
+
+01468
+
+Xã Lưu Ngọc
+
+01471
+
+Xã Cao Chương
+
+01474
+
+Xã Quốc Toản
+
+**047**
+
+**Huyện Trùng Khánh**
+
+01477
+
+Thị trấn Trùng Khánh
+
+01480
+
+Xã Ngọc Khê
+
+01483
+
+Xã Phong Nậm
+
+01486
+
+Xã Ngọc Chung
+
+01489
+
+Xã Đình Phong
+
+01492
+
+Xã Lăng Yên
+
+01495
+
+Xã Đàm Thủy
+
+01498
+
+Xã Khâm Thành
+
+01501
+
+Xã Chí Viễn
+
+01504
+
+Xã Lăng Hiếu
+
+01507
+
+Xã Phong Châu
+
+01510
+
+Xã Đình Minh
+
+01513
+
+Xã Cảnh Tiên
+
+01516
+
+Xã Trung Phúc
+
+01519
+
+Xã Cao Thăng
+
+01522
+
+Xã Đức Hồng
+
+01525
+
+Xã Thông Hòe
+
+01528
+
+Xã Thân Giáp
+
+01531
+
+Xã Đoài Côn
+
+**048**
+
+**Huyện Hạ Lang**
+
+01534
+
+Xã Minh Long
+
+01537
+
+Xã Lý Quốc
+
+01540
+
+Xã Thắng Lợi
+
+01543
+
+Xã Đồng Loan
+
+01546
+
+Xã Đức Quang
+
+01549
+
+Xã Kim Loan
+
+01552
+
+Xã Quang Long
+
+01555
+
+Xã An Lạc
+
+01558
+
+Xã Thanh Nhật
+
+01561
+
+Xã Vinh Quý
+
+01564
+
+Xã Việt Chu
+
+01567
+
+Xã Cô Ngân
+
+01570
+
+Xã Thái Đức
+
+01573
+
+Xã Thị Hoa
+
+**049**
+
+**Huyện Quảng Uyên**
+
+01576
+
+Thị trấn Quảng Uyên
+
+01579
+
+Xã Phi Hải
+
+01582
+
+Xã Quảng Hưng
+
+01585
+
+Xã Bình Lăng
+
+01588
+
+Xã Quốc Dân
+
+01591
+
+Xã Quốc Phong
+
+01594
+
+Xã Độc Lập
+
+01597
+
+Xã Cai Bộ
+
+01600
+
+Xã Đoài Khôn
+
+01603
+
+Xã Phúc Sen
+
+01606
+
+Xã Chí Thảo
+
+01609
+
+Xã Tự Do
+
+01612
+
+Xã Hồng Định
+
+01615
+
+Xã Hồng Quang
+
+01618
+
+Xã Ngọc Động
+
+01621
+
+Xã Hoàng Hải
+
+01624
+
+Xã Hạnh Phúc
+
+**050**
+
+**Huyện Phục Hòa**
+
+01627
+
+Thị trấn Tà Lùng
+
+01630
+
+Xã Triệu Ẩu
+
+01633
+
+Xã Hồng Đại
+
+01636
+
+Xã Cách Linh
+
+01639
+
+Xã Đại Sơn
+
+01642
+
+Xã Lương Thiện
+
+01645
+
+Xã Tiên Thành
+
+01648
+
+Xã Hòa Thuận
+
+01651
+
+Xã Mỹ Hưng
+
+**051**
+
+**Huyện Hòa An**
+
+01654
+
+Thị trấn Nước Hai
+
+01657
+
+Xã Dân Chủ
+
+01660
+
+Xã Nam Tuấn
+
+01663
+
+Xã Đức Xuân
+
+01666
+
+Xã Đại Tiến
+
+01669
+
+Xã Đức Long
+
+01672
+
+Xã Ngũ Lão
+
+01675
+
+Xã Trương Lương
+
+01678
+
+Xã Bình Long
+
+01681
+
+Xã Nguyễn Huệ
+
+01684
+
+Xã Công Trừng
+
+01687
+
+Xã Hồng Việt
+
+01690
+
+Xã Bế Triều
+
+01693
+
+Xã Vĩnh Quang
+
+01696
+
+Xã Hoàng Tung
+
+01699
+
+Xã Trương Vương
+
+01702
+
+Xã Quang Trung
+
+01705
+
+Xã Hưng Đạo
+
+01708
+
+Xã Bạch Đằng
+
+01711
+
+Xã Bình Dương
+
+01714
+
+Xã Lê Chung
+
+01717
+
+Xã Hà Trì
+
+01720
+
+Xã Chu Trinh
+
+01723
+
+Xã Hồng Nam
+
+**052**
+
+**Huyện Nguyên Bình**
+
+01726
+
+Thị trấn Nguyên Bình
+
+01729
+
+Thị trấn Tĩnh Túc
+
+01732
+
+Xã Yên Lạc
+
+01735
+
+Xã Triệu Nguyên
+
+01738
+
+Xã Ca Thành
+
+01741
+
+Xã Thái Học
+
+01744
+
+Xã Vũ Nông
+
+01747
+
+Xã Minh Tâm
+
+01750
+
+Xã Thể Dục
+
+01753
+
+Xã Bắc Hợp
+
+01756
+
+Xã Mai Long
+
+01759
+
+Xã Lang Môn
+
+01762
+
+Xã Minh Thanh
+
+01765
+
+Xã Hoa Thám
+
+01768
+
+Xã Phan Thanh
+
+01771
+
+Xã Quang Thành
+
+01774
+
+Xã Tam Kim
+
+01777
+
+Xã Thành Công
+
+01780
+
+Xã Thịnh Vượng
+
+01783
+
+Xã Hưng Đạo
+
+**053**
+
+**Huyện Thạch An**
+
+01786
+
+Thị trấn Đông Khê
+
+01789
+
+Xã Canh Tân
+
+01792
+
+Xã Kim Đồng
+
+01795
+
+Xã Minh Khai
+
+01798
+
+Xã Thị Ngân
+
+01801
+
+Xã Đức Thông
+
+01804
+
+Xã Thái Cường
+
+01807
+
+Xã Vân Trình
+
+01810
+
+Xã Thụy Hùng
+
+01813
+
+Xã Quang Trọng
+
+01816
+
+Xã Trọng Con
+
+01819
+
+Xã Lê Lai
+
+01822
+
+Xã Đức Long
+
+01825
+
+Xã Danh Sỹ
+
+01828
+
+Xã Lê Lợi
+
+01831
+
+Xã Đức Xuân
+
+06. TỈNH BẮC KẠN
+
+(Tổng số
+xã, phường, thị trấn: 122; xã: 112, phường: 4, thị trấn: 6)
+
+(Total
+number of communes, subdistricts, subtowns: 122)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**058**
+
+**Thị xã Bắc Kạn**
+
+01834
+
+Phường Nguyễn Thị Minh Khai
+
+01837
+
+Phường Sông Cầu
+
+01840
+
+Phường Đức Xuân
+
+01843
+
+Phường Phùng Chí Kiên
+
+01846
+
+Xã Huyền Tụng
+
+01849
+
+Xã Dương Quang
+
+01852
+
+Xã Nông Thượng
+
+01855
+
+Xã Xuất Hóa
+
+**060**
+
+**Huyện Pác Nặm**
+
+01858
+
+Xã Bằng Thành
+
+01861
+
+Xã Nhạn Môn
+
+01864
+
+Xã Bộc Bố
+
+01867
+
+Xã Công Bằng
+
+01870
+
+Xã Giáo Hiệu
+
+01873
+
+Xã Xuân La
+
+01876
+
+Xã An Thắng
+
+01879
+
+Xã Cổ Linh
+
+01882
+
+Xã Nghiên Loan
+
+01885
+
+Xã Cao Tân
+
+**061**
+
+**Huyện Ba Bể**
+
+01888
+
+Thị trấn Chợ Rã
+
+01891
+
+Xã Bành Trạch
+
+01894
+
+Xã Phúc Lộc
+
+01897
+
+Xã Hà Hiệu
+
+01900
+
+Xã Cao Thượng
+
+01903
+
+Xã Cao Trĩ
+
+01906
+
+Xã Khang Ninh
+
+01909
+
+Xã Nam Mẫu
+
+01912
+
+Xã Thượng Giáo
+
+01915
+
+Xã Địa Linh
+
+01918
+
+Xã Yến Dương
+
+01921
+
+Xã Chu Hương
+
+01924
+
+Xã Quảng Khê
+
+01927
+
+Xã Mỹ Phương
+
+01930
+
+Xã Hoàng Trĩ
+
+01933
+
+Xã Đồng Phúc
+
+**062**
+
+**Huyện Ngân Sơn**
+
+01936
+
+Thị trấn Nà Phặc
+
+01939
+
+Xã Thượng Ân
+
+01942
+
+Xã Bằng Vân
+
+01945
+
+Xã Cốc Đán
+
+01948
+
+Xã Trung Hòa
+
+01951
+
+Xã Đức Vân
+
+01954
+
+Xã Vân Tùng
+
+01957
+
+Xã Thượng Quan
+
+01960
+
+Xã Lãng Ngâm
+
+01963
+
+Xã Thuần Mang
+
+01966
+
+Xã Hương Nê
+
+**063**
+
+**Huyện Bạch Thông**
+
+01969
+
+Thị trấn Phủ Thông
+
+01972
+
+Xã Phương Linh
+
+01975
+
+Xã Vi Hương
+
+01978
+
+Xã Sĩ Bình
+
+01981
+
+Xã Vũ Muộn
+
+01984
+
+Xã Đôn Phong
+
+01987
+
+Xã Tú Trĩ
+
+01990
+
+Xã Lục Bình
+
+01993
+
+Xã Tân Tiến
+
+01996
+
+Xã Quân Bình
+
+01999
+
+Xã Nguyên Phúc
+
+02002
+
+Xã Cao Sơn
+
+02005
+
+Xã Hà Vị
+
+02008
+
+Xã Cẩm Giàng
+
+02011
+
+Xã Mỹ Thanh
+
+02014
+
+Xã Dương Phong
+
+02017
+
+Xã Quang Thuận
+
+**064**
+
+**Huyện Chợ Đồn**
+
+02020
+
+Thị trấn Bằng Lũng
+
+02023
+
+Xã Xuân Lạc
+
+02026
+
+Xã Nam Cường
+
+02029
+
+Xã Đồng Lạc
+
+02032
+
+Xã Tân Lập
+
+02035
+
+Xã Bản Thi
+
+02038
+
+Xã Quảng Bạch
+
+02041
+
+Xã Bằng Phúc
+
+02044
+
+Xã Yên Thịnh
+
+02047
+
+Xã Yên Thượng
+
+02050
+
+Xã Phương Viên
+
+02053
+
+Xã Ngọc Phái
+
+02056
+
+Xã Rã Bản
+
+02059
+
+Xã ĐôngViên
+
+02062
+
+Xã Lương Bằng
+
+02065
+
+Xã Bằng Lãng
+
+02068
+
+Xã Đại Sảo
+
+02071
+
+Xã Nghĩa Tá
+
+02074
+
+Xã Phong Huân
+
+02077
+
+Xã Yên Mỹ
+
+02080
+
+Xã Bình Trung
+
+02083
+
+Xã Yên Nhuận
+
+**065**
+
+**Huyện Chợ Mới**
+
+02086
+
+Thị trấn Chợ Mới
+
+02089
+
+Xã Tân Sơn
+
+02092
+
+Xã Thanh Vận
+
+02095
+
+Xã Mai Lạp
+
+02098
+
+Xã Hòa Mục
+
+02101
+
+Xã Thanh Mai
+
+02104
+
+Xã Cao Kỳ
+
+02107
+
+Xã Nông Hạ
+
+02110
+
+Xã Yên Cư
+
+02113
+
+Xã Nông Thịnh
+
+02116
+
+Xã Yên Hân
+
+02119
+
+Xã Thanh Bình
+
+02122
+
+Xã Như Cố
+
+02125
+
+Xã Bình Văn
+
+02128
+
+Xã Yên Đĩnh
+
+02131
+
+Xã Quảng Chu
+
+**066**
+
+**Huyện Na Rì**
+
+02134
+
+Thị trấn Yến Lạc
+
+02137
+
+Xã Vũ Loan
+
+02140
+
+Xã Lạng San
+
+02143
+
+Xã Lương Thượng
+
+02146
+
+Xã Kim Hỷ
+
+02149
+
+Xã Văn Học
+
+02152
+
+Xã Cường Lợi
+
+02155
+
+Xã Lương Hạ
+
+02158
+
+Xã Kim Lư
+
+02161
+
+Xã Lương Thành
+
+02164
+
+Xã Ân Tình
+
+02167
+
+Xã Lam Sơn
+
+02170
+
+Xã Văn Minh
+
+02173
+
+Xã Côn Minh
+
+02176
+
+Xã Cư Lễ
+
+02179
+
+Xã Hữu Thác
+
+02182
+
+Xã Hảo Nghĩa
+
+02185
+
+Xã Quang Phong
+
+02188
+
+Xã Dương Sơn
+
+02191
+
+Xã Xuân Dương
+
+02194
+
+Xã Đổng Xá
+
+02197
+
+Xã Liêm Thủy
+
+08. TỈNH TUYÊN QUANG
+
+(Tổng số
+xã, phường, thị trấn: 145; xã: 137, phường: 3, thị trấn: 5)
+
+(Total
+number of communes, subdistricts, subtowns: 145)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**070**
+
+**Thị xã Tuyên Quang**
+
+02200
+
+Phường Phan Thiết
+
+02203
+
+Phường Minh Xuân
+
+02206
+
+Phường Tân Quang
+
+02209
+
+Xã Tràng Đà
+
+02212
+
+Xã Nông Tiến
+
+02215
+
+Xã Ỷ La
+
+02218
+
+Xã Hưng Thành
+
+**072**
+
+**Huyện Nà Hang**
+
+02221
+
+Thị trấn Nà Hang
+
+02224
+
+Xã Thúy Loa
+
+02227
+
+Xã Sinh Long
+
+02230
+
+Xã Thượng Giáp
+
+02233
+
+Xã Phúc Yên
+
+02236
+
+Xã Xuân Tân
+
+02239
+
+Xã Thượng Nông
+
+02242
+
+Xã Xuân Lập
+
+02245
+
+Xã Côn Lôn
+
+02248
+
+Xã Yên Hoa
+
+02251
+
+Xã Khuôn Hà
+
+02254
+
+Xã Hồng Thái
+
+02257
+
+Xã Xuân Tiến
+
+02260
+
+Xã Đà Vị
+
+02263
+
+Xã Khau Tinh
+
+02266
+
+Xã Lăng Can
+
+02269
+
+Xã Thượng Lâm
+
+02272
+
+Xã Trùng Khánh
+
+02275
+
+Xã Sơn Phú
+
+02278
+
+Xã Vĩnh Yên
+
+02281
+
+Xã Năng Khả
+
+02284
+
+Xã Thanh Tương
+
+**073**
+
+**Huyện Chiêm Hóa**
+
+02287
+
+Thị trấn Vĩnh Lộc
+
+02290
+
+Xã Bình An
+
+02293
+
+Xã Hồng Quang
+
+02296
+
+Xã Thổ Bình
+
+02299
+
+Xã Phúc Sơn
+
+02302
+
+Xã Minh Quang
+
+02305
+
+Xã Trung Hà
+
+02308
+
+Xã Tân Mỹ
+
+02311
+
+Xã Hà Lang
+
+02314
+
+Xã Hùng Mỹ
+
+02317
+
+Xã Yên Lập
+
+02320
+
+Xã Tân An
+
+02323
+
+Xã Bình Phú
+
+02326
+
+Xã Xuân Quang
+
+02329
+
+Xã Ngọc Hội
+
+02332
+
+Xã Phú Bình
+
+02335
+
+Xã Hòa Phú
+
+02338
+
+Xã Phúc Thịnh
+
+02341
+
+Xã Kiên Đài
+
+02344
+
+Xã Tân Thịnh
+
+02347
+
+Xã Trung Hòa
+
+02350
+
+Xã Kim Bình
+
+02353
+
+Xã Hòa An
+
+02356
+
+Xã Vinh Quang
+
+02359
+
+Xã Tri Phú
+
+02362
+
+Xã Nhân Lý
+
+02365
+
+Xã Yên Nguyên
+
+02368
+
+Xã Linh Phú
+
+02371
+
+Xã Bình Nhân
+
+**074**
+
+**Huyện Hàm Yên**
+
+02374
+
+Thị trấn Tân Yên
+
+02377
+
+Xã Yên Thuận
+
+02380
+
+Xã Bạch Xa
+
+02383
+
+Xã Minh Khương
+
+02386
+
+Xã Yên Lâm
+
+02389
+
+Xã Minh Dân
+
+02392
+
+Xã Phù Lưu
+
+02395
+
+Xã Minh Hương
+
+02398
+
+Xã Yên Phú
+
+02401
+
+Xã Tân Thành
+
+02404
+
+Xã Bình Xa
+
+02407
+
+Xã Thái Sơn
+
+02410
+
+Xã Nhân Mục
+
+02413
+
+Xã Thành Long
+
+02416
+
+Xã Bằng Cốc
+
+02419
+
+Xã Thái Hòa
+
+02422
+
+Xã Đức Ninh
+
+02425
+
+Xã Hùng Đức
+
+**075**
+
+**Huyện Yên Sơn**
+
+02428
+
+Thị trấn Tân Bình
+
+02431
+
+Xã Quí Quân
+
+02434
+
+Xã Lực Hành
+
+02437
+
+Xã Kiến Thiết
+
+02440
+
+Xã Trung Minh
+
+02443
+
+Xã Chiêu Yên
+
+02446
+
+Xã Trung Trực
+
+02449
+
+Xã Xuân Vân
+
+02452
+
+Xã Phúc Ninh
+
+02455
+
+Xã Hùng Lợi
+
+02458
+
+Xã Trung Sơn
+
+02461
+
+Xã Tân Tiến
+
+02464
+
+Xã Tứ Quận
+
+02467
+
+Xã Đạo Viện
+
+02470
+
+Xã Tân Long
+
+02473
+
+Xã Thắng Quân
+
+02476
+
+Xã Kim Quan
+
+02479
+
+Xã Lang Quán
+
+02482
+
+Xã Phú Thịnh
+
+02485
+
+Xã Công Đa
+
+02488
+
+Xã Trung Môn
+
+02491
+
+Xã Chân Sơn
+
+02494
+
+Xã Thái Bình
+
+02497
+
+Xã Kim Phú
+
+02500
+
+Xã Tiến Bộ
+
+02503
+
+Xã An Khang
+
+02506
+
+Xã Mỹ Bằng
+
+02509
+
+Xã Phú Lâm
+
+02512
+
+Xã An Tường
+
+02515
+
+Xã Lưỡng Vượng
+
+02518
+
+Xã Hoàng Khai
+
+02521
+
+Xã Thái Long
+
+02524
+
+Xã Đội Cấn
+
+02527
+
+Xã Nhữ Hán
+
+02530
+
+Xã Nhữ Khê
+
+02533
+
+Xã Đội Bình
+
+**076**
+
+**Huyện Sơn Dương**
+
+02536
+
+Thị trấn Sơn Dương
+
+02539
+
+Xã Trung Yên
+
+02542
+
+Xã Minh Thanh
+
+02545
+
+Xã Tân Trào
+
+02548
+
+Xã Vĩnh Lợi
+
+02551
+
+Xã Thượng Ấm
+
+02554
+
+Xã Bình Yên
+
+02557
+
+Xã Lương Thiện
+
+02560
+
+Xã Tú Thịnh
+
+02563
+
+Xã Cấp Tiến
+
+02566
+
+Xã Hợp Thành
+
+02569
+
+Xã Phúc Ứng
+
+02572
+
+Xã Đông Thọ
+
+02575
+
+Xã Kháng Nhật
+
+02578
+
+Xã Hợp Hòa
+
+02581
+
+Xã Thanh Phát
+
+02584
+
+Xã Quyết Thắng
+
+02587
+
+Xã Đồng Quý
+
+02590
+
+Xã Tuân Lộ
+
+02593
+
+Xã Vân Sơn
+
+02596
+
+Xã Văn Phú
+
+02599
+
+Xã Chi Thiết
+
+02602
+
+Xã Đông Lợi
+
+02605
+
+Xã Thiện Kế
+
+02608
+
+Xã Hồng Lạc
+
+02611
+
+Xã Phú Lương
+
+02614
+
+Xã Ninh Lai
+
+02617
+
+Xã Đại Phú
+
+02620
+
+Xã Sơn Nam
+
+02623
+
+Xã Hào Phú
+
+02626
+
+Xã Tam Đa
+
+02629
+
+Xã Sầm Dương
+
+02632
+
+Xã Lâm Xuyên
+
+10. TỈNH LÀO CAI
+
+(Tổng số
+xã, phường, thị trấn: 163; xã: 146, phường: 9, thị trấn: 8)
+
+(Total
+number of communes, subdistricts, subtowns: 163)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**080**
+
+**Thị xã Lào Cai**
+
+02635
+
+Phường Duyên Hải
+
+02638
+
+Phường Lào Cai
+
+02641
+
+Phường Phố Mới
+
+02644
+
+Phường Cốc Lếu
+
+02647
+
+Phường Kim Tân
+
+02650
+
+Phường Bắc Lệnh
+
+02653
+
+Phường Pom Hán
+
+02656
+
+Phường Xuân Tăng
+
+02659
+
+Phường Thống Nhất
+
+02662
+
+Xã Đồng Tuyển
+
+02665
+
+Xã Vạn Hòa
+
+02668
+
+Xã Bắc Cường
+
+02671
+
+Xã Nam Cường
+
+02674
+
+Xã Cam Đường
+
+02677
+
+Xã Tả Phời
+
+02680
+
+Xã Hợp Thành
+
+**082**
+
+**Huyện Bát Xát**
+
+02683
+
+Thị trấn Bát Xát
+
+02686
+
+Xã A Mú Sung
+
+02689
+
+Xã Nậm Chạc
+
+02692
+
+Xã A Lù
+
+02695
+
+Xã Trịnh Tường
+
+02698
+
+Xã Ngải Thầu
+
+02701
+
+Xã Y Tý
+
+02704
+
+Xã Cốc Mỳ
+
+02707
+
+Xã Dền Sáng
+
+02710
+
+Xã Bản Vược
+
+02713
+
+Xã Sàng Ma Sáo
+
+02716
+
+Xã Bản Qua
+
+02719
+
+Xã Mường Vi
+
+02722
+
+Xã Dền Thàng
+
+02725
+
+Xã Bản Xèo
+
+02728
+
+Xã Mường Hum
+
+02731
+
+Xã Trung Lèng Hồ
+
+02734
+
+Xã Quang Kim
+
+02737
+
+Xã Pa Cheo
+
+02740
+
+Xã Nậm Pung
+
+02743
+
+Xã Phìn Ngan
+
+02746
+
+Xã Cốc San
+
+02749
+
+Xã Tòng Sành
+
+**083**
+
+**Huyện Mường Khương**
+
+02752
+
+Xã Pha Long
+
+02755
+
+Xã Tả Ngải Chồ
+
+02758
+
+Xã Tung Chung Phố
+
+02761
+
+Xã Mường Khương
+
+02764
+
+Xã Dìn Chin
+
+02767
+
+Xã Tả Gia Khâu
+
+02770
+
+Xã Nậm Chảy
+
+02773
+
+Xã Nấm Lư
+
+02776
+
+Xã Lùng Khấu Nhin
+
+02779
+
+Xã Thanh Bình
+
+02782
+
+Xã Cao Sơn
+
+02785
+
+Xã Lùng Vai
+
+02788
+
+Xã Bản Lầu
+
+02791
+
+Xã La Pan Tẩn
+
+02794
+
+Xã Tả Thàng
+
+02797
+
+Xã Bản Sen
+
+**084**
+
+**Huyện Si Ma Cai**
+
+02800
+
+Xã Nàn Sán
+
+02803
+
+Xã Thào Chư Phìn
+
+02806
+
+Xã Bản Mế
+
+02809
+
+Xã Si Ma Cai
+
+02812
+
+Xã Sán Chải
+
+02815
+
+Xã Mản Thẩn
+
+02818
+
+Xã Lùng Sui
+
+02821
+
+Xã Cán Cấu
+
+02824
+
+Xã Sín Chéng
+
+02827
+
+Xã Cán Hồ
+
+02830
+
+Xã Quan Thần Sán
+
+02833
+
+Xã Lử Thẩn
+
+02836
+
+Xã Nàn Xín
+
+**085**
+
+**Huyện Bắc Hà**
+
+02839
+
+Thị trấn Bắc Hà
+
+02842
+
+Xã Lùng Cải
+
+02845
+
+Xã Bản Già
+
+02848
+
+Xã Lùng Phình
+
+02851
+
+Xã Tả Van Chư
+
+02854
+
+Xã Tả Củ Tỷ
+
+02857
+
+Xã Thải Giàng Phố
+
+02860
+
+Xã Lầu Thí Ngài
+
+02863
+
+Xã Hoàng Thu Phố
+
+02866
+
+Xã Bản Phố
+
+02869
+
+Xã Bản Liền
+
+02872
+
+Xã Tà Chải
+
+02875
+
+Xã Na Hối
+
+02878
+
+Xã Cốc Ly
+
+02881
+
+Xã Nậm Mòn
+
+02884
+
+Xã Nậm Đét
+
+02887
+
+Xã Nậm Khánh
+
+02890
+
+Xã Bảo Nhai
+
+02893
+
+Xã Nậm Lúc
+
+02896
+
+Xã Cốc Lầu
+
+02899
+
+Xã Bản Cái
+
+**086**
+
+**Huyện Bảo Thắng**
+
+02902
+
+Thị trấn N.T Phong Hải
+
+02905
+
+Thị trấn Phố Lu
+
+02908
+
+Thị trấn Tằng Loỏng
+
+02911
+
+Xã Bản Phiệt
+
+02914
+
+Xã Bản Cầm
+
+02917
+
+Xã Thái Niên
+
+02920
+
+Xã Phong Niên
+
+02923
+
+Xã Gia Phú
+
+02926
+
+Xã Xuân Quang
+
+02929
+
+Xã Sơn Hải
+
+02932
+
+Xã Xuân Giao
+
+02935
+
+Xã Trì Quang
+
+02938
+
+Xã Sơn Hà
+
+02941
+
+Xã Phố Lu
+
+02944
+
+Xã Phú Nhuận
+
+**087**
+
+**Huyện Bảo Yên**
+
+02947
+
+Thị trấn Phố Ràng
+
+02950
+
+Xã Tân Tiến
+
+02953
+
+Xã Nghĩa Đô
+
+02956
+
+Xã Vĩnh Yên
+
+02959
+
+Xã Điện Quan
+
+02962
+
+Xã Xuân Hòa
+
+02965
+
+Xã Tân Dương
+
+02968
+
+Xã Thượng Hà
+
+02971
+
+Xã Kim Sơn
+
+02974
+
+Xã Cam Cọn
+
+02977
+
+Xã Minh Tân
+
+02980
+
+Xã Xuân Thượng
+
+02983
+
+Xã Việt Tiến
+
+02986
+
+Xã Yên Sơn
+
+02989
+
+Xã Bảo Hà
+
+02992
+
+Xã Lương Sơn
+
+02995
+
+Xã Long Phúc
+
+02998
+
+Xã Long Khánh
+
+**088**
+
+**Huyện Sa Pa**
+
+03001
+
+Thị trấn Sa Pa
+
+03004
+
+Xã Bản Khoang
+
+03007
+
+Xã Tả Giàng Phình
+
+03010
+
+Xã Trung Chải
+
+03013
+
+Xã Tả Phìn
+
+03016
+
+Xã Sa Pả
+
+03019
+
+Xã San Sả Hồ
+
+03022
+
+Xã Bản Phùng
+
+03025
+
+Xã Hầu Thào
+
+03028
+
+Xã Lao Chải
+
+03031
+
+Xã Thanh Kim
+
+03034
+
+Xã Suối Thầu
+
+03037
+
+Xã Sử Pán
+
+03040
+
+Xã Tả Van
+
+03043
+
+Xã Thanh Phú
+
+03046
+
+Xã Bản Hồ
+
+03049
+
+Xã Nậm Sài
+
+03052
+
+Xã Nậm Cang
+
+**089**
+
+**Huyện Văn Bàn**
+
+03055
+
+Thị trấn Khánh Yên
+
+03058
+
+Xã Văn Sơn
+
+03061
+
+Xã Võ Lao
+
+03064
+
+Xã Sơn Thủy
+
+03067
+
+Xã Nậm Mả
+
+03070
+
+Xã Tân Thượng
+
+03073
+
+Xã Nậm Rạng
+
+03076
+
+Xã Nậm Chầy
+
+03079
+
+Xã Tân An
+
+03082
+
+Xã Khánh Yên Thượng
+
+03085
+
+Xã Nậm Xé
+
+03088
+
+Xã Dần Thàng
+
+03091
+
+Xã Chiềng Ken
+
+03094
+
+Xã Làng Giàng
+
+03097
+
+Xã Hòa Mạc
+
+03100
+
+Xã Khánh Yên Trung
+
+03103
+
+Xã Khánh Yên Hạ
+
+03106
+
+Xã Dương Quỳ
+
+03109
+
+Xã Nậm Tha
+
+03112
+
+Xã Minh Lương
+
+03115
+
+Xã Thẩm Dương
+
+03118
+
+Xã Liêm Phú
+
+03121
+
+Xã Nậm Xây
+
+11. TỈNH ĐIỆN BIÊN
+
+(Tổng số
+xã, phường, thị trấn: 88; xã: 75, phường: 9, thị trấn: 4)
+
+(Total
+number of communes, subdistricts, subtowns: 88)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**094**
+
+**Thành phố Điện Biên Phủ**
+
+03124
+
+Phường Noong Bua
+
+03127
+
+Phường Him Lam
+
+03130
+
+Phường Thanh Bình
+
+03133
+
+Phường Tân Thanh
+
+03136
+
+Phường Mường Thanh
+
+03139
+
+Phường Nam Thanh
+
+03142
+
+Phường Thanh Trường
+
+03145
+
+Xã Thanh Minh
+
+**095**
+
+**Thị xã Lai Châu**
+
+03148
+
+Phường Sông Đà
+
+03151
+
+Phường Na Lay
+
+**096**
+
+**Huyện Mường Nhé**
+
+03154
+
+Xã Sín Thầu
+
+03157
+
+Xã Chung Chải
+
+03160
+
+Xã Mường Nhé
+
+03163
+
+Xã Mường Toong
+
+03166
+
+Xã Chà Cang
+
+03169
+
+Xã Nà Hỳ
+
+**097**
+
+**Huyện Mường Lay**
+
+03172
+
+Thị trấn Mường Lay
+
+03175
+
+Xã Chà Tở
+
+03178
+
+Xã Xá Tổng
+
+03181
+
+Xã Mường Tùng
+
+03184
+
+Xã Lay Nưa
+
+03187
+
+Xã Chà Nưa
+
+03190
+
+Xã Hừa Ngài
+
+03193
+
+Xã Pa Ham
+
+03196
+
+Xã Huổi Lèng
+
+03199
+
+Xã Si Pa Phìn
+
+03202
+
+Xã Mường Mươn
+
+03205
+
+Xã Na Son
+
+03208
+
+Xã Phì Nhừ
+
+03211
+
+Xã Chiềng Sơ
+
+03214
+
+Xã Mường Luân
+
+**098**
+
+**Huyện Tủa Chùa**
+
+03217
+
+Thị trấn Tủa Chùa
+
+03220
+
+Xã Huổi Só
+
+03223
+
+Xã Xín Chải
+
+03226
+
+Xã Tả Sìn Thàng
+
+03229
+
+Xã Lao Xả Phình
+
+03232
+
+Xã Tả Phìn
+
+03235
+
+Xã Tủa Thàng
+
+03238
+
+Xã Trung Thu
+
+03241
+
+Xã Sính Phình
+
+03244
+
+Xã Sáng Nhè
+
+03247
+
+Xã Mường Đun
+
+03250
+
+Xã Mường Báng
+
+**099**
+
+**Huyện Tuần Giáo**
+
+03253
+
+Thị trấn Tuần Giáo
+
+03256
+
+Thị trấn Mường Ẳng
+
+03259
+
+Xã Phình Sáng
+
+03262
+
+Xã Mùn Chung
+
+03265
+
+Xã Ta Ma
+
+03268
+
+Xã Mường Mùn
+
+03271
+
+Xã Pú Nhung
+
+03274
+
+Xã Quài Nưa
+
+03277
+
+Xã Mường Thín
+
+03280
+
+Xã Tỏa Tình
+
+03283
+
+Xã Nà Sáy
+
+03286
+
+Xã Mường Đăng
+
+03289
+
+Xã Quài Cang
+
+03292
+
+Xã Ẳng Tở
+
+03295
+
+Xã Quài Tở
+
+03298
+
+Xã Chiềng Sinh
+
+03301
+
+Xã Búng Lao
+
+03304
+
+Xã Tênh Phông
+
+03307
+
+Xã Ẳng Nưa
+
+03310
+
+Xã Ẳng Cang
+
+03313
+
+Xã Mường Lạn
+
+**100**
+
+**Huyện Điện Biên**
+
+03316
+
+Xã Nà Tấu
+
+03319
+
+Xã Mường Pồn
+
+03322
+
+Xã Thanh Nưa
+
+03325
+
+Xã Mường Phăng
+
+03328
+
+Xã Thanh Luông
+
+03331
+
+Xã Thanh Hưng
+
+03334
+
+Xã Thanh Xương
+
+03337
+
+Xã Thanh Chăn
+
+03340
+
+Xã Pa Thơm
+
+03343
+
+Xã Thanh An
+
+03346
+
+Xã Thanh Yên
+
+03349
+
+Xã Noong Luống
+
+03352
+
+Xã Noọng Hẹt
+
+03355
+
+Xã Sam Mứn
+
+03358
+
+Xã Núa Ngam
+
+03361
+
+Xã Na Ư
+
+03364
+
+Xã Mường Nhà
+
+03367
+
+Xã Mường Lói
+
+**101**
+
+**Huyện Điện Biên Đông**
+
+03370
+
+Xã Pú Nhi
+
+03373
+
+Xã Xa Dung
+
+03376
+
+Xã Keo Lôm
+
+03379
+
+Xã Luân Giới
+
+03382
+
+Xã Phình Giàng
+
+03385
+
+Xã Háng Lìa
+
+12. TỈNH LAI CHÂU
+
+(Tổng số
+xã, phường, thị trấn: 86; xã: 81, phường: 0, thị trấn: 5)
+
+(Total
+number of communes, subdistricts, subtowns: 86)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**106**
+
+**Huyện Tam Đường**
+
+03388
+
+Thị trấn Phong Thổ
+
+03391
+
+Xã Lả Nhì Thàng
+
+03394
+
+Xã Thèn Sin
+
+03397
+
+Xã Sùng Phài
+
+03400
+
+Xã Tả Lèng
+
+03403
+
+Xã Nậm Loỏng
+
+03406
+
+Xã Hồ Thầu
+
+03409
+
+Xã Tam Đường
+
+03412
+
+Xã Bình Lư
+
+03415
+
+Xã Nùng Nàng
+
+03418
+
+Xã Bản Giang
+
+03421
+
+Xã Bản Hon
+
+03424
+
+Xã Bản Bo
+
+03427
+
+Xã Nà Tăm
+
+03430
+
+Xã Khun Há
+
+**107**
+
+**Huyện Mường Tè**
+
+03433
+
+Thị trấn Mường Tè
+
+03436
+
+Xã Thu Lũm
+
+03439
+
+Xã Ka Lăng
+
+03442
+
+Xã Pa Ủ
+
+03445
+
+Xã Mường Tè
+
+03448
+
+Xã Pa Vệ Sử
+
+03451
+
+Xã Mù Cả
+
+03454
+
+Xã Bun Tở
+
+03457
+
+Xã Nậm Khao
+
+03460
+
+Xã Hua Bun
+
+03463
+
+Xã Tà Tổng
+
+03466
+
+Xã Bun Nưa
+
+03469
+
+Xã Kan Hồ
+
+03472
+
+Xã Mường Mô
+
+03475
+
+Xã Nậm Hàng
+
+**108**
+
+**Huyện Sìn Hồ**
+
+03478
+
+Thị trấn Sìn Hồ
+
+03481
+
+Xã Lê Lợi
+
+03484
+
+Xã Pú Đao
+
+03487
+
+Xã Chăn Nưa
+
+03490
+
+Xã Huổi Luông
+
+03493
+
+Xã Pa Tần
+
+03496
+
+Xã Phìn Hồ
+
+03499
+
+Xã Hồng Thu
+
+03502
+
+Xã Nậm Ban
+
+03505
+
+Xã Phăng Sô Lin
+
+03508
+
+Xã Ma Quai
+
+03511
+
+Xã Tả Phìn
+
+03514
+
+Xã Sà Dề Phìn
+
+03517
+
+Xã Nậm Tăm
+
+03520
+
+Xã Tả Ngảo
+
+03523
+
+Xã Pu Sam Cáp
+
+03526
+
+Xã Nậm Cha
+
+03529
+
+Xã Làng Mô
+
+03532
+
+Xã Noong Hẻo
+
+03535
+
+Xã Nậm Mạ
+
+03538
+
+Xã Căn Co
+
+03541
+
+Xã Tủa Sín Chải
+
+03544
+
+Xã Nậm Cuổi
+
+03547
+
+Xã Nậm Hăn
+
+**109**
+
+**Huyện Phong Thổ**
+
+03550
+
+Xã Sì Lờ Lầu
+
+03553
+
+Xã Mồ Sì San
+
+03556
+
+Xã Ma Li Chải
+
+03559
+
+Xã Pa Vây Sử
+
+03562
+
+Xã Vàng Ma Chải
+
+03565
+
+Xã Tông Qua Lìn
+
+03568
+
+Xã Mù Sang
+
+03571
+
+Xã Dào San
+
+03574
+
+Xã Ma Ly Pho
+
+03577
+
+Xã Bản Lang
+
+03580
+
+Xã Hoang Thèn
+
+03583
+
+Xã Khổng Lào
+
+03586
+
+Xã Nậm Xe
+
+03589
+
+Xã Mường So
+
+03592
+
+Xã Sin Suối Hồ
+
+**110**
+
+**Huyện Than Uyên**
+
+03595
+
+Thị trấn Than Uyên
+
+03598
+
+Thị trấn NT Than Uyên
+
+03601
+
+Xã Mường Khoa
+
+03604
+
+Xã Thân Thuộc
+
+03607
+
+Xã Hố Mít
+
+03610
+
+Xã Nậm Cần
+
+03613
+
+Xã Nậm Sỏ
+
+03616
+
+Xã Pắc Ta
+
+03619
+
+Xã Mường Than
+
+03622
+
+Xã Tà Mít
+
+03625
+
+Xã Mường Mít
+
+03628
+
+Xã Pha Mu
+
+03631
+
+Xã Nà Cang
+
+03634
+
+Xã Tà Hừa
+
+03637
+
+Xã Mường Kim
+
+03640
+
+Xã Tà Gia
+
+03643
+
+Xã Khoen On
+
+14. TỈNH SƠN LA
+
+(Tổng số
+xã, phường, thị trấn: 201; xã: 189, phường: 4, thị trấn: 8)
+
+(Total
+number of communes, subdistricts, subtowns: 201)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**116**
+
+**Thị xã Sơn La**
+
+03646
+
+Phường Chiềng Lề
+
+03649
+
+Phường Tô Hiệu
+
+03652
+
+Phường Quyết Thắng
+
+03655
+
+Phường Quyết Tâm
+
+03658
+
+Xã Chiềng Cọ
+
+03661
+
+Xã Chiềng Đen
+
+03664
+
+Xã Chiềng Xôm
+
+03667
+
+Xã Chiềng An
+
+03670
+
+Xã Chiềng Cơi
+
+03673
+
+Xã Chiềng Ngần
+
+03676
+
+Xã Hua La
+
+03679
+
+Xã Chiềng Sinh
+
+**118**
+
+**Huyện Quỳnh Nhai**
+
+03682
+
+Xã Mường Chiên
+
+03685
+
+Xã Cà Nàng
+
+03688
+
+Xã Chiềng Khay
+
+03691
+
+Xã Pha Khinh
+
+03694
+
+Xã Mường Giôn
+
+03697
+
+Xã Pắc Ma
+
+03700
+
+Xã Chiềng Ơn
+
+03703
+
+Xã Mường Giàng
+
+03706
+
+Xã Chiềng Bằng
+
+03709
+
+Xã Mường Sại
+
+03712
+
+Xã Nậm Ét
+
+03715
+
+Xã Liệp Muội
+
+03718
+
+Xã Chiềng Khoang
+
+**119**
+
+**Huyện Thuận Châu**
+
+03721
+
+Thị trấn Thuận Châu
+
+03724
+
+Xã Phỏng Lái
+
+03727
+
+Xã Mường É
+
+03730
+
+Xã Chiềng Pha
+
+03733
+
+Xã Chiềng La
+
+03736
+
+Xã Chiềng Ngàm
+
+03739
+
+Xã Liệp Tè
+
+03742
+
+Xã É Tòng
+
+03745
+
+Xã Phỏng Lập
+
+03748
+
+Xã Chiềng Sơ
+
+03751
+
+Xã Chiềng Ly
+
+03754
+
+Xã Nong Lay
+
+03757
+
+Xã Mường Khiêng
+
+03760
+
+Xã Mường Bám
+
+03763
+
+Xã Long Hẹ
+
+03766
+
+Xã Chiềng Bôm
+
+03769
+
+Xã Thôn Mòn
+
+03772
+
+Xã Tòng Lệnh
+
+03775
+
+Xã Tòng Cọ
+
+03778
+
+Xã Bó Mười
+
+03781
+
+Xã Co Mạ
+
+03784
+
+Xã Púng Tra
+
+03787
+
+Xã Chiềng Pấc
+
+03790
+
+Xã Nậm Lầu
+
+03793
+
+Xã Bon Phặng
+
+03796
+
+Xã Co Tòng
+
+03799
+
+Xã Muội Nọi
+
+03802
+
+Xã Pá Lông
+
+03805
+
+Xã Bản Lầm
+
+**120**
+
+**Huyện Mường La**
+
+03808
+
+Xã ít Ong
+
+03811
+
+Xã Nậm Giôn
+
+03814
+
+Xã Chiềng Lao
+
+03817
+
+Xã Hua Trai
+
+03820
+
+Xã Ngọc Chiến
+
+03823
+
+Xã Mường Trai
+
+03826
+
+Xã Nậm Păm
+
+03829
+
+Xã Chiềng Muôn
+
+03832
+
+Xã Chiềng Ân
+
+03835
+
+Xã Pi Toong
+
+03838
+
+Xã Chiềng Công
+
+03841
+
+Xã Tạ Bú
+
+03844
+
+Xã Chiềng San
+
+03847
+
+Xã Mường Bú
+
+03850
+
+Xã Chiềng Hoa
+
+03853
+
+Xã Mường Chùm
+
+**121**
+
+**Huyện Bắc Yên**
+
+03856
+
+Thị trấn Bắc Yên
+
+03859
+
+Xã Phiêng Ban
+
+03862
+
+Xã Hang Chú
+
+03865
+
+Xã Xín Vàng
+
+03868
+
+Xã Tà Xùa
+
+03871
+
+Xã Bắc Ngà
+
+03874
+
+Xã Làng Chếu
+
+03877
+
+Xã Chim Vàn
+
+03880
+
+Xã Mường Khoa
+
+03883
+
+Xã Song Pe
+
+03886
+
+Xã Hồng Ngài
+
+03889
+
+Xã Tạ Khoa
+
+03892
+
+Xã Phiêng Kôn
+
+03895
+
+Xã Chiềng Sại
+
+**122**
+
+**Huyện Phù Yên**
+
+03898
+
+Thị trấn Phù Yên
+
+03901
+
+Xã Suối Tọ
+
+03904
+
+Xã Mường Thải
+
+03907
+
+Xã Mường Cơi
+
+03910
+
+Xã Quang Huy
+
+03913
+
+Xã Huy Bắc
+
+03916
+
+Xã Huy Thượng
+
+03919
+
+Xã Tân Lang
+
+03922
+
+Xã Gia Phù
+
+03925
+
+Xã Tường Phù
+
+03928
+
+Xã Huy Hạ
+
+03931
+
+Xã Huy Tân
+
+03934
+
+Xã Mường Lang
+
+03937
+
+Xã Suối Bau
+
+03940
+
+Xã Huy Tường
+
+03943
+
+Xã Mường Do
+
+03946
+
+Xã Sập Xa
+
+03949
+
+Xã Tường Thượng
+
+03952
+
+Xã Tường Tiến
+
+03955
+
+Xã Tường Phong
+
+03958
+
+Xã Tường Hạ
+
+03961
+
+Xã Kim Bon
+
+03964
+
+Xã Mường Bang
+
+03967
+
+Xã Đá Đỏ
+
+03970
+
+Xã Tân Phong
+
+03973
+
+Xã Nam Phong
+
+03976
+
+Xã Bắc Phong
+
+**123**
+
+**Huyện Mộc Châu**
+
+03979
+
+Thị trấn Mộc Châu
+
+03982
+
+Thị trấn NT Mộc Châu
+
+03985
+
+Xã Chiềng Sơn
+
+03988
+
+Xã Tân Hợp
+
+03991
+
+Xã Qui Hướng
+
+03994
+
+Xã Suối Bàng
+
+03997
+
+Xã Tân Lập
+
+04000
+
+Xã Nà Mường
+
+04003
+
+Xã Tà Lai
+
+04006
+
+Xã Song Khủa
+
+04009
+
+Xã Liên Hòa
+
+04012
+
+Xã Chiềng Hắc
+
+04015
+
+Xã Hua Păng
+
+04018
+
+Xã Tô Múa
+
+04021
+
+Xã Mường Tè
+
+04024
+
+Xã Chiềng Khừa
+
+04027
+
+Xã Mường Sang
+
+04030
+
+Xã Đông Sang
+
+04033
+
+Xã Phiêng Luông
+
+04036
+
+Xã Chiềng Khoa
+
+04039
+
+Xã Mường Men
+
+04042
+
+Xã Quang Minh
+
+04045
+
+Xã Lóng Sập
+
+04048
+
+Xã Vân Hồ
+
+04051
+
+Xã Lóng Luông
+
+04054
+
+Xã Chiềng Yên
+
+04057
+
+Xã Xuân Nha
+
+**124**
+
+**Huyện Yên Châu**
+
+04060
+
+Thị trấn Yên Châu
+
+04063
+
+Xã Chiềng Đông
+
+04066
+
+Xã Sập Vạt
+
+04069
+
+Xã Chiềng Sàng
+
+04072
+
+Xã Chiềng Pằn
+
+04075
+
+Xã Viêng Lán
+
+04078
+
+Xã Chiềng Hặc
+
+04081
+
+Xã Mường Lựm
+
+04084
+
+Xã Chiềng On
+
+04087
+
+Xã Yên Sơn
+
+04090
+
+Xã Chiềng Khoi
+
+04093
+
+Xã Tú Nang
+
+04096
+
+Xã Lóng Phiêng
+
+04099
+
+Xã Phiêng Khoài
+
+04102
+
+Xã Chiềng Tương
+
+**125**
+
+**Huyện Mai Sơn**
+
+04105
+
+Thị trấn Hát Lót
+
+04108
+
+Xã Chiềng Sung
+
+04111
+
+Xã Mường Bằng
+
+04114
+
+Xã Chiềng Chăn
+
+04117
+
+Xã Mương Tranh
+
+04120
+
+Xã Chiềng Ban
+
+04123
+
+Xã Chiềng Mung
+
+04126
+
+Xã Mường Bon
+
+04129
+
+Xã Chiềng Chung
+
+04132
+
+Xã Chiềng Mai
+
+04135
+
+Xã Hát Lót
+
+04138
+
+Xã Cò Nòi
+
+04141
+
+Xã Chiềng Nơi
+
+04144
+
+Xã Phiêng Cằm
+
+04147
+
+Xã Chiềng Dong
+
+04150
+
+Xã Chiềng Kheo
+
+04153
+
+Xã Chiềng Ve
+
+04156
+
+Xã Chiềng Lương
+
+04159
+
+Xã Phiêng Pằn
+
+04162
+
+Xã Nà Ơt
+
+04165
+
+Xã Tà Hộc
+
+**126**
+
+**Huyện Sông Mã**
+
+04168
+
+Thị trấn Sông Mã
+
+04171
+
+Xã Bó Sinh
+
+04174
+
+Xã Pú Pẩu
+
+04177
+
+Xã Chiềng Phung
+
+04180
+
+Xã Chiềng En
+
+04183
+
+Xã Mường Lầm
+
+04186
+
+Xã Nậm Ty
+
+04189
+
+Xã Đứa Mòn
+
+04192
+
+Xã Yên Hưng
+
+04195
+
+Xã Chiềng Sơ
+
+04198
+
+Xã Nà Ngựu
+
+04201
+
+Xã Nậm Mằn
+
+04204
+
+Xã Chiềng Khoong
+
+04207
+
+Xã Chiềng Cang
+
+04210
+
+Xã Huổi Một
+
+04213
+
+Xã Mường Sai
+
+04216
+
+Xã Mường Cai
+
+04219
+
+Xã Mường Hung
+
+04222
+
+Xã Chiềng Khương
+
+**127**
+
+**Huyện Sốp Cộp**
+
+04225
+
+Xã Sam Kha
+
+04228
+
+Xã Púng Bánh
+
+04231
+
+Xã Xốp Cộp
+
+04234
+
+Xã Dồm Cang
+
+04237
+
+Xã Nậm Lạnh
+
+04240
+
+Xã Mường Lèo
+
+04243
+
+Xã Mường Và
+
+04246
+
+Xã Mường Lạn
+
+15. TỈNH YÊN BÁI
+
+(Tổng số
+xã, phường, thị trấn: 180; xã: 159, phường: 11, thị trấn: 10)
+
+(Total
+number of communes, subdistricts, subtowns: 180)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**132**
+
+**Thành phố Yên Bái**
+
+04249
+
+Phường Yên Thịnh
+
+04252
+
+Phường Yên Ninh
+
+04255
+
+Phường Minh Tân
+
+04258
+
+Phường Nguyễn Thái Học
+
+04261
+
+Phường Đồng Tâm
+
+04264
+
+Phường Nguyễn Phúc
+
+04267
+
+Phường Hồng Hà
+
+04270
+
+Xã Minh Bảo
+
+04273
+
+Xã Nam Cường
+
+04276
+
+Xã Tuy Lộc
+
+04279
+
+Xã Tân Thịnh
+
+**133**
+
+**Thị xã Nghĩa Lộ**
+
+04282
+
+Phường Pú Trạng
+
+04285
+
+Phường Trung Tâm
+
+04288
+
+Phường Tân An
+
+04291
+
+Phường Cầu Thia
+
+04294
+
+Xã Nghĩa Lợi
+
+04297
+
+Xã Nghĩa Phúc
+
+04300
+
+Xã Nghĩa An
+
+**135**
+
+**Huyện Lục Yên**
+
+04303
+
+Thị trấn Yên Thế
+
+04306
+
+Xã Tân Phượng
+
+04309
+
+Xã Lâm Thượng
+
+04312
+
+Xã Khánh Thiện
+
+04315
+
+Xã Minh Chuẩn
+
+04318
+
+Xã Mai Sơn
+
+04321
+
+Xã Khai Trung
+
+04324
+
+Xã Mường Lai
+
+04327
+
+Xã An Lạc
+
+04330
+
+Xã Minh Xuân
+
+04333
+
+Xã Tô Mậu
+
+04336
+
+Xã Tân Lĩnh
+
+04339
+
+Xã Yên Thắng
+
+04342
+
+Xã Khánh Hòa
+
+04345
+
+Xã Vĩnh Lạc
+
+04348
+
+Xã Liễu Đô
+
+04351
+
+Xã Động Quan
+
+04354
+
+Xã Tân Lập
+
+04357
+
+Xã Minh Tiến
+
+04360
+
+Xã Trúc Lâu
+
+04363
+
+Xã Phúc Lợi
+
+04366
+
+Xã Phan Thanh
+
+04369
+
+Xã An Phú
+
+04372
+
+Xã Trung Tâm
+
+**136**
+
+**Huyện Văn Yên**
+
+04375
+
+Thị trấn Mậu A
+
+04378
+
+Xã Lang Thíp
+
+04381
+
+Xã Lâm Giang
+
+04384
+
+Xã Châu Quế Thượng
+
+04387
+
+Xã Châu Quế Hạ
+
+04390
+
+Xã An Bình
+
+04393
+
+Xã Quang Minh
+
+04396
+
+Xã Đông An
+
+04399
+
+Xã Đông Cuông
+
+04402
+
+Xã Phong Dụ Hạ
+
+04405
+
+Xã Mậu Đông
+
+04408
+
+Xã Ngòi A
+
+04411
+
+Xã Xuân Tầm
+
+04414
+
+Xã Tân Hợp
+
+04417
+
+Xã An Thịnh
+
+04420
+
+Xã Yên Thái
+
+04423
+
+Xã Phong Dụ Thượng
+
+04426
+
+Xã Yên Hợp
+
+04429
+
+Xã Đại Sơn
+
+04432
+
+Xã Yên Hưng
+
+04435
+
+Xã Đại Phác
+
+04438
+
+Xã Yên Phú
+
+04441
+
+Xã Xuân Ái
+
+04444
+
+Xã Hoàng Thắng
+
+04447
+
+Xã Viễn Sơn
+
+04450
+
+Xã Mỏ Vàng
+
+04453
+
+Xã Nà Hẩu
+
+**137**
+
+**Huyện Mù Căng Chải**
+
+04456
+
+Thị trấn Mù Căng Chải
+
+04459
+
+Xã Hồ Bốn
+
+04462
+
+Xã Nậm Có
+
+04465
+
+Xã Khao Mang
+
+04468
+
+Xã Mồ Dề
+
+04471
+
+Xã Chế Cu Nha
+
+04474
+
+Xã Lao Chải
+
+04477
+
+Xã Kim Nọi
+
+04480
+
+Xã Cao Phạ
+
+04483
+
+Xã La Pán Tẩn
+
+04486
+
+Xã Dế Su Phình
+
+04489
+
+Xã Chế Tạo
+
+04492
+
+Xã Púng Luông
+
+04495
+
+Xã Nậm Khắt
+
+**138**
+
+**Huyện Trấn Yên**
+
+04498
+
+Thị trấn Cổ Phúc
+
+04501
+
+Xã Tân Đồng
+
+04504
+
+Xã Báo Đáp
+
+04507
+
+Xã Đào Thịnh
+
+04510
+
+Xã Việt Thành
+
+04513
+
+Xã Hòa Cuông
+
+04516
+
+Xã Minh Quán
+
+04519
+
+Xã Quy Mông
+
+04522
+
+Xã Cường Thịnh
+
+04525
+
+Xã Kiên Thành
+
+04528
+
+Xã Nga Quán
+
+04531
+
+Xã Y Can
+
+04534
+
+Xã Minh Tiến
+
+04537
+
+Xã Lương Thịnh
+
+04540
+
+Xã Âu Lâu
+
+04543
+
+Xã Giới Phiên
+
+04546
+
+Xã Hợp Minh
+
+04549
+
+Xã Văn Tiến
+
+04552
+
+Xã Phúc Lộc
+
+04555
+
+Xã Văn Lãng
+
+04558
+
+Xã Văn Phú
+
+04561
+
+Xã Bảo Hưng
+
+04564
+
+Xã Việt Cường
+
+04567
+
+Xã Minh Quân
+
+04570
+
+Xã Hồng Ca
+
+04573
+
+Xã Hưng Thịnh
+
+04576
+
+Xã Hưng Khánh
+
+04579
+
+Xã Việt Hồng
+
+04582
+
+Xã Vân Hội
+
+**139**
+
+**Huyện Trạm Tấu**
+
+04585
+
+Thị trấn Trạm Tấu
+
+04588
+
+Xã Túc Đán
+
+04591
+
+Xã Pá Lau
+
+04594
+
+Xã Xà Hồ
+
+04597
+
+Xã Phình Hồ
+
+04600
+
+Xã Trạm Tấu
+
+04603
+
+Xã Tà Si Láng
+
+04606
+
+Xã Pá Hu
+
+04609
+
+Xã Làng Nhì
+
+04612
+
+Xã Bản Công
+
+04615
+
+Xã Bản Mù
+
+04618
+
+Xã Hát Lìu
+
+**140**
+
+**Huyện Văn Chấn**
+
+04621
+
+Thị trấn NT Liên Sơn
+
+04624
+
+Thị trấn NT Nghĩa Lộ
+
+04627
+
+Thị trấn NT Trần Phú
+
+04630
+
+Xã Tú Lệ
+
+04633
+
+Xã Nậm Búng
+
+04636
+
+Xã Gia Hội
+
+04639
+
+Xã Sùng Đô
+
+04642
+
+Xã Nậm Mười
+
+04645
+
+Xã An Lương
+
+04648
+
+Xã Nậm Lành
+
+04651
+
+Xã Sơn Lương
+
+04654
+
+Xã Suối Quyền
+
+04657
+
+Xã Suối Giàng
+
+04660
+
+Xã Sơn A
+
+04663
+
+Xã Phù Nham
+
+04666
+
+Xã Nghĩa Sơn
+
+04669
+
+Xã Suối Bu
+
+04672
+
+Xã Sơn Thịnh
+
+04675
+
+Xã Thanh Lương
+
+04678
+
+Xã Hạnh Sơn
+
+04681
+
+Xã Phúc Sơn
+
+04684
+
+Xã Thạch Lương
+
+04687
+
+Xã Đại Lịch
+
+04690
+
+Xã Đồng Khê
+
+04693
+
+Xã Cát Thịnh
+
+04696
+
+Xã Tân Thịnh
+
+04699
+
+Xã Chấn Thịnh
+
+04702
+
+Xã Bình Thuận
+
+04705
+
+Xã Thượng Bằng La
+
+04708
+
+Xã Minh An
+
+04711
+
+Xã Nghĩa Tâm
+
+**141**
+
+**Huyện Yên Bình**
+
+04714
+
+Thị trấn Yên Bình
+
+04717
+
+Thị trấn Thác Bà
+
+04720
+
+Xã Xuân Long
+
+04723
+
+Xã Tích Cốc
+
+04726
+
+Xã Cảm Nhân
+
+04729
+
+Xã Ngọc Chấn
+
+04732
+
+Xã Tân Nguyên
+
+04735
+
+Xã Phúc Ninh
+
+04738
+
+Xã Bảo Ái
+
+04741
+
+Xã Mỹ Gia
+
+04744
+
+Xã Xuân Lai
+
+04747
+
+Xã Mông Sơn
+
+04750
+
+Xã Cảm Ân
+
+04753
+
+Xã Yên Thành
+
+04756
+
+Xã Tân Hương
+
+04759
+
+Xã Phúc An
+
+04762
+
+Xã Bạch Hà
+
+04765
+
+Xã Vũ Linh
+
+04768
+
+Xã Đại Đồng
+
+04771
+
+Xã Vĩnh Kiên
+
+04774
+
+Xã Yên Bình
+
+04777
+
+Xã Thịnh Hưng
+
+04786
+
+Xã Đại Minh
+
+04780
+
+Xã Hán Đà
+
+04783
+
+Xã Phú Thịnh
+
+04786
+
+Xã Đại Minh
+
+17. TỈNH HÒA BÌNH
+
+(Tổng số
+xã, phường, thị trấn: 214; xã: 195, phường: 8, thị trấn: 11)
+
+(Total
+number of communes, subdistricts, subtowns: 214)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**148**
+
+**Thị xã Hòa Bình**
+
+04789
+
+Phường Hòa Bình
+
+04792
+
+Phường Tân Hòa
+
+04795
+
+Phường Thịnh Lang
+
+04798
+
+Phường Hữu Nghị
+
+04801
+
+Phường Tân Thịnh
+
+04804
+
+Phường Đồng Tiến
+
+04807
+
+Phường Phương Lâm
+
+04810
+
+Phường Chăm Mát
+
+04813
+
+Xã Yên Mông
+
+04816
+
+Xã Sủ Ngòi
+
+04819
+
+Xã Dân Chủ
+
+04822
+
+Xã Thái Thịnh
+
+04825
+
+Xã Thái Bình
+
+04828
+
+Xã Thống Nhất
+
+**150**
+
+**Huyện Đà Bắc**
+
+04831
+
+Thị trấn Đà Bắc
+
+04834
+
+Xã Đồng Nghê
+
+04837
+
+Xã Suối Nánh
+
+04840
+
+Xã Giáp Đắt
+
+04843
+
+Xã Mường Tuổng
+
+04846
+
+Xã Mường Chiềng
+
+04849
+
+Xã Tân Pheo
+
+04852
+
+Xã Đồng Chum
+
+04855
+
+Xã Tân Minh
+
+04858
+
+Xã Đoàn Kết
+
+04861
+
+Xã Đồng Ruộng
+
+04864
+
+Xã Hào Lý
+
+04867
+
+Xã Tu Lý
+
+04870
+
+Xã Trung Thành
+
+04873
+
+Xã Yên Hòa
+
+04876
+
+Xã Cao Sơn
+
+04879
+
+Xã Toàn Sơn
+
+04882
+
+Xã Tân Dân
+
+04885
+
+Xã Hiền Lương
+
+04888
+
+Xã Tiền Phong
+
+04891
+
+Xã Vầy Nưa
+
+**151**
+
+**Huyện Kỳ Sơn**
+
+04894
+
+Thị trấn Kỳ Sơn
+
+04897
+
+Xã Hợp Thịnh
+
+04900
+
+Xã Phú Minh
+
+04903
+
+Xã Hợp Thành
+
+04906
+
+Xã Phúc Tiến
+
+04909
+
+Xã Dân Hòa
+
+04912
+
+Xã Mông Hóa
+
+04915
+
+Xã Dân Hạ
+
+04918
+
+Xã Trung Minh
+
+04921
+
+Xã Độc Lập
+
+**152**
+
+**Huyện Lương Sơn**
+
+04924
+
+Thị trấn Lương Sơn
+
+04927
+
+Xã Yên Trung
+
+04930
+
+Xã Yên Bình
+
+04933
+
+Xã Yên Quang
+
+04936
+
+Xã Tiến Xuân
+
+04939
+
+Xã Đông Xuân
+
+04942
+
+Xã Lâm Sơn
+
+04945
+
+Xã Hòa Sơn
+
+04948
+
+Xã Trường Sơn
+
+04951
+
+Xã Tân Vinh
+
+04954
+
+Xã Nhuận Trạch
+
+04957
+
+Xã Cao Răm
+
+04960
+
+Xã Cư Yên
+
+04963
+
+Xã Hợp Hòa
+
+04966
+
+Xã Liên Sơn
+
+04969
+
+Xã Thành Lập
+
+04972
+
+Xã Tiến Sơn
+
+04975
+
+Xã Trung Sơn
+
+**153**
+
+**Huyện Kim Bôi**
+
+04978
+
+Thị trấn Bo
+
+04981
+
+Thị trấn Thanh Hà
+
+04984
+
+Xã Đú Sáng
+
+04987
+
+Xã Bắc Sơn
+
+04990
+
+Xã Bình Sơn
+
+04993
+
+Xã Hùng Tiến
+
+04996
+
+Xã Tân Thành
+
+04999
+
+Xã Tú Sơn
+
+05002
+
+Xã Nật Sơn
+
+05005
+
+Xã Vĩnh Tiến
+
+05008
+
+Xã Cao Dương
+
+05011
+
+Xã Sơn Thủy
+
+05014
+
+Xã Đông Bắc
+
+05017
+
+Xã Thượng Bì
+
+05020
+
+Xã Lập Chiệng
+
+05023
+
+Xã Hợp Châu
+
+05026
+
+Xã Vĩnh Đồng
+
+05029
+
+Xã Hạ Bì
+
+05032
+
+Xã Trung Bì
+
+05035
+
+Xã Kim Sơn
+
+05038
+
+Xã Hợp Đồng
+
+05041
+
+Xã Long Sơn
+
+05044
+
+Xã Thượng Tiến
+
+05047
+
+Xã Cao Thắng
+
+05050
+
+Xã Kim Tiến
+
+05053
+
+Xã Kim Bình
+
+05056
+
+Xã Hợp Kim
+
+05059
+
+Xã Thanh Lương
+
+05062
+
+Xã Hợp Thanh
+
+05065
+
+Xã Kim Bôi
+
+05068
+
+Xã Nam Thượng
+
+05071
+
+Xã Kim Truy
+
+05074
+
+Xã Thanh Nông
+
+05077
+
+Xã Cuối Hạ
+
+05080
+
+Xã Sào Báy
+
+05083
+
+Xã Mi Hòa
+
+05086
+
+Xã Nuông Dăm
+
+**154**
+
+**Huyện Cao Phong**
+
+05089
+
+Thị trấn Cao Phong
+
+05092
+
+Xã Bình Thanh
+
+05095
+
+Xã Thung Nai
+
+05098
+
+Xã Bắc Phong
+
+05101
+
+Xã Thu Phong
+
+05104
+
+Xã Đông Phong
+
+05107
+
+Xã Xuân Phong
+
+05110
+
+Xã Tây Phong
+
+05113
+
+Xã Tân Phong
+
+05116
+
+Xã Dũng Phong
+
+05119
+
+Xã Nam Phong
+
+05122
+
+Xã Yên Lập
+
+05125
+
+Xã Yên Thượng
+
+**155**
+
+**Huyện Tân Lạc**
+
+05128
+
+Thị trấn Mường Khến
+
+05131
+
+Xã Ngòi Hoa
+
+05134
+
+Xã Trung Hòa
+
+05137
+
+Xã Phú Vinh
+
+05140
+
+Xã Phú Cường
+
+05143
+
+Xã Mỹ Hòa
+
+05146
+
+Xã Quy Hậu
+
+05149
+
+Xã Phong Phú
+
+05152
+
+Xã Quyết Chiến
+
+05155
+
+Xã Mãn Đức
+
+05158
+
+Xã Địch Giáo
+
+05161
+
+Xã Tuân Lộ
+
+05164
+
+Xã Tử Nê
+
+05167
+
+Xã Thanh Hối
+
+05170
+
+Xã Ngọc Mỹ
+
+05173
+
+Xã Đông Lai
+
+05176
+
+Xã Lũng Vân
+
+05179
+
+Xã Bắc Sơn
+
+05182
+
+Xã Quy Mỹ
+
+05185
+
+Xã Do Nhân
+
+05188
+
+Xã Nam Sơn
+
+05191
+
+Xã Lỗ Sơn
+
+05194
+
+Xã Ngổ Luông
+
+05197
+
+Xã Gia Mô
+
+**156**
+
+**Huyện Mai Châu**
+
+05200
+
+Thị trấn Mai Châu
+
+05203
+
+Xã Tân Mai
+
+05206
+
+Xã Phúc Sạn
+
+05209
+
+Xã Pà Cò
+
+05212
+
+Xã Hang Kia
+
+05215
+
+Xã Ba Khan
+
+05218
+
+Xã Tân Sơn
+
+05221
+
+Xã Đồng Bảng
+
+05224
+
+Xã Cun Pheo
+
+05227
+
+Xã Bao La
+
+05230
+
+Xã Piềng Vế
+
+05233
+
+Xã Tòng Đậu
+
+05236
+
+Xã Nà Mèo
+
+05239
+
+Xã Thung Khe
+
+05242
+
+Xã Nà Phòn
+
+05245
+
+Xã Săm Khóe
+
+05248
+
+Xã Chiềng Châu
+
+05251
+
+Xã Mai Hạ
+
+05254
+
+Xã Nong Luông
+
+05257
+
+Xã Mai Hịch
+
+05260
+
+Xã Pù Pin
+
+05263
+
+Xã Vạn Mai
+
+**157**
+
+**Huyện Lạc Sơn**
+
+05266
+
+Thị trấn Vụ Bản
+
+05269
+
+Xã Quý Hòa
+
+05272
+
+Xã Miền Đồi
+
+05275
+
+Xã Mỹ Thành
+
+05278
+
+Xã Tuân Đạo
+
+05281
+
+Xã Văn Nghĩa
+
+05284
+
+Xã Văn Sơn
+
+05287
+
+Xã Tân Lập
+
+05290
+
+Xã Nhân Nghĩa
+
+05293
+
+Xã Thượng Cốc
+
+05296
+
+Xã Phú Lương
+
+05299
+
+Xã Phúc Tuy
+
+05302
+
+Xã Xuất Hóa
+
+05305
+
+Xã Yên Phú
+
+05308
+
+Xã Bình Hẻm
+
+05311
+
+Xã Chí Thiện
+
+05314
+
+Xã Bình Cảng
+
+05317
+
+Xã Bình Chân
+
+05320
+
+Xã Định Cư
+
+05323
+
+Xã Chí Đạo
+
+05326
+
+Xã Liên Vũ
+
+05329
+
+Xã Ngọc Sơn
+
+05332
+
+Xã Hương Nhượng
+
+05335
+
+Xã Vũ Lâm
+
+05338
+
+Xã Tự Do
+
+05341
+
+Xã Yên Nghiệp
+
+05344
+
+Xã Tân Mỹ
+
+05347
+
+Xã Ân Nghĩa
+
+05350
+
+Xã Ngọc Lâu
+
+**158**
+
+**Huyện Yên Thủy**
+
+05353
+
+Thị trấn Hàng Trạm
+
+05356
+
+Xã Lạc Sỹ
+
+05359
+
+Xã Lạc Hưng
+
+05362
+
+Xã Lạc Lương
+
+05365
+
+Xã Bảo Hiệu
+
+05368
+
+Xã Đa Phúc
+
+05371
+
+Xã Hữu Lợi
+
+05374
+
+Xã Lạc Thịnh
+
+05377
+
+Xã Yên Lạc
+
+05380
+
+Xã Đoàn Kết
+
+05383
+
+Xã Phú Lai
+
+05386
+
+Xã Yên Trị
+
+05389
+
+Xã Ngọc Lương
+
+**159**
+
+**Huyện Lạc Thủy**
+
+05392
+
+Thị trấn Chi Nê
+
+05395
+
+Xã Phú Lão
+
+05398
+
+Xã Phú Thành
+
+05401
+
+Xã Cố Nghĩa
+
+05404
+
+Xã Hưng Thi
+
+05407
+
+Xã Lạc Long
+
+05410
+
+Xã Liên Hòa
+
+05413
+
+Xã Khoan Dụ
+
+05416
+
+Xã Đồng Môn
+
+05419
+
+Xã Đồng Tâm
+
+05422
+
+Xã Yên Bồng
+
+05425
+
+Xã An Lạc
+
+05428
+
+Xã An Bình
+
+19. TỈNH THÁI NGUYÊN
+
+(Tổng số
+xã, phường, thị trấn: 180; xã: 144, phường: 23, thị trấn: 13)
+
+(Total
+number of communes, subdistricts, subtowns: 180)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**164**
+
+**Thành phố Thái Nguyên**
+
+05431
+
+Phường Quán Triều
+
+05434
+
+Phường Quang Vinh
+
+05437
+
+Phường Túc Duyên
+
+05440
+
+Phường Hoàng Văn Thụ
+
+05443
+
+Phường Trưng Vương
+
+05446
+
+Phường Quang Trung
+
+05449
+
+Phường Phan Đình Phùng
+
+05452
+
+Phường Tân Thịnh
+
+05455
+
+Phường Thịnh Đán
+
+05458
+
+Phường Đồng Quang
+
+05461
+
+Phường Gia Sàng
+
+05464
+
+Phường Tân Lập
+
+05467
+
+Phường Cam Giá
+
+05470
+
+Phường Phú Xá
+
+05473
+
+Phường Hương Sơn
+
+05476
+
+Phường Trung Thành
+
+05479
+
+Phường Tân Thành
+
+05482
+
+Phường Tân Long
+
+05485
+
+Xã Phúc Hà
+
+05488
+
+Xã Phúc Xuân
+
+05491
+
+Xã Quyết Thắng
+
+05494
+
+Xã Phúc Trìu
+
+05497
+
+Xã Thịnh Đức
+
+05500
+
+Xã Tích Lương
+
+05503
+
+Xã Tân Cương
+
+05506
+
+Xã Lương Sơn
+
+**165**
+
+**Thị xã Sông Công**
+
+05509
+
+Phường Lương Châu
+
+05512
+
+Phường Mỏ Chè
+
+05515
+
+Phường Cải Đan
+
+05518
+
+Phường Thắng Lợi
+
+05521
+
+Phường Phố Cò
+
+05524
+
+Xã Vinh Sơn
+
+05527
+
+Xã Tân Quang
+
+05530
+
+Xã Bình Sơn
+
+05533
+
+Xã Bá Xuyên
+
+**167**
+
+**Huyện Định Hóa**
+
+05536
+
+Thị trấn Chợ Chu
+
+05539
+
+Xã Linh Thông
+
+05542
+
+Xã Lam Vỹ
+
+05545
+
+Xã Quy Kỳ
+
+05548
+
+Xã Tân Thịnh
+
+05551
+
+Xã Kim Phượng
+
+05554
+
+Xã Bảo Linh
+
+05557
+
+Xã Kim Sơn
+
+05560
+
+Xã Phúc Chu
+
+05563
+
+Xã Tân Dương
+
+05566
+
+Xã Phượng Tiến
+
+05569
+
+Xã Bảo Cường
+
+05572
+
+Xã Đồng Thịnh
+
+05575
+
+Xã Định Biên
+
+05578
+
+Xã Thanh Định
+
+05581
+
+Xã Trung Hội
+
+05584
+
+Xã Trung Lương
+
+05587
+
+Xã Bình Yên
+
+05590
+
+Xã Điềm Mặc
+
+05593
+
+Xã Phú Tiến
+
+05596
+
+Xã Bộc Nhiêu
+
+05599
+
+Xã Sơn Phú
+
+05602
+
+Xã Phú Đình
+
+05605
+
+Xã Bình Thành
+
+**168**
+
+**Huyện Phú Lương**
+
+05608
+
+Thị trấn Giang Tiên
+
+05611
+
+Thị trấn Đu
+
+05614
+
+Xã Yên Ninh
+
+05617
+
+Xã Yên Trạch
+
+05620
+
+Xã Yên Đổ
+
+05623
+
+Xã Yên Lạc
+
+05626
+
+Xã Ôn Lương
+
+05629
+
+Xã Động Đạt
+
+05632
+
+Xã Phủ Lý
+
+05635
+
+Xã Phú Đô
+
+05638
+
+Xã Hợp Thành
+
+05641
+
+Xã Tức Tranh
+
+05644
+
+Xã Phấn Mễ
+
+05647
+
+Xã Vô Tranh
+
+05650
+
+Xã Cổ Lũng
+
+05653
+
+Xã Sơn Cẩm
+
+**169**
+
+**Huyện Đồng Hỷ**
+
+05656
+
+Thị trấn Sông Cầu
+
+05659
+
+Thị trấn Chùa Hang
+
+05662
+
+Thị trấn Trại Cau
+
+05665
+
+Xã Văn Lăng
+
+05668
+
+Xã Tân Long
+
+05671
+
+Xã Hòa Bình
+
+05674
+
+Xã Quang Sơn
+
+05677
+
+Xã Minh Lập
+
+05680
+
+Xã Văn Hán
+
+05683
+
+Xã Hóa Trung
+
+05686
+
+Xã Khe Mo
+
+05689
+
+Xã Cây Thị
+
+05692
+
+Xã Hóa Thượng
+
+05695
+
+Xã Cao Ngạn
+
+05698
+
+Xã Hợp Tiến
+
+05701
+
+Xã Linh Sơn
+
+05704
+
+Xã Tân Lợi
+
+05707
+
+Xã Nam Hòa
+
+05710
+
+Xã Đồng Bẩm
+
+05713
+
+Xã Huống Thượng
+
+**170**
+
+**Huyện Võ Nhai**
+
+05716
+
+Thị trấn Đình Cả
+
+05719
+
+Xã Sảng Mộc
+
+05722
+
+Xã Nghinh Tường
+
+05725
+
+Xã Thần Xa
+
+05728
+
+Xã Vũ Chấn
+
+05731
+
+Xã Thượng Nung
+
+05734
+
+Xã Phú Thượng
+
+05737
+
+Xã Cúc Đường
+
+05740
+
+Xã La Hiên
+
+05743
+
+Xã Lâu Thượng
+
+05746
+
+Xã Tràng Xá
+
+05749
+
+Xã Phương Giao
+
+05752
+
+Xã Liên Minh
+
+05755
+
+Xã Dân Tiến
+
+05758
+
+Xã Bình Long
+
+**171**
+
+**Huyện Đại Từ**
+
+05761
+
+Thị trấn Đại Từ
+
+05764
+
+Thị trấn Quân Chu
+
+05767
+
+Xã Phúc Lương
+
+05770
+
+Xã Minh Tiến
+
+05773
+
+Xã Yên Lãng
+
+05776
+
+Xã Đức Lương
+
+05779
+
+Xã Phú Cường
+
+05782
+
+Xã Na Mao
+
+05785
+
+Xã Phú Lạc
+
+05788
+
+Xã Tân Linh
+
+05791
+
+Xã Phú Thịnh
+
+05794
+
+Xã Phục Linh
+
+05797
+
+Xã Phú Xuyên
+
+05800
+
+Xã Bản Ngoại
+
+05803
+
+Xã Tiên Hội
+
+05806
+
+Xã Hùng Sơn
+
+05809
+
+Xã Cù Vân
+
+05812
+
+Xã Hà Thượng
+
+05815
+
+Xã La Bằng
+
+05818
+
+Xã Hoàng Nông
+
+05821
+
+Xã Khôi Kỳ
+
+05824
+
+Xã An Khánh
+
+05827
+
+Xã Tân Thái
+
+05830
+
+Xã Bình Thuận
+
+05833
+
+Xã Lục Ba
+
+05836
+
+Xã Mỹ Yên
+
+05839
+
+Xã Vạn Thọ
+
+05842
+
+Xã Văn Yên
+
+05845
+
+Xã Ký Phú
+
+05848
+
+Xã Cát Nê
+
+05851
+
+Xã Quân Chu
+
+**172**
+
+**Huyện Phổ Yên**
+
+05854
+
+Thị trấn Bãi Bông
+
+05857
+
+Thị trấn Bắc Sơn
+
+05860
+
+Thị trấn Ba Hàng
+
+05863
+
+Xã Phúc Tân
+
+05866
+
+Xã Phúc Thuận
+
+05869
+
+Xã Hồng Tiến
+
+05872
+
+Xã Minh Đức
+
+05875
+
+Xã Đắc Sơn
+
+05878
+
+Xã Đồng Tiến
+
+05881
+
+Xã Thành Công
+
+05884
+
+Xã Tiên Phong
+
+05887
+
+Xã Vạn Phái
+
+05890
+
+Xã Nam Tiến
+
+05893
+
+Xã Tân Hương
+
+05896
+
+Xã Đông Cao
+
+05899
+
+Xã Trung Thành
+
+05902
+
+Xã Tân Phú
+
+05905
+
+Xã Thuận Thành
+
+**173**
+
+**Huyện Phú Bình**
+
+05908
+
+Thị trấn Hương Sơn
+
+05911
+
+Xã Bàn Đạt
+
+05914
+
+Xã Đồng Liên
+
+05917
+
+Xã Tân Khánh
+
+05920
+
+Xã Tân Kim
+
+05923
+
+Xã Tân Thành
+
+05926
+
+Xã Đào Xá
+
+05929
+
+Xã Bảo Lý
+
+05932
+
+Xã Thượng Đình
+
+05935
+
+Xã Tân Hòa
+
+05938
+
+Xã Nhã Lộng
+
+05941
+
+Xã Điềm Thụy
+
+05944
+
+Xã Xuân Phương
+
+05947
+
+Xã Tân Đức
+
+05950
+
+Xã Úc Kỳ
+
+05953
+
+Xã Lương Phú
+
+05956
+
+Xã Nga My
+
+05959
+
+Xã Kha Sơn
+
+05962
+
+Xã Thanh Ninh
+
+05965
+
+Xã Dương Thành
+
+05968
+
+Xã Hà Châu
+
+20. TỈNH LẠNG SƠN
+
+(Tổng số
+xã, phường, thị trấn: 226; xã: 207, phường: 5, thị trấn: 14)
+
+(Total
+number of communes, subdistricts, subtowns: 226)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**178**
+
+**Thành phố Lạng Sơn**
+
+05971
+
+Phường Hoàng Văn Thụ
+
+05974
+
+Phường Tam Thanh
+
+05977
+
+Phường Vĩnh Trại
+
+05980
+
+Phường Đông Kinh
+
+05983
+
+Phường Chi Lăng
+
+05986
+
+Xã Hoàng Đồng
+
+05989
+
+Xã Quảng Lạc
+
+05992
+
+Xã Mai Pha
+
+**180**
+
+**Huyện Tràng Định**
+
+05995
+
+Thị trấn Thất Khê
+
+05998
+
+Xã Khánh Long
+
+06001
+
+Xã Đoàn Kết
+
+06004
+
+Xã Quốc Khánh
+
+06007
+
+Xã Vĩnh Tiến
+
+06010
+
+Xã Cao Minh
+
+06013
+
+Xã Chí Minh
+
+06016
+
+Xã Tri Phương
+
+06019
+
+Xã Tân Tiến
+
+06022
+
+Xã Tân Yên
+
+06025
+
+Xã Đội Cấn
+
+06028
+
+Xã Tân Minh
+
+06031
+
+Xã Kim Đồng
+
+06034
+
+Xã Chi Lăng
+
+06037
+
+Xã Trung Thành
+
+06040
+
+Xã Đại Đồng
+
+06043
+
+Xã Đào Viên
+
+06046
+
+Xã Đề Thám
+
+06049
+
+Xã Kháng Chiến
+
+06052
+
+Xã Bắc Ái
+
+06055
+
+Xã Hùng Sơn
+
+06058
+
+Xã Quốc Việt
+
+06061
+
+Xã Hùng Việt
+
+**181**
+
+**Huyện Bình Gia**
+
+06064
+
+Thị trấn Bình Gia
+
+06067
+
+Xã Hưng Đạo
+
+06070
+
+Xã Vĩnh Yên
+
+06073
+
+Xã Hoa Thám
+
+06076
+
+Xã Quý Hòa
+
+06079
+
+Xã Hồng Phong
+
+06082
+
+Xã Yên Lỗ
+
+06085
+
+Xã Thiện Hòa
+
+06088
+
+Xã Quang Trung
+
+06091
+
+Xã Thiện Thuật
+
+06094
+
+Xã Minh Khai
+
+06097
+
+Xã Thiện Long
+
+06100
+
+Xã Hoàng Văn Thụ
+
+06103
+
+Xã Hòa Bình
+
+06106
+
+Xã Mông Ân
+
+06109
+
+Xã Tân Hòa
+
+06112
+
+Xã Tô Hiệu
+
+06115
+
+Xã Hồng Thái
+
+06118
+
+Xã Bình La
+
+06121
+
+Xã Tân Văn
+
+**182**
+
+**Huyện Văn Lãng**
+
+06124
+
+Thị trấn Na Sầm
+
+06127
+
+Xã Trùng Khánh
+
+06130
+
+Xã Tân Việt
+
+06133
+
+Xã Bắc La
+
+06136
+
+Xã Thụy Hùng
+
+06139
+
+Xã Trùng Quán
+
+06142
+
+Xã Tân Tác
+
+06145
+
+Xã An Hùng
+
+06148
+
+Xã Thanh Long
+
+06151
+
+Xã Hội Hoan
+
+06154
+
+Xã Tân Lang
+
+06157
+
+Xã Hoàng Việt
+
+06160
+
+Xã Gia Miễn
+
+06163
+
+Xã Thành Hòa
+
+06166
+
+Xã Tân Thanh
+
+06169
+
+Xã Nam La
+
+06172
+
+Xã Tân Mỹ
+
+06175
+
+Xã Hồng Thái
+
+06178
+
+Xã Hoàng Văn Thụ
+
+06181
+
+Xã Nhạc Kỳ
+
+**183**
+
+**Huyện Cao Lộc**
+
+06184
+
+Thị trấn Đồng Đăng
+
+06187
+
+Thị trấn Cao Lộc
+
+06190
+
+Xã Bảo Lâm
+
+06193
+
+Xã Thanh Lòa
+
+06196
+
+Xã Cao Lâu
+
+06199
+
+Xã Thạch Đạn
+
+06202
+
+Xã Xuất Lễ
+
+06205
+
+Xã Hồng Phong
+
+06208
+
+Xã Thụy Hùng
+
+06211
+
+Xã Lộc Yên
+
+06214
+
+Xã Phú Xá
+
+06217
+
+Xã Bình Trung
+
+06220
+
+Xã Hải Yến
+
+06223
+
+Xã Hòa Cư
+
+06226
+
+Xã Hợp Thành
+
+06229
+
+Xã Song Giáp
+
+06232
+
+Xã Công Sơn
+
+06235
+
+Xã Gia Cát
+
+06238
+
+Xã Mẫu Sơn
+
+06241
+
+Xã Xuân Long
+
+06244
+
+Xã Tân Liên
+
+06247
+
+Xã Yên Trạch
+
+06250
+
+Xã Tân Thành
+
+**184**
+
+**Huyện Văn Quan**
+
+06253
+
+Thị trấn Văn Quan
+
+06256
+
+Xã Trấn Ninh
+
+06259
+
+Xã Phú Mỹ
+
+06262
+
+Xã Việt Yên
+
+06265
+
+Xã Song Giang
+
+06268
+
+Xã Vân Mộng
+
+06271
+
+Xã Vĩnh Lại
+
+06274
+
+Xã Hòa Bình
+
+06277
+
+Xã Tú Xuyên
+
+06280
+
+Xã Văn An
+
+06283
+
+Xã Đại An
+
+06286
+
+Xã Khánh Khê
+
+06289
+
+Xã Chu Túc
+
+06292
+
+Xã Lương Năng
+
+06295
+
+Xã Đồng Giáp
+
+06298
+
+Xã Xuân Mai
+
+06301
+
+Xã Tràng Các
+
+06304
+
+Xã Tràng Sơn
+
+06307
+
+Xã Tân Đoàn
+
+06310
+
+Xã Bình Phúc
+
+06313
+
+Xã Tri Lễ
+
+06316
+
+Xã Tràng Phái
+
+06319
+
+Xã Yên Phúc
+
+06322
+
+Xã Hữu Lễ
+
+**185**
+
+**Huyện Bắc Sơn**
+
+06325
+
+Thị trấn Bắc Sơn
+
+06328
+
+Xã Long Đống
+
+06331
+
+Xã Vạn Thủy
+
+06334
+
+Xã Quỳnh Sơn
+
+06337
+
+Xã Đồng Ý
+
+06340
+
+Xã Tân Tri
+
+06343
+
+Xã Bắc Sơn
+
+06346
+
+Xã Hữu Vĩnh
+
+06349
+
+Xã Hưng Vũ
+
+06352
+
+Xã Tân Lập
+
+06355
+
+Xã Vũ Sơn
+
+06358
+
+Xã Chiêu Vũ
+
+06361
+
+Xã Tân Hương
+
+06364
+
+Xã Chiến Thắng
+
+06367
+
+Xã Vũ Lăng
+
+06370
+
+Xã Trấn Yên
+
+06373
+
+Xã Vũ Lễ
+
+06376
+
+Xã Nhất Hòa
+
+06379
+
+Xã Tân Thành
+
+06382
+
+Xã Nhất Tiến
+
+**186**
+
+**Huyện Hữu Lũng**
+
+06385
+
+Thị trấn Hữu Lũng
+
+06388
+
+Xã Hữu Liên
+
+06391
+
+Xã Yên Bình
+
+06394
+
+Xã Quyết Thắng
+
+06397
+
+Xã Hòa Bình
+
+06400
+
+Xã Yên Thịnh
+
+06403
+
+Xã Yên Sơn
+
+06406
+
+Xã Thiện Kỵ
+
+06409
+
+Xã Tân Lập
+
+06412
+
+Xã Yên Vượng
+
+06415
+
+Xã Minh Tiến
+
+06418
+
+Xã Nhật Tiến
+
+06421
+
+Xã Thanh Sơn
+
+06424
+
+Xã Đồng Tân
+
+06427
+
+Xã Cai Kinh
+
+06430
+
+Xã Hòa Lạc
+
+06433
+
+Xã Vân Nham
+
+06436
+
+Xã Đồng Tiến
+
+06439
+
+Xã Đô Lương
+
+06442
+
+Xã Tân Thành
+
+06445
+
+Xã Hòa Sơn
+
+06448
+
+Xã Minh Sơn
+
+06451
+
+Xã Hồ Sơn
+
+06454
+
+Xã Sơn Hà
+
+06457
+
+Xã Minh Hòa
+
+06460
+
+Xã Hòa Thắng
+
+**187**
+
+**Huyện Chi Lăng**
+
+06463
+
+Thị trấn Đồng Mỏ
+
+06466
+
+Thị trấn Chi Lăng
+
+06469
+
+Xã Vân An
+
+06472
+
+Xã Vân Thủy
+
+06475
+
+Xã Gia Lộc
+
+06478
+
+Xã Bắc Thủy
+
+06481
+
+Xã Chiến Thắng
+
+06484
+
+Xã Mai Sao
+
+06487
+
+Xã Bằng Hữu
+
+06490
+
+Xã Thượng Cường
+
+06493
+
+Xã Bằng Mạc
+
+06496
+
+Xã Nhân Lý
+
+06499
+
+Xã Lâm Sơn
+
+06502
+
+Xã Liên Sơn
+
+06505
+
+Xã Vạn Linh
+
+06508
+
+Xã Hòa Bình
+
+06511
+
+Xã Quang Lang
+
+06514
+
+Xã Hữu Kiên
+
+06517
+
+Xã Quan Sơn
+
+06520
+
+Xã Y Tịch
+
+06523
+
+Xã Chi Lăng
+
+**188**
+
+**Huyện Lộc Bình**
+
+06526
+
+Thị trấn Na Dương
+
+06529
+
+Thị trấn Lộc Bình
+
+06532
+
+Xã Mẫu Sơn
+
+06535
+
+Xã Bằng Khánh
+
+06538
+
+Xã Xuân Lễ
+
+06541
+
+Xã Yên Khoái
+
+06544
+
+Xã Xuân Mãn
+
+06547
+
+Xã Tú Mịch
+
+06550
+
+Xã Hữu Khánh
+
+06553
+
+Xã Đồng Bục
+
+06556
+
+Xã Vân Mộng
+
+06559
+
+Xã Tam Gia
+
+06562
+
+Xã Tú Đoạn
+
+06565
+
+Xã Khuất Xá
+
+06568
+
+Xã Như Khuê
+
+06571
+
+Xã Lục Thôn
+
+06574
+
+Xã Tĩnh Bắc
+
+06577
+
+Xã Xuân Tình
+
+06580
+
+Xã Hiệp Hạ
+
+06583
+
+Xã Nhượng Bạn
+
+06586
+
+Xã Quan Bản
+
+06589
+
+Xã Sàn Viên
+
+06592
+
+Xã Đông Quan
+
+06595
+
+Xã Minh Phát
+
+06598
+
+Xã Hữu Lân
+
+06601
+
+Xã Lợi Bác
+
+06604
+
+Xã Nam Quan
+
+06607
+
+Xã Xuân Dương
+
+06610
+
+Xã Ái Quốc
+
+**189**
+
+**Huyện Đình Lập**
+
+06613
+
+Thị trấn Đình Lập
+
+06616
+
+Thị trấn N.T Thái Bình
+
+06619
+
+Xã Bắc Xa
+
+06622
+
+Xã Bính Xá
+
+06625
+
+Xã Kiên Mộc
+
+06628
+
+Xã Đình Lập
+
+06631
+
+Xã Thái Bình
+
+06634
+
+Xã Cường Lợi
+
+06637
+
+Xã Châu Sơn
+
+06640
+
+Xã Lâm Ca
+
+06643
+
+Xã Đồng Thắng
+
+06646
+
+Xã Bắc Lãng
+
+22. TỈNH QUẢNG NINH
+
+(Tổng số
+xã, phường, thị trấn: 184; xã: 130, phường: 43, thị trấn: 11)
+
+(Total
+number of communes, subdistricts, subtowns: 184)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**193**
+
+**Thành phố Hạ Long**
+
+06649
+
+Phường Hà Khánh
+
+06652
+
+Phường Hà Phong
+
+06655
+
+Phường Hà Khẩu
+
+06658
+
+Phường Cao Xanh
+
+06661
+
+Phường Giếng Đáy
+
+06664
+
+Phường Hà Tu
+
+06667
+
+Phường Hà Trung
+
+06670
+
+Phường Hà Lầm
+
+06673
+
+Phường Bãi Cháy
+
+06676
+
+Phường Cao Thắng
+
+06679
+
+Phường Hùng Thắng
+
+06682
+
+Phường Yết Kiêu
+
+06685
+
+Phường Trần Hưng Đạo
+
+06688
+
+Phường Hồng Hải
+
+06691
+
+Phường Hồng Gai
+
+06694
+
+Phường Bạch Đằng
+
+06697
+
+Phường Hồng Hà
+
+06700
+
+Phường Tuần Châu
+
+06703
+
+Xã Việt Hưng
+
+06706
+
+Xã Đại Yên
+
+**194**
+
+**Thị xã Móng Cái**
+
+06709
+
+Phường Ka Long
+
+06712
+
+Phường Trần Phú
+
+06715
+
+Phường Ninh Dương
+
+06718
+
+Phường Hoà Lạc
+
+06721
+
+Phường Trà Cổ
+
+06724
+
+Xã Hải Sơn
+
+06727
+
+Xã Bắc Sơn
+
+06730
+
+Xã Hải Đông
+
+06733
+
+Xã Hải Tiến
+
+06736
+
+Xã Hải Yên
+
+06739
+
+Xã Quảng Nghĩa
+
+06742
+
+Xã Hải Hoà
+
+06745
+
+Xã Hải Xuân
+
+06748
+
+Xã Vạn Ninh
+
+06751
+
+Xã Bình Ngọc
+
+06754
+
+Xã Vĩnh Trung
+
+06757
+
+Xã Vĩnh Thực
+
+**195**
+
+**Thị xã Cẩm Phả**
+
+06760
+
+Phường Mông Dương
+
+06763
+
+Phường Cửa Ông
+
+06766
+
+Phường Cẩm Sơn
+
+06769
+
+Phường Cẩm Đông
+
+06772
+
+Phường Cẩm Phú
+
+06775
+
+Phường Cẩm Tây
+
+06778
+
+Phường Quang Hanh
+
+06781
+
+Phường Cẩm Thịnh
+
+06784
+
+Phường Cẩm Thủy
+
+06787
+
+Phường Cẩm Thạch
+
+06790
+
+Phường Cẩm Thành
+
+06793
+
+Phường Cẩm Trung
+
+06796
+
+Phường Cẩm Bình
+
+06799
+
+Xã Cộng Hòa
+
+06802
+
+Xã Cẩm Hải
+
+06805
+
+Xã Dương Huy
+
+**196**
+
+**Thị xã Uông Bí**
+
+06808
+
+Phường Vàng Danh
+
+06811
+
+Phường Thanh Sơn
+
+06814
+
+Phường Bắc Sơn
+
+06817
+
+Phường Quang Trung
+
+06820
+
+Phường Trưng Vương
+
+06823
+
+Phường Nam Khê
+
+06826
+
+Phường Yên Thanh
+
+06829
+
+Xã Thượng Yên Công
+
+06832
+
+Xã Phương Đông
+
+06835
+
+Xã Phương Nam
+
+**198**
+
+**Huyện Bình Liêu**
+
+06838
+
+Thị trấn Bình Liêu
+
+06841
+
+Xã Hoành Mô
+
+06844
+
+Xã Đồng Tâm
+
+06847
+
+Xã Đồng Văn
+
+06850
+
+Xã Tình Húc
+
+06853
+
+Xã Vô Ngại
+
+06856
+
+Xã Lục Hồn
+
+06859
+
+Xã Húc Động
+
+**199**
+
+**Huyện Tiên Yên**
+
+06862
+
+Thị trấn Tiên Yên
+
+06865
+
+Xã Hà Lâu
+
+06868
+
+Xã Đại Dực
+
+06871
+
+Xã Phong Dụ
+
+06874
+
+Xã Điền Xá
+
+06877
+
+Xã Đông Ngũ
+
+06880
+
+Xã Yên Than
+
+06883
+
+Xã Đông Hải
+
+06886
+
+Xã Hải Lạng
+
+06889
+
+Xã Tiên Lãng
+
+06892
+
+Xã Đồng Rui
+
+**200**
+
+**Huyện Đầm Hà**
+
+06895
+
+Thị trấn Đầm Hà
+
+06898
+
+Xã Quảng Lâm
+
+06901
+
+Xã Quảng An
+
+06904
+
+Xã Tân Bình
+
+06907
+
+Xã Quảng Lợi
+
+06910
+
+Xã Dực Yên
+
+06913
+
+Xã Quảng Tân
+
+06916
+
+Xã Đầm Hà
+
+06919
+
+Xã Đại Bình
+
+**201**
+
+**Huyện Hải Hà**
+
+06922
+
+Thị trấn Quảng Hà
+
+06925
+
+Xã Quảng Đức
+
+06928
+
+Xã Quảng Sơn
+
+06931
+
+Xã Quảng Thành
+
+06934
+
+Xã Quảng Thắng
+
+06937
+
+Xã Quảng Thịnh
+
+06940
+
+Xã Quảng Minh
+
+06943
+
+Xã Quảng Chính
+
+06946
+
+Xã Quảng Long
+
+06949
+
+Xã Đường Hoa
+
+06952
+
+Xã Quảng Phong
+
+06955
+
+Xã Quảng Trung
+
+06958
+
+Xã Phú Hải
+
+06961
+
+Xã Quảng Điền
+
+06964
+
+Xã Tiến Tới
+
+06967
+
+Xã Cái Chiên
+
+**202**
+
+**Huyện Ba Chẽ**
+
+06970
+
+Thị trấn Ba Chẽ
+
+06973
+
+Xã Thanh Sơn
+
+06976
+
+Xã Thanh Lâm
+
+06979
+
+Xã Đạp Thanh
+
+06982
+
+Xã Nam Sơn
+
+06985
+
+Xã Lương Mông
+
+06988
+
+Xã Đồn Đạc
+
+06991
+
+Xã Minh Cầm
+
+**203**
+
+**Huyện Vân Đồn**
+
+06994
+
+Thị trấn Cái Rồng
+
+06997
+
+Xã Đài Xuyên
+
+07000
+
+Xã Bình Dân
+
+07003
+
+Xã Vạn Yên
+
+07006
+
+Xã Minh Châu
+
+07009
+
+Xã Đoàn Kết
+
+07012
+
+Xã Hạ Long
+
+07015
+
+Xã Đông Xá
+
+07018
+
+Xã Bản Sen
+
+07021
+
+Xã Thắng Lợi
+
+07024
+
+Xã Quan Lạn
+
+07027
+
+Xã Ngọc Vừng
+
+**204**
+
+**Huyện Hoành Bồ**
+
+07030
+
+Thị trấn Trới
+
+07033
+
+Xã Kỳ Thượng
+
+07036
+
+Xã Đồng Sơn
+
+07039
+
+Xã Tân Dân
+
+07042
+
+Xã Đồng Lâm
+
+07045
+
+Xã Hòa Bình
+
+07048
+
+Xã Vũ Oai
+
+07051
+
+Xã Dân Chủ
+
+07054
+
+Xã Quảng La
+
+07057
+
+Xã Bằng Cả
+
+07060
+
+Xã Thống Nhất
+
+07063
+
+Xã Sơn Dương
+
+07066
+
+Xã Lê Lợi
+
+**205**
+
+**Huyện Đông Triều**
+
+07069
+
+Thị trấn Mạo Khê
+
+07072
+
+Thị trấn Đông Triều
+
+07075
+
+Xã An Sinh
+
+07078
+
+Xã Tràng Lương
+
+07081
+
+Xã Bình Khê
+
+07084
+
+Xã Việt Dân
+
+07087
+
+Xã Tân Việt
+
+07090
+
+Xã Bình Dương
+
+07093
+
+Xã Đức Chính
+
+07096
+
+Xã Tràng An
+
+07099
+
+Xã Nguyễn Huệ
+
+07102
+
+Xã Thủy An
+
+07105
+
+Xã Xuân Sơn
+
+07108
+
+Xã Hồng Thái Tây
+
+07111
+
+Xã Hồng Thái Đông
+
+07114
+
+Xã Hoàng Quế
+
+07117
+
+Xã Yên Thọ
+
+07120
+
+Xã Hồng Phong
+
+07123
+
+Xã Kim Sơn
+
+07126
+
+Xã Hưng Đạo
+
+07129
+
+Xã Yên Đức
+
+**206**
+
+**Huyện Yên Hưng**
+
+07132
+
+Thị trấn Quảng Yên
+
+07135
+
+Xã Đông Mai
+
+07138
+
+Xã Minh Thành
+
+07141
+
+Xã Điền Công
+
+07144
+
+Xã Sông Khoai
+
+07147
+
+Xã Hiệp Hòa
+
+07150
+
+Xã Cộng Hòa
+
+07153
+
+Xã Tiền An
+
+07156
+
+Xã Hoàng Tân
+
+07159
+
+Xã Tân An
+
+07162
+
+Xã Yên Giang
+
+07165
+
+Xã Nam Hòa
+
+07168
+
+Xã Hà An
+
+07171
+
+Xã Cẩm La
+
+07174
+
+Xã Phong Hải
+
+07177
+
+Xã Yên Hải
+
+07180
+
+Xã Liên Hòa
+
+07183
+
+Xã Phong Cốc
+
+07186
+
+Xã Liên Vị
+
+07189
+
+Xã Tiền Phong
+
+**207**
+
+**Huyện Cô Tô**
+
+07192
+
+Thị trấn Cô Tô
+
+07195
+
+Xã Đồng Tiến
+
+07198
+
+Xã Thanh Lân
+
+24. TỈNH BẮC GIANG
+
+(Tổng số
+xã, phường, thị trấn: 229; xã: 206, phường: 7, thị trấn: 16)
+
+(Total
+number of communes, subdistricts, subtowns: 229)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**213**
+
+**Thị xã Bắc Giang**
+
+07201
+
+Phường Thọ Xương
+
+07204
+
+Phường Trần Nguyên Hãn
+
+07207
+
+Phường Ngô Quyền
+
+07210
+
+Phường Hoàng Văn Thụ
+
+07213
+
+Phường Trần Phú
+
+07216
+
+Phường Mỹ Độ
+
+07219
+
+Phường Lê Lợi
+
+07222
+
+Xã Song Mai
+
+07225
+
+Xã Xương Giang
+
+07228
+
+Xã Đa Mai
+
+07231
+
+Xã Dĩnh Kế
+
+**215**
+
+**Huyện Yên Thế**
+
+07234
+
+Thị trấn Cầu Gồ
+
+07237
+
+Thị trấn Bố Hạ
+
+07240
+
+Thị trấn NT Yên Thế
+
+07243
+
+Xã Đồng Tiến
+
+07246
+
+Xã Canh Nậu
+
+07249
+
+Xã Xuân Lương
+
+07252
+
+Xã Tam Tiến
+
+07255
+
+Xã Đồng Vương
+
+07258
+
+Xã Đồng Hưu
+
+07261
+
+Xã Tam Hiệp
+
+07264
+
+Xã Tiến Thắng
+
+07267
+
+Xã Hồng Kỳ
+
+07270
+
+Xã Đồng Lạc
+
+07273
+
+Xã Đông Sơn
+
+07276
+
+Xã Tân Hiệp
+
+07279
+
+Xã Hương Vĩ
+
+07282
+
+Xã Đồng Kỳ
+
+07285
+
+Xã An Thượng
+
+07288
+
+Xã Phồn Xương
+
+07291
+
+Xã Tân Sỏi
+
+07294
+
+Xã Bố Hạ
+
+**216**
+
+**Huyện Tân Yên**
+
+07297
+
+Thị trấn Cao Thượng
+
+07300
+
+Thị trấn Nhã Nam
+
+07303
+
+Xã Lan Giới
+
+07306
+
+Xã Nhã Nam
+
+07309
+
+Xã Tân Trung
+
+07312
+
+Xã Đại Hóa
+
+07315
+
+Xã Quang Tiến
+
+07318
+
+Xã Phúc Sơn
+
+07321
+
+Xã An Dương
+
+07324
+
+Xã Phúc Hòa
+
+07327
+
+Xã Liên Sơn
+
+07330
+
+Xã Hợp Đức
+
+07333
+
+Xã Lam Cốt
+
+07336
+
+Xã Cao Xá
+
+07339
+
+Xã Cao Thượng
+
+07342
+
+Xã Việt Ngọc
+
+07345
+
+Xã Song Vân
+
+07348
+
+Xã Ngọc Châu
+
+07351
+
+Xã Ngọc Vân
+
+07354
+
+Xã Việt Lập
+
+07357
+
+Xã Liên Chung
+
+07360
+
+Xã Ngọc Thiện
+
+07363
+
+Xã Ngọc Lý
+
+07366
+
+Xã Quế Nham
+
+**217**
+
+**Huyện Lạng Giang**
+
+07369
+
+Thị trấn Kép
+
+07372
+
+Thị trấn NT Bố Hạ
+
+07375
+
+Thị trấn Vôi
+
+07378
+
+Xã Nghĩa Hòa
+
+07381
+
+Xã Nghĩa Hưng
+
+07384
+
+Xã Quang Thịnh
+
+07387
+
+Xã Hương Sơn
+
+07390
+
+Xã Đào Mỹ
+
+07393
+
+Xã Tiên Lục
+
+07396
+
+Xã An Hà
+
+07399
+
+Xã Tân Thịnh
+
+07402
+
+Xã Mỹ Hà
+
+07405
+
+Xã Hương Lạc
+
+07408
+
+Xã Dương Đức
+
+07411
+
+Xã Tân Thanh
+
+07414
+
+Xã Yên Mỹ
+
+07417
+
+Xã Tân Hưng
+
+07420
+
+Xã Mỹ Thái
+
+07423
+
+Xã Phi Mô
+
+07426
+
+Xã Xương Lâm
+
+07429
+
+Xã Xuân Hương
+
+07432
+
+Xã Tân Dĩnh
+
+07435
+
+Xã Đại Lâm
+
+07438
+
+Xã Thái Đào
+
+07441
+
+Xã Dĩnh Trì
+
+**218**
+
+**Huyện Lục Nam**
+
+07444
+
+Thị trấn Đồi Ngô
+
+07447
+
+Thị trấn Lục Nam
+
+07450
+
+Xã Đông Hưng
+
+07453
+
+Xã Đông Phú
+
+07456
+
+Xã Tam Dị
+
+07459
+
+Xã Bảo Sơn
+
+07462
+
+Xã Bảo Đài
+
+07465
+
+Xã Thanh Lâm
+
+07468
+
+Xã Tiên Nha
+
+07471
+
+Xã Trường Giang
+
+07474
+
+Xã Tiên Hưng
+
+07477
+
+Xã Phương Sơn
+
+07480
+
+Xã Chu Điện
+
+07483
+
+Xã Cương Sơn
+
+07486
+
+Xã Nghĩa Phương
+
+07489
+
+Xã Vô Tranh
+
+07492
+
+Xã Bình Sơn
+
+07495
+
+Xã Lan Mẫu
+
+07498
+
+Xã Yên Sơn
+
+07501
+
+Xã Khám Lạng
+
+07504
+
+Xã Huyền Sơn
+
+07507
+
+Xã Trường Sơn
+
+07510
+
+Xã Lục Sơn
+
+07513
+
+Xã Bắc Lũng
+
+07516
+
+Xã Vũ Xá
+
+07519
+
+Xã Cẩm Lý
+
+07522
+
+Xã Đan Hội
+
+**219**
+
+**Huyện Lục Ngạn**
+
+07525
+
+Thị trấn Chũ
+
+07528
+
+Xã Cấm Sơn
+
+07531
+
+Xã Tân Sơn
+
+07534
+
+Xã Phong Minh
+
+07537
+
+Xã Phong Vân
+
+07540
+
+Xã Xa Lý
+
+07543
+
+Xã Hộ Đáp
+
+07546
+
+Xã Sơn Hải
+
+07549
+
+Xã Thanh Hải
+
+07552
+
+Xã Kiên Lao
+
+07555
+
+Xã Biên Sơn
+
+07558
+
+Xã Kiên Thành
+
+07561
+
+Xã Hồng Giang
+
+07564
+
+Xã Kim Sơn
+
+07567
+
+Xã Tân Hoa
+
+07570
+
+Xã Giáp Sơn
+
+07573
+
+Xã Biển Động
+
+07576
+
+Xã Quý Sơn
+
+07579
+
+Xã Trù Hựu
+
+07582
+
+Xã Phì Điền
+
+07585
+
+Xã Nghĩa Hồ
+
+07588
+
+Xã Tân Quang
+
+07591
+
+Xã Đồng Cốc
+
+07594
+
+Xã Tân Lập
+
+07597
+
+Xã Phú Nhuận
+
+07600
+
+Xã Mỹ An
+
+07603
+
+Xã Nam Dương
+
+07606
+
+Xã Tân Mộc
+
+07609
+
+Xã Đèo Gia
+
+07612
+
+Xã Phượng Sơn
+
+**220**
+
+**Huyện Sơn Động**
+
+07615
+
+Thị trấn An Châu
+
+07618
+
+Xã Thạch Sơn
+
+07621
+
+Xã Vân Sơn
+
+07624
+
+Xã Hữu Sản
+
+07627
+
+Xã Quế Sơn
+
+07630
+
+Xã Phúc Thắng
+
+07633
+
+Xã Chiên Sơn
+
+07636
+
+Xã Giáo Liêm
+
+07639
+
+Xã Vĩnh Khương
+
+07642
+
+Xã Cẩm Đàn
+
+07645
+
+Xã An Lạc
+
+07648
+
+Xã An Lập
+
+07651
+
+Xã Yên Định
+
+07654
+
+Xã Lệ Viễn
+
+07657
+
+Xã An Châu
+
+07660
+
+Xã An Bá
+
+07663
+
+Xã Tuấn Đạo
+
+07666
+
+Xã Dương Hưu
+
+07669
+
+Xã Bồng Am
+
+07672
+
+Xã Long Sơn
+
+07675
+
+Xã Thanh Sơn
+
+07678
+
+Xã Thanh Luận
+
+**221**
+
+**Huyện Yên Dũng**
+
+07681
+
+Thị trấn Neo
+
+07684
+
+Xã Lão Hộ
+
+07687
+
+Xã Tân Mỹ
+
+07690
+
+Xã Hương Gián
+
+07693
+
+Xã Tân An
+
+07696
+
+Xã Đồng Sơn
+
+07699
+
+Xã Tân Tiến
+
+07702
+
+Xã Quỳnh Sơn
+
+07705
+
+Xã Song Khê
+
+07708
+
+Xã Nội Hoàng
+
+07711
+
+Xã Tiền Phong
+
+07714
+
+Xã Xuân Phú
+
+07717
+
+Xã Tân Liễu
+
+07720
+
+Xã Trí Yên
+
+07723
+
+Xã Lãng Sơn
+
+07726
+
+Xã Yên Lư
+
+07729
+
+Xã Tiến Dũng
+
+07732
+
+Xã Nham Sơn
+
+07735
+
+Xã Đức Giang
+
+07738
+
+Xã Cảnh Thụy
+
+07741
+
+Xã Tư Mại
+
+07744
+
+Xã Thắng Cương
+
+07747
+
+Xã Đồng Việt
+
+07750
+
+Xã Đồng Phúc
+
+**222**
+
+**Huyện Việt Yên**
+
+07753
+
+Thị trấn Bích Động
+
+07756
+
+Thị trấn Nếnh
+
+07759
+
+Xã Thượng Lan
+
+07762
+
+Xã Việt Tiến
+
+07765
+
+Xã Nghĩa Trung
+
+07768
+
+Xã Minh Đức
+
+07771
+
+Xã Hương Mai
+
+07774
+
+Xã Tự Lạn
+
+07777
+
+Xã Bích Sơn
+
+07780
+
+Xã Trung Sơn
+
+07783
+
+Xã Hồng Thái
+
+07786
+
+Xã Tiên Sơn
+
+07789
+
+Xã Tăng Tiến
+
+07792
+
+Xã Quảng Minh
+
+07795
+
+Xã Hoàng Ninh
+
+07798
+
+Xã Ninh Sơn
+
+07801
+
+Xã Vân Trung
+
+07804
+
+Xã Vân Hà
+
+07807
+
+Xã Quang Châu
+
+**223**
+
+**Huyện Hiệp Hòa**
+
+07810
+
+Thị trấn Thắng
+
+07813
+
+Xã Đồng Tân
+
+07816
+
+Xã Thanh Vân
+
+07819
+
+Xã Hoàng Lương
+
+07822
+
+Xã Hoàng Vân
+
+07825
+
+Xã Hoàng Thanh
+
+07828
+
+Xã Hoàng An
+
+07831
+
+Xã Ngọc Sơn
+
+07834
+
+Xã Thái Sơn
+
+07837
+
+Xã Hòa Sơn
+
+07840
+
+Xã Đức Thắng
+
+07843
+
+Xã Quang Minh
+
+07846
+
+Xã Lương Phong
+
+07849
+
+Xã Hùng Sơn
+
+07852
+
+Xã Đại Thành
+
+07855
+
+Xã Thường Thắng
+
+07858
+
+Xã Hợp Thịnh
+
+07861
+
+Xã Danh Thắng
+
+07864
+
+Xã Mai Trung
+
+07867
+
+Xã Đoan Bái
+
+07870
+
+Xã Bắc Lý
+
+07873
+
+Xã Xuân Cẩm
+
+07876
+
+Xã Hương Lâm
+
+07879
+
+Xã Đông Lỗ
+
+07882
+
+Xã Châu Minh
+
+07885
+
+Xã Mai Đình
+
+25. TỈNH PHÚ THỌ
+
+(Tổng số
+xã, phường, thị trấn: 273; xã: 250, phường: 14, thị trấn: 9)
+
+(Total
+number of communes, subdistricts, subtowns: 273)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**227**
+
+**Thành phố Việt Trì**
+
+07888
+
+Phường Dữu Lâu
+
+07891
+
+Phường Vân Cơ
+
+07894
+
+Phường Nông Trang
+
+07897
+
+Phường Tân Dân
+
+07900
+
+Phường Gia Cẩm
+
+07903
+
+Phường Tiên Cát
+
+07906
+
+Phường Thọ Sơn
+
+07909
+
+Phường Thanh Miếu
+
+07912
+
+Phường Bạch Hạc
+
+07915
+
+Phường Bến Gót
+
+07918
+
+Xã Vân Phú
+
+07921
+
+Xã Phượng Lâu
+
+07924
+
+Xã Thụy Vân
+
+07927
+
+Xã Minh Phương
+
+07930
+
+Xã Trưng Vương
+
+07933
+
+Xã Minh Nông
+
+07936
+
+Xã Sông Lô
+
+**228**
+
+**Thị xã Phú Thọ**
+
+07939
+
+Phường Trường Thịnh
+
+07942
+
+Phường Hùng Vương
+
+07945
+
+Phường Phong Châu
+
+07948
+
+Phường Âu Cơ
+
+07951
+
+Xã Hà Lộc
+
+07954
+
+Xã Phú Hộ
+
+07957
+
+Xã Văn Lung
+
+07960
+
+Xã Thanh Minh
+
+07963
+
+Xã Hà Thạch
+
+07966
+
+Xã Thanh Vinh
+
+**230**
+
+**Huyện Đoan Hùng**
+
+07969
+
+Thị trấn Đoan Hùng
+
+07972
+
+Xã Đông Khê
+
+07975
+
+Xã Nghinh Xuyên
+
+07978
+
+Xã Hùng Quan
+
+07981
+
+Xã Bằng Luân
+
+07984
+
+Xã Vân Du
+
+07987
+
+Xã Phương Trung
+
+07990
+
+Xã Quế Lâm
+
+07993
+
+Xã Minh Lương
+
+07996
+
+Xã Bằng Doãn
+
+07999
+
+Xã Chí Đám
+
+08002
+
+Xã Phong Phú
+
+08005
+
+Xã Phúc Lai
+
+08008
+
+Xã Ngọc Quan
+
+08011
+
+Xã Hữu Đô
+
+08014
+
+Xã Đại Nghĩa
+
+08017
+
+Xã Sóc Đăng
+
+08020
+
+Xã Phú Thứ
+
+08023
+
+Xã Tây Cốc
+
+08026
+
+Xã Yên Kiện
+
+08029
+
+Xã Hùng Long
+
+08032
+
+Xã Vụ Quang
+
+08035
+
+Xã Vân Đồn
+
+08038
+
+Xã Tiêu Sơn
+
+08041
+
+Xã Minh Tiến
+
+08044
+
+Xã Minh Phú
+
+08047
+
+Xã Chân Mộng
+
+08050
+
+Xã Ca Đình
+
+**231**
+
+**Huyện Hạ Hòa**
+
+08053
+
+Thị trấn Hạ Hòa
+
+08056
+
+Xã Đại Phạm
+
+08059
+
+Xã Hậu Bổng
+
+08062
+
+Xã Đan Hà
+
+08065
+
+Xã Hà Lương
+
+08068
+
+Xã Lệnh Khanh
+
+08071
+
+Xã Phụ Khánh
+
+08074
+
+Xã Liên Phương
+
+08077
+
+Xã Đan Thượng
+
+08080
+
+Xã Hiền Lương
+
+08083
+
+Xã Động Lâm
+
+08086
+
+Xã Lâm Lợi
+
+08089
+
+Xã Phương Viên
+
+08092
+
+Xã Gia Điền
+
+08095
+
+Xã Ấm Hạ
+
+08098
+
+Xã Quân Khê
+
+08101
+
+Xã Y Sơn
+
+08104
+
+Xã Hương Xạ
+
+08107
+
+Xã Cáo Điền
+
+08110
+
+Xã Xuân áng
+
+08113
+
+Xã Yên Kỳ
+
+08116
+
+Xã Chuế Lưu
+
+08119
+
+Xã Minh Hạc
+
+08122
+
+Xã Lang Sơn
+
+08125
+
+Xã Bằng Giã
+
+08128
+
+Xã Yên Luật
+
+08131
+
+Xã Vô Tranh
+
+08134
+
+Xã Văn Lang
+
+08137
+
+Xã Chính Công
+
+08140
+
+Xã Minh Côi
+
+08143
+
+Xã Vĩnh Chân
+
+08146
+
+Xã Mai Tùng
+
+08149
+
+Xã Vụ Cầu
+
+**232**
+
+**Huyện Thanh Ba**
+
+08152
+
+Thị trấn Thanh Ba
+
+08155
+
+Xã Thanh Vân
+
+08158
+
+Xã Đông Lĩnh
+
+08161
+
+Xã Đại An
+
+08164
+
+Xã Hanh Cù
+
+08167
+
+Xã Thái Ninh
+
+08170
+
+Xã Đồng Xuân
+
+08173
+
+Xã Năng Yên
+
+08176
+
+Xã Yển Khê
+
+08179
+
+Xã Ninh Dân
+
+08182
+
+Xã Quảng Nạp
+
+08185
+
+Xã Vũ Yển
+
+08188
+
+Xã Yên Nội
+
+08191
+
+Xã Phương Lĩnh
+
+08194
+
+Xã Võ Lao
+
+08197
+
+Xã Khải Xuân
+
+08200
+
+Xã Mạn Lạn
+
+08203
+
+Xã Thanh Xá
+
+08206
+
+Xã Chí Tiên
+
+08209
+
+Xã Đông Thành
+
+08212
+
+Xã Hoàng Cương
+
+08215
+
+Xã Sơn Cương
+
+08218
+
+Xã Thanh Hà
+
+08221
+
+Xã Đỗ Sơn
+
+08224
+
+Xã Đỗ Xuyên
+
+08227
+
+Xã Lương Lỗ
+
+**233**
+
+**Huyện Phù Ninh**
+
+08230
+
+Thị trấn Phong Châu
+
+08233
+
+Xã Phú Mỹ
+
+08236
+
+Xã Liên Hoa
+
+08239
+
+Xã Trạm Thản
+
+08242
+
+Xã Trị Quận
+
+08245
+
+Xã Trung Giáp
+
+08248
+
+Xã Tiên Phú
+
+08251
+
+Xã Hạ Giáp
+
+08254
+
+Xã Bảo Thanh
+
+08257
+
+Xã Phú Lộc
+
+08260
+
+Xã Gia Thanh
+
+08263
+
+Xã Tiên Du
+
+08266
+
+Xã Phú Nham
+
+08269
+
+Xã Bình Bộ
+
+08272
+
+Xã An Đạo
+
+08275
+
+Xã Tử Đà
+
+08278
+
+Xã Phù Ninh
+
+08281
+
+Xã Kim Đức
+
+08284
+
+Xã Vĩnh Phú
+
+08287
+
+Xã Hùng Lô
+
+**234**
+
+**Huyện Yên Lập**
+
+08290
+
+Thị trấn Yên Lập
+
+08293
+
+Xã Mỹ Lung
+
+08296
+
+Xã Mỹ Lương
+
+08299
+
+Xã Lương Sơn
+
+08302
+
+Xã Xuân An
+
+08305
+
+Xã Xuân Viên
+
+08308
+
+Xã Xuân Thủy
+
+08311
+
+Xã Trung Sơn
+
+08314
+
+Xã Hưng Long
+
+08317
+
+Xã Nga Hoàng
+
+08320
+
+Xã Đồng Lạc
+
+08323
+
+Xã Thượng Long
+
+08326
+
+Xã Đồng Thịnh
+
+08329
+
+Xã Phúc Khánh
+
+08332
+
+Xã Minh Hòa
+
+08335
+
+Xã Ngọc Lập
+
+08338
+
+Xã Ngọc Đồng
+
+**235**
+
+**Huyện Cẩm Khê**
+
+08341
+
+Thị trấn Sông Thao
+
+08344
+
+Xã Tiên Lương
+
+08347
+
+Xã Tuy Lộc
+
+08350
+
+Xã Ngô Xá
+
+08353
+
+Xã Phương Xá
+
+08356
+
+Xã Phượng Vĩ
+
+08359
+
+Xã Đồng Cam
+
+08362
+
+Xã Thụy Liễu
+
+08365
+
+Xã Phùng Xá
+
+08368
+
+Xã Sơn Nga
+
+08371
+
+Xã Sai Nga
+
+08374
+
+Xã Tùng Khê
+
+08377
+
+Xã Tam Sơn
+
+08380
+
+Xã Văn Bán
+
+08383
+
+Xã Cấp Dẫn
+
+08386
+
+Xã Thanh Nga
+
+08389
+
+Xã Xương Thịnh
+
+08392
+
+Xã Phú Khê
+
+08395
+
+Xã Sơn Tình
+
+08398
+
+Xã Yên Tập
+
+08401
+
+Xã Hương Lung
+
+08404
+
+Xã Tạ Xá
+
+08407
+
+Xã Phú Lạc
+
+08410
+
+Xã Tình Cương
+
+08413
+
+Xã Chương Xá
+
+08416
+
+Xã Hiền Đa
+
+08419
+
+Xã Văn Khúc
+
+08422
+
+Xã Yên Dưỡng
+
+08425
+
+Xã Cát Trù
+
+08428
+
+Xã Điêu Lương
+
+08431
+
+Xã Đồng Lương
+
+**236**
+
+**Huyện Tam Nông**
+
+08434
+
+Thị trấn Hưng Hóa
+
+08437
+
+Xã Vực Trường
+
+08440
+
+Xã Hiền Quan
+
+08443
+
+Xã Hương Nha
+
+08446
+
+Xã Thanh Uyên
+
+08449
+
+Xã Xuân Quang
+
+08452
+
+Xã Tứ Mỹ
+
+08455
+
+Xã Văn Lương
+
+08458
+
+Xã Hùng Đô
+
+08461
+
+Xã Phương Thịnh
+
+08464
+
+Xã Tam Cường
+
+08467
+
+Xã Cổ Tiết
+
+08470
+
+Xã Quang Húc
+
+08473
+
+Xã Hương Nộn
+
+08476
+
+Xã Tề Lễ
+
+08479
+
+Xã Thọ Văn
+
+08482
+
+Xã Dị Nậu
+
+08485
+
+Xã Hồng Đà
+
+08488
+
+Xã Dậu Dương
+
+08491
+
+Xã Thượng Nông
+
+**237**
+
+**Huyện Lâm Thao**
+
+08494
+
+Thị trấn Lâm Thao
+
+08497
+
+Xã Tiên Kiên
+
+08500
+
+Xã Xuân Lũng
+
+08503
+
+Xã Hy Cương
+
+08506
+
+Xã Chu Hóa
+
+08509
+
+Xã Xuân Huy
+
+08512
+
+Xã Thạch Sơn
+
+08515
+
+Xã Thanh Đình
+
+08518
+
+Xã Sơn Vi
+
+08521
+
+Xã Hợp Hải
+
+08524
+
+Xã Sơn Dương
+
+08527
+
+Xã Cao Xá
+
+08530
+
+Xã Kinh Kệ
+
+08533
+
+Xã Vĩnh Lại
+
+08536
+
+Xã Tứ Xã
+
+08539
+
+Xã Bản Nguyên
+
+**238**
+
+**Huyện Thanh Sơn**
+
+08542
+
+Thị trấn Thanh Sơn
+
+08545
+
+Xã Thu Cúc
+
+08548
+
+Xã Thạch Kiệt
+
+08551
+
+Xã Thu Ngạc
+
+08554
+
+Xã Kiệt Sơn
+
+08557
+
+Xã Đồng Sơn
+
+08560
+
+Xã Lai Đồng
+
+08563
+
+Xã Sơn Hùng
+
+08566
+
+Xã Tân Phú
+
+08569
+
+Xã Mỹ Thuận
+
+08572
+
+Xã Địch Quả
+
+08575
+
+Xã Giáp Lai
+
+08578
+
+Xã Tân Sơn
+
+08581
+
+Xã Thục Luyện
+
+08584
+
+Xã Võ Miếu
+
+08587
+
+Xã Thạch Khoán
+
+08590
+
+Xã Xuân Đài
+
+08593
+
+Xã Minh Đài
+
+08596
+
+Xã Văn Luông
+
+08599
+
+Xã Xuân Sơn
+
+08602
+
+Xã Cự Thắng
+
+08605
+
+Xã Tất Thắng
+
+08608
+
+Xã Long Cốc
+
+08611
+
+Xã Văn Miếu
+
+08614
+
+Xã Cự Đồng
+
+08617
+
+Xã Kim Thượng
+
+08620
+
+Xã Tam Thanh
+
+08623
+
+Xã Thắng Sơn
+
+08626
+
+Xã Vinh Tiền
+
+08629
+
+Xã Tân Minh
+
+08632
+
+Xã Hương Cần
+
+08635
+
+Xã Khả Cửu
+
+08638
+
+Xã Đông Cửu
+
+08641
+
+Xã Tân Lập
+
+08644
+
+Xã Yên Lãng
+
+08647
+
+Xã Yên Lương
+
+08650
+
+Xã Thượng Cửu
+
+08653
+
+Xã Lương Nha
+
+08656
+
+Xã Yên Sơn
+
+08659
+
+Xã Tinh Nhuệ
+
+**239**
+
+**Huyện Thanh Thủy**
+
+08662
+
+Xã Đào Xá
+
+08665
+
+Xã Thạch Đồng
+
+08668
+
+Xã Xuân Lộc
+
+08671
+
+Xã Tân Phương
+
+08674
+
+Xã La Phù
+
+08677
+
+Xã Sơn Thủy
+
+08680
+
+Xã Bảo Yên
+
+08683
+
+Xã Đoan Hạ
+
+08686
+
+Xã Đồng Luận
+
+08689
+
+Xã Hoàng Xá
+
+08692
+
+Xã Trung Thịnh
+
+08695
+
+Xã Trung Nghĩa
+
+08698
+
+Xã Phượng Mao
+
+08701
+
+Xã Yến Mao
+
+08704
+
+Xã Tu Vũ
+
+26. TỈNH VĨNH PHÚC
+
+(Tổng số xã,
+phường, thị trấn: 152; xã: 135, phường: 11, thị trấn: 6)
+
+(Total
+number of communes, subdistricts, subtowns: 152)
+
+
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**243**
+
+**Thị xã Vĩnh Yên**
+
+08707
+
+Phường Tích Sơn
+
+08710
+
+Phường Liên Bảo
+
+08713
+
+Phường Hội Hợp
+
+08716
+
+Phường Đống Đa
+
+08719
+
+Phường Ngô Quyền
+
+08722
+
+Phường Đồng Tâm
+
+08725
+
+Xã Định Trung
+
+08728
+
+Xã Khai Quang
+
+08731
+
+Xã Thanh Trù
+
+**244**
+
+**Thị xã Phúc Yên**
+
+08734
+
+Phường Trưng Trắc
+
+08737
+
+Phường Hùng Vương
+
+08740
+
+Phường Trưng Nhị
+
+08743
+
+Phường Phúc Thắng
+
+08746
+
+Phường Xuân Hòa
+
+08749
+
+Xã Ngọc Thanh
+
+08752
+
+Xã Cao Minh
+
+08755
+
+Xã Nam Viêm
+
+08758
+
+Xã Tiền Châu
+
+**246**
+
+**Huyện Lập Thạch**
+
+08761
+
+Thị trấn Lập Thạch
+
+08764
+
+Xã Quang Sơn
+
+08767
+
+Xã Ngọc Mỹ
+
+08770
+
+Xã Hợp Lý
+
+08773
+
+Xã Lãng Công
+
+08776
+
+Xã Quang Yên
+
+08779
+
+Xã Bạch Lưu
+
+08782
+
+Xã Hải Lựu
+
+08785
+
+Xã Bắc Bình
+
+08788
+
+Xã Thái Hòa
+
+08791
+
+Xã Liễn Sơn
+
+08794
+
+Xã Xuân Hòa
+
+08797
+
+Xã Vân Trục
+
+08800
+
+Xã Đồng Quế
+
+08803
+
+Xã Nhân Đạo
+
+08806
+
+Xã Đôn Nhân
+
+08809
+
+Xã Phương Khoan
+
+08812
+
+Xã Liên Hòa
+
+08815
+
+Xã Tử Du
+
+08818
+
+Xã Tân Lập
+
+08821
+
+Xã Nhạo Sơn
+
+08824
+
+Xã Tam Sơn
+
+08827
+
+Xã Như Thụy
+
+08830
+
+Xã Yên Thạch
+
+08833
+
+Xã Bàn Giản
+
+08836
+
+Xã Xuân Lôi
+
+08839
+
+Xã Đồng Ích
+
+08842
+
+Xã Tiên Lữ
+
+08845
+
+Xã Văn Quán
+
+08848
+
+Xã Đồng Thịnh
+
+08851
+
+Xã Tứ Yên
+
+08854
+
+Xã Đức Bác
+
+08857
+
+Xã Đình Chu
+
+08860
+
+Xã Cao Phong
+
+08863
+
+Xã Triệu Đề
+
+08866
+
+Xã Sơn Đông
+
+**247**
+
+**Huyện Tam Dương**
+
+08869
+
+Thị trấn Hợp Hòa
+
+08872
+
+Xã Hoàng Hoa
+
+08875
+
+Xã Đồng Tĩnh
+
+08878
+
+Xã Kim Long
+
+08881
+
+Xã Hướng Đạo
+
+08884
+
+Xã Đạo Tú
+
+08887
+
+Xã An Hòa
+
+08890
+
+Xã Thanh Vân
+
+08893
+
+Xã Duy Phiên
+
+08896
+
+Xã Hoàng Đan
+
+08899
+
+Xã Hoàng Lâu
+
+08902
+
+Xã Vân Hội
+
+08905
+
+Xã Hợp Thịnh
+
+**248**
+
+**Huyện Tam Đảo**
+
+08908
+
+Thị trấn Tam Đảo
+
+08911
+
+Xã Hợp Châu
+
+08914
+
+Xã Đạo Trù
+
+08917
+
+Xã Yên Dương
+
+08920
+
+Xã Bồ Lý
+
+08923
+
+Xã Đại Đình
+
+08926
+
+Xã Tam Quan
+
+08929
+
+Xã Hồ Sơn
+
+08932
+
+Xã Minh Quang
+
+**249**
+
+**Huyện Bình Xuyên**
+
+08935
+
+Thị trấn Hương Canh
+
+08938
+
+Xã Trung Mỹ
+
+08941
+
+Xã Gia Khánh
+
+08944
+
+Xã Bá Hiến
+
+08947
+
+Xã Thiện Kế
+
+08950
+
+Xã Hương Sơn
+
+08953
+
+Xã Tam Hợp
+
+08956
+
+Xã Quất Lưu
+
+08959
+
+Xã Sơn Lôi
+
+08962
+
+Xã Đạo Đức
+
+08965
+
+Xã Tân Phong
+
+08968
+
+Xã Thanh Lãng
+
+08971
+
+Xã Phú Xuân
+
+**250**
+
+**Huyện Mê Linh**
+
+08974
+
+Xã Đại Thịnh
+
+08977
+
+Xã Kim Hoa
+
+08980
+
+Xã Thạch Đà
+
+08983
+
+Xã Tiến Thắng
+
+08986
+
+Xã Tự Lập
+
+08989
+
+Xã Quang Minh
+
+08992
+
+Xã Thanh Lâm
+
+08995
+
+Xã Tam Đồng
+
+08998
+
+Xã Liên Mạc
+
+09001
+
+Xã Vạn Yên
+
+09004
+
+Xã Chu Phan
+
+09007
+
+Xã Tiến Thịnh
+
+09010
+
+Xã Mê Linh
+
+09013
+
+Xã Văn Khê
+
+09016
+
+Xã Hoàng Kim
+
+09019
+
+Xã Tiền Phong
+
+09022
+
+Xã Tráng Việt
+
+**251**
+
+**Huyện Yên Lạc**
+
+09025
+
+Thị trấn Yên Lạc
+
+09028
+
+Xã Đồng Cương
+
+09031
+
+Xã Đồng Văn
+
+09034
+
+Xã Bình Định
+
+09037
+
+Xã Trung Nguyên
+
+09040
+
+Xã Tề Lỗ
+
+09043
+
+Xã Tam Hồng
+
+09046
+
+Xã Yên Đồng
+
+09049
+
+Xã Văn Tiến
+
+09052
+
+Xã Nguyệt Đức
+
+09055
+
+Xã Yên Phương
+
+09058
+
+Xã Hồng Phương
+
+09061
+
+Xã Trung Kiên
+
+09064
+
+Xã Liên Châu
+
+09067
+
+Xã Đại Tự
+
+09070
+
+Xã Hồng Châu
+
+09073
+
+Xã Trung Hà
+
+**252**
+
+**Huyện Vĩnh Tường**
+
+09076
+
+Thị trấn Vĩnh Tường
+
+09079
+
+Xã Kim Xá
+
+09082
+
+Xã Yên Bình
+
+09085
+
+Xã Chấn Hưng
+
+09088
+
+Xã Nghĩa Hưng
+
+09091
+
+Xã Yên Lập
+
+09094
+
+Xã Việt Xuân
+
+09097
+
+Xã Bồ Sao
+
+09100
+
+Xã Đại Đồng
+
+09103
+
+Xã Tân Tiến
+
+09106
+
+Xã Lũng Hòa
+
+09109
+
+Xã Cao Đại
+
+09112
+
+Xã Thổ Tang
+
+09115
+
+Xã Vĩnh Sơn
+
+09118
+
+Xã Bình Dương
+
+09121
+
+Xã Tân Cương
+
+09124
+
+Xã Phú Thịnh
+
+09127
+
+Xã Thượng Trưng
+
+09130
+
+Xã Vũ Di
+
+09133
+
+Xã Lý Nhân
+
+09136
+
+Xã Tuân Chính
+
+09139
+
+Xã Vân Xuân
+
+09142
+
+Xã Tam Phúc
+
+09145
+
+Xã Tứ Trưng
+
+09148
+
+Xã Ngũ Kiên
+
+09151
+
+Xã An Tường
+
+09154
+
+Xã Vĩnh Thịnh
+
+09157
+
+Xã Phú Đa
+
+09160
+
+Xã Vĩnh Ninh
+
+27. TỈNH BẮC NINH
+
+(Tổng số
+xã, phường, thị trấn: 125; xã: 109, phường: 9, thị trấn: 7)
+
+(Total
+number of communes, subdistricts, subtowns: 125)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**256**
+
+**Thị xã Bắc Ninh**
+
+09163
+
+Phường Vũ Ninh
+
+09166
+
+Phường Đáp Cầu
+
+09169
+
+Phường Thị Cầu
+
+09172
+
+Phường Kinh Bắc
+
+09175
+
+Phường Vệ An
+
+09178
+
+Phường Tiền An
+
+09181
+
+Phường Đại Phúc
+
+09184
+
+Phường Ninh Xá
+
+09187
+
+Phường Suối Hoa
+
+09190
+
+Xã Võ Cường
+
+**258**
+
+**Huyện Yên Phong**
+
+09193
+
+Thị trấn Chờ
+
+09196
+
+Xã Dũng Liệt
+
+09199
+
+Xã Tam Đa
+
+09202
+
+Xã Tam Giang
+
+09205
+
+Xã Yên Trung
+
+09208
+
+Xã Thụy Hòa
+
+09211
+
+Xã Hòa Tiến
+
+09214
+
+Xã Hòa Long
+
+09217
+
+Xã Đông Tiến
+
+09220
+
+Xã Yên Phụ
+
+09223
+
+Xã Trung Nghĩa
+
+09226
+
+Xã Vạn An
+
+09229
+
+Xã Đông Phong
+
+09232
+
+Xã Long Châu
+
+09235
+
+Xã Khúc Xuyên
+
+09238
+
+Xã Văn Môn
+
+09241
+
+Xã Đông Thọ
+
+09244
+
+Xã Phong Khê
+
+**259**
+
+**Huyện Quế Võ**
+
+09247
+
+Thị trấn Phố Mới
+
+09250
+
+Xã Việt Thống
+
+09253
+
+Xã Đại Xuân
+
+09256
+
+Xã Kim Chân
+
+09259
+
+Xã Nhân Hòa
+
+09262
+
+Xã Bằng An
+
+09265
+
+Xã Phương Liễu
+
+09268
+
+Xã Quế Tân
+
+09271
+
+Xã Vân Dương
+
+09274
+
+Xã Phù Lương
+
+09277
+
+Xã Phù Lãng
+
+09280
+
+Xã Phượng Mao
+
+09283
+
+Xã Việt Hùng
+
+09286
+
+Xã Nam Sơn
+
+09289
+
+Xã Ngọc Xá
+
+09292
+
+Xã Châu Phong
+
+09295
+
+Xã Bồng Lai
+
+09298
+
+Xã Cách Bi
+
+09301
+
+Xã Đào Viên
+
+09304
+
+Xã Yên Giả
+
+09307
+
+Xã Mộ Đạo
+
+09310
+
+Xã Đức Long
+
+09313
+
+Xã Chi Lăng
+
+09316
+
+Xã Hán Quảng
+
+**260**
+
+**Huyện Tiên Du**
+
+09319
+
+Thị trấn Lim
+
+09322
+
+Xã Phú Lâm
+
+09325
+
+Xã Khắc Niệm
+
+09328
+
+Xã Nội Duệ
+
+09331
+
+Xã Hạp Lĩnh
+
+09334
+
+Xã Liên Bão
+
+09337
+
+Xã Hiên Vân
+
+09340
+
+Xã Hoàn Sơn
+
+09343
+
+Xã Lạc Vệ
+
+09346
+
+Xã Việt Đoàn
+
+09349
+
+Xã Phật Tích
+
+09352
+
+Xã Tân Chi
+
+09355
+
+Xã Đại Đồng
+
+09358
+
+Xã Tri Phương
+
+09361
+
+Xã Minh Đạo
+
+09364
+
+Xã Cảnh Hưng
+
+**261**
+
+**Huyện Từ Sơn**
+
+09367
+
+Thị trấn Từ Sơn
+
+09370
+
+Xã Tam Sơn
+
+09373
+
+Xã Hương Mạc
+
+09376
+
+Xã Tương Giang
+
+09379
+
+Xã Phù Khê
+
+09382
+
+Xã Đồng Quang
+
+09385
+
+Xã Đồng Nguyên
+
+09388
+
+Xã Châu Khê
+
+09391
+
+Xã Tân Hồng
+
+09394
+
+Xã Đình Bảng
+
+09397
+
+Xã Phù Chẩn
+
+**262**
+
+**Huyện Thuận Thành**
+
+09400
+
+Thị trấn Hồ
+
+09403
+
+Xã Hoài Thượng
+
+09406
+
+Xã Đại Đồng Thành
+
+09409
+
+Xã Mão Điền
+
+09412
+
+Xã Song Hồ
+
+09415
+
+Xã Đình Tổ
+
+09418
+
+Xã An Bình
+
+09421
+
+Xã Trí Quả
+
+09424
+
+Xã Gia Đông
+
+09427
+
+Xã Thanh Khương
+
+09430
+
+Xã Trạm Lộ
+
+09433
+
+Xã Xuân Lâm
+
+09436
+
+Xã Hà Mãn
+
+09439
+
+Xã Ngũ Thái
+
+09442
+
+Xã Nguyệt Đức
+
+09445
+
+Xã Ninh Xá
+
+09448
+
+Xã Nghĩa Đạo
+
+09451
+
+Xã Song Liễu
+
+**263**
+
+**Huyện Gia Bình**
+
+09454
+
+Thị trấn Gia Bình
+
+09457
+
+Xã Vạn Ninh
+
+09460
+
+Xã Thái Bảo
+
+09463
+
+Xã Giang Sơn
+
+09466
+
+Xã Cao Đức
+
+09469
+
+Xã Đại Lai
+
+09472
+
+Xã Song Giang
+
+09475
+
+Xã Bình Dương
+
+09478
+
+Xã Lãng Ngâm
+
+09481
+
+Xã Nhân Thắng
+
+09484
+
+Xã Xuân Lai
+
+09487
+
+Xã Đông Cứu
+
+09490
+
+Xã Đại Bái
+
+09493
+
+Xã Quỳnh Phú
+
+**264**
+
+**Huyện Lương Tài**
+
+09496
+
+Thị trấn Thứa
+
+09499
+
+Xã An Thịnh
+
+09502
+
+Xã Trung Kênh
+
+09505
+
+Xã Phú Hòa
+
+09508
+
+Xã Mỹ Hương
+
+09511
+
+Xã Tân Lãng
+
+09514
+
+Xã Quảng Phú
+
+09517
+
+Xã Trừng Xá
+
+09520
+
+Xã Lai Hạ
+
+09523
+
+Xã Trung Chính
+
+09526
+
+Xã Minh Tân
+
+09529
+
+Xã Bình Định
+
+09532
+
+Xã Phú Lương
+
+09535
+
+Xã Lâm Thao
+
+28. TỈNH HÀ TÂY
+
+(Tổng số
+xã, phường, thị trấn: 323; xã: 296, phường: 13, thị trấn: 14)
+
+(Total
+number of communes, subdistricts, subtowns: 323)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**268**
+
+**Thị xã Hà Đông**
+
+09538
+
+Phường Nguyễn Trãi
+
+09541
+
+Phường Văn Mỗ
+
+09544
+
+Phường Vạn Phúc
+
+09547
+
+Phường Yết Kiêu
+
+09550
+
+Phường Quang Trung
+
+09553
+
+Phường Phúc La
+
+09556
+
+Phường Hà Cầu
+
+09559
+
+Xã Văn Khê
+
+09562
+
+Xã Yên Nghĩa
+
+09565
+
+Xã Kiến Hưng
+
+09568
+
+Xã Phú Lãm
+
+09571
+
+Xã Phú Lương
+
+**269**
+
+**Thị xã Sơn Tây**
+
+09574
+
+Phường Lê Lợi
+
+09577
+
+Phường Phú Thịnh
+
+09580
+
+Phường Ngô Quyền
+
+09583
+
+Phường Quang Trung
+
+09586
+
+Phường Sơn Lộc
+
+09589
+
+Phường Xuân Khanh
+
+09592
+
+Xã Đường Lâm
+
+09595
+
+Xã Viên Sơn
+
+09598
+
+Xã Xuân Sơn
+
+09601
+
+Xã Trung Hưng
+
+09604
+
+Xã Thanh Mỹ
+
+09607
+
+Xã Trung Sơn Trầm
+
+09610
+
+Xã Kim Sơn
+
+09613
+
+Xã Sơn Đông
+
+09616
+
+Xã Cổ Đông
+
+**271**
+
+**Huyện Ba Vì**
+
+09619
+
+Thị trấn Tây Đằng
+
+09622
+
+Xã Tân Đức
+
+09625
+
+Xã Phú Cường
+
+09628
+
+Xã Cổ Đô
+
+09631
+
+Xã Tản Hồng
+
+09634
+
+Xã Vạn Thắng
+
+09637
+
+Xã Châu Sơn
+
+09640
+
+Xã Phong Vân
+
+09643
+
+Xã Phú Đông
+
+09646
+
+Xã Phú Phương
+
+09649
+
+Xã Phú Châu
+
+09652
+
+Xã Thái Hòa
+
+09655
+
+Xã Đồng Thái
+
+09658
+
+Xã Phú Sơn
+
+09661
+
+Xã Minh Châu
+
+09664
+
+Xã Vật Lại
+
+09667
+
+Xã Chu Minh
+
+09670
+
+Xã Tòng Bạt
+
+09673
+
+Xã Cẩm Lĩnh
+
+09676
+
+Xã Sơn Đà
+
+09679
+
+Xã Đông Quang
+
+09682
+
+Xã Tiên Phong
+
+09685
+
+Xã Thụy An
+
+09688
+
+Xã Cam Thượng
+
+09691
+
+Xã Thuần Mỹ
+
+09694
+
+Xã Tản Lĩnh
+
+09697
+
+Xã Ba Trại
+
+09700
+
+Xã Minh Quang
+
+09703
+
+Xã Ba Vì
+
+09706
+
+Xã Vân Hòa
+
+09709
+
+Xã Yên Bài
+
+09712
+
+Xã Khánh Thượng
+
+**272**
+
+**Huyện Phúc Thọ**
+
+09715
+
+Thị trấn Phúc Thọ
+
+09718
+
+Xã Vân Hà
+
+09721
+
+Xã Vân Phúc
+
+09724
+
+Xã Vân Nam
+
+09727
+
+Xã Xuân Phú
+
+09730
+
+Xã Phương Độ
+
+09733
+
+Xã Sen Chiểu
+
+09736
+
+Xã Cẩm Đình
+
+09739
+
+Xã Võng Xuyên
+
+09742
+
+Xã Thọ Lộc
+
+09745
+
+Xã Long Xuyên
+
+09748
+
+Xã Thượng Cốc
+
+09751
+
+Xã Hát Môn
+
+09754
+
+Xã Tích Giang
+
+09757
+
+Xã Thanh Đa
+
+09760
+
+Xã Trạch Mỹ Lộc
+
+09763
+
+Xã Phúc Hòa
+
+09766
+
+Xã Ngọc Tảo
+
+09769
+
+Xã Phụng Thượng
+
+09772
+
+Xã Tam Thuấn
+
+09775
+
+Xã Tam Hiệp
+
+09778
+
+Xã Hiệp Thuận
+
+09781
+
+Xã Liên Hiệp
+
+**273**
+
+**Huyện Đan Phượng**
+
+09784
+
+Thị trấn Phùng
+
+09787
+
+Xã Trung Châu
+
+09790
+
+Xã Thọ An
+
+09793
+
+Xã Thọ Xuân
+
+09796
+
+Xã Hồng Hà
+
+09799
+
+Xã Liên Hồng
+
+09802
+
+Xã Liên Hà
+
+09805
+
+Xã Hạ Mỗ
+
+09808
+
+Xã Liên Trung
+
+09811
+
+Xã Phương Đình
+
+09814
+
+Xã Thượng Mỗ
+
+09817
+
+Xã Tân Hội
+
+09820
+
+Xã Tân Lập
+
+09823
+
+Xã Đan Phượng
+
+09826
+
+Xã Đồng Tháp
+
+09829
+
+Xã Song Phượng
+
+**274**
+
+**Huyện Hoài Đức**
+
+09832
+
+Thị trấn Trạm Trôi
+
+09835
+
+Xã Đức Thượng
+
+09838
+
+Xã Minh Khai
+
+09841
+
+Xã Dương Liễu
+
+09844
+
+Xã Di Trạch
+
+09847
+
+Xã Đức Giang
+
+09850
+
+Xã Cát Quế
+
+09853
+
+Xã Kim Chung
+
+09856
+
+Xã Yên Sở
+
+09859
+
+Xã Sơn Đồng
+
+09862
+
+Xã Vân Canh
+
+09865
+
+Xã Đắc Sở
+
+09868
+
+Xã Lại Yên
+
+09871
+
+Xã Tiền Yên
+
+09874
+
+Xã Song Phương
+
+09877
+
+Xã An Khánh
+
+09880
+
+Xã An Thượng
+
+09883
+
+Xã Vân Côn
+
+09886
+
+Xã Dương Nội
+
+09889
+
+Xã La Phù
+
+09892
+
+Xã Đông La
+
+**275**
+
+**Huyện Quốc Oai**
+
+09895
+
+Thị trấn Quốc Oai
+
+09898
+
+Xã Sài Sơn
+
+09901
+
+Xã Phượng Cách
+
+09904
+
+Xã Yên Sơn
+
+09907
+
+Xã Ngọc Liệp
+
+09910
+
+Xã Ngọc Mỹ
+
+09913
+
+Xã Liệp Tuyết
+
+09916
+
+Xã Thạch Thán
+
+09919
+
+Xã Đồng Quang
+
+09922
+
+Xã Phú Cát
+
+09925
+
+Xã Tuyết Nghĩa
+
+09928
+
+Xã Nghĩa Hương
+
+09931
+
+Xã Cộng Hòa
+
+09934
+
+Xã Tân Phú
+
+09937
+
+Xã Đại Thành
+
+09940
+
+Xã Phú Mãn
+
+09943
+
+Xã Cấn Hữu
+
+09946
+
+Xã Tân Hòa
+
+09949
+
+Xã Hòa Thạch
+
+09952
+
+Xã Đông Yên
+
+**276**
+
+**Huyện Thạch Thất**
+
+09955
+
+Thị trấn Liên Quan
+
+09958
+
+Xã Đại Đồng
+
+09961
+
+Xã Cẩm Yên
+
+09964
+
+Xã Lại Thượng
+
+09967
+
+Xã Phú Kim
+
+09970
+
+Xã Hương Ngải
+
+09973
+
+Xã Canh Nậu
+
+09976
+
+Xã Kim Quan
+
+09979
+
+Xã Dị Nậu
+
+09982
+
+Xã Bình Yên
+
+09985
+
+Xã Chàng Sơn
+
+09988
+
+Xã Thạch Hòa
+
+09991
+
+Xã Cần Kiệm
+
+09994
+
+Xã Hữu Bằng
+
+09997
+
+Xã Phùng Xá
+
+10000
+
+Xã Tân Xã
+
+10003
+
+Xã Thạch Xá
+
+10006
+
+Xã Bình Phú
+
+10009
+
+Xã Hạ Bằng
+
+10012
+
+Xã Đồng Trúc
+
+**277**
+
+**Huyện Chương Mỹ**
+
+10015
+
+Thị trấn Chúc Sơn
+
+10018
+
+Thị trấn Xuân Mai
+
+10021
+
+Xã Phụng Châu
+
+10024
+
+Xã Tiên Phương
+
+10027
+
+Xã Đông Sơn
+
+10030
+
+Xã Đông Phương Yên
+
+10033
+
+Xã Phú Nghĩa
+
+10036
+
+Xã Ngọc Sơn
+
+10039
+
+Xã Trường Yên
+
+10042
+
+Xã Ngọc Hòa
+
+10045
+
+Xã Thủy Xuân Tiên
+
+10048
+
+Xã Thanh Bình
+
+10051
+
+Xã Trung Hòa
+
+10054
+
+Xã Đại Yên
+
+10057
+
+Xã Thụy Hương
+
+10060
+
+Xã Tốt Động
+
+10063
+
+Xã Lam Điền
+
+10066
+
+Xã Tân Tiến
+
+10069
+
+Xã Nam Phương Tiến
+
+10072
+
+Xã Hợp Đồng
+
+10075
+
+Xã Hoàng Văn Thụ
+
+10078
+
+Xã Hoàng Diệu
+
+10081
+
+Xã Hữu Văn
+
+10084
+
+Xã Quảng Bị
+
+10087
+
+Xã Mỹ Lương
+
+10090
+
+Xã Thượng Vực
+
+10093
+
+Xã Hồng Phong
+
+10096
+
+Xã Đồng Phú
+
+10099
+
+Xã Trần Phú
+
+10102
+
+Xã Văn Võ
+
+10105
+
+Xã Đồng Lạc
+
+10108
+
+Xã Hòa Chính
+
+10111
+
+Xã Phú Nam An
+
+**278**
+
+**Huyện Thanh Oai**
+
+10114
+
+Thị trấn Kim Bài
+
+10117
+
+Xã Đồng Mai
+
+10120
+
+Xã Cự Khê
+
+10123
+
+Xã Biên Giang
+
+10126
+
+Xã Bích Hòa
+
+10129
+
+Xã Mỹ Hưng
+
+10132
+
+Xã Cao Viên
+
+10135
+
+Xã Bình Minh
+
+10138
+
+Xã Tam Hưng
+
+10141
+
+Xã Thanh Cao
+
+10144
+
+Xã Thanh Thùy
+
+10147
+
+Xã Thanh Mai
+
+10150
+
+Xã Thanh Văn
+
+10153
+
+Xã Đỗ Động
+
+10156
+
+Xã Kim An
+
+10159
+
+Xã Kim Thư
+
+10162
+
+Xã Phương Trung
+
+10165
+
+Xã Tân Ước
+
+10168
+
+Xã Dân Hòa
+
+10171
+
+Xã Liên Châu
+
+10174
+
+Xã Cao Dương
+
+10177
+
+Xã Xuân Dương
+
+10180
+
+Xã Hồng Dương
+
+**279**
+
+**Huyện Thường Tín**
+
+10183
+
+Thị trấn Thường Tín
+
+10186
+
+Xã Ninh Sở
+
+10189
+
+Xã Nhị Khê
+
+10192
+
+Xã Duyên Thái
+
+10195
+
+Xã Khánh Hà
+
+10198
+
+Xã Hòa Bình
+
+10201
+
+Xã Văn Bình
+
+10204
+
+Xã Hiền Giang
+
+10207
+
+Xã Hồng Vân
+
+10210
+
+Xã Vân Tảo
+
+10213
+
+Xã Liên Phương
+
+10216
+
+Xã Văn Phú
+
+10219
+
+Xã Tự Nhiên
+
+10222
+
+Xã Tiền Phong
+
+10225
+
+Xã Hà Hồi
+
+10228
+
+Xã Thư Phú
+
+10231
+
+Xã Nguyễn Trãi
+
+10234
+
+Xã Quất Động
+
+10237
+
+Xã Chương Dương
+
+10240
+
+Xã Tân Minh
+
+10243
+
+Xã Lê Lợi
+
+10246
+
+Xã Thắng Lợi
+
+10249
+
+Xã Dũng Tiến
+
+10252
+
+Xã Thống Nhất
+
+10255
+
+Xã Nghiêm Xuyên
+
+10258
+
+Xã Tô Hiệu
+
+10261
+
+Xã Văn Tự
+
+10264
+
+Xã Vạn Điểm
+
+10267
+
+Xã Minh Cường
+
+**280**
+
+**Huyện Phú Xuyên**
+
+10270
+
+Thị trấn Phú Minh
+
+10273
+
+Thị trấn Phú Xuyên
+
+10276
+
+Xã Hồng Minh
+
+10279
+
+Xã Phượng Dực
+
+10282
+
+Xã Văn Nhân
+
+10285
+
+Xã Thụy Phú
+
+10288
+
+Xã Tri Trung
+
+10291
+
+Xã Đại Thắng
+
+10294
+
+Xã Phú Túc
+
+10297
+
+Xã Văn Hoàng
+
+10300
+
+Xã Hồng Thái
+
+10303
+
+Xã Hoàng Long
+
+10306
+
+Xã Quang Trung
+
+10309
+
+Xã Nam Phong
+
+10312
+
+Xã Nam Triều
+
+10315
+
+Xã Tân Dân
+
+10318
+
+Xã Sơn Hà
+
+10321
+
+Xã Chuyên Mỹ
+
+10324
+
+Xã Khai Thái
+
+10327
+
+Xã Phúc Tiến
+
+10330
+
+Xã Vân Từ
+
+10333
+
+Xã Tri Thủy
+
+10336
+
+Xã Đại Xuyên
+
+10339
+
+Xã Phú Yên
+
+10342
+
+Xã Bạch Hạ
+
+10345
+
+Xã Quang Lãng
+
+10348
+
+Xã Châu Can
+
+10351
+
+Xã Minh Tân
+
+**281**
+
+**Huyện Ứng Hòa**
+
+10354
+
+Thị trấn Vân Đình
+
+10357
+
+Xã Viên An
+
+10360
+
+Xã Viên Nội
+
+10363
+
+Xã Hoa Sơn
+
+10366
+
+Xã Quảng Phú Cầu
+
+10369
+
+Xã Trường Thịnh
+
+10372
+
+Xã Cao Thành
+
+10375
+
+Xã Liên Bạt
+
+10378
+
+Xã Sơn Công
+
+10381
+
+Xã Đồng Tiến
+
+10384
+
+Xã Phương Tú
+
+10387
+
+Xã Trung Tú
+
+10390
+
+Xã Đồng Tân
+
+10393
+
+Xã Tảo Dương Văn
+
+10396
+
+Xã Vạn Thái
+
+10399
+
+Xã Minh Đức
+
+10402
+
+Xã Hòa Lâm
+
+10405
+
+Xã Hòa Xá
+
+10408
+
+Xã Trầm Lộng
+
+10411
+
+Xã Kim Đường
+
+10414
+
+Xã Hòa Nam
+
+10417
+
+Xã Hòa Phú
+
+10420
+
+Xã Đội Bình
+
+10423
+
+Xã Đại Hùng
+
+10426
+
+Xã Đông Lỗ
+
+10429
+
+Xã Phù Lưu
+
+10432
+
+Xã Đại Cường
+
+10435
+
+Xã Lưu Hoàng
+
+10438
+
+Xã Hồng Quang
+
+**282**
+
+**Huyện Mỹ Đức**
+
+10441
+
+Thị trấn Đại Nghĩa
+
+10444
+
+Xã Đồng Tâm
+
+10447
+
+Xã Thượng Lâm
+
+10450
+
+Xã Tuy Lai
+
+10453
+
+Xã Phúc Lâm
+
+10456
+
+Xã Mỹ Thành
+
+10459
+
+Xã Bột Xuyên
+
+10462
+
+Xã An Mỹ
+
+10465
+
+Xã Hồng Sơn
+
+10468
+
+Xã Lê Thanh
+
+10471
+
+Xã Xuy Xá
+
+10474
+
+Xã Phùng Xá
+
+10477
+
+Xã Phù Lưu Tế
+
+10480
+
+Xã Đại Hưng
+
+10483
+
+Xã Vạn Kim
+
+10486
+
+Xã Đốc Tín
+
+10489
+
+Xã Hương Sơn
+
+10492
+
+Xã Hùng Tiến
+
+10495
+
+Xã An Tiến
+
+10498
+
+Xã Hợp Tiến
+
+10501
+
+Xã Hợp Thanh
+
+10504
+
+Xã An Phú
+
+30. TỈNH HẢI DƯƠNG
+
+(Tổng số
+xã, phường, thị trấn: 263; xã: 238, phường: 11, thị trấn: 14)
+
+(Total
+number of communes, subdistricts, subtowns: 263)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**288**
+
+**Thành phố Hải Dương**
+
+10507
+
+Phường Cẩm Thượng
+
+10510
+
+Phường Bình Hàn
+
+10513
+
+Phường Ngọc Châu
+
+10516
+
+Phường Quang Trung
+
+10519
+
+Phường Nguyễn Trãi
+
+10522
+
+Phường Phạm Ngũ Lão
+
+10525
+
+Phường Trần Hưng Đạo
+
+10528
+
+Phường Trần Phú
+
+10531
+
+Phường Thanh Bình
+
+10534
+
+Phường Lê Thanh Nghị
+
+10537
+
+Phường Hải Tân
+
+10540
+
+Xã Tứ Minh
+
+10543
+
+Xã Việt Hòa
+
+**290**
+
+**Huyện Chí Linh**
+
+10546
+
+Thị trấn Phả Lại
+
+10549
+
+Thị trấn Sao Đỏ
+
+10552
+
+Thị trấn Bến Tắm
+
+10555
+
+Xã Hoàng Hoa Thám
+
+10558
+
+Xã Bắc An
+
+10561
+
+Xã Hưng Đạo
+
+10564
+
+Xã Lê Lợi
+
+10567
+
+Xã Hoàng Tiến
+
+10570
+
+Xã Cộng Hòa
+
+10573
+
+Xã Hoàng Tân
+
+10576
+
+Xã Cổ Thành
+
+10579
+
+Xã Văn An
+
+10582
+
+Xã Chí Minh
+
+10585
+
+Xã Văn Đức
+
+10588
+
+Xã Thái Học
+
+10591
+
+Xã Nhân Huệ
+
+10594
+
+Xã An Lạc
+
+10597
+
+Xã Kênh Giang
+
+10600
+
+Xã Đồng Lạc
+
+10603
+
+Xã Tân Dân
+
+**291**
+
+**Huyện Nam Sách**
+
+10606
+
+Thị trấn Nam Sách
+
+10609
+
+Xã Nam Hưng
+
+10612
+
+Xã Nam Tân
+
+10615
+
+Xã Hợp Tiến
+
+10618
+
+Xã Hiệp Cát
+
+10621
+
+Xã Thanh Quang
+
+10624
+
+Xã Quốc Tuấn
+
+10627
+
+Xã Nam Chính
+
+10630
+
+Xã An Bình
+
+10633
+
+Xã Nam Trung
+
+10636
+
+Xã An Sơn
+
+10639
+
+Xã Cộng Hòa
+
+10642
+
+Xã Thái Tân
+
+10645
+
+Xã An Lâm
+
+10648
+
+Xã Phú Điền
+
+10651
+
+Xã Nam Hồng
+
+10654
+
+Xã Hồng Phong
+
+10657
+
+Xã Đồng Lạc
+
+10660
+
+Xã Ái Quốc
+
+10663
+
+Xã An Châu
+
+10666
+
+Xã Minh Tân
+
+10669
+
+Xã Thượng Đạt
+
+10672
+
+Xã Nam Đồng
+
+**292**
+
+**Huyện Kinh Môn**
+
+10675
+
+Thị trấn An Lưu
+
+10678
+
+Xã Bạch Đằng
+
+10681
+
+Xã Thất Hùng
+
+10684
+
+Xã Lê Ninh
+
+10687
+
+Xã Hoành Sơn
+
+10690
+
+Xã Phúc Thành B
+
+10693
+
+Xã Thái Sơn
+
+10696
+
+Xã Duy Tân
+
+10699
+
+Xã Tân Dân
+
+10702
+
+Xã Minh Tân
+
+10705
+
+Xã Quang Trung
+
+10708
+
+Xã Hiệp Hòa
+
+10711
+
+Xã Phạm Mệnh
+
+10714
+
+Xã Phú Thứ
+
+10717
+
+Xã Thăng Long
+
+10720
+
+Xã Lạc Long
+
+10723
+
+Xã An Sinh
+
+10726
+
+Xã Hiệp Sơn
+
+10729
+
+Xã Thượng Quận
+
+10732
+
+Xã An Phụ
+
+10735
+
+Xã Hiệp An
+
+10738
+
+Xã Long Xuyên
+
+10741
+
+Xã Thái Thịnh
+
+10744
+
+Xã Hiến Thành
+
+10747
+
+Xã Minh Hòa
+
+**293**
+
+**Huyện Kim Thành**
+
+10750
+
+Thị trấn Phú Thái
+
+10753
+
+Xã Lai Vu
+
+10756
+
+Xã Cộng Hòa
+
+10759
+
+Xã Thượng Vũ
+
+10762
+
+Xã Cổ Dũng
+
+10765
+
+Xã Việt Hưng
+
+10768
+
+Xã Tuấn Hưng
+
+10771
+
+Xã Kim Xuyên
+
+10774
+
+Xã Phúc Thành A
+
+10777
+
+Xã Ngũ Phúc
+
+10780
+
+Xã Kim Anh
+
+10783
+
+Xã Kim Lương
+
+10786
+
+Xã Kim Tân
+
+10789
+
+Xã Kim Khê
+
+10792
+
+Xã Kim Đính
+
+10795
+
+Xã Cẩm La
+
+10798
+
+Xã Bình Dân
+
+10801
+
+Xã Tam Kỳ
+
+10804
+
+Xã Đồng Gia
+
+10807
+
+Xã Liên Hòa
+
+10810
+
+Xã Đại Đức
+
+**294**
+
+**Huyện Thanh Hà**
+
+10813
+
+Thị trấn Thanh Hà
+
+10816
+
+Xã Hồng Lạc
+
+10819
+
+Xã Việt Hồng
+
+10822
+
+Xã Quyết Thắng
+
+10825
+
+Xã Tân Việt
+
+10828
+
+Xã Cẩm Chế
+
+10831
+
+Xã Thanh An
+
+10834
+
+Xã Thanh Lang
+
+10837
+
+Xã Tiền Tiến
+
+10840
+
+Xã Tân An
+
+10843
+
+Xã Liên Mạc
+
+10846
+
+Xã Thanh Hải
+
+10849
+
+Xã Thanh Khê
+
+10852
+
+Xã Thanh Xá
+
+10855
+
+Xã Thanh Xuân
+
+10858
+
+Xã An Lương
+
+10861
+
+Xã Thanh Thủy
+
+10864
+
+Xã Phượng Hoàng
+
+10867
+
+Xã Thanh Sơn
+
+10870
+
+Xã Hợp Đức
+
+10873
+
+Xã Trường Thành
+
+10876
+
+Xã Thanh Bính
+
+10879
+
+Xã Thanh Hồng
+
+10882
+
+Xã Thanh Cường
+
+10885
+
+Xã Vĩnh Lập
+
+**295**
+
+**Huyện Cẩm Giàng**
+
+10888
+
+Thị trấn Cẩm Giàng
+
+10891
+
+Thị trấn Lai Cách
+
+10894
+
+Xã Cẩm Hưng
+
+10897
+
+Xã Cẩm Hoàng
+
+10900
+
+Xã Cẩm Văn
+
+10903
+
+Xã Ngọc Liên
+
+10906
+
+Xã Thạch Lỗi
+
+10909
+
+Xã Cẩm Vũ
+
+10912
+
+Xã Đức Chính
+
+10915
+
+Xã Cẩm Sơn
+
+10918
+
+Xã Cẩm Định
+
+10921
+
+Xã Kim Giang
+
+10924
+
+Xã Lương Điền
+
+10927
+
+Xã Cao An
+
+10930
+
+Xã Tân Trường
+
+10933
+
+Xã Cẩm Phúc
+
+10936
+
+Xã Cẩm Điền
+
+10939
+
+Xã Cẩm Đông
+
+10942
+
+Xã Cẩm Đoài
+
+**296**
+
+**Huyện Bình Giang**
+
+10945
+
+Thị trấn Kẻ Sặt
+
+10948
+
+Xã Hưng Thịnh
+
+10951
+
+Xã Vĩnh Tuy
+
+10954
+
+Xã Hùng Thắng
+
+10957
+
+Xã Tráng Liệt
+
+10960
+
+Xã Vĩnh Hồng
+
+10963
+
+Xã Long Xuyên
+
+10966
+
+Xã Tân Việt
+
+10969
+
+Xã Thúc Kháng
+
+10972
+
+Xã Tân Hồng
+
+10975
+
+Xã Bình Minh
+
+10978
+
+Xã Hồng Khê
+
+10981
+
+Xã Thái Học
+
+10984
+
+Xã Cổ Bi
+
+10987
+
+Xã Nhân Quyền
+
+10990
+
+Xã Thái Dương
+
+10993
+
+Xã Thái Hòa
+
+10996
+
+Xã Bình Xuyên
+
+**297**
+
+**Huyện Gia Lộc**
+
+10999
+
+Thị trấn Gia Lộc
+
+11002
+
+Xã Thạch Khôi
+
+11005
+
+Xã Liên Hồng
+
+11008
+
+Xã Thống Nhất
+
+11011
+
+Xã Tân Hưng
+
+11014
+
+Xã Trùng Khánh
+
+11017
+
+Xã Gia Xuyên
+
+11020
+
+Xã Yết Kiêu
+
+11023
+
+Xã Gia Hòa
+
+11026
+
+Xã Phương Hưng
+
+11029
+
+Xã Gia Tân
+
+11032
+
+Xã Tân Tiến
+
+11035
+
+Xã Gia Khánh
+
+11038
+
+Xã Gia Lương
+
+11041
+
+Xã Lê Lợi
+
+11044
+
+Xã Toàn Thắng
+
+11047
+
+Xã Hoàng Diệu
+
+11050
+
+Xã Hồng Hưng
+
+11053
+
+Xã Phạm Trấn
+
+11056
+
+Xã Đoàn Thượng
+
+11059
+
+Xã Thống Kênh
+
+11062
+
+Xã Quang Minh
+
+11065
+
+Xã Đồng Quang
+
+11068
+
+Xã Nhật Tân
+
+11071
+
+Xã Đức Xương
+
+**298**
+
+**Huyện Tứ Kỳ**
+
+11074
+
+Thị trấn Tứ Kỳ
+
+11077
+
+Xã Ngọc Sơn
+
+11080
+
+Xã Kỳ Sơn
+
+11083
+
+Xã Đại Đồng
+
+11086
+
+Xã Hưng Đạo
+
+11089
+
+Xã Ngọc Kỳ
+
+11092
+
+Xã Bình Lăng
+
+11095
+
+Xã Tứ Xuyên
+
+11098
+
+Xã Tái Sơn
+
+11101
+
+Xã Quang Phục
+
+11104
+
+Xã Đông Kỳ
+
+11107
+
+Xã Tây Kỳ
+
+11110
+
+Xã Dân Chủ
+
+11113
+
+Xã Tân Kỳ
+
+11116
+
+Xã Quang Khải
+
+11119
+
+Xã Đại Hợp
+
+11122
+
+Xã Quảng Nghiệp
+
+11125
+
+Xã An Thanh
+
+11128
+
+Xã Minh Đức
+
+11131
+
+Xã Văn Tố
+
+11134
+
+Xã Quang Trung
+
+11137
+
+Xã Phượng Kỳ
+
+11140
+
+Xã Cộng Lạc
+
+11143
+
+Xã Tiên Động
+
+11146
+
+Xã Nguyên Giáp
+
+11149
+
+Xã Hà Kỳ
+
+11152
+
+Xã Hà Thanh
+
+**299**
+
+**Huyện Ninh Giang**
+
+11155
+
+Thị trấn Ninh Giang
+
+11158
+
+Xã Quyết Thắng
+
+11161
+
+Xã Ứng Hòe
+
+11164
+
+Xã Nghĩa An
+
+11167
+
+Xã Hồng Đức
+
+11170
+
+Xã Ninh Hòa
+
+11173
+
+Xã An Đức
+
+11176
+
+Xã Vạn Phúc
+
+11179
+
+Xã Tân Hương
+
+11182
+
+Xã Ninh Thành
+
+11185
+
+Xã Vĩnh Hòa
+
+11188
+
+Xã Đông Xuyên
+
+11191
+
+Xã Hoàng Hanh
+
+11194
+
+Xã Quang Hưng
+
+11197
+
+Xã Tân Phong
+
+11200
+
+Xã Ninh Hải
+
+11203
+
+Xã Đồng Tâm
+
+11206
+
+Xã Tân Quang
+
+11209
+
+Xã Kiến Quốc
+
+11212
+
+Xã Hồng Thái
+
+11215
+
+Xã Hồng Dụ
+
+11218
+
+Xã Văn Hội
+
+11221
+
+Xã Hưng Thái
+
+11224
+
+Xã Hồng Phong
+
+11227
+
+Xã Hiệp Lực
+
+11230
+
+Xã Hồng Phúc
+
+11233
+
+Xã Hưng Long
+
+11236
+
+Xã Văn Giang
+
+**300**
+
+**Huyện Thanh Miện**
+
+11239
+
+Thị trấn Thanh Miện
+
+11242
+
+Xã Thanh Tùng
+
+11245
+
+Xã Phạm Kha
+
+11248
+
+Xã Ngô Quyền
+
+11251
+
+Xã Đoàn Tùng
+
+11254
+
+Xã Hồng Quang
+
+11257
+
+Xã Tân Trào
+
+11260
+
+Xã Lam Sơn
+
+11263
+
+Xã Đoàn Kết
+
+11266
+
+Xã Lê Hồng
+
+11269
+
+Xã Tứ Cường
+
+11272
+
+Xã Hùng Sơn
+
+11275
+
+Xã Ngũ Hùng
+
+11278
+
+Xã Cao Thắng
+
+11281
+
+Xã Chi Lăng Bắc
+
+11284
+
+Xã Chi Lăng Nam
+
+11287
+
+Xã Thanh Giang
+
+11290
+
+Xã Diên Hồng
+
+11293
+
+Xã Tiền Phong
+
+31. THÀNH PHỐ HẢI PHÒNG
+
+(Tổng số
+xã, phường, thị trấn: 218; xã: 152, phường: 57, thị trấn: 9)
+
+(Total
+number of communes, subdistricts, subtowns: 218)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**303**
+
+**Quận Hồng Bàng**
+
+11296
+
+Phường Quán Toan
+
+11299
+
+Phường Hùng Vương
+
+11302
+
+Phường Sở Dầu
+
+11305
+
+Phường Thượng Lý
+
+11308
+
+Phường Hạ Lý
+
+11311
+
+Phường Minh Khai
+
+11314
+
+Phường Trại Chuối
+
+11317
+
+Phường Quang Trung
+
+11320
+
+Phường Hoàng Văn Thụ
+
+11323
+
+Phường Phan Bội Châu
+
+11326
+
+Phường Phạm Hồng Thái
+
+**304**
+
+**Quận Ngô Quyền**
+
+11329
+
+Phường Máy Chai
+
+11332
+
+Phường Máy Tơ
+
+11335
+
+Phường Vạn Mỹ
+
+11338
+
+Phường Cầu Tre
+
+11341
+
+Phường Lạc Viên
+
+11344
+
+Phường Lương Khánh Thiện
+
+11347
+
+Phường Gia Viên
+
+11350
+
+Phường Đông Khê
+
+11353
+
+Phường Cầu Đất
+
+11356
+
+Phường Lê Lợi
+
+11359
+
+Phường Đằng Giang
+
+11362
+
+Phường Lạch Tray
+
+11365
+
+Phường Đổng Quốc Bình
+
+**305**
+
+**Quận Lê Chân**
+
+11368
+
+Phường Cát Dài
+
+11371
+
+Phường An Biên
+
+11374
+
+Phường Lam Sơn
+
+11377
+
+Phường An Dương
+
+11380
+
+Phường Trần Nguyên Hãn
+
+11383
+
+Phường Hồ Nam
+
+11386
+
+Phường Trại Cau
+
+11389
+
+Phường Dư Hàng
+
+11392
+
+Phường Hàng Kênh
+
+11395
+
+Phường Đông Hải
+
+11398
+
+Phường Niệm Nghĩa
+
+11401
+
+Phường Nghĩa Xá
+
+11404
+
+Phường Dư Hàng Kênh
+
+11407
+
+Phường Vĩnh Niệm
+
+**306**
+
+**Quận Hải An**
+
+11410
+
+Phường Đông Hải
+
+11413
+
+Phường Đằng Lâm
+
+11416
+
+Phường Đằng Hải
+
+11419
+
+Phường Nam Hải
+
+11422
+
+Phường Cát Bi
+
+11425
+
+Phường Tràng Cát
+
+**307**
+
+**Quận Kiến An**
+
+11428
+
+Phường Quán Trữ
+
+11431
+
+Phường Đồng Hòa
+
+11434
+
+Phường Bắc Sơn
+
+11437
+
+Phường Nam Sơn
+
+11440
+
+Phường Ngọc Sơn
+
+11443
+
+Phường Trần Thành Ngọ
+
+11446
+
+Phường Văn Đẩu
+
+11449
+
+Phường Phù Liễn
+
+11452
+
+Phường Tràng Minh
+
+**308**
+
+**Thị xã Đồ Sơn**
+
+11455
+
+Phường Ngọc Xuyên
+
+11458
+
+Phường Ngọc Hải
+
+11461
+
+Phường Vạn Hương
+
+11464
+
+Phường Vạn Sơn
+
+11467
+
+Xã Bàng La
+
+**311**
+
+**Huyện Thủy Nguyên**
+
+11470
+
+Thị trấn Núi Đèo
+
+11473
+
+Thị trấn Minh Đức
+
+11476
+
+Xã Lại Xuân
+
+11479
+
+Xã An Sơn
+
+11482
+
+Xã Kỳ Sơn
+
+11485
+
+Xã Liên Khê
+
+11488
+
+Xã Lưu Kiếm
+
+11491
+
+Xã Lưu Kỳ
+
+11494
+
+Xã Gia Minh
+
+11497
+
+Xã Gia Đức
+
+11500
+
+Xã Minh Tân
+
+11503
+
+Xã Phù Ninh
+
+11506
+
+Xã Quảng Thanh
+
+11509
+
+Xã Chính Mỹ
+
+11512
+
+Xã Kênh Giang
+
+11515
+
+Xã Hợp Thành
+
+11518
+
+Xã Cao Nhân
+
+11521
+
+Xã Mỹ Đồng
+
+11524
+
+Xã Đông Sơn
+
+11527
+
+Xã Hòa Bình
+
+11530
+
+Xã Trung Hà
+
+11533
+
+Xã An Lư
+
+11536
+
+Xã Thủy Triều
+
+11539
+
+Xã Ngũ Lão
+
+11542
+
+Xã Phục Lễ
+
+11545
+
+Xã Tam Hưng
+
+11548
+
+Xã Phả Lễ
+
+11551
+
+Xã Lập Lễ
+
+11554
+
+Xã Kiền Bái
+
+11557
+
+Xã Thiên Hương
+
+11560
+
+Xã Thủy Sơn
+
+11563
+
+Xã Thủy Đường
+
+11566
+
+Xã Hoàng Động
+
+11569
+
+Xã Lâm Động
+
+11572
+
+Xã Hoa Động
+
+11575
+
+Xã Tân Dương
+
+11578
+
+Xã Dương Quan
+
+**312**
+
+**Huyện An Dương**
+
+11581
+
+Thị trấn An Dương
+
+11584
+
+Xã Lê Thiện
+
+11587
+
+Xã Đại Bản
+
+11590
+
+Xã An Hòa
+
+11593
+
+Xã Hồng Phong
+
+11596
+
+Xã Tân Tiến
+
+11599
+
+Xã An Hưng
+
+11602
+
+Xã An Hồng
+
+11605
+
+Xã Bắc Sơn
+
+11608
+
+Xã Nam Sơn
+
+11611
+
+Xã Lê Lợi
+
+11614
+
+Xã Đặng Cương
+
+11617
+
+Xã Đồng Thái
+
+11620
+
+Xã Quốc Tuấn
+
+11623
+
+Xã An Đồng
+
+11626
+
+Xã Hồng Thái
+
+**313**
+
+**Huyện An Lão**
+
+11629
+
+Thị trấn An Lão
+
+11632
+
+Xã Bát Tràng
+
+11635
+
+Xã Trường Thọ
+
+11638
+
+Xã Trường Thành
+
+11641
+
+Xã An Tiến
+
+11644
+
+Xã Quang Hưng
+
+11647
+
+Xã Quang Trung
+
+11650
+
+Xã Quốc Tuấn
+
+11653
+
+Xã An Thắng
+
+11656
+
+Xã Trường Sơn
+
+11659
+
+Xã Tân Dân
+
+11662
+
+Xã Thái Sơn
+
+11665
+
+Xã Tân Viên
+
+11668
+
+Xã Mỹ Đức
+
+11671
+
+Xã Chiến Thắng
+
+11674
+
+Xã An Thọ
+
+11677
+
+Xã An Thái
+
+**314**
+
+**Huyện Kiến Thụy**
+
+11680
+
+Thị trấn Núi Đối
+
+11683
+
+Xã Đa Phúc
+
+11686
+
+Xã Hưng Đạo
+
+11689
+
+Xã Anh Dũng
+
+11692
+
+Xã Hải Thành
+
+11695
+
+Xã Đông Phương
+
+11698
+
+Xã Thuận Thiên
+
+11701
+
+Xã Hữu Bằng
+
+11704
+
+Xã Đại Đồng
+
+11707
+
+Xã Hòa Nghĩa
+
+11710
+
+Xã Ngũ Phúc
+
+11713
+
+Xã Kiến Quốc
+
+11716
+
+Xã Du Lễ
+
+11719
+
+Xã Thụy Hương
+
+11722
+
+Xã Thanh Sơn
+
+11725
+
+Xã Minh Tân
+
+11728
+
+Xã Đại Hà
+
+11731
+
+Xã Ngũ Đoan
+
+11734
+
+Xã Tân Phong
+
+11737
+
+Xã Hợp Đức
+
+11740
+
+Xã Tân Thành
+
+11743
+
+Xã Tân Trào
+
+11746
+
+Xã Đoàn Xá
+
+11749
+
+Xã Tú Sơn
+
+11752
+
+Xã Đại Hợp
+
+**315**
+
+**Huyện Tiên Lãng**
+
+11755
+
+Thị trấn Tiên Lãng
+
+11758
+
+Xã Đại Thắng
+
+11761
+
+Xã Tiên Cường
+
+11764
+
+Xã Tự Cường
+
+11767
+
+Xã Tiên Tiến
+
+11770
+
+Xã Quyết Tiến
+
+11773
+
+Xã Khởi Nghĩa
+
+11776
+
+Xã Tiên Thanh
+
+11779
+
+Xã Cấp Tiến
+
+11782
+
+Xã Kiến Thiết
+
+11785
+
+Xã Đoàn Lập
+
+11788
+
+Xã Bạch Đằng
+
+11791
+
+Xã Quang Phục
+
+11794
+
+Xã Toàn Thắng
+
+11797
+
+Xã Tiên Thắng
+
+11800
+
+Xã Tiên Minh
+
+11803
+
+Xã Bắc Hưng
+
+11806
+
+Xã Nam Hưng
+
+11809
+
+Xã Hùng Thắng
+
+11812
+
+Xã Tây Hưng
+
+11815
+
+Xã Đông Hưng
+
+11818
+
+Xã Tiên Hưng
+
+11821
+
+Xã Vinh Quang
+
+**316**
+
+**Huyện Vĩnh Bảo**
+
+11824
+
+Thị trấn Vĩnh Bảo
+
+11827
+
+Xã Dũng Tiến
+
+11830
+
+Xã Giang Biên
+
+11833
+
+Xã Thắng Thủy
+
+11836
+
+Xã Trung Lập
+
+11839
+
+Xã Việt Tiến
+
+11842
+
+Xã Vĩnh An
+
+11845
+
+Xã Vĩnh Long
+
+11848
+
+Xã Hiệp Hòa
+
+11851
+
+Xã Hùng Tiến
+
+11854
+
+Xã An Hòa
+
+11857
+
+Xã Tân Hưng
+
+11860
+
+Xã Tân Liên
+
+11863
+
+Xã Nhân Hòa
+
+11866
+
+Xã Tam Đa
+
+11869
+
+Xã Hưng Nhân
+
+11872
+
+Xã Vinh Quang
+
+11875
+
+Xã Đồng Minh
+
+11878
+
+Xã Thanh Lương
+
+11881
+
+Xã Liên Am
+
+11884
+
+Xã Lý Học
+
+11887
+
+Xã Tam Cường
+
+11890
+
+Xã Hòa Bình
+
+11893
+
+Xã Tiền Phong
+
+11896
+
+Xã Vĩnh Phong
+
+11899
+
+Xã Cộng Hiền
+
+11902
+
+Xã Cao Minh
+
+11905
+
+Xã Cổ Am
+
+11908
+
+Xã Vĩnh Tiến
+
+11911
+
+Xã Trấn Dương
+
+**317**
+
+**Huyện Cát Hải**
+
+11914
+
+Thị trấn Cát Bà
+
+11917
+
+Thị trấn Cát Hải
+
+11920
+
+Xã Nghĩa Lộ
+
+11923
+
+Xã Đồng Bài
+
+11926
+
+Xã Hoàng Châu
+
+11929
+
+Xã Văn Phong
+
+11932
+
+Xã Phù Long
+
+11935
+
+Xã Gia Luận
+
+11938
+
+Xã Hiền Hào
+
+11941
+
+Xã Trân Châu
+
+11944
+
+Xã Việt Hải
+
+11947
+
+Xã Xuân Đám
+
+**318**
+
+**Huyện Bạch Long Vĩ**
+
+33. TỈNH HƯNG YÊN
+
+(Tổng số
+xã, phường, thị trấn: 161; xã: 145, phường: 7, thị trấn: 9)
+
+(Total
+number of communes, subdistricts, subtowns: 161)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**323**
+
+**Thị xã Hưng Yên**
+
+11950
+
+Phường Lam Sơn
+
+11953
+
+Phường Hiến Nam
+
+11956
+
+Phường An Tảo
+
+11959
+
+Phường Lê Lợi
+
+11962
+
+Phường Minh Khai
+
+11965
+
+Phường Quang Trung
+
+11968
+
+Phường Hồng Châu
+
+11971
+
+Xã Trung Nghĩa
+
+11974
+
+Xã Liên Phương
+
+11977
+
+Xã Hồng Nam
+
+11980
+
+Xã Quảng Châu
+
+11983
+
+Xã Bảo Khê
+
+**325**
+
+**Huyện Văn Lâm**
+
+11986
+
+Thị trấn Như Quỳnh
+
+11989
+
+Xã Lạc Đạo
+
+11992
+
+Xã Chỉ Đạo
+
+11995
+
+Xã Đại Đồng
+
+11998
+
+Xã Việt Hưng
+
+12001
+
+Xã Tân Quang
+
+12004
+
+Xã Đình Dù
+
+12007
+
+Xã Minh Hải
+
+12010
+
+Xã Lương Tài
+
+12013
+
+Xã Trưng Trắc
+
+12016
+
+Xã Lạc Hồng
+
+**326**
+
+**Huyện Văn Giang**
+
+12019
+
+Thị trấn Văn Giang
+
+12022
+
+Xã Xuân Quan
+
+12025
+
+Xã Cửu Cao
+
+12028
+
+Xã Phụng Công
+
+12031
+
+Xã Nghĩa Trụ
+
+12034
+
+Xã Long Hưng
+
+12037
+
+Xã Vĩnh Khúc
+
+12040
+
+Xã Liên Nghĩa
+
+12043
+
+Xã Tân Tiến
+
+12046
+
+Xã Thắng Lợi
+
+12049
+
+Xã Mễ Sở
+
+**327**
+
+**Huyện Yên Mỹ**
+
+12052
+
+Thị trấn Yên Mỹ
+
+12055
+
+Xã Giai Phạm
+
+12058
+
+Xã Nghĩa Hiệp
+
+12061
+
+Xã Đồng Than
+
+12064
+
+Xã Ngọc Long
+
+12067
+
+Xã Liêu Xá
+
+12070
+
+Xã Hoàn Long
+
+12073
+
+Xã Tân Lập
+
+12076
+
+Xã Thanh Long
+
+12079
+
+Xã Yên Phú
+
+12082
+
+Xã Việt Cường
+
+12085
+
+Xã Trung Hòa
+
+12088
+
+Xã Yên Hòa
+
+12091
+
+Xã Minh Châu
+
+12094
+
+Xã Trung Hưng
+
+12097
+
+Xã Lý Thường Kiệt
+
+12100
+
+Xã Tân Việt
+
+**328**
+
+**Huyện Mỹ Hào**
+
+12103
+
+Thị trấn Bần Yên Nhân
+
+12106
+
+Xã Phan Đình Phùng
+
+12109
+
+Xã Cẩm Xá
+
+12112
+
+Xã Dương Quang
+
+12115
+
+Xã Hòa Phong
+
+12118
+
+Xã Nhân Hòa
+
+12121
+
+Xã Dị Sử
+
+12124
+
+Xã Bạch Sam
+
+12127
+
+Xã Minh Đức
+
+12130
+
+Xã Phùng Chí Kiên
+
+12133
+
+Xã Xuân Dục
+
+12136
+
+Xã Ngọc Lâm
+
+12139
+
+Xã Hưng Long
+
+**329**
+
+**Huyện Ân Thi**
+
+12142
+
+Thị trấn Ân Thi
+
+12145
+
+Xã Phù Ủng
+
+12148
+
+Xã Bắc Sơn
+
+12151
+
+Xã Bãi Sậy
+
+12154
+
+Xã Đào Dương
+
+12157
+
+Xã Tân Phúc
+
+12160
+
+Xã Vân Du
+
+12163
+
+Xã Quang Vinh
+
+12166
+
+Xã Xuân Trúc
+
+12169
+
+Xã Hoàng Hoa Thám
+
+12172
+
+Xã Quảng Lãng
+
+12175
+
+Xã Văn Nhuệ
+
+12178
+
+Xã Đặng Lễ
+
+12181
+
+Xã Cẩm Ninh
+
+12184
+
+Xã Nguyễn Trãi
+
+12187
+
+Xã Đa Lộc
+
+12190
+
+Xã Hồ Tùng Mậu
+
+12193
+
+Xã Tiền Phong
+
+12196
+
+Xã Hồng Vân
+
+12199
+
+Xã Hồng Quang
+
+12202
+
+Xã Hạ Lễ
+
+**330**
+
+**Huyện Khoái Châu**
+
+12205
+
+Thị trấn Khoái Châu
+
+12208
+
+Xã Đông Tảo
+
+12211
+
+Xã Bình Minh
+
+12214
+
+Xã Dạ Trạch
+
+12217
+
+Xã Hàm Tử
+
+12220
+
+Xã Ông Đình
+
+12223
+
+Xã Tân Dân
+
+12226
+
+Xã Tứ Dân
+
+12229
+
+Xã An Vĩ
+
+12232
+
+Xã Đông Kết
+
+12235
+
+Xã Bình Kiều
+
+12238
+
+Xã Dân Tiến
+
+12241
+
+Xã Đồng Tiến
+
+12244
+
+Xã Hồng Tiến
+
+12247
+
+Xã Tân Châu
+
+12250
+
+Xã Liên Khê
+
+12253
+
+Xã Phùng Hưng
+
+12256
+
+Xã Việt Hòa
+
+12259
+
+Xã Đông Ninh
+
+12262
+
+Xã Đại Tập
+
+12265
+
+Xã Chí Tân
+
+12268
+
+Xã Đại Hưng
+
+12271
+
+Xã Thuần Hưng
+
+12274
+
+Xã Thành Công
+
+12277
+
+Xã Nhuế Dương
+
+**331**
+
+**Huyện Kim Động**
+
+12280
+
+Thị trấn Lương Bằng
+
+12283
+
+Xã Nghĩa Dân
+
+12286
+
+Xã Toàn Thắng
+
+12289
+
+Xã Vĩnh Xá
+
+12292
+
+Xã Phạm Ngũ Lão
+
+12295
+
+Xã Thọ Vinh
+
+12298
+
+Xã Đồng Thanh
+
+12301
+
+Xã Song Mai
+
+12304
+
+Xã Chính Nghĩa
+
+12307
+
+Xã Nhân La
+
+12310
+
+Xã Phú Thịnh
+
+12313
+
+Xã Mai Động
+
+12316
+
+Xã Đức Hợp
+
+12319
+
+Xã Hùng An
+
+12322
+
+Xã Ngọc Thanh
+
+12325
+
+Xã Vũ Xá
+
+12328
+
+Xã Hiệp Cường
+
+12331
+
+Xã Phú Cường
+
+12334
+
+Xã Hùng Cường
+
+**332**
+
+**Huyện Tiên Lữ**
+
+12337
+
+Thị trấn Vương
+
+12340
+
+Xã Hưng Đạo
+
+12343
+
+Xã Ngô Quyền
+
+12346
+
+Xã Nhật Tân
+
+12349
+
+Xã Dị Chế
+
+12352
+
+Xã Lệ Xá
+
+12355
+
+Xã An Viên
+
+12358
+
+Xã Đức Thắng
+
+12361
+
+Xã Trung Dũng
+
+12364
+
+Xã Hải Triều
+
+12367
+
+Xã Thủ Sỹ
+
+12370
+
+Xã Thiện Phiến
+
+12373
+
+Xã Thụy Lôi
+
+12376
+
+Xã Cương Chính
+
+12379
+
+Xã Minh Phương
+
+12382
+
+Xã Phương Chiểu
+
+12385
+
+Xã Tân Hưng
+
+12388
+
+Xã Hoàng Hanh
+
+**333**
+
+**Huyện Phù Cừ**
+
+12391
+
+Thị trấn Trần Cao
+
+12394
+
+Xã Minh Tân
+
+12397
+
+Xã Phan Sào Nam
+
+12400
+
+Xã Quang Hưng
+
+12403
+
+Xã Minh Hoàng
+
+12406
+
+Xã Đoàn Đào
+
+12409
+
+Xã Tống Phan
+
+12412
+
+Xã Đình Cao
+
+12415
+
+Xã Nhật Quang
+
+12418
+
+Xã Tiền Tiến
+
+12421
+
+Xã Tam Đa
+
+12424
+
+Xã Minh Tiến
+
+12427
+
+Xã Nguyên Hòa
+
+12430
+
+Xã Tống Trân
+
+34. TỈNH THÁI BÌNH
+
+(Tổng số
+xã, phường, thị trấn: 284; xã: 269, phường: 8, thị trấn: 7)
+
+(Total
+number of communes, subdistricts, subtowns: 284)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**336**
+
+**Thị xã Thái Bình**
+
+12433
+
+Phường Lê Hồng Phong
+
+12436
+
+Phường Bồ Xuyên
+
+12439
+
+Phường Đề Thám
+
+12442
+
+Phường Kỳ Bá
+
+12445
+
+Phường Quang Trung
+
+12448
+
+Phường Phú Khánh
+
+12451
+
+Phường Tiền Phong
+
+12454
+
+Phường Trần Lãm
+
+12457
+
+Xã Đông Hòa
+
+12460
+
+Xã Hoàng Diệu
+
+12463
+
+Xã Phú Xuân
+
+12466
+
+Xã Vũ Phúc
+
+12469
+
+Xã Vũ Chính
+
+**338**
+
+**Huyện Quỳnh Phụ**
+
+12472
+
+Thị trấn Quỳnh Côi
+
+12475
+
+Xã An Khê
+
+12478
+
+Xã An Đồng
+
+12481
+
+Xã Quỳnh Hoa
+
+12484
+
+Xã Quỳnh Lâm
+
+12487
+
+Xã Quỳnh Thọ
+
+12490
+
+Xã An Hiệp
+
+12493
+
+Xã Quỳnh Hoàng
+
+12496
+
+Xã Quỳnh Giao
+
+12499
+
+Xã An Thái
+
+12502
+
+Xã An Cầu
+
+12505
+
+Xã Quỳnh Hồng
+
+12508
+
+Xã Quỳnh Khê
+
+12511
+
+Xã Quỳnh Minh
+
+12514
+
+Xã An Ninh
+
+12517
+
+Xã Quỳnh Ngọc
+
+12520
+
+Xã Quỳnh Hải
+
+12523
+
+Xã An Bài
+
+12526
+
+Xã An ấp
+
+12529
+
+Xã Quỳnh Hội
+
+12532
+
+Xã Quỳnh Sơn
+
+12535
+
+Xã Quỳnh Mỹ
+
+12538
+
+Xã An Quý
+
+12541
+
+Xã An Thanh
+
+12544
+
+Xã Quỳnh Châu
+
+12547
+
+Xã An Vũ
+
+12550
+
+Xã An Lễ
+
+12553
+
+Xã Quỳnh Hưng
+
+12556
+
+Xã Quỳnh Bảo
+
+12559
+
+Xã An Mỹ
+
+12562
+
+Xã Quỳnh Nguyên
+
+12565
+
+Xã An Vinh
+
+12568
+
+Xã Quỳnh Xá
+
+12571
+
+Xã An Dục
+
+12574
+
+Xã Đông Hải
+
+12577
+
+Xã Quỳnh Trang
+
+12580
+
+Xã An Tràng
+
+12583
+
+Xã Đồng Tiến
+
+**339**
+
+**Huyện Hưng Hà**
+
+12586
+
+Thị trấn Hưng Hà
+
+12589
+
+Xã Điệp Nông
+
+12592
+
+Xã Tân Lễ
+
+12595
+
+Xã Cộng Hòa
+
+12598
+
+Xã Dân Chủ
+
+12601
+
+Xã Canh Tân
+
+12604
+
+Xã Hòa Tiến
+
+12607
+
+Xã Hùng Dũng
+
+12610
+
+Xã Tân Tiến
+
+12613
+
+Xã Phú Sơn
+
+12616
+
+Xã Đoan Hùng
+
+12619
+
+Xã Duyên Hải
+
+12622
+
+Xã Tân Hòa
+
+12625
+
+Xã Văn Cẩm
+
+12628
+
+Xã Bắc Sơn
+
+12631
+
+Xã Đông Đô
+
+12634
+
+Xã Phúc Khánh
+
+12637
+
+Xã Liên Hiệp
+
+12640
+
+Xã Tây Đô
+
+12643
+
+Xã Thống Nhất
+
+12646
+
+Xã Tiến Đức
+
+12649
+
+Xã Thái Hưng
+
+12652
+
+Xã Thái Phương
+
+12655
+
+Xã Bình Lăng
+
+12658
+
+Xã Minh Khai
+
+12661
+
+Xã Hồng An
+
+12664
+
+Xã Kim Chung
+
+12667
+
+Xã Hồng Lĩnh
+
+12670
+
+Xã Minh Tân
+
+12673
+
+Xã Văn Lang
+
+12676
+
+Xã Độc Lập
+
+12679
+
+Xã Chí Hòa
+
+12682
+
+Xã Minh Hòa
+
+12685
+
+Xã Hồng Minh
+
+**340**
+
+**Huyện Đông Hưng**
+
+12688
+
+Thị trấn Đông Hưng
+
+12691
+
+Xã Đô Lương
+
+12694
+
+Xã Đông Phương
+
+12697
+
+Xã Liên Giang
+
+12700
+
+Xã An Châu
+
+12703
+
+Xã Đông Sơn
+
+12706
+
+Xã Đông Cường
+
+12709
+
+Xã Phú Lương
+
+12712
+
+Xã Mê Linh
+
+12715
+
+Xã Lô Giang
+
+12718
+
+Xã Đông La
+
+12721
+
+Xã Minh Tân
+
+12724
+
+Xã Đông Xá
+
+12727
+
+Xã Chương Dương
+
+12730
+
+Xã Nguyên Xá
+
+12733
+
+Xã Phong Châu
+
+12736
+
+Xã Hợp Tiến
+
+12739
+
+Xã Hồng Việt
+
+12742
+
+Xã Đông Hà
+
+12745
+
+Xã Đông Giang
+
+12748
+
+Xã Đông Kinh
+
+12751
+
+Xã Đông Hợp
+
+12754
+
+Xã Thăng Long
+
+12757
+
+Xã Đông Các
+
+12760
+
+Xã Phú Châu
+
+12763
+
+Xã Hoa Lư
+
+12766
+
+Xã Minh Châu
+
+12769
+
+Xã Đông Tân
+
+12772
+
+Xã Đông Vinh
+
+12775
+
+Xã Đông Động
+
+12778
+
+Xã Hồng Châu
+
+12781
+
+Xã Bạch Đằng
+
+12784
+
+Xã Trọng Quan
+
+12787
+
+Xã Hoa Nam
+
+12790
+
+Xã Hồng Giang
+
+12793
+
+Xã Đông Phong
+
+12796
+
+Xã Đông Quang
+
+12799
+
+Xã Đông Xuân
+
+12802
+
+Xã Đông Á
+
+12805
+
+Xã Đông Lĩnh
+
+12808
+
+Xã Đông Hoàng
+
+12811
+
+Xã Đông Dương
+
+12814
+
+Xã Đông Huy
+
+12817
+
+Xã Đông Mỹ
+
+12820
+
+Xã Đông Thọ
+
+12823
+
+Xã Đồng Phú
+
+**341**
+
+**Huyện Thái Thụy**
+
+12826
+
+Thị trấn Diêm Điền
+
+12829
+
+Xã Thụy Tân
+
+12832
+
+Xã Thụy Trường
+
+12835
+
+Xã Hồng Quỳnh
+
+12838
+
+Xã Thụy Dũng
+
+12841
+
+Xã Thụy Hồng
+
+12844
+
+Xã Thụy Quỳnh
+
+12847
+
+Xã Thụy An
+
+12850
+
+Xã Thụy Ninh
+
+12853
+
+Xã Thụy Hưng
+
+12856
+
+Xã Thụy Việt
+
+12859
+
+Xã Thụy Văn
+
+12862
+
+Xã Thụy Xuân
+
+12865
+
+Xã Thụy Dương
+
+12868
+
+Xã Thụy Trình
+
+12871
+
+Xã Thụy Bình
+
+12874
+
+Xã Thụy Chính
+
+12877
+
+Xã Thụy Dân
+
+12880
+
+Xã Thụy Hải
+
+12883
+
+Xã Thụy Phúc
+
+12886
+
+Xã Thụy Lương
+
+12889
+
+Xã Thụy Liên
+
+12892
+
+Xã Thụy Duyên
+
+12895
+
+Xã Thụy Hà
+
+12898
+
+Xã Thụy Thanh
+
+12901
+
+Xã Thụy Sơn
+
+12904
+
+Xã Thụy Phong
+
+12907
+
+Xã Thái Thượng
+
+12910
+
+Xã Thái Nguyên
+
+12913
+
+Xã Thái Thủy
+
+12916
+
+Xã Thái Dương
+
+12919
+
+Xã Thái Giang
+
+12922
+
+Xã Thái Hòa
+
+12925
+
+Xã Thái Sơn
+
+12928
+
+Xã Thái Hồng
+
+12931
+
+Xã Thái An
+
+12934
+
+Xã Thái Phúc
+
+12937
+
+Xã Thái Hưng
+
+12940
+
+Xã Thái Đô
+
+12943
+
+Xã Thái Xuyên
+
+12946
+
+Xã Thái Hà
+
+12949
+
+Xã Mỹ Lộc
+
+12952
+
+Xã Thái Tân
+
+12955
+
+Xã Thái Thuần
+
+12958
+
+Xã Thái Học
+
+12961
+
+Xã Thái Thịnh
+
+12964
+
+Xã Thái Thành
+
+12967
+
+Xã Thái Thọ
+
+**342**
+
+**Huyện Tiền Hải**
+
+12970
+
+Thị trấn Tiền Hải
+
+12973
+
+Xã Đông Hải
+
+12976
+
+Xã Đông Trà
+
+12979
+
+Xã Đông Long
+
+12982
+
+Xã Đông Quý
+
+12985
+
+Xã Vũ Lăng
+
+12988
+
+Xã Đông Xuyên
+
+12991
+
+Xã Tây Lương
+
+12994
+
+Xã Tây Ninh
+
+12997
+
+Xã Đông Trung
+
+13000
+
+Xã Đông Hoàng
+
+13003
+
+Xã Đông Minh
+
+13006
+
+Xã Tây An
+
+13009
+
+Xã Đông Phong
+
+13012
+
+Xã An Ninh
+
+13015
+
+Xã Tây Sơn
+
+13018
+
+Xã Đông Cơ
+
+13021
+
+Xã Tây Giang
+
+13024
+
+Xã Đông Lâm
+
+13027
+
+Xã Phương Công
+
+13030
+
+Xã Tây Phong
+
+13033
+
+Xã Tây Tiến
+
+13036
+
+Xã Nam Cường
+
+13039
+
+Xã Vân Trường
+
+13042
+
+Xã Nam Thắng
+
+13045
+
+Xã Nam Chính
+
+13048
+
+Xã Bắc Hải
+
+13051
+
+Xã Nam Thịnh
+
+13054
+
+Xã Nam Hà
+
+13057
+
+Xã Nam Thanh
+
+13060
+
+Xã Nam Trung
+
+13063
+
+Xã Nam Hồng
+
+13066
+
+Xã Nam Hưng
+
+13069
+
+Xã Nam Hải
+
+13072
+
+Xã Nam Phú
+
+**343**
+
+**Huyện Kiến Xương**
+
+13075
+
+Thị trấn Thanh Nê
+
+13078
+
+Xã Trà Giang
+
+13081
+
+Xã Quốc Tuấn
+
+13084
+
+Xã Vũ Đông
+
+13087
+
+Xã An Bình
+
+13090
+
+Xã Vũ Tây
+
+13093
+
+Xã Hồng Thái
+
+13096
+
+Xã Bình Nguyên
+
+13099
+
+Xã Vũ Sơn
+
+13102
+
+Xã Lê Lợi
+
+13105
+
+Xã Quyết Tiến
+
+13108
+
+Xã Vũ Lạc
+
+13111
+
+Xã Vũ Lễ
+
+13114
+
+Xã Thanh Tân
+
+13117
+
+Xã Thượng Hiền
+
+13120
+
+Xã Nam Cao
+
+13123
+
+Xã Đình Phùng
+
+13126
+
+Xã Vũ Ninh
+
+13129
+
+Xã Vũ An
+
+13132
+
+Xã Quang Lịch
+
+13135
+
+Xã Hòa Bình
+
+13138
+
+Xã Bình Minh
+
+13141
+
+Xã Vũ Quý
+
+13144
+
+Xã Quang Bình
+
+13147
+
+Xã An Bồi
+
+13150
+
+Xã Vũ Trung
+
+13153
+
+Xã Vũ Thắng
+
+13156
+
+Xã Vũ Công
+
+13159
+
+Xã Vũ Hòa
+
+13162
+
+Xã Quang Minh
+
+13165
+
+Xã Quang Trung
+
+13168
+
+Xã Minh Hưng
+
+13171
+
+Xã Quang Hưng
+
+13174
+
+Xã Vũ Bình
+
+13177
+
+Xã Minh Tân
+
+13180
+
+Xã Nam Bình
+
+13183
+
+Xã Bình Thanh
+
+13186
+
+Xã Bình Định
+
+13189
+
+Xã Hồng Tiến
+
+**344**
+
+**Huyện Vũ Thư**
+
+13192
+
+Thị trấn Vũ Thư
+
+13195
+
+Xã Hồng Lý
+
+13198
+
+Xã Đồng Thanh
+
+13201
+
+Xã Xuân Hòa
+
+13204
+
+Xã Hiệp Hòa
+
+13207
+
+Xã Phúc Thành
+
+13210
+
+Xã Tân Phong
+
+13213
+
+Xã Song Lãng
+
+13216
+
+Xã Tân Hòa
+
+13219
+
+Xã Việt Hùng
+
+13222
+
+Xã Minh Lãng
+
+13225
+
+Xã Tân Bình
+
+13228
+
+Xã Minh Khai
+
+13231
+
+Xã Dũng Nghĩa
+
+13234
+
+Xã Minh Quang
+
+13237
+
+Xã Tam Quang
+
+13240
+
+Xã Tân Lập
+
+13243
+
+Xã Bách Thuận
+
+13246
+
+Xã Tự Tân
+
+13249
+
+Xã Song An
+
+13252
+
+Xã Trung An
+
+13255
+
+Xã Vũ Hội
+
+13258
+
+Xã Hòa Bình
+
+13261
+
+Xã Nguyên Xá
+
+13264
+
+Xã Việt Thuận
+
+13267
+
+Xã Vũ Vinh
+
+13270
+
+Xã Vũ Đoài
+
+13273
+
+Xã Vũ Tiến
+
+13276
+
+Xã Vũ Vân
+
+13279
+
+Xã Duy Nhất
+
+13282
+
+Xã Hồng Phong
+
+35. TỈNH HÀ NAM
+
+(Tổng số
+xã, phường, thị trấn: 116; xã: 104, phường: 6, thị trấn: 6)
+
+(Total
+number of communes, subdistricts, subtowns: 116)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**347**
+
+**Thị xã Phủ Lý**
+
+13285
+
+Phường Quang Trung
+
+13288
+
+Phường Lương Khánh Thiện
+
+13291
+
+Phường Lê Hồng Phong
+
+13294
+
+Phường Minh Khai
+
+13297
+
+Phường Hai Bà Trưng
+
+13300
+
+Phường Trần Hưng Đạo
+
+13303
+
+Xã Lam Hạ
+
+13306
+
+Xã Phù Vân
+
+13309
+
+Xã Liêm Chính
+
+13312
+
+Xã Liêm Chung
+
+13315
+
+Xã Thanh Châu
+
+13318
+
+Xã Châu Sơn
+
+**349**
+
+**Huyện Duy Tiên**
+
+13321
+
+Thị trấn Đồng Văn
+
+13324
+
+Thị trấn Hòa Mạc
+
+13327
+
+Xã Mộc Bắc
+
+13330
+
+Xã Châu Giang
+
+13333
+
+Xã Bạch Thượng
+
+13336
+
+Xã Duy Minh
+
+13339
+
+Xã Mộc Nam
+
+13342
+
+Xã Duy Hải
+
+13345
+
+Xã Chuyên Ngoại
+
+13348
+
+Xã Yên Bắc
+
+13351
+
+Xã Trác Văn
+
+13354
+
+Xã Tiên Nội
+
+13357
+
+Xã Hoàng Đông
+
+13360
+
+Xã Yên Nam
+
+13363
+
+Xã Tiên Ngoại
+
+13366
+
+Xã Tiên Tân
+
+13369
+
+Xã Đọi Sơn
+
+13372
+
+Xã Tiên Hiệp
+
+13375
+
+Xã Châu Sơn
+
+13378
+
+Xã Tiền Phong
+
+13381
+
+Xã Tiên Hải
+
+**350**
+
+**Huyện Kim Bảng**
+
+13384
+
+Thị trấn Quế
+
+13387
+
+Xã Nguyễn Úy
+
+13390
+
+Xã Đại Cương
+
+13393
+
+Xã Lê Hồ
+
+13396
+
+Xã Tượng Lĩnh
+
+13399
+
+Xã Nhật Tựu
+
+13402
+
+Xã Nhật Tân
+
+13405
+
+Xã Đồng Hóa
+
+13408
+
+Xã Hoàng Tây
+
+13411
+
+Xã Tân Sơn
+
+13414
+
+Xã Thụy Lôi
+
+13417
+
+Xã Văn Xá
+
+13420
+
+Xã Khả Phong
+
+13423
+
+Xã Ngọc Sơn
+
+13426
+
+Xã Kim Bình
+
+13429
+
+Xã Ba Sao
+
+13432
+
+Xã Liên Sơn
+
+13435
+
+Xã Thi Sơn
+
+13438
+
+Xã Thanh Sơn
+
+**351**
+
+**Huyện Thanh Liêm**
+
+13441
+
+Thị trấn Kiện Khê
+
+13444
+
+Xã Liêm Tuyền
+
+13447
+
+Xã Liêm Tiết
+
+13450
+
+Xã Liêm Phong
+
+13453
+
+Xã Thanh Hà
+
+13456
+
+Xã Liêm Cần
+
+13459
+
+Xã Thanh Tuyền
+
+13462
+
+Xã Thanh Bình
+
+13465
+
+Xã Liêm Thuận
+
+13468
+
+Xã Thanh Thủy
+
+13471
+
+Xã Thanh Phong
+
+13474
+
+Xã Thanh Lưu
+
+13477
+
+Xã Thanh Tân
+
+13480
+
+Xã Liêm Túc
+
+13483
+
+Xã Liêm Sơn
+
+13486
+
+Xã Thanh Hương
+
+13489
+
+Xã Thanh Nghị
+
+13492
+
+Xã Thanh Tâm
+
+13495
+
+Xã Thanh Nguyên
+
+13498
+
+Xã Thanh Hải
+
+**352**
+
+**Huyện Bình Lục**
+
+13501
+
+Thị trấn Bình Mỹ
+
+13504
+
+Xã Bình Nghĩa
+
+13507
+
+Xã Đinh Xá
+
+13510
+
+Xã Tràng An
+
+13513
+
+Xã Trịnh Xá
+
+13516
+
+Xã Đồng Du
+
+13519
+
+Xã Ngọc Lũ
+
+13522
+
+Xã Hưng Công
+
+13525
+
+Xã Đồn Xá
+
+13528
+
+Xã An Ninh
+
+13531
+
+Xã Bồ Đề
+
+13534
+
+Xã Bối Cầu
+
+13537
+
+Xã An Mỹ
+
+13540
+
+Xã An Nội
+
+13543
+
+Xã Vũ Bản
+
+13546
+
+Xã Trung Lương
+
+13549
+
+Xã Mỹ Thọ
+
+13552
+
+Xã An Đổ
+
+13555
+
+Xã La Sơn
+
+13558
+
+Xã Tiêu Động
+
+13561
+
+Xã An Lão
+
+**353**
+
+**Huyện Lý Nhân**
+
+13564
+
+Thị trấn Vĩnh Trụ
+
+13567
+
+Xã Hợp Lý
+
+13570
+
+Xã Nguyên Lý
+
+13573
+
+Xã Chính Lý
+
+13576
+
+Xã Chân Lý
+
+13579
+
+Xã Đạo Lý
+
+13582
+
+Xã Công Lý
+
+13585
+
+Xã Văn Lý
+
+13588
+
+Xã Bắc Lý
+
+13591
+
+Xã Đức Lý
+
+13594
+
+Xã Nhân Đạo
+
+13597
+
+Xã Đồng Lý
+
+13600
+
+Xã Nhân Thịnh
+
+13603
+
+Xã Nhân Hưng
+
+13606
+
+Xã Nhân Khang
+
+13609
+
+Xã Nhân Mỹ
+
+13612
+
+Xã Nhân Nghĩa
+
+13615
+
+Xã Nhân Chính
+
+13618
+
+Xã Nhân Bình
+
+13621
+
+Xã Phú Phúc
+
+13624
+
+Xã Xuân Khê
+
+13627
+
+Xã Tiến Thắng
+
+13630
+
+Xã Hòa Hậu
+
+36. TỈNH NAM ĐỊNH
+
+(Tổng số
+xã, phường, thị trấn: 229; xã: 196, phường: 20, thị trấn: 13)
+
+(Total
+number of communes, subdistricts, subtowns: 229)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**356**
+
+**Thành phố Nam Định**
+
+13633
+
+Phường Hạ Long
+
+13636
+
+Phường Trần Tế Xương
+
+13639
+
+Phường Vị Hoàng
+
+13642
+
+Phường Vị Xuyên
+
+13645
+
+Phường Quang Trung
+
+13648
+
+Phường Cửa Bắc
+
+13651
+
+Phường Nguyễn Du
+
+13654
+
+Phường Bà Triệu
+
+13657
+
+Phường Trường Thi
+
+13660
+
+Phường Phan Đình Phùng
+
+13663
+
+Phường Ngô Quyền
+
+13666
+
+Phường Trần Hưng Đạo
+
+13669
+
+Phường Trần Đăng Ninh
+
+13672
+
+Phường Năng Tĩnh
+
+13675
+
+Phường Văn Miếu
+
+13678
+
+Phường Trần Quang Khải
+
+13681
+
+Phường Thống Nhất
+
+13684
+
+Phường Lộc Hạ
+
+13687
+
+Phường Lộc Vượng
+
+13690
+
+Phường Cửa Nam
+
+13693
+
+Xã Lộc Hòa
+
+13696
+
+Xã Nam Phong
+
+13699
+
+Xã Mỹ Xá
+
+13702
+
+Xã Lộc An
+
+13705
+
+Xã Nam Vân
+
+**358**
+
+**Huyện Mỹ Lộc**
+
+13708
+
+Thị trấn Mỹ Lộc
+
+13711
+
+Xã Mỹ Hà
+
+13714
+
+Xã Mỹ Tiến
+
+13717
+
+Xã Mỹ Thắng
+
+13720
+
+Xã Mỹ Trung
+
+13723
+
+Xã Mỹ Tân
+
+13726
+
+Xã Mỹ Phúc
+
+13729
+
+Xã Mỹ Hưng
+
+13732
+
+Xã Mỹ Thuận
+
+13735
+
+Xã Mỹ Thịnh
+
+13738
+
+Xã Mỹ Thành
+
+**359**
+
+**Huyện Vụ Bản**
+
+13741
+
+Thị trấn Gôi
+
+13744
+
+Xã Minh Thuận
+
+13747
+
+Xã Hiển Khánh
+
+13750
+
+Xã Tân Khánh
+
+13753
+
+Xã Hợp Hưng
+
+13756
+
+Xã Đại An
+
+13759
+
+Xã Tân Thành
+
+13762
+
+Xã Cộng Hòa
+
+13765
+
+Xã Trung Thành
+
+13768
+
+Xã Quang Trung
+
+13771
+
+Xã Minh Tân
+
+13774
+
+Xã Liên Bảo
+
+13777
+
+Xã Thành Lợi
+
+13780
+
+Xã Kim Thái
+
+13783
+
+Xã Liên Minh
+
+13786
+
+Xã Đại Thắng
+
+13789
+
+Xã Tam Thanh
+
+13792
+
+Xã Vĩnh Hào
+
+**360**
+
+**Huyện Ý Yên**
+
+13795
+
+Thị trấn Lâm
+
+13798
+
+Xã Yên Trung
+
+13801
+
+Xã Yên Thành
+
+13804
+
+Xã Yên Tân
+
+13807
+
+Xã Yên Lợi
+
+13810
+
+Xã Yên Thọ
+
+13813
+
+Xã Yên Nghĩa
+
+13816
+
+Xã Yên Minh
+
+13819
+
+Xã Yên Phương
+
+13822
+
+Xã Yên Chính
+
+13825
+
+Xã Yên Bình
+
+13828
+
+Xã Yên Phú
+
+13831
+
+Xã Yên Mỹ
+
+13834
+
+Xã Yên Dương
+
+13837
+
+Xã Yên Xá
+
+13840
+
+Xã Yên Hưng
+
+13843
+
+Xã Yên Khánh
+
+13846
+
+Xã Yên Phong
+
+13849
+
+Xã Yên Ninh
+
+13852
+
+Xã Yên Lương
+
+13855
+
+Xã Yên Hồng
+
+13858
+
+Xã Yên Quang
+
+13861
+
+Xã Yên Tiến
+
+13864
+
+Xã Yên Thắng
+
+13867
+
+Xã Yên Phúc
+
+13870
+
+Xã Yên Cường
+
+13873
+
+Xã Yên Lộc
+
+13876
+
+Xã Yên Bằng
+
+13879
+
+Xã Yên Đồng
+
+13882
+
+Xã Yên Khang
+
+13885
+
+Xã Yên Nhân
+
+13888
+
+Xã Yên Trị
+
+**361**
+
+**Huyện Nghĩa Hưng**
+
+13891
+
+Thị trấn Liễu Đề
+
+13894
+
+Thị trấn Rạng Đông
+
+13897
+
+Xã Nghĩa Đồng
+
+13900
+
+Xã Nghĩa Thịnh
+
+13903
+
+Xã Nghĩa Minh
+
+13906
+
+Xã Nghĩa Thái
+
+13909
+
+Xã Hoàng Nam
+
+13912
+
+Xã Nghĩa Châu
+
+13915
+
+Xã Nghĩa Trung
+
+13918
+
+Xã Nghĩa Sơn
+
+13921
+
+Xã Nghĩa Lạc
+
+13924
+
+Xã Nghĩa Hồng
+
+13927
+
+Xã Nghĩa Phong
+
+13930
+
+Xã Nghĩa Phú
+
+13933
+
+Xã Nghĩa Bình
+
+13936
+
+Xã Nghĩa Hòa
+
+13939
+
+Xã Nghĩa Tân
+
+13942
+
+Xã Nghĩa Hùng
+
+13945
+
+Xã Nghĩa Lâm
+
+13948
+
+Xã Nghĩa Thành
+
+13951
+
+Xã Nghĩa Thắng
+
+13954
+
+Xã Nghĩa Lợi
+
+13957
+
+Xã Nghĩa Hải
+
+13960
+
+Xã Nghĩa Phúc
+
+13963
+
+Xã Nam Điền
+
+**362**
+
+**Huyện Nam Trực**
+
+13966
+
+Thị trấn Nam Giang
+
+13969
+
+Xã Nam Mỹ
+
+13972
+
+Xã Điền Xá
+
+13975
+
+Xã Nghĩa An
+
+13978
+
+Xã Nam Thắng
+
+13981
+
+Xã Nam Toàn
+
+13984
+
+Xã Hồng Quang
+
+13987
+
+Xã Tân Thịnh
+
+13990
+
+Xã Nam Cường
+
+13993
+
+Xã Nam Hồng
+
+13996
+
+Xã Nam Hùng
+
+13999
+
+Xã Nam Hoa
+
+14002
+
+Xã Nam Dương
+
+14005
+
+Xã Nam Thanh
+
+14008
+
+Xã Nam Lợi
+
+14011
+
+Xã Bình Minh
+
+14014
+
+Xã Đồng Sơn
+
+14017
+
+Xã Nam Tiến
+
+14020
+
+Xã Nam Hải
+
+14023
+
+Xã Nam Thái
+
+**363**
+
+**Huyện Trực Ninh**
+
+14026
+
+Thị trấn Cổ Lễ
+
+14029
+
+Xã Phương Định
+
+14032
+
+Xã Trực Chính
+
+14035
+
+Xã Trung Đông
+
+14038
+
+Xã Liêm Hải
+
+14041
+
+Xã Trực Tuấn
+
+14044
+
+Xã Việt Hùng
+
+14047
+
+Xã Trực Đạo
+
+14050
+
+Xã Trực Hưng
+
+14053
+
+Xã Trực Nội
+
+14056
+
+Xã Cát Thành
+
+14059
+
+Xã Trực Thanh
+
+14062
+
+Xã Trực Khang
+
+14065
+
+Xã Trực Thuận
+
+14068
+
+Xã Trực Mỹ
+
+14071
+
+Xã Trực Đại
+
+14074
+
+Xã Trực Cường
+
+14077
+
+Xã Trực Phú
+
+14080
+
+Xã Trực Thái
+
+14083
+
+Xã Trực Hùng
+
+14086
+
+Xã Trực Thắng
+
+**364**
+
+**Huyện Xuân Trường**
+
+14089
+
+Thị trấn Xuân Trường
+
+14092
+
+Xã Xuân Châu
+
+14095
+
+Xã Xuân Hồng
+
+14098
+
+Xã Xuân Thành
+
+14101
+
+Xã Xuân Thượng
+
+14104
+
+Xã Xuân Phong
+
+14107
+
+Xã Xuân Đài
+
+14110
+
+Xã Xuân Tân
+
+14113
+
+Xã Xuân Thủy
+
+14116
+
+Xã Xuân Ngọc
+
+14119
+
+Xã Xuân Bắc
+
+14122
+
+Xã Xuân Phương
+
+14125
+
+Xã Thọ Nghiệp
+
+14128
+
+Xã Xuân Phú
+
+14131
+
+Xã Xuân Trung
+
+14134
+
+Xã Xuân Vinh
+
+14137
+
+Xã Xuân Kiên
+
+14140
+
+Xã Xuân Tiến
+
+14143
+
+Xã Xuân Ninh
+
+14146
+
+Xã Xuân Hòa
+
+**365**
+
+**Huyện Giao Thủy**
+
+14149
+
+Thị trấn Ngô Đồng
+
+14152
+
+Thị trấn Quất Lâm
+
+14155
+
+Xã Giao Hương
+
+14158
+
+Xã Hồng Thuận
+
+14161
+
+Xã Giao Thiện
+
+14164
+
+Xã Giao Thanh
+
+14167
+
+Xã Hoành Sơn
+
+14170
+
+Xã Bình Hòa
+
+14173
+
+Xã Giao Tiến
+
+14176
+
+Xã Giao Hà
+
+14179
+
+Xã Giao Nhân
+
+14182
+
+Xã Giao An
+
+14185
+
+Xã Giao Lạc
+
+14188
+
+Xã Giao Châu
+
+14191
+
+Xã Giao Tân
+
+14194
+
+Xã Giao Yến
+
+14197
+
+Xã Giao Xuân
+
+14200
+
+Xã Giao Thịnh
+
+14203
+
+Xã Giao Hải
+
+14206
+
+Xã Bạch Long
+
+14209
+
+Xã Giao Long
+
+14212
+
+Xã Giao Phong
+
+**366**
+
+**Huyện Hải Hậu**
+
+14215
+
+Thị trấn Yên Định
+
+14218
+
+Thị trấn Cồn
+
+14221
+
+Thị trấn Thịnh Long
+
+14224
+
+Xã Hải Nam
+
+14227
+
+Xã Hải Trung
+
+14230
+
+Xã Hải Vân
+
+14233
+
+Xã Hải Minh
+
+14236
+
+Xã Hải Anh
+
+14239
+
+Xã Hải Hưng
+
+14242
+
+Xã Hải Bắc
+
+14245
+
+Xã Hải Phúc
+
+14248
+
+Xã Hải Thanh
+
+14251
+
+Xã Hải Hà
+
+14254
+
+Xã Hải Long
+
+14257
+
+Xã Hải Phương
+
+14260
+
+Xã Hải Đường
+
+14263
+
+Xã Hải Lộc
+
+14266
+
+Xã Hải Quang
+
+14269
+
+Xã Hải Đông
+
+14272
+
+Xã Hải Sơn
+
+14275
+
+Xã Hải Tân
+
+14278
+
+Xã Hải Toàn
+
+14281
+
+Xã Hải Phong
+
+14284
+
+Xã Hải An
+
+14287
+
+Xã Hải Tây
+
+14290
+
+Xã Hải Lý
+
+14293
+
+Xã Hải Phú
+
+14296
+
+Xã Hải Giang
+
+14299
+
+Xã Hải Cường
+
+14302
+
+Xã Hải Ninh
+
+14305
+
+Xã Hải Chính
+
+14308
+
+Xã Hải Xuân
+
+14311
+
+Xã Hải Châu
+
+14314
+
+Xã Hải Triều
+
+14317
+
+Xã Hải Hòa
+
+37. TỈNH NINH BÌNH
+
+(Tổng số
+xã, phường, thị trấn: 145; xã: 127, phường: 11, thị trấn: 7)
+
+(Total
+number of communes, subdistricts, subtowns: 145)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**369**
+
+**Thị xã Ninh Bình**
+
+14320
+
+Phường Đông Thành
+
+14323
+
+Phường Tân Thành
+
+14326
+
+Phường Thanh Bình
+
+14329
+
+Phường Vân Giang
+
+14332
+
+Phường Bích Đào
+
+14335
+
+Phường Phúc Thành
+
+14338
+
+Phường Nam Bình
+
+14341
+
+Phường Nam Thành
+
+14344
+
+Xã Ninh Khánh
+
+14347
+
+Xã Ninh Nhất
+
+14350
+
+Xã Ninh Tiến
+
+14353
+
+Xã Ninh Phúc
+
+14356
+
+Xã Ninh Sơn
+
+14359
+
+Xã Ninh Phong
+
+**370**
+
+**Thị xã Tam Điệp**
+
+14362
+
+Phường Bắc Sơn
+
+14365
+
+Phường Trung Sơn
+
+14368
+
+Phường Nam Sơn
+
+14371
+
+Xã Yên Sơn
+
+14374
+
+Xã Yên Bình
+
+14377
+
+Xã Quang Sơn
+
+14380
+
+Xã Đông Sơn
+
+**372**
+
+**Huyện Nho Quan**
+
+14383
+
+Thị trấn Nho Quan
+
+14386
+
+Xã Xích Thổ
+
+14389
+
+Xã Gia Lâm
+
+14392
+
+Xã Gia Sơn
+
+14395
+
+Xã Thạch Bình
+
+14398
+
+Xã Gia Thủy
+
+14401
+
+Xã Gia Tường
+
+14404
+
+Xã Cúc Phương
+
+14407
+
+Xã Phú Sơn
+
+14410
+
+Xã Đức Long
+
+14413
+
+Xã Lạc Vân
+
+14416
+
+Xã Đồng Phong
+
+14419
+
+Xã Yên Quang
+
+14422
+
+Xã Lạng Phong
+
+14425
+
+Xã Thượng Hòa
+
+14428
+
+Xã Văn Phong
+
+14431
+
+Xã Văn Phương
+
+14434
+
+Xã Thanh Lạc
+
+14437
+
+Xã Sơn Lai
+
+14440
+
+Xã Sơn Thành
+
+14443
+
+Xã Văn Phú
+
+14446
+
+Xã Phú Lộc
+
+14449
+
+Xã Kỳ Phú
+
+14452
+
+Xã Quỳnh Lưu
+
+14455
+
+Xã Sơn Hà
+
+14458
+
+Xã Phú Long
+
+14461
+
+Xã Quảng Lạc
+
+**373**
+
+**Huyện Gia Viễn**
+
+14464
+
+Thị trấn Me
+
+14467
+
+Xã Gia Hòa
+
+14470
+
+Xã Gia Hưng
+
+14473
+
+Xã Liên Sơn
+
+14476
+
+Xã Gia Thanh
+
+14479
+
+Xã Gia Vân
+
+14482
+
+Xã Gia Phú
+
+14485
+
+Xã Gia Xuân
+
+14488
+
+Xã Gia Lập
+
+14491
+
+Xã Gia Vượng
+
+14494
+
+Xã Gia Trấn
+
+14497
+
+Xã Gia Thịnh
+
+14500
+
+Xã Gia Phương
+
+14503
+
+Xã Gia Tân
+
+14506
+
+Xã Gia Thắng
+
+14509
+
+Xã Gia Trung
+
+14512
+
+Xã Gia Minh
+
+14515
+
+Xã Gia Lạc
+
+14518
+
+Xã Gia Tiến
+
+14521
+
+Xã Gia Sinh
+
+14524
+
+Xã Gia Phong
+
+**374**
+
+**Huyện Hoa Lư**
+
+14527
+
+Thị trấn Thiên Tôn
+
+14530
+
+Xã Ninh Giang
+
+14533
+
+Xã Trường Yên
+
+14536
+
+Xã Ninh Khang
+
+14539
+
+Xã Ninh Mỹ
+
+14542
+
+Xã Ninh Hòa
+
+14545
+
+Xã Ninh Xuân
+
+14548
+
+Xã Ninh Hải
+
+14551
+
+Xã Ninh Thắng
+
+14554
+
+Xã Ninh Vân
+
+14557
+
+Xã Ninh An
+
+**375**
+
+**Huyện Yên Khánh**
+
+14560
+
+Thị trấn Yên Ninh
+
+14563
+
+Xã Khánh Tiên
+
+14566
+
+Xã Khánh Phú
+
+14569
+
+Xã Khánh Hòa
+
+14572
+
+Xã Khánh Lợi
+
+14575
+
+Xã Khánh An
+
+14578
+
+Xã Khánh Cường
+
+14581
+
+Xã Khánh Cư
+
+14584
+
+Xã Khánh Thiện
+
+14587
+
+Xã Khánh Hải
+
+14590
+
+Xã Khánh Trung
+
+14593
+
+Xã Khánh Mậu
+
+14596
+
+Xã Khánh Vân
+
+14599
+
+Xã Khánh Hội
+
+14602
+
+Xã Khánh Công
+
+14605
+
+Xã Khánh Ninh
+
+14608
+
+Xã Khánh Thành
+
+14611
+
+Xã Khánh Nhạc
+
+14614
+
+Xã Khánh Thủy
+
+14617
+
+Xã Khánh Hồng
+
+**376**
+
+**Huyện Kim Sơn**
+
+14620
+
+Thị trấn Phát Diệm
+
+14623
+
+Thị trấn Bình Minh
+
+14626
+
+Xã Xuân Thiện
+
+14629
+
+Xã Hồi Ninh
+
+14632
+
+Xã Chính Tâm
+
+14635
+
+Xã Kim Định
+
+14638
+
+Xã Ân Hòa
+
+14641
+
+Xã Hùng Tiến
+
+14644
+
+Xã Yên Mật
+
+14647
+
+Xã Quang Thiện
+
+14650
+
+Xã Như Hòa
+
+14653
+
+Xã Chất Bình
+
+14656
+
+Xã Đồng Hướng
+
+14659
+
+Xã Kim Chính
+
+14662
+
+Xã Thượng Kiệm
+
+14665
+
+Xã Lưu Phương
+
+14668
+
+Xã Tân Thành
+
+14671
+
+Xã Yên Lộc
+
+14674
+
+Xã Lai Thành
+
+14677
+
+Xã Định Hóa
+
+14680
+
+Xã Văn Hải
+
+14683
+
+Xã Kim Tân
+
+14686
+
+Xã Kim Mỹ
+
+14689
+
+Xã Cồn Thoi
+
+14692
+
+Xã Kim Hải
+
+14695
+
+Xã Kim Trung
+
+14698
+
+Xã Kim Đông
+
+**377**
+
+**Huyện Yên Mô**
+
+14701
+
+Thị trấn Yên Thịnh
+
+14704
+
+Xã Khánh Thượng
+
+14707
+
+Xã Khánh Dương
+
+14710
+
+Xã Mai Sơn
+
+14713
+
+Xã Khánh Thịnh
+
+14716
+
+Xã Yên Phú
+
+14719
+
+Xã Yên Phong
+
+14722
+
+Xã Yên Hòa
+
+14725
+
+Xã Yên Thắng
+
+14728
+
+Xã Yên Từ
+
+14731
+
+Xã Yên Hưng
+
+14734
+
+Xã Yên Thành
+
+14737
+
+Xã Yên Nhân
+
+14740
+
+Xã Yên Mỹ
+
+14743
+
+Xã Yên Mạc
+
+14746
+
+Xã Yên Đồng
+
+14749
+
+Xã Yên Thái
+
+14752
+
+Xã Yên Lâm
+
+38. TỈNH THANH HÓA
+
+(Tổng số
+xã, phường, thị trấn: 636; xã: 587, phường: 20, thị trấn: 29)
+
+(Total
+number of communes, subdistricts, subtowns: 636)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**380**
+
+**Thành phố Thanh Hóa**
+
+14755
+
+Phường Hàm Rồng
+
+14758
+
+Phường Đông Thọ
+
+14761
+
+Phường Nam Ngạn
+
+14764
+
+Phường Trường Thi
+
+14767
+
+Phường Điện Biên
+
+14770
+
+Phường Phú Sơn
+
+14773
+
+Phường Lam Sơn
+
+14776
+
+Phường Ba Đình
+
+14779
+
+Phường Ngọc Trạo
+
+14782
+
+Phường Đông Vệ
+
+14785
+
+Phường Đông Sơn
+
+14788
+
+Phường Tân Sơn
+
+14791
+
+Xã Đông Cương
+
+14794
+
+Xã Đông Hương
+
+14797
+
+Xã Đông Hải
+
+14800
+
+Xã Quảng Hưng
+
+14803
+
+Xã Quảng Thắng
+
+14806
+
+Xã Quảng Thành
+
+**381**
+
+**Thị xã Bỉm Sơn**
+
+14809
+
+Phường Bắc Sơn
+
+14812
+
+Phường Ba Đình
+
+14815
+
+Phường Lam Sơn
+
+14818
+
+Phường Ngọc Trạo
+
+14821
+
+Phường Đông Sơn
+
+14824
+
+Xã Quang Trung
+
+14827
+
+Xã Hà Lan
+
+**382**
+
+**Thị xã Sầm Sơn**
+
+14830
+
+Phường Trung Sơn
+
+14833
+
+Phường Bắc Sơn
+
+14836
+
+Phường Trường Sơn
+
+14839
+
+Xã Quảng Cư
+
+14842
+
+Xã Quảng Tiến
+
+**384**
+
+**Huyện Mường Lát**
+
+14845
+
+Thị trấn Mường Lát
+
+14848
+
+Xã Tam Chung
+
+14851
+
+Xã Tén Tằn
+
+14854
+
+Xã Mường Lý
+
+14857
+
+Xã Trung Lý
+
+14860
+
+Xã Quang Chiểu
+
+14863
+
+Xã Pù Nhi
+
+14866
+
+Xã Mường Chanh
+
+**385**
+
+**Huyện Quan Hóa**
+
+14869
+
+Thị trấn Quan Hóa
+
+14872
+
+Xã Thành Sơn
+
+14875
+
+Xã Trung Sơn
+
+14878
+
+Xã Phú Thanh
+
+14881
+
+Xã Trung Thành
+
+14884
+
+Xã Phú Lệ
+
+14887
+
+Xã Phú Sơn
+
+14890
+
+Xã Phú Xuân
+
+14893
+
+Xã Thanh Xuân
+
+14896
+
+Xã Hiền Chung
+
+14899
+
+Xã Hiền Kiệt
+
+14902
+
+Xã Nam Tiến
+
+14905
+
+Xã Hồi Xuân
+
+14908
+
+Xã Thiên Phủ
+
+14911
+
+Xã Phú Nghiêm
+
+14914
+
+Xã Nam Xuân
+
+14917
+
+Xã Nam Động
+
+14920
+
+Xã Xuân Phú
+
+**386**
+
+**Huyện Bá Thước**
+
+14923
+
+Thị trấn Cành Nàng
+
+14926
+
+Xã Điền Thượng
+
+14929
+
+Xã Điền Hạ
+
+14932
+
+Xã Điền Quang
+
+14935
+
+Xã Điền Trung
+
+14938
+
+Xã Thành Sơn
+
+14941
+
+Xã Lương Ngoại
+
+14944
+
+Xã Ái Thượng
+
+14947
+
+Xã Lương Nội
+
+14950
+
+Xã Điền Lư
+
+14953
+
+Xã Lương Trung
+
+14956
+
+Xã Lũng Niêm
+
+14959
+
+Xã Lũng Cao
+
+14962
+
+Xã Hạ Trung
+
+14965
+
+Xã Cổ Lũng
+
+14968
+
+Xã Thành Lâm
+
+14971
+
+Xã Ban Công
+
+14974
+
+Xã Kỳ Tân
+
+14977
+
+Xã Văn Nho
+
+14980
+
+Xã Thiết Ống
+
+14983
+
+Xã Lâm Sa
+
+14986
+
+Xã Thiết Kế
+
+14989
+
+Xã Tân Lập
+
+**387**
+
+**Huyện Quan Sơn**
+
+14992
+
+Thị trấn Quan Sơn
+
+14995
+
+Xã Trung Xuân
+
+14998
+
+Xã Trung Thượng
+
+15001
+
+Xã Trung Hạ
+
+15004
+
+Xã Sơn Hà
+
+15007
+
+Xã Tam Thanh
+
+15010
+
+Xã Sơn Thủy
+
+15013
+
+Xã Na Mèo
+
+15016
+
+Xã Sơn Lư
+
+15019
+
+Xã Tam Lư
+
+15022
+
+Xã Sơn Điện
+
+15025
+
+Xã Mường Mìn
+
+**388**
+
+**Huyện Lang Chánh**
+
+15028
+
+Thị trấn Lang Chánh
+
+15031
+
+Xã Yên Khương
+
+15034
+
+Xã Yên Thắng
+
+15037
+
+Xã Trí Nang
+
+15040
+
+Xã Giao An
+
+15043
+
+Xã Giao Thiện
+
+15046
+
+Xã Tân Phúc
+
+15049
+
+Xã Tam Văn
+
+15052
+
+Xã Lâm Phú
+
+15055
+
+Xã Quang Hiến
+
+15058
+
+Xã Đồng Lương
+
+**389**
+
+**Huyện Ngọc Lạc**
+
+15061
+
+Thị trấn Ngọc Lạc
+
+15064
+
+Xã Lam Sơn
+
+15067
+
+Xã Mỹ Tân
+
+15070
+
+Xã Thúy Sơn
+
+15073
+
+Xã Thạch Lập
+
+15076
+
+Xã Vân Âm
+
+15079
+
+Xã Cao Ngọc
+
+15082
+
+Xã Ngọc Khê
+
+15085
+
+Xã Quang Trung
+
+15088
+
+Xã Đồng Thịnh
+
+15091
+
+Xã Ngọc Liên
+
+15094
+
+Xã Ngọc Sơn
+
+15097
+
+Xã Lộc Thịnh
+
+15100
+
+Xã Cao Thịnh
+
+15103
+
+Xã Ngọc Trung
+
+15106
+
+Xã Phùng Giáo
+
+15109
+
+Xã Phùng Minh
+
+15112
+
+Xã Phúc Thịnh
+
+15115
+
+Xã Nguyệt Ấn
+
+15118
+
+Xã Kiên Thọ
+
+15121
+
+Xã Minh Tiến
+
+15124
+
+Xã Minh Sơn
+
+**390**
+
+**Huyện Cẩm Thủy**
+
+15127
+
+Thị trấn Cẩm Thủy
+
+15130
+
+Xã Phúc Do
+
+15133
+
+Xã Cẩm Thành
+
+15136
+
+Xã Cẩm Quý
+
+15139
+
+Xã Cẩm Lương
+
+15142
+
+Xã Cẩm Thạch
+
+15145
+
+Xã Cẩm Liên
+
+15148
+
+Xã Cẩm Giang
+
+15151
+
+Xã Cẩm Bình
+
+15154
+
+Xã Cẩm Tú
+
+15157
+
+Xã Cẩm Sơn
+
+15160
+
+Xã Cẩm Châu
+
+15163
+
+Xã Cẩm Tâm
+
+15166
+
+Xã Cẩm Phong
+
+15169
+
+Xã Cẩm Ngọc
+
+15172
+
+Xã Cẩm Long
+
+15175
+
+Xã Cẩm Yên
+
+15178
+
+Xã Cẩm Tân
+
+15181
+
+Xã Cẩm Phú
+
+15184
+
+Xã Cẩm Vân
+
+**391**
+
+**Huyện Thạch Thành**
+
+15187
+
+Thị trấn Kim Tân
+
+15190
+
+Thị trấn Vân Du
+
+15193
+
+Xã Thạch Tân
+
+15196
+
+Xã Thạch Lâm
+
+15199
+
+Xã Thạch Quảng
+
+15202
+
+Xã Thạch Tượng
+
+15205
+
+Xã Thạch Cẩm
+
+15208
+
+Xã Thạch Sơn
+
+15211
+
+Xã Thạch Bình
+
+15214
+
+Xã Thạch Định
+
+15217
+
+Xã Thạch Đồng
+
+15220
+
+Xã Thạch Long
+
+15223
+
+Xã Thành Mỹ
+
+15226
+
+Xã Thành Yên
+
+15229
+
+Xã Thành Vinh
+
+15232
+
+Xã Thành Minh
+
+15235
+
+Xã Thành Công
+
+15238
+
+Xã Thành Tân
+
+15241
+
+Xã Thành Trực
+
+15244
+
+Xã Thành Vân
+
+15247
+
+Xã Thành Tâm
+
+15250
+
+Xã Thành An
+
+15253
+
+Xã Thành Thọ
+
+15256
+
+Xã Thành Tiến
+
+15259
+
+Xã Thành Long
+
+15262
+
+Xã Thành Kim
+
+15265
+
+Xã Thành Hưng
+
+15268
+
+Xã Ngọc Trạo
+
+**392**
+
+**Huyện Hà Trung**
+
+15271
+
+Thị trấn Hà Trung
+
+15274
+
+Xã Hà Long
+
+15277
+
+Xã Hà Vinh
+
+15280
+
+Xã Hà Bắc
+
+15283
+
+Xã Hà Vân
+
+15286
+
+Xã Hà Yên
+
+15289
+
+Xã Hà Thanh
+
+15292
+
+Xã Hà Giang
+
+15295
+
+Xã Hà Dương
+
+15298
+
+Xã Hà Phú
+
+15301
+
+Xã Hà Phong
+
+15304
+
+Xã Hà Ngọc
+
+15307
+
+Xã Hà Ninh
+
+15310
+
+Xã Hà Lâm
+
+15313
+
+Xã Hà Sơn
+
+15316
+
+Xã Hà Lĩnh
+
+15319
+
+Xã Hà Đông
+
+15322
+
+Xã Hà Tân
+
+15325
+
+Xã Hà Tiến
+
+15328
+
+Xã Hà Bình
+
+15331
+
+Xã Hà Lai
+
+15334
+
+Xã Hà Châu
+
+15337
+
+Xã Hà Toại
+
+15340
+
+Xã Hà Thái
+
+15343
+
+Xã Hà Hải
+
+**393**
+
+**Huyện Vĩnh Lộc**
+
+15346
+
+Thị trấn Vĩnh Lộc
+
+15349
+
+Xã Vĩnh Thành
+
+15352
+
+Xã Vĩnh Quang
+
+15355
+
+Xã Vĩnh Yên
+
+15358
+
+Xã Vĩnh Tiến
+
+15361
+
+Xã Vĩnh Long
+
+15364
+
+Xã Vĩnh Phúc
+
+15367
+
+Xã Vĩnh Hưng
+
+15370
+
+Xã Vĩnh Minh
+
+15373
+
+Xã Vĩnh Khang
+
+15376
+
+Xã Vĩnh Hòa
+
+15379
+
+Xã Vĩnh Hùng
+
+15382
+
+Xã Vĩnh Tân
+
+15385
+
+Xã Vĩnh Ninh
+
+15388
+
+Xã Vĩnh Thịnh
+
+15391
+
+Xã Vĩnh An
+
+**394**
+
+**Huyện Yên Định**
+
+15394
+
+Thị trấn Quán Lào
+
+15397
+
+Thị trấn NT Thống Nhất
+
+15400
+
+Xã Yên Phú
+
+15403
+
+Xã Yên Lâm
+
+15406
+
+Xã Yên Tâm
+
+15409
+
+Xã Yên Giang
+
+15412
+
+Xã Quý Lộc
+
+15415
+
+Xã Yên Thọ
+
+15418
+
+Xã Yên Trung
+
+15421
+
+Xã Yên Trường
+
+15424
+
+Xã Yên Bái
+
+15427
+
+Xã Yên Phong
+
+15430
+
+Xã Yên Thái
+
+15433
+
+Xã Yên Hùng
+
+15436
+
+Xã Yên Thịnh
+
+15439
+
+Xã Yên Ninh
+
+15442
+
+Xã Yên Lạc
+
+15445
+
+Xã Định Tăng
+
+15448
+
+Xã Định Hòa
+
+15451
+
+Xã Định Thành
+
+15454
+
+Xã Định Công
+
+15457
+
+Xã Định Tân
+
+15460
+
+Xã Định Tiến
+
+15463
+
+Xã Định Long
+
+15466
+
+Xã Định Liên
+
+15469
+
+Xã Định Tường
+
+15472
+
+Xã Định Hưng
+
+15475
+
+Xã Định Hải
+
+15478
+
+Xã Định Bình
+
+**395**
+
+**Huyện Thọ Xuân**
+
+15481
+
+Thị trấn Thọ Xuân
+
+15484
+
+Thị trấn Lam Sơn
+
+15487
+
+Thị trấn Sao Vàng
+
+15490
+
+Xã Xuân Khánh
+
+15493
+
+Xã Thọ Nguyên
+
+15496
+
+Xã Xuân Thành
+
+15499
+
+Xã Hạnh Phúc
+
+15502
+
+Xã Bắc Lương
+
+15505
+
+Xã Nam Giang
+
+15508
+
+Xã Xuân Phong
+
+15511
+
+Xã Thọ Lộc
+
+15514
+
+Xã Xuân Trường
+
+15517
+
+Xã Xuân Hòa
+
+15520
+
+Xã Thọ Hải
+
+15523
+
+Xã Tây Hồ
+
+15526
+
+Xã Xuân Giang
+
+15529
+
+Xã Xuân Quang
+
+15532
+
+Xã Xuân Sơn
+
+15535
+
+Xã Xuân Hưng
+
+15538
+
+Xã Thọ Diên
+
+15541
+
+Xã Thọ Lâm
+
+15544
+
+Xã Thọ Xương
+
+15547
+
+Xã Xuân Bái
+
+15550
+
+Xã Xuân Phú
+
+15553
+
+Xã Xuân Thắng
+
+15556
+
+Xã Xuân Lam
+
+15559
+
+Xã Xuân Thiên
+
+15562
+
+Xã Thọ Minh
+
+15565
+
+Xã Xuân Châu
+
+15568
+
+Xã Thọ Lập
+
+15571
+
+Xã Quảng Phú
+
+15574
+
+Xã Xuân Tín
+
+15577
+
+Xã Phú Yên
+
+15580
+
+Xã Xuân Yên
+
+15583
+
+Xã Xuân Lai
+
+15586
+
+Xã Xuân Lập
+
+15589
+
+Xã Thọ Thắng
+
+15592
+
+Xã Xuân Minh
+
+15595
+
+Xã Xuân Tân
+
+15598
+
+Xã Xuân Vinh
+
+15601
+
+Xã Thọ Trường
+
+**396**
+
+**Huyện Thường Xuân**
+
+15604
+
+Thị trấn Thường Xuân
+
+15607
+
+Xã Bát Mọt
+
+15610
+
+Xã Yên Nhân
+
+15613
+
+Xã Xuân Khao
+
+15616
+
+Xã Xuân Liên
+
+15619
+
+Xã Xuân Lẹ
+
+15622
+
+Xã Vạn Xuân
+
+15625
+
+Xã Xuân Mỹ
+
+15628
+
+Xã Lương Sơn
+
+15631
+
+Xã Xuân Cao
+
+15634
+
+Xã Luận Thành
+
+15637
+
+Xã Luận Khê
+
+15640
+
+Xã Xuân Thắng
+
+15643
+
+Xã Xuân Lộc
+
+15646
+
+Xã Xuân Cẩm
+
+15649
+
+Xã Xuân Dương
+
+15652
+
+Xã Thọ Thanh
+
+15655
+
+Xã Ngọc Phụng
+
+15658
+
+Xã Xuân Chinh
+
+15661
+
+Xã Tân Thành
+
+**397**
+
+**Huyện Triệu Sơn**
+
+15664
+
+Thị trấn Triệu Sơn
+
+15667
+
+Xã Thọ Sơn
+
+15670
+
+Xã Thọ Bình
+
+15673
+
+Xã Thọ Tiến
+
+15676
+
+Xã Hợp Lý
+
+15679
+
+Xã Hợp Tiến
+
+15682
+
+Xã Hợp Thành
+
+15685
+
+Xã Triệu Thành
+
+15688
+
+Xã Hợp Thắng
+
+15691
+
+Xã Minh Sơn
+
+15694
+
+Xã Minh Dân
+
+15697
+
+Xã Minh Châu
+
+15700
+
+Xã Dân Lực
+
+15703
+
+Xã Dân Lý
+
+15706
+
+Xã Dân Quyền
+
+15709
+
+Xã An Nông
+
+15712
+
+Xã Văn Sơn
+
+15715
+
+Xã Thái Hòa
+
+15718
+
+Xã Tân Ninh
+
+15721
+
+Xã Đồng Lợi
+
+15724
+
+Xã Đồng Tiến
+
+15727
+
+Xã Đồng Thắng
+
+15730
+
+Xã Tiến Nông
+
+15733
+
+Xã Khuyến Nông
+
+15736
+
+Xã Xuân Thịnh
+
+15739
+
+Xã Xuân Lộc
+
+15742
+
+Xã Thọ Dân
+
+15745
+
+Xã Xuân Thọ
+
+15748
+
+Xã Thọ Tân
+
+15751
+
+Xã Thọ Ngọc
+
+15754
+
+Xã Thọ Cường
+
+15757
+
+Xã Thọ Phú
+
+15760
+
+Xã Thọ Vực
+
+15763
+
+Xã Thọ Thế
+
+15766
+
+Xã Nông Trường
+
+15769
+
+Xã Bình Sơn
+
+**398**
+
+**Huyện Thiệu Hóa**
+
+15772
+
+Thị trấn Vạn Hà
+
+15775
+
+Xã Thiệu Ngọc
+
+15778
+
+Xã Thiệu Vũ
+
+15781
+
+Xã Thiệu Phúc
+
+15784
+
+Xã Thiệu Tiến
+
+15787
+
+Xã Thiệu Công
+
+15790
+
+Xã Thiệu Phú
+
+15793
+
+Xã Thiệu Long
+
+15796
+
+Xã Thiệu Giang
+
+15799
+
+Xã Thiệu Duy
+
+15802
+
+Xã Thiệu Nguyên
+
+15805
+
+Xã Thiệu Hợp
+
+15808
+
+Xã Thiệu Thịnh
+
+15811
+
+Xã Thiệu Quang
+
+15814
+
+Xã Thiệu Thành
+
+15817
+
+Xã Thiệu Toán
+
+15820
+
+Xã Thiệu Chính
+
+15823
+
+Xã Thiệu Hòa
+
+15826
+
+Xã Thiệu Minh
+
+15829
+
+Xã Thiệu Tâm
+
+15832
+
+Xã Thiệu Viên
+
+15835
+
+Xã Thiệu Lý
+
+15838
+
+Xã Thiệu Vận
+
+15841
+
+Xã Thiệu Trung
+
+15844
+
+Xã Thiệu Đô
+
+15847
+
+Xã Thiệu Châu
+
+15850
+
+Xã Thiệu Vân
+
+15853
+
+Xã Thiệu Giao
+
+15856
+
+Xã Thiệu Khánh
+
+15859
+
+Xã Thiệu Dương
+
+15862
+
+Xã Thiệu Tân
+
+**399**
+
+**Huyện Hoằng Hóa**
+
+15865
+
+Thị trấn Hoằng Hóa
+
+15868
+
+Thị trấn Tào Xuyên
+
+15871
+
+Xã Hoằng Giang
+
+15874
+
+Xã Hoằng Xuân
+
+15877
+
+Xã Hoằng Khánh
+
+15880
+
+Xã Hoằng Phượng
+
+15883
+
+Xã Hoằng Phú
+
+15886
+
+Xã Hoằng Quỳ
+
+15889
+
+Xã Hoằng Kim
+
+15892
+
+Xã Hoằng Trung
+
+15895
+
+Xã Hoằng Trinh
+
+15898
+
+Xã Hoằng Sơn
+
+15901
+
+Xã Hoằng Lương
+
+15904
+
+Xã Hoằng Xuyên
+
+15907
+
+Xã Hoằng Cát
+
+15910
+
+Xã Hoằng Khê
+
+15913
+
+Xã Hoằng Lý
+
+15916
+
+Xã Hoằng Quý
+
+15919
+
+Xã Hoằng Hợp
+
+15922
+
+Xã Hoằng Long
+
+15925
+
+Xã Hoằng Quang
+
+15928
+
+Xã Hoằng Minh
+
+15931
+
+Xã Hoằng Phúc
+
+15934
+
+Xã Hoằng Đức
+
+15937
+
+Xã Hoằng Hà
+
+15940
+
+Xã Hoằng Đạt
+
+15943
+
+Xã Hoằng Vinh
+
+15946
+
+Xã Hoằng Đạo
+
+15949
+
+Xã Hoằng Thắng
+
+15952
+
+Xã Hoằng Đồng
+
+15955
+
+Xã Hoằng Thái
+
+15958
+
+Xã Hoằng Thịnh
+
+15961
+
+Xã Hoằng Thành
+
+15964
+
+Xã Hoằng Lộc
+
+15967
+
+Xã Hoằng Trạch
+
+15970
+
+Xã Hoằng Đại
+
+15973
+
+Xã Hoằng Phong
+
+15976
+
+Xã Hoằng Lưu
+
+15979
+
+Xã Hoằng Châu
+
+15982
+
+Xã Hoằng Tân
+
+15985
+
+Xã Hoằng Yến
+
+15988
+
+Xã Hoằng Tiến
+
+15991
+
+Xã Hoằng Hải
+
+15994
+
+Xã Hoằng Ngọc
+
+15997
+
+Xã Hoằng Đông
+
+16000
+
+Xã Hoằng Thanh
+
+16003
+
+Xã Hoằng Phụ
+
+16006
+
+Xã Hoằng Trường
+
+16009
+
+Xã Hoằng Anh
+
+**400**
+
+**Huyện Hậu Lộc**
+
+16012
+
+Thị trấn Hậu Lộc
+
+16015
+
+Xã Đồng Lộc
+
+16018
+
+Xã Đại Lộc
+
+16021
+
+Xã Triệu Lộc
+
+16024
+
+Xã Châu Lộc
+
+16027
+
+Xã Tiến Lộc
+
+16030
+
+Xã Lộc Sơn
+
+16033
+
+Xã Cầu Lộc
+
+16036
+
+Xã Thành Lộc
+
+16039
+
+Xã Tuy Lộc
+
+16042
+
+Xã Phong Lộc
+
+16045
+
+Xã Mỹ Lộc
+
+16048
+
+Xã Văn Lộc
+
+16051
+
+Xã Thuần Lộc
+
+16054
+
+Xã Lộc Tân
+
+16057
+
+Xã Xuân Lộc
+
+16060
+
+Xã Thịnh Lộc
+
+16063
+
+Xã Hoa Lộc
+
+16066
+
+Xã Liên Lộc
+
+16069
+
+Xã Quang Lộc
+
+16072
+
+Xã Phú Lộc
+
+16075
+
+Xã Hòa Lộc
+
+16078
+
+Xã Minh Lộc
+
+16081
+
+Xã Hưng Lộc
+
+16084
+
+Xã Hải Lộc
+
+16087
+
+Xã Đa Lộc
+
+16090
+
+Xã Ngư Lộc
+
+**401**
+
+**Huyện Nga Sơn**
+
+16093
+
+Thị trấn Nga Sơn
+
+16096
+
+Xã Ba Đình
+
+16099
+
+Xã Nga Vịnh
+
+16102
+
+Xã Nga Văn
+
+16105
+
+Xã Nga Thiện
+
+16108
+
+Xã Nga Tiến
+
+16111
+
+Xã Nga Lĩnh
+
+16114
+
+Xã Nga Nhân
+
+16117
+
+Xã Nga Trung
+
+16120
+
+Xã Nga Bạch
+
+16123
+
+Xã Nga Thanh
+
+16126
+
+Xã Nga Hưng
+
+16129
+
+Xã Nga Mỹ
+
+16132
+
+Xã Nga Yên
+
+16135
+
+Xã Nga Giáp
+
+16138
+
+Xã Nga Hải
+
+16141
+
+Xã Nga Thành
+
+16144
+
+Xã Nga An
+
+16147
+
+Xã Nga Phú
+
+16150
+
+Xã Nga Điền
+
+16153
+
+Xã Nga Tân
+
+16156
+
+Xã Nga Thủy
+
+16159
+
+Xã Nga Liên
+
+16162
+
+Xã Nga Thái
+
+16165
+
+Xã Nga Thạch
+
+16168
+
+Xã Nga Thắng
+
+16171
+
+Xã Nga Trường
+
+**402**
+
+**Huyện Như Xuân**
+
+16174
+
+Thị trấn Yên Cát
+
+16177
+
+Xã Bãi Trành
+
+16180
+
+Xã Xuân Hòa
+
+16183
+
+Xã Xuân Bình
+
+16186
+
+Xã Hóa Quỳ
+
+16189
+
+Xã Xuân Quỳ
+
+16192
+
+Xã Yên Lễ
+
+16195
+
+Xã Cát Vân
+
+16198
+
+Xã Cát Tân
+
+16201
+
+Xã Tân Bình
+
+16204
+
+Xã Bình Lương
+
+16207
+
+Xã Thanh Quân
+
+16210
+
+Xã Thanh Xuân
+
+16213
+
+Xã Thanh Hòa
+
+16216
+
+Xã Thanh Phong
+
+16219
+
+Xã Thanh Lâm
+
+16222
+
+Xã Thanh Sơn
+
+16225
+
+Xã Thượng Ninh
+
+**403**
+
+**Huyện Như Thanh**
+
+16228
+
+Thị trấn Bến Sung
+
+16231
+
+Xã Cán Khê
+
+16234
+
+Xã Xuân Du
+
+16237
+
+Xã Xuân Thọ
+
+16240
+
+Xã Phượng Nghi
+
+16243
+
+Xã Mậu Lâm
+
+16246
+
+Xã Xuân Khang
+
+16249
+
+Xã Phú Nhuận
+
+16252
+
+Xã Hải Long
+
+16255
+
+Xã Hải Vân
+
+16258
+
+Xã Xuân Thái
+
+16261
+
+Xã Xuân Phúc
+
+16264
+
+Xã Yên Thọ
+
+16267
+
+Xã Yên Lạc
+
+16270
+
+Xã Phúc Đường
+
+16273
+
+Xã Thanh Tân
+
+16276
+
+Xã Thanh Kỳ
+
+**404**
+
+**Huyện Nông Cống**
+
+16279
+
+Thị trấn Nông Cống
+
+16282
+
+Xã Tân Phúc
+
+16285
+
+Xã Tân Thọ
+
+16288
+
+Xã Hoàng Sơn
+
+16291
+
+Xã Tân Khang
+
+16294
+
+Xã Hoàng Giang
+
+16297
+
+Xã Trung Chính
+
+16300
+
+Xã Trung Ý
+
+16303
+
+Xã Trung Thành
+
+16306
+
+Xã Tế Tân
+
+16309
+
+Xã Tế Thắng
+
+16312
+
+Xã Minh Thọ
+
+16315
+
+Xã Tế Lợi
+
+16318
+
+Xã Tế Nông
+
+16321
+
+Xã Minh Nghĩa
+
+16324
+
+Xã Minh Khôi
+
+16327
+
+Xã Vạn Hòa
+
+16330
+
+Xã Trường Trung
+
+16333
+
+Xã Vạn Thắng
+
+16336
+
+Xã Trường Giang
+
+16339
+
+Xã Vạn Thiện
+
+16342
+
+Xã Thăng Long
+
+16345
+
+Xã Trường Minh
+
+16348
+
+Xã Trường Sơn
+
+16351
+
+Xã Thăng Bình
+
+16354
+
+Xã Công Liêm
+
+16357
+
+Xã Tượng Văn
+
+16360
+
+Xã Thăng Thọ
+
+16363
+
+Xã Tượng Lĩnh
+
+16366
+
+Xã Tượng Sơn
+
+16369
+
+Xã Công Chính
+
+16372
+
+Xã Công Bình
+
+16375
+
+Xã Yên Mỹ
+
+**405**
+
+**Huyện Đông Sơn**
+
+16378
+
+Thị trấn Rừng Thông
+
+16381
+
+Xã Đông Hoàng
+
+16384
+
+Xã Đông Ninh
+
+16387
+
+Xã Đông Khê
+
+16390
+
+Xã Đông Hòa
+
+16393
+
+Xã Đông Yên
+
+16396
+
+Xã Đông Lĩnh
+
+16399
+
+Xã Đông Minh
+
+16402
+
+Xã Đông Thanh
+
+16405
+
+Xã Đông Tiến
+
+16408
+
+Xã Đông Anh
+
+16411
+
+Xã Đông Xuân
+
+16414
+
+Xã Đông Thịnh
+
+16417
+
+Xã Đông Văn
+
+16420
+
+Xã Đông Phú
+
+16423
+
+Xã Đông Nam
+
+16426
+
+Xã Đông Quang
+
+16429
+
+Xã Đông Vinh
+
+16432
+
+Xã Đông Tân
+
+16435
+
+Xã Đông Hưng
+
+**406**
+
+**Huyện Quảng Xương**
+
+16438
+
+Thị trấn Quảng Xương
+
+16441
+
+Xã Quảng Thịnh
+
+16444
+
+Xã Quảng Tân
+
+16447
+
+Xã Quảng Trạch
+
+16450
+
+Xã Quảng Phong
+
+16453
+
+Xã Quảng Đức
+
+16456
+
+Xã Quảng Định
+
+16459
+
+Xã Quảng Đông
+
+16462
+
+Xã Quảng Nhân
+
+16465
+
+Xã Quảng Ninh
+
+16468
+
+Xã Quảng Bình
+
+16471
+
+Xã Quảng Hợp
+
+16474
+
+Xã Quảng Văn
+
+16477
+
+Xã Quảng Long
+
+16480
+
+Xã Quảng Yên
+
+16483
+
+Xã Quảng Hòa
+
+16486
+
+Xã Quảng Lĩnh
+
+16489
+
+Xã Quảng Khê
+
+16492
+
+Xã Quảng Trung
+
+16495
+
+Xã Quảng Chính
+
+16498
+
+Xã Quảng Ngọc
+
+16501
+
+Xã Quảng Trường
+
+16504
+
+Xã Quảng Phúc
+
+16507
+
+Xã Quảng Cát
+
+16510
+
+Xã Quảng Vọng
+
+16513
+
+Xã Quảng Minh
+
+16516
+
+Xã Quảng Hùng
+
+16519
+
+Xã Quảng Giao
+
+16522
+
+Xã Quảng Phú
+
+16525
+
+Xã Quảng Tâm
+
+16528
+
+Xã Quảng Thọ
+
+16531
+
+Xã Quảng Châu
+
+16534
+
+Xã Quảng Vinh
+
+16537
+
+Xã Quảng Đại
+
+16540
+
+Xã Quảng Hải
+
+16543
+
+Xã Quảng Lưu
+
+16546
+
+Xã Quảng Lộc
+
+16549
+
+Xã Quảng Lợi
+
+16552
+
+Xã Quảng Nham
+
+16555
+
+Xã Quảng Thạch
+
+16558
+
+Xã Quảng Thái
+
+**407**
+
+**Huyện Tĩnh Gia**
+
+16561
+
+Thị trấn Tĩnh Gia
+
+16564
+
+Xã Hải Châu
+
+16567
+
+Xã Thanh Thủy
+
+16570
+
+Xã Thanh Sơn
+
+16573
+
+Xã Triêu Dương
+
+16576
+
+Xã Hải Ninh
+
+16579
+
+Xã Anh Sơn
+
+16582
+
+Xã Ngọc Lĩnh
+
+16585
+
+Xã Hải An
+
+16588
+
+Xã Hùng Sơn
+
+16591
+
+Xã Các Sơn
+
+16594
+
+Xã Tân Dân
+
+16597
+
+Xã Hải Lĩnh
+
+16600
+
+Xã Định Hải
+
+16603
+
+Xã Phú Sơn
+
+16606
+
+Xã Ninh Hải
+
+16609
+
+Xã Nguyên Bình
+
+16612
+
+Xã Hải Nhân
+
+16615
+
+Xã Hải Hòa
+
+16618
+
+Xã Bình Minh
+
+16621
+
+Xã Hải Thanh
+
+16624
+
+Xã Phú Lâm
+
+16627
+
+Xã Xuân Lâm
+
+16630
+
+Xã Trúc Lâm
+
+16633
+
+Xã Hải Bình
+
+16636
+
+Xã Tân Trường
+
+16639
+
+Xã Tùng Lâm
+
+16642
+
+Xã Tĩnh Hải
+
+16645
+
+Xã Mai Lâm
+
+16648
+
+Xã Trường Lâm
+
+16651
+
+Xã Hải Yến
+
+16654
+
+Xã Hải Thượng
+
+16657
+
+Xã Nghi Sơn
+
+16660
+
+Xã Hải Hà
+
+40. TỈNH NGHỆ AN
+
+(Tổng số
+xã, phường, thị trấn: 469; xã: 434, phường: 18, thị trấn: 17)
+
+(Total
+number of communes, subdistricts, subtowns: 469)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**412**
+
+**Thành phố Vinh**
+
+16663
+
+Phường Đông Vĩnh
+
+16666
+
+Phường Hà Huy Tập
+
+16669
+
+Phường Lê Lợi
+
+16672
+
+Phường Hưng Bình
+
+16675
+
+Phường Hưng Dũng
+
+16678
+
+Phường Cửa Nam
+
+16681
+
+Phường Quang Trung
+
+16684
+
+Phường Đội Cung
+
+16687
+
+Phường Lê Mao
+
+16690
+
+Phường Trường Thi
+
+16693
+
+Phường Bến Thủy
+
+16696
+
+Phường Hồng Sơn
+
+16699
+
+Phường Trung Đô
+
+16702
+
+Xã Nghi Phú
+
+16705
+
+Xã Hưng Đông
+
+16708
+
+Xã Hưng Lộc
+
+16711
+
+Xã Hưng Hòa
+
+16714
+
+Xã Vinh Tân
+
+**413**
+
+**Thị xã Cửa Lò**
+
+16717
+
+Phường Nghi Thủy
+
+16720
+
+Phường Nghi Tân
+
+16723
+
+Phường Thu Thủy
+
+16726
+
+Phường Nghi Hòa
+
+16729
+
+Phường Nghi Hải
+
+16732
+
+Xã Nghi Hương
+
+16735
+
+Xã Nghi Thu
+
+**415**
+
+**Huyện Quế Phong**
+
+16738
+
+Thị trấn Kim Sơn
+
+16741
+
+Xã Thông Thụ
+
+16744
+
+Xã Đồng Văn
+
+16747
+
+Xã Hạnh Dịch
+
+16750
+
+Xã Tiền Phong
+
+16753
+
+Xã Nậm Giải
+
+16756
+
+Xã Tri Lễ
+
+16759
+
+Xã Châu Kim
+
+16762
+
+Xã Mường Nọc
+
+16765
+
+Xã Châu Thôn
+
+16768
+
+Xã Nậm Nhoóng
+
+16771
+
+Xã Quang Phong
+
+16774
+
+Xã Căm Muộn
+
+**416**
+
+**Huyện Quỳ Châu**
+
+16777
+
+Thị trấn Quỳ Châu
+
+16780
+
+Xã Châu Bính
+
+16783
+
+Xã Châu Thuận
+
+16786
+
+Xã Châu Hội
+
+16789
+
+Xã Châu Nga
+
+16792
+
+Xã Châu Tiến
+
+16795
+
+Xã Châu Hạnh
+
+16798
+
+Xã Châu Thắng
+
+16801
+
+Xã Châu Phong
+
+16804
+
+Xã Châu Bình
+
+16807
+
+Xã Châu Hoàn
+
+16810
+
+Xã Diên Lãm
+
+**417**
+
+**Huyện Kỳ Sơn**
+
+16813
+
+Thị trấn Mường Xén
+
+16816
+
+Xã Mỹ Lý
+
+16819
+
+Xã Bắc Lý
+
+16822
+
+Xã Keng Đu
+
+16825
+
+Xã Đoọc Mạy
+
+16828
+
+Xã Huồi Tụ
+
+16831
+
+Xã Mường Lống
+
+16834
+
+Xã Na Loi
+
+16837
+
+Xã Nậm Cắn
+
+16840
+
+Xã Bảo Nam
+
+16843
+
+Xã Phà Đánh
+
+16846
+
+Xã Bảo Thắng
+
+16849
+
+Xã Hữu Lập
+
+16852
+
+Xã Tà Cạ
+
+16855
+
+Xã Chiêu Lưu
+
+16858
+
+Xã Mường Típ
+
+16861
+
+Xã Hữu Kiệm
+
+16864
+
+Xã Tây Sơn
+
+16867
+
+Xã Mường Ải
+
+16870
+
+Xã Na Ngoi
+
+16873
+
+Xã Nậm Càn
+
+**418**
+
+**Huyện Tương Dương**
+
+16876
+
+Thị trấn Hòa Bình
+
+16879
+
+Xã Mai Sơn
+
+16882
+
+Xã Nhôn Mai
+
+16885
+
+Xã Hữu Khuông
+
+16888
+
+Xã Luân Mai
+
+16891
+
+Xã Hữu Dương
+
+16894
+
+Xã Kim Đa
+
+16897
+
+Xã Kim Tiến
+
+16900
+
+Xã Yên Tĩnh
+
+16903
+
+Xã Nga My
+
+16906
+
+Xã Lưỡng Minh
+
+16909
+
+Xã Yên Hòa
+
+16912
+
+Xã Yên Na
+
+16915
+
+Xã Lưu Kiền
+
+16918
+
+Xã Thạch Giám
+
+16921
+
+Xã Xá Lượng
+
+16924
+
+Xã Tam Thái
+
+16927
+
+Xã Tam Đình
+
+16930
+
+Xã Yên Thắng
+
+16933
+
+Xã Tam Quang
+
+16936
+
+Xã Tam Hợp
+
+**419**
+
+**Huyện Nghĩa Đàn**
+
+16939
+
+Thị trấn Thái Hòa
+
+16942
+
+Xã Nghĩa Mai
+
+16945
+
+Xã Nghĩa Yên
+
+16948
+
+Xã Nghĩa Lạc
+
+16951
+
+Xã Nghĩa Lâm
+
+16954
+
+Xã Nghĩa Sơn
+
+16957
+
+Xã Nghĩa Lợi
+
+16960
+
+Xã Nghĩa Bình
+
+16963
+
+Xã Nghĩa Thọ
+
+16966
+
+Xã Nghĩa Minh
+
+16969
+
+Xã Nghĩa Phú
+
+16972
+
+Xã Nghĩa Hưng
+
+16975
+
+Xã Nghĩa Hồng
+
+16978
+
+Xã Nghĩa Thịnh
+
+16981
+
+Xã Nghĩa Trung
+
+16984
+
+Xã Nghĩa Hội
+
+16987
+
+Xã Nghĩa Tân
+
+16990
+
+Xã Nghĩa Thắng
+
+16993
+
+Xã Nghĩa Quang
+
+16996
+
+Xã Nghĩa Hiếu
+
+16999
+
+Xã Nghĩa Liên
+
+17002
+
+Xã Nghĩa Hòa
+
+17005
+
+Xã Nghĩa Tiến
+
+17008
+
+Xã Nghĩa Mỹ
+
+17011
+
+Xã Tây Hiếu
+
+17014
+
+Xã Nghĩa Thuận
+
+17017
+
+Xã Đông Hiếu
+
+17020
+
+Xã Nghĩa Đức
+
+17023
+
+Xã Nghĩa An
+
+17026
+
+Xã Nghĩa Long
+
+17029
+
+Xã Nghĩa Lộc
+
+17032
+
+Xã Nghĩa Khánh
+
+**420**
+
+**Huyện Quỳ Hợp**
+
+17035
+
+Thị trấn Quỳ Hợp
+
+17038
+
+Xã Yên Hợp
+
+17041
+
+Xã Châu Tiến
+
+17044
+
+Xã Châu Hồng
+
+17047
+
+Xã Đồng Hợp
+
+17050
+
+Xã Châu Thành
+
+17053
+
+Xã Liên Hợp
+
+17056
+
+Xã Châu Lộc
+
+17059
+
+Xã Tam Hợp
+
+17062
+
+Xã Châu Cường
+
+17065
+
+Xã Châu Quang
+
+17068
+
+Xã Thọ Hợp
+
+17071
+
+Xã Minh Hợp
+
+17074
+
+Xã Nghĩa Xuân
+
+17077
+
+Xã Châu Thái
+
+17080
+
+Xã Châu Đình
+
+17083
+
+Xã Văn Lợi
+
+17086
+
+Xã Nam Sơn
+
+17089
+
+Xã Châu Lý
+
+17092
+
+Xã Hạ Sơn
+
+17095
+
+Xã Bắc Sơn
+
+**421**
+
+**Huyện Quỳnh Lưu**
+
+17098
+
+Thị trấn Cầu Giát
+
+17101
+
+Xã Quỳnh Thắng
+
+17104
+
+Xã Quỳnh Vinh
+
+17107
+
+Xã Quỳnh Lộc
+
+17110
+
+Xã Quỳnh Thiện
+
+17113
+
+Xã Quỳnh Lập
+
+17116
+
+Xã Quỳnh Trang
+
+17119
+
+Xã Quỳnh Tân
+
+17122
+
+Xã Quỳnh Châu
+
+17125
+
+Xã Mai Hùng
+
+17128
+
+Xã Quỳnh Dị
+
+17131
+
+Xã Quỳnh Xuân
+
+17134
+
+Xã Quỳnh Phương
+
+17137
+
+Xã Quỳnh Liên
+
+17140
+
+Xã Tân Sơn
+
+17143
+
+Xã Quỳnh Văn
+
+17146
+
+Xã Ngọc Sơn
+
+17149
+
+Xã Quỳnh Tam
+
+17152
+
+Xã Quỳnh Hoa
+
+17155
+
+Xã Quỳnh Thạch
+
+17158
+
+Xã Quỳnh Bảng
+
+17161
+
+Xã Quỳnh Mỹ
+
+17164
+
+Xã Quỳnh Thanh
+
+17167
+
+Xã Quỳnh Hậu
+
+17170
+
+Xã Quỳnh Lâm
+
+17173
+
+Xã Quỳnh Đôi
+
+17176
+
+Xã Quỳnh Lương
+
+17179
+
+Xã Quỳnh Hồng
+
+17182
+
+Xã Quỳnh Yên
+
+17185
+
+Xã Quỳnh Bá
+
+17188
+
+Xã Quỳnh Minh
+
+17191
+
+Xã Quỳnh Diện
+
+17194
+
+Xã Quỳnh Hưng
+
+17197
+
+Xã Quỳnh Giang
+
+17200
+
+Xã Quỳnh Ngọc
+
+17203
+
+Xã Quỳnh Nghĩa
+
+17206
+
+Xã An Hòa
+
+17209
+
+Xã Tiến Thủy
+
+17212
+
+Xã Sơn Hải
+
+17215
+
+Xã Quỳnh Thọ
+
+17218
+
+Xã Quỳnh Thuận
+
+17221
+
+Xã Quỳnh Long
+
+17224
+
+Xã Tân Thắng
+
+**422**
+
+**Huyện Con Cuông**
+
+17227
+
+Thị trấn Con Cuông
+
+17230
+
+Xã Bình Chuẩn
+
+17233
+
+Xã Lạng Khê
+
+17236
+
+Xã Cam Lâm
+
+17239
+
+Xã Thạch Ngàn
+
+17242
+
+Xã Đôn Phục
+
+17245
+
+Xã Mậu Đức
+
+17248
+
+Xã Châu Khê
+
+17251
+
+Xã Chi Khê
+
+17254
+
+Xã Bồng Khê
+
+17257
+
+Xã Yên Khê
+
+17260
+
+Xã Lục Dạ
+
+17263
+
+Xã Môn Sơn
+
+**423**
+
+**Huyện Tân Kỳ**
+
+17266
+
+Thị trấn Tân Kỳ
+
+17269
+
+Xã Tân Hợp
+
+17272
+
+Xã Tân Phú
+
+17275
+
+Xã Tân Xuân
+
+17278
+
+Xã Giai Xuân
+
+17281
+
+Xã Nghĩa Bình
+
+17284
+
+Xã Nghĩa Đồng
+
+17287
+
+Xã Đồng Văn
+
+17290
+
+Xã Nghĩa Thái
+
+17293
+
+Xã Nghĩa Hợp
+
+17296
+
+Xã Nghĩa Hoàn
+
+17299
+
+Xã Nghĩa Phúc
+
+17302
+
+Xã Tiên Kỳ
+
+17305
+
+Xã Tân An
+
+17308
+
+Xã Nghĩa Dũng
+
+17311
+
+Xã Tân Long
+
+17314
+
+Xã Kỳ Sơn
+
+17317
+
+Xã Hương Sơn
+
+17320
+
+Xã Kỳ Tân
+
+17323
+
+Xã Phú Sơn
+
+17326
+
+Xã Nghĩa Hành
+
+**424**
+
+**Huyện Anh Sơn**
+
+17329
+
+Thị trấn Anh Sơn
+
+17332
+
+Xã Thọ Sơn
+
+17335
+
+Xã Thành Sơn
+
+17338
+
+Xã Bình Sơn
+
+17341
+
+Xã Tam Sơn
+
+17344
+
+Xã Đỉnh Sơn
+
+17347
+
+Xã Hùng Sơn
+
+17350
+
+Xã Cẩm Sơn
+
+17353
+
+Xã Đức Sơn
+
+17356
+
+Xã Tường Sơn
+
+17359
+
+Xã Tào Sơn
+
+17362
+
+Xã Vĩnh Sơn
+
+17365
+
+Xã Lạng Sơn
+
+17368
+
+Xã Hội Sơn
+
+17371
+
+Xã Thạch Sơn
+
+17374
+
+Xã Phúc Sơn
+
+17377
+
+Xã Long Sơn
+
+17380
+
+Xã Khai Sơn
+
+17383
+
+Xã Lĩnh Sơn
+
+17386
+
+Xã Cao Sơn
+
+**425**
+
+**Huyện Diễn Châu**
+
+17389
+
+Thị trấn Diễn Châu
+
+17392
+
+Xã Diễn Lâm
+
+17395
+
+Xã Diễn Đoài
+
+17398
+
+Xã Diễn Trường
+
+17401
+
+Xã Diễn Yên
+
+17404
+
+Xã Diễn Hoàng
+
+17407
+
+Xã Diễn Hùng
+
+17410
+
+Xã Diễn Mỹ
+
+17413
+
+Xã Diễn Hồng
+
+17416
+
+Xã Diễn Phong
+
+17419
+
+Xã Diễn Hải
+
+17422
+
+Xã Diễn Tháp
+
+17425
+
+Xã Diễn Liên
+
+17428
+
+Xã Diễn Vạn
+
+17431
+
+Xã Diễn Kim
+
+17434
+
+Xã Diễn Kỷ
+
+17437
+
+Xã Diễn Xuân
+
+17440
+
+Xã Diễn Thái
+
+17443
+
+Xã Diễn Đồng
+
+17446
+
+Xã Diễn Bích
+
+17449
+
+Xã Diễn Hạnh
+
+17452
+
+Xã Diễn Ngọc
+
+17455
+
+Xã Diễn Quảng
+
+17458
+
+Xã Diễn Nguyên
+
+17461
+
+Xã Diễn Hoa
+
+17464
+
+Xã Diễn Thành
+
+17467
+
+Xã Diễn Phúc
+
+17470
+
+Xã Diễn Minh
+
+17473
+
+Xã Diễn Bình
+
+17476
+
+Xã Diễn Cát
+
+17479
+
+Xã Diễn Thịnh
+
+17482
+
+Xã Diễn Tân
+
+17485
+
+Xã Diễn Thắng
+
+17488
+
+Xã Diễn Thọ
+
+17491
+
+Xã Diễn Lợi
+
+17494
+
+Xã Diễn Lộc
+
+17497
+
+Xã Diễn Trung
+
+17500
+
+Xã Diễn An
+
+17503
+
+Xã Diễn Phú
+
+**426**
+
+**Huyện Yên Thành**
+
+17506
+
+Thị trấn Yên Thành
+
+17509
+
+Xã Mã Thành
+
+17512
+
+Xã Lăng Thành
+
+17515
+
+Xã Tân Thành
+
+17518
+
+Xã Đức Thành
+
+17521
+
+Xã Kim Thành
+
+17524
+
+Xã Hậu Thành
+
+17527
+
+Xã Đô Thành
+
+17530
+
+Xã Thọ Thành
+
+17533
+
+Xã Quang Thành
+
+17536
+
+Xã Tây Thành
+
+17539
+
+Xã Phúc Thành
+
+17542
+
+Xã Hồng Thành
+
+17545
+
+Xã Đồng Thành
+
+17548
+
+Xã Phú Thành
+
+17551
+
+Xã Hoa Thành
+
+17554
+
+Xã Tăng Thành
+
+17557
+
+Xã Văn Thành
+
+17560
+
+Xã Thịnh Thành
+
+17563
+
+Xã Hợp Thành
+
+17566
+
+Xã Xuân Thành
+
+17569
+
+Xã Bắc Thành
+
+17572
+
+Xã Nhân Thành
+
+17575
+
+Xã Trung Thành
+
+17578
+
+Xã Long Thành
+
+17581
+
+Xã Minh Thành
+
+17584
+
+Xã Nam Thành
+
+17587
+
+Xã Vĩnh Thành
+
+17590
+
+Xã Lý Thành
+
+17593
+
+Xã Khánh Thành
+
+17596
+
+Xã Viên Thành
+
+17599
+
+Xã Đại Thành
+
+17602
+
+Xã Liên Thành
+
+17605
+
+Xã Bảo Thành
+
+17608
+
+Xã Mỹ Thành
+
+17611
+
+Xã Công Thành
+
+17614
+
+Xã Sơn Thành
+
+**427**
+
+**Huyện Đô Lương**
+
+17617
+
+Thị trấn Đô Lương
+
+17620
+
+Xã Giang Sơn
+
+17623
+
+Xã Lam Sơn
+
+17626
+
+Xã Bồi Sơn
+
+17629
+
+Xã Hồng Sơn
+
+17632
+
+Xã Bài Sơn
+
+17635
+
+Xã Ngọc Sơn
+
+17638
+
+Xã Bắc Sơn
+
+17641
+
+Xã Tràng Sơn
+
+17644
+
+Xã Thượng Sơn
+
+17647
+
+Xã Hòa Sơn
+
+17650
+
+Xã Đặng Sơn
+
+17653
+
+Xã Đông Sơn
+
+17656
+
+Xã Nam Sơn
+
+17659
+
+Xã Lưu Sơn
+
+17662
+
+Xã Yên Sơn
+
+17665
+
+Xã Văn Sơn
+
+17668
+
+Xã Đà Sơn
+
+17671
+
+Xã Lạc Sơn
+
+17674
+
+Xã Tân Sơn
+
+17677
+
+Xã Thái Sơn
+
+17680
+
+Xã Quang Sơn
+
+17683
+
+Xã Thịnh Sơn
+
+17686
+
+Xã Trung Sơn
+
+17689
+
+Xã Xuân Sơn
+
+17692
+
+Xã Minh Sơn
+
+17695
+
+Xã Thuận Sơn
+
+17698
+
+Xã Nhân Sơn
+
+17701
+
+Xã Hiến Sơn
+
+17704
+
+Xã Mỹ Sơn
+
+17707
+
+Xã Trù Sơn
+
+17710
+
+Xã Đại Sơn
+
+**428**
+
+**Huyện Thanh Chương**
+
+17713
+
+Thị trấn Thanh Chương
+
+17716
+
+Xã Cát Văn
+
+17719
+
+Xã Thanh Nho
+
+17722
+
+Xã Hạnh Lâm
+
+17725
+
+Xã Thanh Hòa
+
+17728
+
+Xã Phong Thịnh
+
+17731
+
+Xã Thanh Phong
+
+17734
+
+Xã Thanh Mỹ
+
+17737
+
+Xã Thanh Tiên
+
+17740
+
+Xã Thanh Hưng
+
+17743
+
+Xã Thanh Liên
+
+17746
+
+Xã Thanh Tường
+
+17749
+
+Xã Thanh Văn
+
+17752
+
+Xã Thanh Đồng
+
+17755
+
+Xã Thanh Ngọc
+
+17758
+
+Xã Thanh Hương
+
+17761
+
+Xã Thanh Lĩnh
+
+17764
+
+Xã Đồng Văn
+
+17767
+
+Xã Ngọc Sơn
+
+17770
+
+Xã Thanh Thịnh
+
+17773
+
+Xã Thanh An
+
+17776
+
+Xã Thanh Chi
+
+17779
+
+Xã Xuân Tường
+
+17782
+
+Xã Thanh Dương
+
+17785
+
+Xã Thanh Lương
+
+17788
+
+Xã Thanh Khê
+
+17791
+
+Xã Võ Liệt
+
+17794
+
+Xã Thanh Long
+
+17797
+
+Xã Thanh Thủy
+
+17800
+
+Xã Thanh Khai
+
+17803
+
+Xã Thanh Yên
+
+17806
+
+Xã Thanh Hà
+
+17809
+
+Xã Thanh Giang
+
+17812
+
+Xã Thanh Tùng
+
+17815
+
+Xã Thanh Lâm
+
+17818
+
+Xã Thanh Mai
+
+17821
+
+Xã Thanh Xuân
+
+17824
+
+Xã Thanh Đức
+
+**429**
+
+**Huyện Nghi Lộc**
+
+17827
+
+Thị trấn Quán Hành
+
+17830
+
+Xã Nghi Văn
+
+17833
+
+Xã Nghi Yên
+
+17836
+
+Xã Nghi Tiến
+
+17839
+
+Xã Nghi Hưng
+
+17842
+
+Xã Nghi Đồng
+
+17845
+
+Xã Nghi Thiết
+
+17848
+
+Xã Nghi Lâm
+
+17851
+
+Xã Nghi Quang
+
+17854
+
+Xã Nghi Kiều
+
+17857
+
+Xã Nghi Mỹ
+
+17860
+
+Xã Nghi Phương
+
+17863
+
+Xã Nghi Thuận
+
+17866
+
+Xã Nghi Long
+
+17869
+
+Xã Nghi Xá
+
+17872
+
+Xã Nghi Hợp
+
+17875
+
+Xã Nghi Hoa
+
+17878
+
+Xã Nghi Khánh
+
+17881
+
+Xã Nghi Thịnh
+
+17884
+
+Xã Nghi Công Bắc
+
+17887
+
+Xã Nghi Công Nam
+
+17890
+
+Xã Nghi Thạch
+
+17893
+
+Xã Nghi Trung
+
+17896
+
+Xã Nghi Trường
+
+17899
+
+Xã Nghi Diên
+
+17902
+
+Xã Nghi Phong
+
+17905
+
+Xã Nghi Xuân
+
+17908
+
+Xã Nghi Liên
+
+17911
+
+Xã Nghi Vạn
+
+17914
+
+Xã Nghi Ân
+
+17917
+
+Xã Phúc Thọ
+
+17920
+
+Xã Nghi Kim
+
+17923
+
+Xã Nghi Đức
+
+17926
+
+Xã Nghi Thái
+
+**430**
+
+**Huyện Nam Đàn**
+
+17929
+
+Thị trấn Nam Đàn
+
+17932
+
+Xã Nam Hưng
+
+17935
+
+Xã Nam Nghĩa
+
+17938
+
+Xã Nam Thanh
+
+17941
+
+Xã Nam Anh
+
+17944
+
+Xã Nam Xuân
+
+17947
+
+Xã Nam Thái
+
+17950
+
+Xã Vân Diên
+
+17953
+
+Xã Nam Lĩnh
+
+17956
+
+Xã Nam Giang
+
+17959
+
+Xã Xuân Hòa
+
+17962
+
+Xã Hùng Tiến
+
+17965
+
+Xã Nam Thượng
+
+17968
+
+Xã Nam Tân
+
+17971
+
+Xã Kim Liên
+
+17974
+
+Xã Nam Lộc
+
+17977
+
+Xã Hồng Long
+
+17980
+
+Xã Xuân Lâm
+
+17983
+
+Xã Nam Cát
+
+17986
+
+Xã Khánh Sơn
+
+17989
+
+Xã Nam Phúc
+
+17992
+
+Xã Nam Cường
+
+17995
+
+Xã Nam Trung
+
+17998
+
+Xã Nam Kim
+
+**431**
+
+**Huyện Hưng Nguyên**
+
+18001
+
+Thị trấn Hưng Nguyên
+
+18004
+
+Xã Hưng Trung
+
+18007
+
+Xã Hưng Yên
+
+18010
+
+Xã Hưng Tây
+
+18013
+
+Xã Hưng Chính
+
+18016
+
+Xã Hưng Đạo
+
+18019
+
+Xã Hưng Mỹ
+
+18022
+
+Xã Hưng Thịnh
+
+18025
+
+Xã Hưng Lĩnh
+
+18028
+
+Xã Hưng Thông
+
+18031
+
+Xã Hưng Tân
+
+18034
+
+Xã Hưng Lợi
+
+18037
+
+Xã Hưng Thắng
+
+18040
+
+Xã Hưng Phúc
+
+18043
+
+Xã Hưng Long
+
+18046
+
+Xã Hưng Tiến
+
+18049
+
+Xã Hưng Xá
+
+18052
+
+Xã Hưng Châu
+
+18055
+
+Xã Hưng Xuân
+
+18058
+
+Xã Hưng Nhân
+
+18061
+
+Xã Hưng Phú
+
+18064
+
+Xã Hưng Khánh
+
+18067
+
+Xã Hưng Lam
+
+42. TỈNH HÀ TĨNH
+
+(Tổng số
+xã, phường, thị trấn: 261; xã: 241, phường: 8, thị trấn: 12)
+
+(Total
+number of communes, subdistricts, subtowns: 261)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**436**
+
+**Thị xã Hà Tĩnh**
+
+18070
+
+Phường Trần Phú
+
+18073
+
+Phường Nam Hà
+
+18076
+
+Phường Bắc Hà
+
+18079
+
+Phường Tân Giang
+
+18082
+
+Phường Đại Nài
+
+18085
+
+Phường Hà Huy Tập
+
+18088
+
+Xã Thạch Trung
+
+18091
+
+Xã Thạch Quý
+
+18094
+
+Xã Thạch Linh
+
+18097
+
+Xã Thạch Yên
+
+18100
+
+Xã Thạch Hạ
+
+18103
+
+Xã Thạch Môn
+
+18106
+
+Xã Thạch Đồng
+
+18109
+
+Xã Thạch Hưng
+
+18112
+
+Xã Thạch Bình
+
+**437**
+
+**Thị xã Hồng Lĩnh**
+
+18115
+
+Phường Bắc Hồng
+
+18118
+
+Phường Nam Hồng
+
+18121
+
+Xã Trung Lương
+
+18124
+
+Xã Đức Thuận
+
+18127
+
+Xã Đậu Liêu
+
+18130
+
+Xã Thuận Lộc
+
+**439**
+
+**Huyện Hương Sơn**
+
+18133
+
+Thị trấn Phố Châu
+
+18136
+
+Thị trấn Tây Sơn
+
+18139
+
+Xã Sơn Hồng
+
+18142
+
+Xã Sơn Tiến
+
+18145
+
+Xã Sơn Lâm
+
+18148
+
+Xã Sơn Lễ
+
+18151
+
+Xã Sơn Thịnh
+
+18154
+
+Xã Sơn An
+
+18157
+
+Xã Sơn Giang
+
+18160
+
+Xã Sơn Lĩnh
+
+18163
+
+Xã Sơn Hòa
+
+18166
+
+Xã Sơn Tân
+
+18169
+
+Xã Sơn Mỹ
+
+18172
+
+Xã Sơn Tây
+
+18175
+
+Xã Sơn Ninh
+
+18178
+
+Xã Sơn Châu
+
+18181
+
+Xã Sơn Hà
+
+18184
+
+Xã Sơn Quang
+
+18187
+
+Xã Sơn Trung
+
+18190
+
+Xã Sơn Bằng
+
+18193
+
+Xã Sơn Bình
+
+18196
+
+Xã Sơn Kim 1
+
+18199
+
+Xã Sơn Kim 2
+
+18202
+
+Xã Sơn Trà
+
+18205
+
+Xã Sơn Long
+
+18208
+
+Xã Sơn Diệm
+
+18211
+
+Xã Sơn Thủy
+
+18214
+
+Xã Sơn Hàm
+
+18217
+
+Xã Sơn Phú
+
+18220
+
+Xã Sơn Phúc
+
+18223
+
+Xã Sơn Trường
+
+18226
+
+Xã Sơn Mai
+
+**440**
+
+**Huyện Đức Thọ**
+
+18229
+
+Thị trấn Đức Thọ
+
+18232
+
+Xã Đức Quang
+
+18235
+
+Xã Đức Vĩnh
+
+18238
+
+Xã Đức Châu
+
+18241
+
+Xã Đức Tùng
+
+18244
+
+Xã Trường Sơn
+
+18247
+
+Xã Liên Minh
+
+18250
+
+Xã Đức La
+
+18253
+
+Xã Yên Hồ
+
+18256
+
+Xã Đức Nhân
+
+18259
+
+Xã Tùng ảnh
+
+18262
+
+Xã Bùi Xá
+
+18265
+
+Xã Đức Thịnh
+
+18268
+
+Xã Đức Yên
+
+18271
+
+Xã Đức Thủy
+
+18274
+
+Xã Thái Yên
+
+18277
+
+Xã Trung Lễ
+
+18280
+
+Xã Đức Hòa
+
+18283
+
+Xã Đức Long
+
+18286
+
+Xã Đức Lâm
+
+18289
+
+Xã Đức Thanh
+
+18292
+
+Xã Đức Dũng
+
+18295
+
+Xã Đức Lập
+
+18298
+
+Xã Đức An
+
+18301
+
+Xã Đức Lạc
+
+18304
+
+Xã Đức Đồng
+
+18307
+
+Xã Đức Lạng
+
+18310
+
+Xã Tân Hương
+
+**441**
+
+**Huyện Vũ Quang**
+
+18313
+
+Thị trấn Vũ Quang
+
+18316
+
+Xã Ân Phú
+
+18319
+
+Xã Đức Giang
+
+18322
+
+Xã Đức Lĩnh
+
+18325
+
+Xã Sơn Thọ
+
+18328
+
+Xã Đức Hương
+
+18331
+
+Xã Đức Bồng
+
+18334
+
+Xã Đức Liên
+
+18337
+
+Xã Hương Điền
+
+18340
+
+Xã Hương Minh
+
+18343
+
+Xã Hương Thọ
+
+18346
+
+Xã Hương Quang
+
+**442**
+
+**Huyện Nghi Xuân**
+
+18349
+
+Thị trấn Nghi Xuân
+
+18352
+
+Thị trấn Xuân An
+
+18355
+
+Xã Xuân Hội
+
+18358
+
+Xã Xuân Trường
+
+18361
+
+Xã Xuân Đan
+
+18364
+
+Xã Xuân Phổ
+
+18367
+
+Xã Xuân Hải
+
+18370
+
+Xã Xuân Giang
+
+18373
+
+Xã Tiên Điền
+
+18376
+
+Xã Xuân Yên
+
+18379
+
+Xã Xuân Mỹ
+
+18382
+
+Xã Xuân Thành
+
+18385
+
+Xã Xuân Viên
+
+18388
+
+Xã Xuân Hồng
+
+18391
+
+Xã Cỗ Đạm
+
+18394
+
+Xã Xuân Liên
+
+18397
+
+Xã Xuân Lĩnh
+
+18400
+
+Xã Xuân Lam
+
+18403
+
+Xã Cương Gián
+
+**443**
+
+**Huyện Can Lộc**
+
+18406
+
+Thị trấn Nghèn
+
+18409
+
+Xã Tân Lộc
+
+18412
+
+Xã Hồng Lộc
+
+18415
+
+Xã Thiên Lộc
+
+18418
+
+Xã Thuần Thiện
+
+18421
+
+Xã Thịnh Lộc
+
+18424
+
+Xã Kim Lộc
+
+18427
+
+Xã Vượng Lộc
+
+18430
+
+Xã An Lộc
+
+18433
+
+Xã Thanh Lộc
+
+18436
+
+Xã Song Lộc
+
+18439
+
+Xã Thường Nga
+
+18442
+
+Xã Trường Lộc
+
+18445
+
+Xã Tùng Lộc
+
+18448
+
+Xã Bình Lộc
+
+18451
+
+Xã Yên Lộc
+
+18454
+
+Xã Phú Lộc
+
+18457
+
+Xã Ích Hậu
+
+18460
+
+Xã Khánh Lộc
+
+18463
+
+Xã Gia Hanh
+
+18466
+
+Xã Vĩnh Lộc
+
+18469
+
+Xã Tiến Lộc
+
+18472
+
+Xã Trung Lộc
+
+18475
+
+Xã Xuân Lộc
+
+18478
+
+Xã Thượng Lộc
+
+18481
+
+Xã Quang Lộc
+
+18484
+
+Xã Đồng Lộc
+
+18487
+
+Xã Mỹ Lộc
+
+18490
+
+Xã Sơn Lộc
+
+18493
+
+Xã Phù Lưu
+
+**444**
+
+**Huyện Hương Khê**
+
+18496
+
+Thị trấn Hương Khê
+
+18499
+
+Xã Phương Mỹ
+
+18502
+
+Xã Hà Linh
+
+18505
+
+Xã Hương Thủy
+
+18508
+
+Xã Hòa Hải
+
+18511
+
+Xã Phương Điền
+
+18514
+
+Xã Phúc Đồng
+
+18517
+
+Xã Hương Giang
+
+18520
+
+Xã Lộc Yên
+
+18523
+
+Xã Hương Bình
+
+18526
+
+Xã Hương Long
+
+18529
+
+Xã Phú Gia
+
+18532
+
+Xã Gia Phố
+
+18535
+
+Xã Phú Phong
+
+18538
+
+Xã Hương Đô
+
+18541
+
+Xã Hương Vĩnh
+
+18544
+
+Xã Hương Xuân
+
+18547
+
+Xã Phúc Trạch
+
+18550
+
+Xã Hương Trà
+
+18553
+
+Xã Hương Trạch
+
+18556
+
+Xã Hương Lâm
+
+18559
+
+Xã Hương Liên
+
+**445**
+
+**Huyện Thạch Hà**
+
+18562
+
+Thị trấn Thạch Hà
+
+18565
+
+Xã Ngọc Sơn
+
+18568
+
+Xã Thạch Bằng
+
+18571
+
+Xã Thạch Hải
+
+18574
+
+Xã Thạch Bàn
+
+18577
+
+Xã Thạch Mỹ
+
+18580
+
+Xã Thạch Kim
+
+18583
+
+Xã Thạch Châu
+
+18586
+
+Xã Thạch Kênh
+
+18589
+
+Xã Thạch Sơn
+
+18592
+
+Xã Thạch Liên
+
+18595
+
+Xã Thạch Đỉnh
+
+18598
+
+Xã Hộ Độ
+
+18601
+
+Xã Phù Việt
+
+18604
+
+Xã Thạch Khê
+
+18607
+
+Xã Thạch Long
+
+18610
+
+Xã Việt Xuyên
+
+18613
+
+Xã Thạch Tiến
+
+18616
+
+Xã Thạch Thanh
+
+18619
+
+Xã Thạch Trị
+
+18622
+
+Xã Thạch Lạc
+
+18625
+
+Xã Thạch Ngọc
+
+18628
+
+Xã Tượng Sơn
+
+18631
+
+Xã Thạch Văn
+
+18634
+
+Xã Thạch Vĩnh
+
+18637
+
+Xã Thạch Thắng
+
+18640
+
+Xã Thạch Lưu
+
+18643
+
+Xã Thạch Đài
+
+18646
+
+Xã Bắc Sơn
+
+18649
+
+Xã Thạch Hội
+
+18652
+
+Xã Thạch Tân
+
+18655
+
+Xã Thạch Lâm
+
+18658
+
+Xã Thạch Xuân
+
+18661
+
+Xã Thạch Hương
+
+18664
+
+Xã Nam Hương
+
+18667
+
+Xã Thạch Điền
+
+18670
+
+Xã Mai Phụ
+
+**446**
+
+**Huyện Cẩm Xuyên**
+
+18673
+
+Thị trấn Cẩm Xuyên
+
+18676
+
+Thị trấn Thiên Cầm
+
+18679
+
+Xã Cẩm Hòa
+
+18682
+
+Xã Cẩm Dương
+
+18685
+
+Xã Cẩm Bình
+
+18688
+
+Xã Cẩm Yên
+
+18691
+
+Xã Cẩm Vĩnh
+
+18694
+
+Xã Cẩm Thành
+
+18697
+
+Xã Cẩm Quang
+
+18700
+
+Xã Cẩm Nam
+
+18703
+
+Xã Cẩm Huy
+
+18706
+
+Xã Cẩm Thạch
+
+18709
+
+Xã Cẩm Nhượng
+
+18712
+
+Xã Cẩm Thăng
+
+18715
+
+Xã Cẩm Duệ
+
+18718
+
+Xã Cẩm Phúc
+
+18721
+
+Xã Cẩm Lĩnh
+
+18724
+
+Xã Cẩm Quan
+
+18727
+
+Xã Cẩm Hà
+
+18730
+
+Xã Cẩm Lộc
+
+18733
+
+Xã Cẩm Hưng
+
+18736
+
+Xã Cẩm Thịnh
+
+18739
+
+Xã Cẩm Mỹ
+
+18742
+
+Xã Cẩm Trung
+
+18745
+
+Xã Cẩm Sơn
+
+18748
+
+Xã Cẩm Lạc
+
+18751
+
+Xã Cẩm Minh
+
+**447**
+
+**Huyện Kỳ Anh**
+
+18754
+
+Thị trấn Kỳ Anh
+
+18757
+
+Xã Kỳ Xuân
+
+18760
+
+Xã Kỳ Bắc
+
+18763
+
+Xã Kỳ Phú
+
+18766
+
+Xã Kỳ Phong
+
+18769
+
+Xã Kỳ Tiến
+
+18772
+
+Xã Kỳ Giang
+
+18775
+
+Xã Kỳ Đồng
+
+18778
+
+Xã Kỳ Khang
+
+18781
+
+Xã Kỳ Ninh
+
+18784
+
+Xã Kỳ Văn
+
+18787
+
+Xã Kỳ Trung
+
+18790
+
+Xã Kỳ Thọ
+
+18793
+
+Xã Kỳ Tây
+
+18796
+
+Xã Kỳ Lợi
+
+18799
+
+Xã Kỳ Thượng
+
+18802
+
+Xã Kỳ Hải
+
+18805
+
+Xã Kỳ Thư
+
+18808
+
+Xã Kỳ Hà
+
+18811
+
+Xã Kỳ Châu
+
+18814
+
+Xã Kỳ Tân
+
+18817
+
+Xã Kỳ Hưng
+
+18820
+
+Xã Kỳ Trinh
+
+18823
+
+Xã Kỳ Thịnh
+
+18826
+
+Xã Kỳ Hợp
+
+18829
+
+Xã Kỳ Hoa
+
+18832
+
+Xã Kỳ Phương
+
+18835
+
+Xã Kỳ Long
+
+18838
+
+Xã Kỳ Lâm
+
+18841
+
+Xã Kỳ Liên
+
+18844
+
+Xã Kỳ Sơn
+
+18847
+
+Xã Kỳ Nam
+
+18850
+
+Xã Kỳ Lạc
+
+44. TỈNH QUẢNG BÌNH
+
+(Tổng số
+xã, phường, thị trấn: 159; xã: 141, phường: 10, thị trấn: 8)
+
+(Total
+number of communes, subdistricts, subtowns: 159)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**450**
+
+**Thị xã Đồng Hới**
+
+18853
+
+Phường Hải Thành
+
+18856
+
+Phường Đồng Phú
+
+18859
+
+Phường Bắc Lý
+
+18862
+
+Phường Đồng Mỹ
+
+18865
+
+Phường Nam Lý
+
+18868
+
+Phường Hải Đình
+
+18871
+
+Phường Đồng Sơn
+
+18874
+
+Phường Phú Hải
+
+18877
+
+Phường Bắc Nghĩa
+
+18880
+
+Phường Đức Ninh Đông
+
+18883
+
+Xã Quang Phú
+
+18886
+
+Xã Lộc Ninh
+
+18889
+
+Xã Bảo Ninh
+
+18892
+
+Xã Nghĩa Ninh
+
+18895
+
+Xã Thuận Đức
+
+18898
+
+Xã Đức Ninh
+
+**452**
+
+**Huyện Minh Hóa**
+
+18901
+
+Thị trấn Quy Đạt
+
+18904
+
+Xã Dân Hóa
+
+18907
+
+Xã Trọng Hóa
+
+18910
+
+Xã Hóa Phúc
+
+18913
+
+Xã Hồng Hóa
+
+18916
+
+Xã Hóa Thanh
+
+18919
+
+Xã Hóa Tiến
+
+18922
+
+Xã Hóa Hợp
+
+18925
+
+Xã Xuân Hóa
+
+18928
+
+Xã Yên Hóa
+
+18931
+
+Xã Minh Hóa
+
+18934
+
+Xã Tân Hóa
+
+18937
+
+Xã Hóa Sơn
+
+18940
+
+Xã Quy Hóa
+
+18943
+
+Xã Trung Hóa
+
+18946
+
+Xã Thượng Hóa
+
+**453**
+
+**Huyện Tuyên Hóa**
+
+18949
+
+Thị trấn Đồng Lê
+
+18952
+
+Xã Hương Hóa
+
+18955
+
+Xã Kim Hóa
+
+18958
+
+Xã Thanh Hóa
+
+18961
+
+Xã Thanh Thạch
+
+18964
+
+Xã Thuận Hóa
+
+18967
+
+Xã Lâm Hóa
+
+18970
+
+Xã Lê Hóa
+
+18973
+
+Xã Sơn Hóa
+
+18976
+
+Xã Đồng Hóa
+
+18979
+
+Xã Ngư Hóa
+
+18982
+
+Xã Nam Hóa
+
+18985
+
+Xã Thạch Hóa
+
+18988
+
+Xã Đức Hóa
+
+18991
+
+Xã Phong Hóa
+
+18994
+
+Xã Mai Hóa
+
+18997
+
+Xã Tiến Hóa
+
+19000
+
+Xã Châu Hóa
+
+19003
+
+Xã Cao Quảng
+
+19006
+
+Xã Văn Hóa
+
+**454**
+
+**Huyện Quảng Trạch**
+
+19009
+
+Thị trấn Ba Đồn
+
+19012
+
+Xã Quảng Hợp
+
+19015
+
+Xã Quảng Kim
+
+19018
+
+Xã Quảng Đông
+
+19021
+
+Xã Quảng Phú
+
+19024
+
+Xã Quảng Châu
+
+19027
+
+Xã Quảng Thạch
+
+19030
+
+Xã Quảng Lưu
+
+19033
+
+Xã Quảng Tùng
+
+19036
+
+Xã Cảnh Dương
+
+19039
+
+Xã Quảng Tiến
+
+19042
+
+Xã Quảng Hưng
+
+19045
+
+Xã Quảng Xuân
+
+19048
+
+Xã Cảnh Hóa
+
+19051
+
+Xã Quảng Liên
+
+19054
+
+Xã Quảng Trường
+
+19057
+
+Xã Quảng Phương
+
+19060
+
+Xã Quảng Long
+
+19063
+
+Xã Phù Hóa
+
+19066
+
+Xã Quảng Thọ
+
+19069
+
+Xã Quảng Tiên
+
+19072
+
+Xã Quảng Thanh
+
+19075
+
+Xã Quảng Trung
+
+19078
+
+Xã Quảng Phong
+
+19081
+
+Xã Quảng Thuận
+
+19084
+
+Xã Quảng Tân
+
+19087
+
+Xã Quảng Hải
+
+19090
+
+Xã Quảng Sơn
+
+19093
+
+Xã Quảng Lộc
+
+19096
+
+Xã Quảng Thủy
+
+19099
+
+Xã Quảng Văn
+
+19102
+
+Xã Quảng Phúc
+
+19105
+
+Xã Quảng Hòa
+
+19108
+
+Xã Quảng Minh
+
+**455**
+
+**Huyện Bố Trạch**
+
+19111
+
+Thị trấn Hoàn Lão
+
+19114
+
+Thị trấn NT Việt Trung
+
+19117
+
+Xã Xuân Trạch
+
+19120
+
+Xã Mỹ Trạch
+
+19123
+
+Xã Hạ Trạch
+
+19126
+
+Xã Bắc Trạch
+
+19129
+
+Xã Lâm Trạch
+
+19132
+
+Xã Thanh Trạch
+
+19135
+
+Xã Liên Trạch
+
+19138
+
+Xã Phúc Trạch
+
+19141
+
+Xã Cự Nẫm
+
+19144
+
+Xã Hải Trạch
+
+19147
+
+Xã Thượng Trạch
+
+19150
+
+Xã Sơn Lộc
+
+19153
+
+Xã Phú Trạch
+
+19156
+
+Xã Hưng Trạch
+
+19159
+
+Xã Đồng Trạch
+
+19162
+
+Xã Đức Trạch
+
+19165
+
+Xã Sơn Trạch
+
+19168
+
+Xã Vạn Trạch
+
+19171
+
+Xã Hoàn Trạch
+
+19174
+
+Xã Phú Định
+
+19177
+
+Xã Trung Trạch
+
+19180
+
+Xã Tây Trạch
+
+19183
+
+Xã Hòa Trạch
+
+19186
+
+Xã Đại Trạch
+
+19189
+
+Xã Nhân Trạch
+
+19192
+
+Xã Tân Trạch
+
+19195
+
+Xã Nam Trạch
+
+19198
+
+Xã Lý Trạch
+
+**456**
+
+**Huyện Quảng Ninh**
+
+19201
+
+Thị trấn Quán Hàu
+
+19204
+
+Xã Trường Sơn
+
+19207
+
+Xã Lương Ninh
+
+19210
+
+Xã Vĩnh Ninh
+
+19213
+
+Xã Võ Ninh
+
+19216
+
+Xã Hải Ninh
+
+19219
+
+Xã Hàm Ninh
+
+19222
+
+Xã Duy Ninh
+
+19225
+
+Xã Gia Ninh
+
+19228
+
+Xã Trường Xuân
+
+19231
+
+Xã Hiền Ninh
+
+19234
+
+Xã Tân Ninh
+
+19237
+
+Xã Xuân Ninh
+
+19240
+
+Xã An Ninh
+
+19243
+
+Xã Vạn Ninh
+
+**457**
+
+**Huyện Lệ Thủy**
+
+19246
+
+Thị trấn NT Lệ Ninh
+
+19249
+
+Thị trấn Kiến Giang
+
+19252
+
+Xã Hồng Thủy
+
+19255
+
+Xã Ngư Thủy Bắc
+
+19258
+
+Xã Hoa Thủy
+
+19261
+
+Xã Thanh Thủy
+
+19264
+
+Xã An Thủy
+
+19267
+
+Xã Phong Thủy
+
+19270
+
+Xã Cam Thủy
+
+19273
+
+Xã Ngân Thủy
+
+19276
+
+Xã Sơn Thủy
+
+19279
+
+Xã Lộc Thủy
+
+19282
+
+Xã Ngư Thủy Trung
+
+19285
+
+Xã Liên Thủy
+
+19288
+
+Xã Hưng Thủy
+
+19291
+
+Xã Dương Thủy
+
+19294
+
+Xã Tân Thủy
+
+19297
+
+Xã Phú Thủy
+
+19300
+
+Xã Xuân Thủy
+
+19303
+
+Xã Mỹ Thủy
+
+19306
+
+Xã Ngư Thủy Nam
+
+19309
+
+Xã Mai Thủy
+
+19312
+
+Xã Sen Thủy
+
+19315
+
+Xã Thái Thủy
+
+19318
+
+Xã Kim Thủy
+
+19321
+
+Xã Trường Thủy
+
+19324
+
+Xã Văn Thủy
+
+19327
+
+Xã Lâm Thủy
+
+45. TỈNH QUẢNG TRỊ
+
+(Tổng số
+xã, phường, thị trấn: 138; xã: 118, phường: 11, thị trấn: 9)
+
+(Total
+number of communes, subdistricts, subtowns: 138)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**461**
+
+**Thị xã Đông Hà**
+
+19330
+
+Phường Đông Giang
+
+19333
+
+Phường 1
+
+19336
+
+Phường Đông Lễ
+
+19339
+
+Phường Đông Thanh
+
+19342
+
+Phường 2
+
+19345
+
+Phường 4
+
+19348
+
+Phường 5
+
+19351
+
+Phường Đông Lương
+
+19354
+
+Phường 3
+
+**462**
+
+**Thị xã Quảng Trị**
+
+19357
+
+Phường 1
+
+19360
+
+Phường 2
+
+**464**
+
+**Huyện Vĩnh Linh**
+
+19363
+
+Thị trấn Hồ Xá
+
+19366
+
+Thị trấn Bến Quan
+
+19369
+
+Xã Vĩnh Thái
+
+19372
+
+Xã Vĩnh Tú
+
+19375
+
+Xã Vĩnh Chấp
+
+19378
+
+Xã Vĩnh Trung
+
+19381
+
+Xã Vĩnh Kim
+
+19384
+
+Xã Vĩnh Thạch
+
+19387
+
+Xã Vĩnh Long
+
+19390
+
+Xã Vĩnh Nam
+
+19393
+
+Xã Vĩnh Khê
+
+19396
+
+Xã Vĩnh Hòa
+
+19399
+
+Xã Vĩnh Hiền
+
+19402
+
+Xã Vĩnh Thủy
+
+19405
+
+Xã Vĩnh Lâm
+
+19408
+
+Xã Vĩnh Thành
+
+19411
+
+Xã Vĩnh Tân
+
+19414
+
+Xã Vĩnh Quang
+
+19417
+
+Xã Vĩnh Hà
+
+19420
+
+Xã Vĩnh Sơn
+
+19423
+
+Xã Vĩnh Giang
+
+19426
+
+Xã Vĩnh Ô
+
+**465**
+
+**Huyện Hướng Hóa**
+
+19429
+
+Thị trấn Khe Sanh
+
+19432
+
+Thị trấn Lao Bảo
+
+19435
+
+Xã Hướng Lập
+
+19438
+
+Xã Hướng Việt
+
+19441
+
+Xã Hướng Phùng
+
+19444
+
+Xã Hướng Sơn
+
+19447
+
+Xã Hướng Linh
+
+19450
+
+Xã Tân Hợp
+
+19453
+
+Xã Hướng Tân
+
+19456
+
+Xã Tân Thành
+
+19459
+
+Xã Tân Long
+
+19462
+
+Xã Tân Lập
+
+19465
+
+Xã Tân Liên
+
+19468
+
+Xã Húc
+
+19471
+
+Xã Thuận
+
+19474
+
+Xã Hướng Lộc
+
+19477
+
+Xã Ba Tầng
+
+19480
+
+Xã Thanh
+
+19483
+
+Xã A Dơi
+
+19486
+
+Xã A Xing
+
+19489
+
+Xã A Túc
+
+19492
+
+Xã Xy
+
+**466**
+
+**Huyện Gio Linh**
+
+19495
+
+Thị trấn Gio Linh
+
+19498
+
+Xã Trung Giang
+
+19501
+
+Xã Trung Hải
+
+19504
+
+Xã Trung Sơn
+
+19507
+
+Xã Gio Phong
+
+19510
+
+Xã Gio Mỹ
+
+19513
+
+Xã Vĩnh Trường
+
+19516
+
+Xã Gio Bình
+
+19519
+
+Xã Gio Hải
+
+19522
+
+Xã Gio An
+
+19525
+
+Xã Gio Châu
+
+19528
+
+Xã Gio Thành
+
+19531
+
+Xã Gio Việt
+
+19534
+
+Xã Linh Thượng
+
+19537
+
+Xã Gio Sơn
+
+19540
+
+Xã Gio Hòa
+
+19543
+
+Xã Gio Mai
+
+19546
+
+Xã Hải Thái
+
+19549
+
+Xã Linh Hải
+
+19552
+
+Xã Gio Quang
+
+**467**
+
+**Huyện Đa Krông**
+
+19555
+
+Thị trấn Krông Klang
+
+19558
+
+Xã Mò Ó
+
+19561
+
+Xã Hướng Hiệp
+
+19564
+
+Xã Đa Krông
+
+19567
+
+Xã Triệu Nguyên
+
+19570
+
+Xã Ba Lòng
+
+19573
+
+Xã Hải Phúc
+
+19576
+
+Xã Ba Nang
+
+19579
+
+Xã Tà Long
+
+19582
+
+Xã Húc Nghì
+
+19585
+
+Xã A Vao
+
+19588
+
+Xã Tà Rụt
+
+19591
+
+Xã A Bung
+
+19594
+
+Xã A Ngo
+
+**468**
+
+**Huyện Cam Lộ**
+
+19597
+
+Thị trấn Cam Lộ
+
+19600
+
+Xã Cam Tuyền
+
+19603
+
+Xã Cam An
+
+19606
+
+Xã Cam Thủy
+
+19609
+
+Xã Cam Thanh
+
+19612
+
+Xã Cam Thành
+
+19615
+
+Xã Cam Hiếu
+
+19618
+
+Xã Cam Chính
+
+19621
+
+Xã Cam Nghĩa
+
+**469**
+
+**Huyện Triệu Phong**
+
+19624
+
+Thị trấn Ái Tử
+
+19627
+
+Xã Triệu An
+
+19630
+
+Xã Triệu Vân
+
+19633
+
+Xã Triệu Phước
+
+19636
+
+Xã Triệu Độ
+
+19639
+
+Xã Triệu Trạch
+
+19642
+
+Xã Triệu Thuận
+
+19645
+
+Xã Triệu Đại
+
+19648
+
+Xã Triệu Hòa
+
+19651
+
+Xã Triệu Lăng
+
+19654
+
+Xã Triệu Sơn
+
+19657
+
+Xã Triệu Long
+
+19660
+
+Xã Triệu Tài
+
+19663
+
+Xã Triệu Đông
+
+19666
+
+Xã Triệu Trung
+
+19669
+
+Xã Triệu Ái
+
+19672
+
+Xã Triệu Thượng
+
+19675
+
+Xã Triệu Giang
+
+19678
+
+Xã Triệu Thành
+
+**470**
+
+**Huyện Hải Lăng**
+
+19681
+
+Thị trấn Hải Lăng
+
+19684
+
+Xã Hải An
+
+19687
+
+Xã Hải Ba
+
+19690
+
+Xã Hải Xuân
+
+19693
+
+Xã Hải Quy
+
+19696
+
+Xã Hải Quế
+
+19699
+
+Xã Hải Vĩnh
+
+19702
+
+Xã Hải Phú
+
+19705
+
+Xã Hải Lệ
+
+19708
+
+Xã Hải Thượng
+
+19711
+
+Xã Hải Dương
+
+19714
+
+Xã Hải Thiện
+
+19717
+
+Xã Hải Lâm
+
+19720
+
+Xã Hải Thành
+
+19723
+
+Xã Hải Hòa
+
+19726
+
+Xã Hải Tân
+
+19729
+
+Xã Hải Trường
+
+19732
+
+Xã Hải Thọ
+
+19735
+
+Xã Hải Sơn
+
+19738
+
+Xã Hải Chánh
+
+19741
+
+Xã Hải Khê
+
+46. TỈNH THỪA THIÊN HUẾ
+
+(Tổng số
+xã, phường, thị trấn: 150; xã: 121, phường: 20, thị trấn: 9)
+
+(Total
+number of communes, subdistricts, subtowns: 150)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**474**
+
+**Thành phố Huế**
+
+19744
+
+Phường Phú Thuận
+
+19747
+
+Phường Phú Bình
+
+19750
+
+Phường Tây Lộc
+
+19753
+
+Phường Thuận Lộc
+
+19756
+
+Phường Phú Hiệp
+
+19759
+
+Phường Phú Hậu
+
+19762
+
+Phường Thuận Hòa
+
+19765
+
+Phường Thuận Thành
+
+19768
+
+Phường Phú Hòa
+
+19771
+
+Phường Phú Cát
+
+19774
+
+Phường Kim Long
+
+19777
+
+Phường Vĩ Dạ
+
+19780
+
+Phường Phường Đúc
+
+19783
+
+Phường Vĩnh Ninh
+
+19786
+
+Phường Phú Hội
+
+19789
+
+Phường Phú Nhuận
+
+19792
+
+Phường Xuân Phú
+
+19795
+
+Phường Trường An
+
+19798
+
+Phường Phước Vĩnh
+
+19801
+
+Phường An Cựu
+
+19804
+
+Xã Hương Sơ
+
+19807
+
+Xã Thủy Biều
+
+19810
+
+Xã Hương Long
+
+19813
+
+Xã Thủy Xuân
+
+19816
+
+Xã Thủy An
+
+**476**
+
+**Huyện Phong Điền**
+
+19819
+
+Thị trấn Phong Điền
+
+19822
+
+Xã Điền Hương
+
+19825
+
+Xã Điền Môn
+
+19828
+
+Xã Điền Lộc
+
+19831
+
+Xã Phong Bình
+
+19834
+
+Xã Điền Hòa
+
+19837
+
+Xã Phong Chương
+
+19840
+
+Xã Phong Hải
+
+19843
+
+Xã Điền Hải
+
+19846
+
+Xã Phong Hòa
+
+19849
+
+Xã Phong Thu
+
+19852
+
+Xã Phong Hiền
+
+19855
+
+Xã Phong Mỹ
+
+19858
+
+Xã Phong An
+
+19861
+
+Xã Phong Xuân
+
+19864
+
+Xã Phong Sơn
+
+**477**
+
+**Huyện Quảng Điền**
+
+19867
+
+Thị trấn Sịa
+
+19870
+
+Xã Quảng Thái
+
+19873
+
+Xã Quảng Ngạn
+
+19876
+
+Xã Quảng Lợi
+
+19879
+
+Xã Quảng Công
+
+19882
+
+Xã Quảng Phước
+
+19885
+
+Xã Quảng Vinh
+
+19888
+
+Xã Quảng An
+
+19891
+
+Xã Quảng Thành
+
+19894
+
+Xã Quảng Thọ
+
+19897
+
+Xã Quảng Phú
+
+**478**
+
+**Huyện Phú Vang**
+
+19900
+
+Thị trấn Thuận An
+
+19903
+
+Xã Phú Thuận
+
+19906
+
+Xã Phú Dương
+
+19909
+
+Xã Phú Mậu
+
+19912
+
+Xã Phú An
+
+19915
+
+Xã Phú Hải
+
+19918
+
+Xã Phú Xuân
+
+19921
+
+Xã Phú Diên
+
+19924
+
+Xã Phú Thanh
+
+19927
+
+Xã Phú Mỹ
+
+19930
+
+Xã Phú Thượng
+
+19933
+
+Xã Phú Hồ
+
+19936
+
+Xã Vinh Xuân
+
+19939
+
+Xã Phú Lương
+
+19942
+
+Xã Phú Đa
+
+19945
+
+Xã Vinh Thanh
+
+19948
+
+Xã Vinh An
+
+19951
+
+Xã Vinh Phú
+
+19954
+
+Xã Vinh Thái
+
+19957
+
+Xã Vinh Hà
+
+**479**
+
+**Huyện Hương Thủy**
+
+19960
+
+Thị trấn Phú Bài
+
+19963
+
+Xã Thủy Vân
+
+19966
+
+Xã Thủy Thanh
+
+19969
+
+Xã Thủy Dương
+
+19972
+
+Xã Thủy Phương
+
+19975
+
+Xã Thủy Châu
+
+19978
+
+Xã Thủy Lương
+
+19981
+
+Xã Thủy Bằng
+
+19984
+
+Xã Thủy Tân
+
+19987
+
+Xã Thủy Phù
+
+19990
+
+Xã Phú Sơn
+
+19993
+
+Xã Dương Hòa
+
+**480**
+
+**Huyện Hương Trà**
+
+19996
+
+Thị trấn Tứ Hạ
+
+19999
+
+Xã Hải Dương
+
+20002
+
+Xã Hương Phong
+
+20005
+
+Xã Hương Toàn
+
+20008
+
+Xã Hương Vân
+
+20011
+
+Xã Hương Văn
+
+20014
+
+Xã Hương Vinh
+
+20017
+
+Xã Hương Xuân
+
+20020
+
+Xã Hương Chữ
+
+20023
+
+Xã Hương An
+
+20026
+
+Xã Hương Bình
+
+20029
+
+Xã Hương Hồ
+
+20032
+
+Xã Hương Thọ
+
+20035
+
+Xã Bình Điền
+
+20038
+
+Xã Hồng Tiến
+
+20041
+
+Xã Bình Thành
+
+**481**
+
+**Huyện A Lưới**
+
+20044
+
+Thị trấn A Lưới
+
+20047
+
+Xã Hồng Vân
+
+20050
+
+Xã Hồng Hạ
+
+20053
+
+Xã Hồng Kim
+
+20056
+
+Xã Hồng Trung
+
+20059
+
+Xã Hương Nguyên
+
+20062
+
+Xã Bắc Sơn
+
+20065
+
+Xã Hồng Bắc
+
+20068
+
+Xã A Ngo
+
+20071
+
+Xã Sơn Thủy
+
+20074
+
+Xã Phú Vinh
+
+20077
+
+Xã Hồng Quảng
+
+20080
+
+Xã Hương Phong
+
+20083
+
+Xã Nhâm
+
+20086
+
+Xã Hồng Thượng
+
+20089
+
+Xã Hồng Thái
+
+20092
+
+Xã Hương Lâm
+
+20095
+
+Xã A Roằng
+
+20098
+
+Xã Đông Sơn
+
+20101
+
+Xã A Đớt
+
+20104
+
+Xã Hồng Thủy
+
+**482**
+
+**Huyện Phú Lộc**
+
+20107
+
+Thị trấn Phú Lộc
+
+20110
+
+Thị trấn Lăng Cô
+
+20113
+
+Xã Vinh Mỹ
+
+20116
+
+Xã Vinh Hưng
+
+20119
+
+Xã Vinh Hải
+
+20122
+
+Xã Vinh Giang
+
+20125
+
+Xã Vinh Hiền
+
+20128
+
+Xã Lộc Bổn
+
+20131
+
+Xã Lộc Sơn
+
+20134
+
+Xã Lộc Bình
+
+20137
+
+Xã Lộc Vĩnh
+
+20140
+
+Xã Lộc An
+
+20143
+
+Xã Lộc Điền
+
+20146
+
+Xã Lộc Thủy
+
+20149
+
+Xã Lộc Trì
+
+20152
+
+Xã Lộc Tiến
+
+20155
+
+Xã Lộc Hòa
+
+20158
+
+Xã Xuân Lộc
+
+**483**
+
+**Huyện Nam Đông**
+
+20161
+
+Thị trấn Khe Tre
+
+20164
+
+Xã Hương Phú
+
+20167
+
+Xã Hương Sơn
+
+20170
+
+Xã Hương Lộc
+
+20173
+
+Xã Thượng Quảng
+
+20176
+
+Xã Hương Hòa
+
+20179
+
+Xã Hương Giang
+
+20182
+
+Xã Hương Hữu
+
+20185
+
+Xã Thượng Lộ
+
+20188
+
+Xã Thượng Long
+
+20191
+
+Xã Thượng Nhật
+
+48. THÀNH PHỐ ĐÀ NẴNG
+
+(Tổng số
+xã, phường, thị trấn: 47; xã: 14, phường: 33, thị trấn: 0)
+
+(Total
+number of communes, subdistricts, subtowns: 47)
+
+**Mã
+số**
+
+**Code**
+
+**Tên đơn
+vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**490**
+
+**Quận Liên Chiểu**
+
+20194
+
+Phường Hòa Hiệp
+
+20197
+
+Phường Hòa Khánh
+
+20200
+
+Phường Hòa Minh
+
+**491**
+
+**Quận Thanh Khê**
+
+20203
+
+Phường Tam Thuận
+
+20206
+
+Phường Thanh Lộc Đán
+
+20209
+
+Phường Xuân Hà
+
+20212
+
+Phường Tân Chính
+
+20215
+
+Phường Chính Gián
+
+20218
+
+Phường Vĩnh Trung
+
+20221
+
+Phường Thạc Gián
+
+20224
+
+Phường An Khê
+
+**492**
+
+**Quận Hải Châu**
+
+20227
+
+Phường Thanh Bình
+
+20230
+
+Phường Thuận Phước
+
+20233
+
+Phường Thạch Thang
+
+20236
+
+Phường Hải Châu I
+
+20239
+
+Phường Hải Châu II
+
+20242
+
+Phường Phước Ninh
+
+20245
+
+Phường Hòa Thuận
+
+20248
+
+Phường Nam Dương
+
+20251
+
+Phường Bình Hiên
+
+20254
+
+Phường Bình Thuận
+
+20257
+
+Phường Hòa Cường
+
+20260
+
+Phường Khuê Trung
+
+**493**
+
+**Quận Sơn Trà**
+
+20263
+
+Phường Thọ Quang
+
+20266
+
+Phường Nại Hiên Đông
+
+20269
+
+Phường Mân Thái
+
+20272
+
+Phường An Hải Bắc
+
+20275
+
+Phường Phước Mỹ
+
+20278
+
+Phường An Hải Tây
+
+20281
+
+Phường An Hải Đông
+
+**494**
+
+**Quận Ngũ Hành Sơn**
+
+20284
+
+Phường Bắc Mỹ An
+
+20287
+
+Phường Hòa Quý
+
+20290
+
+Phường Hòa Hải
+
+**497**
+
+**Huyện Hòa Vang**
+
+20293
+
+Xã Hòa Bắc
+
+20296
+
+Xã Hòa Liên
+
+20299
+
+Xã Hòa Ninh
+
+20302
+
+Xã Hòa Sơn
+
+20305
+
+Xã Hòa Phát
+
+20308
+
+Xã Hòa Nhơn
+
+20311
+
+Xã Hòa Thọ
+
+20314
+
+Xã Hòa Xuân
+
+20317
+
+Xã Hòa Phú
+
+20320
+
+Xã Hòa Phong
+
+20323
+
+Xã Hòa Châu
+
+20326
+
+Xã Hòa Tiến
+
+20329
+
+Xã Hòa Phước
+
+20332
+
+Xã Hòa Khương
+
+**498**
+
+**Huyện Hoàng Sa**
+
+49. TỈNH QUẢNG NAM
+
+(Tổng số
+xã, phường, thị trấn: 225; xã: 197, phường: 16, thị trấn: 12)
+
+(Total
+number of communes, subdistricts, subtowns: 225)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**502**
+
+**Thị xã Tam Kỳ**
+
+20335
+
+Phường Tân Thạnh
+
+20338
+
+Phường Phước Hòa
+
+20341
+
+Phường An Mỹ
+
+20344
+
+Phường Hòa Hương
+
+20347
+
+Phường An Xuân
+
+20350
+
+Phường An Sơn
+
+20353
+
+Phường Trường Xuân
+
+20356
+
+Phường An Phú
+
+20359
+
+Xã Tam Thanh
+
+20362
+
+Xã Tam Thăng
+
+20365
+
+Xã Tam Thành
+
+20368
+
+Xã Tam An
+
+20371
+
+Xã Tam Phú
+
+20374
+
+Xã Tam Đàn
+
+20377
+
+Xã Tam Lộc
+
+20380
+
+Xã Tam Phước
+
+20383
+
+Xã Tam Vinh
+
+20386
+
+Xã Tam Thái
+
+20389
+
+Xã Tam Ngọc
+
+20392
+
+Xã Tam Dân
+
+20395
+
+Xã Tam Lãnh
+
+**503**
+
+**Thị xã Hội An**
+
+20398
+
+Phường Minh An
+
+20401
+
+Phường Tân An
+
+20404
+
+Phường Cẩm Phô
+
+20407
+
+Phường Thanh Hà
+
+20410
+
+Phường Sơn Phong
+
+20413
+
+Phường Cẩm Châu
+
+20416
+
+Phường Cửa Đại
+
+20419
+
+Phường Cẩm An
+
+20422
+
+Xã Cẩm Hà
+
+20425
+
+Xã Cẩm Kim
+
+20428
+
+Xã Cẩm Nam
+
+20431
+
+Xã Cẩm Thanh
+
+20434
+
+Xã Tân Hiệp
+
+**504**
+
+**Huyện Tây Giang**
+
+20437
+
+Xã Ch'ơm
+
+20440
+
+Xã Ga Ri
+
+20443
+
+Xã A Xan
+
+20446
+
+Xã Tr'Hy
+
+20449
+
+Xã Lăng
+
+20452
+
+Xã A Nông
+
+20455
+
+Xã A Tiêng
+
+20458
+
+Xã Bha Lê
+
+20461
+
+Xã A Vương
+
+20464
+
+Xã Dang
+
+**505**
+
+**Huyện Đông Giang**
+
+20467
+
+Thị trấn P Rao
+
+20470
+
+Xã Tà Lu
+
+20473
+
+Xã Sông Kôn
+
+20476
+
+Xã Jơ Ngây
+
+20479
+
+Xã A Ting
+
+20482
+
+Xã Tư
+
+20485
+
+Xã Ba
+
+20488
+
+Xã A Rooi
+
+20491
+
+Xã Za Hung
+
+20494
+
+Xã Mà Cooih
+
+20497
+
+Xã Ka Dăng
+
+**506**
+
+**Huyện Đại Lộc**
+
+20500
+
+Thị trấn Ái Nghĩa
+
+20503
+
+Xã Đại Sơn
+
+20506
+
+Xã Đại Lãnh
+
+20509
+
+Xã Đại Hưng
+
+20512
+
+Xã Đại Hồng
+
+20515
+
+Xã Đại Đồng
+
+20518
+
+Xã Đại Quang
+
+20521
+
+Xã Đại Nghĩa
+
+20524
+
+Xã Đại Hiệp
+
+20527
+
+Xã Đại Thạnh
+
+20530
+
+Xã Đại Chánh
+
+20533
+
+Xã Đại Tân
+
+20536
+
+Xã Đại Phong
+
+20539
+
+Xã Đại Minh
+
+20542
+
+Xã Đại Thắng
+
+20545
+
+Xã Đại Cường
+
+20548
+
+Xã Đại Hòa
+
+**507**
+
+**Huyện Điện Bàn**
+
+20551
+
+Thị trấn Vĩnh Điện
+
+20554
+
+Xã Điện Tiến
+
+20557
+
+Xã Điện Hòa
+
+20560
+
+Xã Điện Thắng
+
+20563
+
+Xã Điện Ngọc
+
+20566
+
+Xã Điện Hồng
+
+20569
+
+Xã Điện Thọ
+
+20572
+
+Xã Điện Phước
+
+20575
+
+Xã Điện An
+
+20578
+
+Xã Điện Nam
+
+20581
+
+Xã Điện Dương
+
+20584
+
+Xã Điện Quang
+
+20587
+
+Xã Điện Trung
+
+20590
+
+Xã Điện Phong
+
+20593
+
+Xã Điện Minh
+
+20596
+
+Xã Điện Phương
+
+**508**
+
+**Huyện Duy Xuyên**
+
+20599
+
+Thị trấn Nam Phước
+
+20602
+
+Xã Duy Thu
+
+20605
+
+Xã Duy Phú
+
+20608
+
+Xã Duy Tân
+
+20611
+
+Xã Duy Hòa
+
+20614
+
+Xã Duy Châu
+
+20617
+
+Xã Duy Trinh
+
+20620
+
+Xã Duy Sơn
+
+20623
+
+Xã Duy Trung
+
+20626
+
+Xã Duy Phước
+
+20629
+
+Xã Duy Thành
+
+20632
+
+Xã Duy Vinh
+
+20635
+
+Xã Duy Nghĩa
+
+20638
+
+Xã Duy Hải
+
+**509**
+
+**Huyện Quế Sơn**
+
+20641
+
+Thị trấn Đông Phú
+
+20644
+
+Xã Quế Xuân 1
+
+20647
+
+Xã Quế Xuân 2
+
+20650
+
+Xã Quế Phú
+
+20653
+
+Xã Quế Cường
+
+20656
+
+Xã Quế Trung
+
+20659
+
+Xã Quế Hiệp
+
+20662
+
+Xã Quế Thuận
+
+20665
+
+Xã Phú Thọ
+
+20668
+
+Xã Quế Ninh
+
+20671
+
+Xã Quế Lộc
+
+20674
+
+Xã Quế Phước
+
+20677
+
+Xã Quế Long
+
+20680
+
+Xã Quế Châu
+
+20683
+
+Xã Quế Phong
+
+20686
+
+Xã Quế An
+
+20689
+
+Xã Quế Minh
+
+20692
+
+Xã Quế Lâm
+
+**510**
+
+**Huyện Nam Giang**
+
+20695
+
+Thị trấn Thạnh Mỹ
+
+20698
+
+Xã Laêê
+
+20701
+
+Xã Zuôich
+
+20704
+
+Xã La Dêê
+
+20707
+
+Xã Chà vàl
+
+20710
+
+Xã Tà Bhinh
+
+20713
+
+Xã Cà Dy
+
+20716
+
+Xã Đắc pre
+
+20719
+
+Xã Đắc pring
+
+**511**
+
+**Huyện Phước Sơn**
+
+20722
+
+Thị trấn Khâm Đức
+
+20725
+
+Xã Phước Xuân
+
+20728
+
+Xã Phước Hiệp
+
+20731
+
+Xã Phước Đức
+
+20734
+
+Xã Phước Năng
+
+20737
+
+Xã Phước Mỹ
+
+20740
+
+Xã Phước Chánh
+
+20743
+
+Xã Phước Công
+
+20746
+
+Xã Phước Kim
+
+20749
+
+Xã Phước Lộc
+
+20752
+
+Xã Phước Thành
+
+**512**
+
+**Huyện Hiệp Đức**
+
+20755
+
+Thị trấn Tân An
+
+20758
+
+Xã Hiệp Hòa
+
+20761
+
+Xã Hiệp Thuận
+
+20764
+
+Xã Quế Thọ
+
+20767
+
+Xã Bình Lâm
+
+20770
+
+Xã Sông Trà
+
+20773
+
+Xã Phước Trà
+
+20776
+
+Xã Phước Gia
+
+20779
+
+Xã Quế Bình
+
+20782
+
+Xã Quế Lưu
+
+20785
+
+Xã Thăng Phước
+
+20788
+
+Xã Bình Sơn
+
+**513**
+
+**Huyện Thăng Bình**
+
+20791
+
+Thị trấn Hà Lam
+
+20794
+
+Xã Bình Dương
+
+20797
+
+Xã Bình Giang
+
+20800
+
+Xã Bình Nguyên
+
+20803
+
+Xã Bình Phục
+
+20806
+
+Xã Bình Triều
+
+20809
+
+Xã Bình Đào
+
+20812
+
+Xã Bình Minh
+
+20815
+
+Xã Bình Lãnh
+
+20818
+
+Xã Bình Trị
+
+20821
+
+Xã Bình Định
+
+20824
+
+Xã Bình Quý
+
+20827
+
+Xã Bình Phú
+
+20830
+
+Xã Bình Chánh
+
+20833
+
+Xã Bình Tú
+
+20836
+
+Xã Bình Sa
+
+20839
+
+Xã Bình Hải
+
+20842
+
+Xã Bình Quế
+
+20845
+
+Xã Bình An
+
+20848
+
+Xã Bình Trung
+
+20851
+
+Xã Bình Nam
+
+**514**
+
+**Huyện Tiên Phước**
+
+20854
+
+Thị trấn Tiên Kỳ
+
+20857
+
+Xã Tiên Sơn
+
+20860
+
+Xã Tiên Hà
+
+20863
+
+Xã Tiên Cẩm
+
+20866
+
+Xã Tiên Châu
+
+20869
+
+Xã Tiên Lãnh
+
+20872
+
+Xã Tiên Ngọc
+
+20875
+
+Xã Tiên Hiệp
+
+20878
+
+Xã Tiên Cảnh
+
+20881
+
+Xã Tiên Mỹ
+
+20884
+
+Xã Tiên Phong
+
+20887
+
+Xã Tiên Thọ
+
+20890
+
+Xã Tiên An
+
+20893
+
+Xã Tiên Lộc
+
+20896
+
+Xã Tiên Lập
+
+**515**
+
+**Huyện Bắc Trà My**
+
+20899
+
+Thị trấn Trà My
+
+20902
+
+Xã Trà Kót
+
+20905
+
+Xã Trà Nú
+
+20908
+
+Xã Trà Đông
+
+20911
+
+Xã Trà Dương
+
+20914
+
+Xã Trà Giang
+
+20917
+
+Xã Trà Bui
+
+20920
+
+Xã Trà Đốc
+
+20923
+
+Xã Trà Tân
+
+20926
+
+Xã Trà Giác
+
+20929
+
+Xã Trà Giáp
+
+20932
+
+Xã Trà Ka
+
+**516**
+
+**Huyện Nam Trà My**
+
+20935
+
+Xã Trà Leng
+
+20938
+
+Xã Trà Dơn
+
+20941
+
+Xã Trà Tập
+
+20944
+
+Xã Trà Mai
+
+20947
+
+Xã Trà Cang
+
+20950
+
+Xã Trà Linh
+
+20953
+
+Xã Trà Nam
+
+20956
+
+Xã Trà Don
+
+20959
+
+Xã Trà Vân
+
+20962
+
+Xã Trà Vinh
+
+**517**
+
+**Huyện Núi Thành**
+
+20965
+
+Thị trấn Núi Thành
+
+20968
+
+Xã Tam Xuân I
+
+20971
+
+Xã Tam Xuân II
+
+20974
+
+Xã Tam Tiến
+
+20977
+
+Xã Tam Sơn
+
+20980
+
+Xã Tam Thạnh
+
+20983
+
+Xã Tam Anh
+
+20986
+
+Xã Tam Hòa
+
+20989
+
+Xã Tam Hiệp
+
+20992
+
+Xã Tam Hải
+
+20995
+
+Xã Tam Giang
+
+20998
+
+Xã Tam Quang
+
+21001
+
+Xã Tam Nghĩa
+
+21004
+
+Xã Tam Mỹ
+
+21007
+
+Xã Tam Trà
+
+51. TỈNH QUẢNG NGÃI
+
+(Tổng số
+xã, phường, thị trấn: 180; xã: 162, phường: 8, thị trấn: 10)
+
+(Total
+number of communes, subdistricts, subtowns: 180)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**522**
+
+**Thị xã Quảng Ngãi**
+
+21010
+
+Phường Lê Hồng Phong
+
+21013
+
+Phường Trần Phú
+
+21016
+
+Phường Quảng Phú
+
+21019
+
+Phường Nghĩa Chánh
+
+21022
+
+Phường Trần Hưng Đạo
+
+21025
+
+Phường Nguyễn Nghiêm
+
+21028
+
+Phường Nghĩa Lộ
+
+21031
+
+Phường Chánh Lộ
+
+21034
+
+Xã Nghĩa Dũng
+
+21037
+
+Xã Nghĩa Dõng
+
+**524**
+
+**Huyện Bình Sơn**
+
+21040
+
+Thị trấn Châu Ổ
+
+21043
+
+Xã Bình Thuận
+
+21046
+
+Xã Bình Thạnh
+
+21049
+
+Xã Bình Đông
+
+21052
+
+Xã Bình Chánh
+
+21055
+
+Xã Bình Nguyên
+
+21058
+
+Xã Bình Khương
+
+21061
+
+Xã Bình Trị
+
+21064
+
+Xã Bình An
+
+21067
+
+Xã Bình Hải
+
+21070
+
+Xã Bình Dương
+
+21073
+
+Xã Bình Phước
+
+21076
+
+Xã Bình Thới
+
+21079
+
+Xã Bình Hòa
+
+21082
+
+Xã Bình Trung
+
+21085
+
+Xã Bình Minh
+
+21088
+
+Xã Bình Long
+
+21091
+
+Xã Bình Thanh Tây
+
+21094
+
+Xã Bình Phú
+
+21097
+
+Xã Bình Thanh Đông
+
+21100
+
+Xã Bình Chương
+
+21103
+
+Xã Bình Hiệp
+
+21106
+
+Xã Bình Mỹ
+
+21109
+
+Xã Bình Tân
+
+21112
+
+Xã Bình Châu
+
+**525**
+
+**Huyện Trà Bồng**
+
+21115
+
+Thị trấn Trà Xuân
+
+21118
+
+Xã Trà Giang
+
+21121
+
+Xã Trà Thủy
+
+21124
+
+Xã Trà Hiệp
+
+21127
+
+Xã Trà Bình
+
+21130
+
+Xã Trà Phú
+
+21133
+
+Xã Trà Lâm
+
+21136
+
+Xã Trà Tân
+
+21139
+
+Xã Trà Sơn
+
+21142
+
+Xã Trà Bùi
+
+**526**
+
+**Huyện Tây Trà**
+
+21145
+
+Xã Trà Thanh
+
+21148
+
+Xã Trà Khê
+
+21151
+
+Xã Trà Quân
+
+21154
+
+Xã Trà Phong
+
+21157
+
+Xã Trà Lãnh
+
+21160
+
+Xã Trà Nham
+
+21163
+
+Xã Trà Xinh
+
+21166
+
+Xã Trà Thọ
+
+21169
+
+Xã Trà Trung
+
+**527**
+
+**Huyện Sơn Tịnh**
+
+21172
+
+Thị trấn Sơn Tịnh
+
+21175
+
+Xã Tịnh Thọ
+
+21178
+
+Xã Tịnh Trà
+
+21181
+
+Xã Tịnh Phong
+
+21184
+
+Xã Tịnh Hiệp
+
+21187
+
+Xã Tịnh Hòa
+
+21190
+
+Xã Tịnh Kỳ
+
+21193
+
+Xã Tịnh Bình
+
+21196
+
+Xã Tịnh Đông
+
+21199
+
+Xã Tịnh Thiện
+
+21202
+
+Xã Tịnh Ấn Đông
+
+21205
+
+Xã Tịnh Bắc
+
+21208
+
+Xã Tịnh Châu
+
+21211
+
+Xã Tịnh Khê
+
+21214
+
+Xã Tịnh Long
+
+21217
+
+Xã Tịnh Sơn
+
+21220
+
+Xã Tịnh Hà
+
+21223
+
+Xã Tịnh Ấn Tây
+
+21226
+
+Xã Tịnh Giang
+
+21229
+
+Xã Tịnh Minh
+
+21232
+
+Xã Tịnh An
+
+**528**
+
+**Huyện Tư Nghĩa**
+
+21235
+
+Thị trấn La Hà
+
+21238
+
+Thị trấn Sông Vệ
+
+21241
+
+Xã Nghĩa Lâm
+
+21244
+
+Xã Nghĩa Thắng
+
+21247
+
+Xã Nghĩa Thuận
+
+21250
+
+Xã Nghĩa Kỳ
+
+21253
+
+Xã Nghĩa Phú
+
+21256
+
+Xã Nghĩa Hà
+
+21259
+
+Xã Nghĩa Sơn
+
+21262
+
+Xã Nghĩa An
+
+21265
+
+Xã Nghĩa Thọ
+
+21268
+
+Xã Nghĩa Hòa
+
+21271
+
+Xã Nghĩa Điền
+
+21274
+
+Xã Nghĩa Thương
+
+21277
+
+Xã Nghĩa Trung
+
+21280
+
+Xã Nghĩa Hiệp
+
+21283
+
+Xã Nghĩa Phương
+
+21286
+
+Xã Nghĩa Mỹ
+
+**529**
+
+**Huyện Sơn Hà**
+
+21289
+
+Thị trấn Di Lăng
+
+21292
+
+Xã Sơn Hạ
+
+21295
+
+Xã Sơn Thành
+
+21298
+
+Xã Sơn Nham
+
+21301
+
+Xã Sơn Bao
+
+21304
+
+Xã Sơn Linh
+
+21307
+
+Xã Sơn Giang
+
+21310
+
+Xã Sơn Trung
+
+21313
+
+Xã Sơn Thượng
+
+21316
+
+Xã Sơn Cao
+
+21319
+
+Xã Sơn Hải
+
+21322
+
+Xã Sơn Thủy
+
+21325
+
+Xã Sơn Kỳ
+
+21328
+
+Xã Sơn Ba
+
+**530**
+
+**Huyện Sơn Tây**
+
+21331
+
+Xã Sơn Bua
+
+21334
+
+Xã Sơn Mùa
+
+21337
+
+Xã Sơn Tân
+
+21340
+
+Xã Sơn Dung
+
+21343
+
+Xã Sơn Tinh
+
+21346
+
+Xã Sơn Lập
+
+**531**
+
+**Huyện Minh Long**
+
+21349
+
+Xã Long Sơn
+
+21352
+
+Xã Long Mai
+
+21355
+
+Xã Thanh An
+
+21358
+
+Xã Long Môn
+
+21361
+
+Xã Long Hiệp
+
+**532**
+
+**Huyện Nghĩa Hành**
+
+21364
+
+Thị trấn Chợ Chùa
+
+21367
+
+Xã Hành Thuận
+
+21370
+
+Xã Hành Dũng
+
+21373
+
+Xã Hành Trung
+
+21376
+
+Xã Hành Nhân
+
+21379
+
+Xã Hành Đức
+
+21382
+
+Xã Hành Minh
+
+21385
+
+Xã Hành Phước
+
+21388
+
+Xã Hành Thiện
+
+21391
+
+Xã Hành Thịnh
+
+21394
+
+Xã Hành Tín Tây
+
+21397
+
+Xã Hành Tín Đông
+
+**533**
+
+**Huyện Mộ Đức**
+
+21400
+
+Thị trấn Mộ Đức
+
+21403
+
+Xã Đức Lợi
+
+21406
+
+Xã Đức Thắng
+
+21409
+
+Xã Đức Nhuận
+
+21412
+
+Xã Đức Chánh
+
+21415
+
+Xã Đức Hiệp
+
+21418
+
+Xã Đức Minh
+
+21421
+
+Xã Đức Thạnh
+
+21424
+
+Xã Đức Hòa
+
+21427
+
+Xã Đức Tân
+
+21430
+
+Xã Đức Phú
+
+21433
+
+Xã Đức Phong
+
+21436
+
+Xã Đức Lân
+
+**534**
+
+**Huyện Đức Phổ**
+
+21439
+
+Thị trấn Đức Phổ
+
+21442
+
+Xã Phổ An
+
+21445
+
+Xã Phổ Phong
+
+21448
+
+Xã Phổ Thuận
+
+21451
+
+Xã Phổ Văn
+
+21454
+
+Xã Phổ Quang
+
+21457
+
+Xã Phổ Nhơn
+
+21460
+
+Xã Phổ Ninh
+
+21463
+
+Xã Phổ Minh
+
+21466
+
+Xã Phổ Vinh
+
+21469
+
+Xã Phổ Hòa
+
+21472
+
+Xã Phổ Cường
+
+21475
+
+Xã Phổ Khánh
+
+21478
+
+Xã Phổ Thạnh
+
+21481
+
+Xã Phổ Châu
+
+**535**
+
+**Huyện Ba Tơ**
+
+21484
+
+Thị trấn Ba Tơ
+
+21487
+
+Xã Ba Điền
+
+21490
+
+Xã Ba Vinh
+
+21493
+
+Xã Ba Thành
+
+21496
+
+Xã Ba Động
+
+21499
+
+Xã Ba Dinh
+
+21502
+
+Xã Ba Liên
+
+21505
+
+Xã Ba Ngạc
+
+21508
+
+Xã Ba Khâm
+
+21511
+
+Xã Ba Cung
+
+21514
+
+Xã Ba Chùa
+
+21517
+
+Xã Ba Tiêu
+
+21520
+
+Xã Ba Trang
+
+21523
+
+Xã Ba Tô
+
+21526
+
+Xã Ba Bích
+
+21529
+
+Xã Ba Vì
+
+21532
+
+Xã Ba Lế
+
+21535
+
+Xã Ba Nam
+
+21538
+
+Xã Ba Xa
+
+**536**
+
+**Huyện Lý Sơn**
+
+21541
+
+Xã An Vĩnh
+
+21544
+
+Xã An Hải
+
+21547
+
+Xã An Bình
+
+52. TỈNH BÌNH ĐỊNH
+
+(Tổng số
+xã, phường, thị trấn: 155; xã: 127, phường: 16, thị trấn: 12)
+
+(Total
+number of communes, subdistricts, subtowns: 155)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**540**
+
+**Thành phố Quy Nhơn**
+
+21550
+
+Phường Nhơn Bình
+
+21553
+
+Phường Nhơn Phú
+
+21556
+
+Phường Đống Đa
+
+21559
+
+Phường Trần Quang Diệu
+
+21562
+
+Phường Hải Cảng
+
+21565
+
+Phường Quang Trung
+
+21568
+
+Phường Thị Nại
+
+21571
+
+Phường Lê Hồng Phong
+
+21574
+
+Phường Trần Hưng Đạo
+
+21577
+
+Phường Ngô Mây
+
+21580
+
+Phường Lý Thường Kiệt
+
+21583
+
+Phường Lê Lợi
+
+21586
+
+Phường Trần Phú
+
+21589
+
+Phường Bùi Thị Xuân
+
+21592
+
+Phường Nguyễn Văn Cừ
+
+21595
+
+Phường Ghềnh Ráng
+
+21598
+
+Xã Nhơn Lý
+
+21601
+
+Xã Nhơn Hội
+
+21604
+
+Xã Nhơn Hải
+
+21607
+
+Xã Nhơn Châu
+
+**542**
+
+**Huyện An Lão**
+
+21610
+
+Xã An Hưng
+
+21613
+
+Xã An Trung
+
+21616
+
+Xã An Dũng
+
+21619
+
+Xã An Vinh
+
+21622
+
+Xã An Toàn
+
+21625
+
+Xã An Tân
+
+21628
+
+Xã An Hòa
+
+21631
+
+Xã An Quang
+
+21634
+
+Xã An Nghĩa
+
+**543**
+
+**Huyện Hoài Nhơn**
+
+21637
+
+Thị trấn Tam Quan
+
+21640
+
+Thị trấn Bồng Sơn
+
+21643
+
+Xã Hoài Sơn
+
+21646
+
+Xã Hoài Châu Bắc
+
+21649
+
+Xã Hoài Châu
+
+21652
+
+Xã Hoài Phú
+
+21655
+
+Xã Tam Quan Bắc
+
+21658
+
+Xã Tam Quan Nam
+
+21661
+
+Xã Hoài Hảo
+
+21664
+
+Xã Hoài Thanh Tây
+
+21667
+
+Xã Hoài Thanh
+
+21670
+
+Xã Hoài Hương
+
+21673
+
+Xã Hoài Tân
+
+21676
+
+Xã Hoài Hải
+
+21679
+
+Xã Hoài Xuân
+
+21682
+
+Xã Hoài Mỹ
+
+21685
+
+Xã Hoài Đức
+
+**544**
+
+**Huyện Hoài Ân**
+
+21688
+
+Thị trấn Tăng Bạt Hổ
+
+21691
+
+Xã Ân Hảo
+
+21694
+
+Xã Ân Sơn
+
+21697
+
+Xã Ân Mỹ
+
+21700
+
+Xã Dak Mang
+
+21703
+
+Xã Ân Tín
+
+21706
+
+Xã Ân Thạnh
+
+21709
+
+Xã Ân Phong
+
+21712
+
+Xã Ân Đức
+
+21715
+
+Xã Ân Hữu
+
+21718
+
+Xã Bok Tới
+
+21721
+
+Xã Ân Tường Tây
+
+21724
+
+Xã Ân Tường Đông
+
+21727
+
+Xã Ân Nghĩa
+
+**545**
+
+**Huyện Phù Mỹ**
+
+21730
+
+Thị trấn Phù Mỹ
+
+21733
+
+Thị trấn Bình Dương
+
+21736
+
+Xã Mỹ Đức
+
+21739
+
+Xã Mỹ Châu
+
+21742
+
+Xã Mỹ Thắng
+
+21745
+
+Xã Mỹ Lộc
+
+21748
+
+Xã Mỹ Lợi
+
+21751
+
+Xã Mỹ An
+
+21754
+
+Xã Mỹ Phong
+
+21757
+
+Xã Mỹ Trinh
+
+21760
+
+Xã Mỹ Thọ
+
+21763
+
+Xã Mỹ Hòa
+
+21766
+
+Xã Mỹ Thành
+
+21769
+
+Xã Mỹ Chánh
+
+21772
+
+Xã Mỹ Quang
+
+21775
+
+Xã Mỹ Hiệp
+
+21778
+
+Xã Mỹ Tài
+
+21781
+
+Xã Mỹ Cát
+
+21784
+
+Xã Mỹ Chánh Tây
+
+**546**
+
+**Huyện Vĩnh Thạnh**
+
+21787
+
+Xã Vĩnh Sơn
+
+21790
+
+Xã Vĩnh Kim
+
+21793
+
+Xã Vĩnh Hòa
+
+21796
+
+Xã Vĩnh Hiệp
+
+21799
+
+Xã Vĩnh Hảo
+
+21802
+
+Xã Vĩnh Thịnh
+
+21805
+
+Xã Vĩnh Quang
+
+**547**
+
+**Huyện Tây Sơn**
+
+21808
+
+Thị trấn Phú Phong
+
+21811
+
+Xã Bình Tân
+
+21814
+
+Xã Tây Thuận
+
+21817
+
+Xã Bình Thuận
+
+21820
+
+Xã Tây Giang
+
+21823
+
+Xã Bình Thành
+
+21826
+
+Xã Tây An
+
+21829
+
+Xã Bình Hòa
+
+21832
+
+Xã Tây Bình
+
+21835
+
+Xã Bình Tường
+
+21838
+
+Xã Tây Vinh
+
+21841
+
+Xã Vĩnh An
+
+21844
+
+Xã Tây Xuân
+
+21847
+
+Xã Bình Nghi
+
+21850
+
+Xã Tây Phú
+
+**548**
+
+**Huyện Phù Cát**
+
+21853
+
+Thị trấn Ngô Mây
+
+21856
+
+Xã Cát Sơn
+
+21859
+
+Xã Cát Minh
+
+21862
+
+Xã Cát Khánh
+
+21865
+
+Xã Cát Tài
+
+21868
+
+Xã Cát Lâm
+
+21871
+
+Xã Cát Hanh
+
+21874
+
+Xã Cát Thành
+
+21877
+
+Xã Cát Trinh
+
+21880
+
+Xã Cát Hải
+
+21883
+
+Xã Cát Hiệp
+
+21886
+
+Xã Cát Nhơn
+
+21889
+
+Xã Cát Hưng
+
+21892
+
+Xã Cát Tường
+
+21895
+
+Xã Cát Tân
+
+21898
+
+Xã Cát Tiến
+
+21901
+
+Xã Cát Thắng
+
+21904
+
+Xã Cát Chánh
+
+**549**
+
+**Huyện An Nhơn**
+
+21907
+
+Thị trấn Bình Định
+
+21910
+
+Thị trấn Đập Đá
+
+21913
+
+Xã Nhơn Mỹ
+
+21916
+
+Xã Nhơn Thành
+
+21919
+
+Xã Nhơn Hạnh
+
+21922
+
+Xã Nhơn Hậu
+
+21925
+
+Xã Nhơn Phong
+
+21928
+
+Xã Nhơn An
+
+21931
+
+Xã Nhơn Phúc
+
+21934
+
+Xã Nhơn Hưng
+
+21937
+
+Xã Nhơn Khánh
+
+21940
+
+Xã Nhơn Lộc
+
+21943
+
+Xã Nhơn Hòa
+
+21946
+
+Xã Nhơn Tân
+
+21949
+
+Xã Nhơn Thọ
+
+**550**
+
+**Huyện Tuy Phước**
+
+21952
+
+Thị trấn Tuy Phước
+
+21955
+
+Thị trấn Diêu Trì
+
+21958
+
+Xã Phước Thắng
+
+21961
+
+Xã Phước Hưng
+
+21964
+
+Xã Phước Quang
+
+21967
+
+Xã Phước Hòa
+
+21970
+
+Xã Phước Sơn
+
+21973
+
+Xã Phước Hiệp
+
+21976
+
+Xã Phước Lộc
+
+21979
+
+Xã Phước Nghĩa
+
+21982
+
+Xã Phước Thuận
+
+21985
+
+Xã Phước An
+
+21988
+
+Xã Phước Thành
+
+21991
+
+Xã Phước Mỹ
+
+**551**
+
+**Huyện Vân Canh**
+
+21994
+
+Thị trấn Vân Canh
+
+21997
+
+Xã Canh Liên
+
+22000
+
+Xã Canh Hiệp
+
+22003
+
+Xã Canh Vinh
+
+22006
+
+Xã Canh Hiển
+
+22009
+
+Xã Canh Thuận
+
+22012
+
+Xã Canh Hòa
+
+54. TỈNH PHÚ YÊN
+
+(Tổng số
+xã, phường, thị trấn: 104; xã: 89, phường: 9, thị trấn: 6)
+
+(Total
+number of communes, subdistricts, subtowns: 104)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**555**
+
+**Thị xã Tuy Hòa**
+
+22015
+
+Phường 1
+
+22018
+
+Phường 8
+
+22021
+
+Phường 2
+
+22024
+
+Phường 9
+
+22027
+
+Phường 3
+
+22030
+
+Phường 4
+
+22033
+
+Phường 5
+
+22036
+
+Phường 7
+
+22039
+
+Phường 6
+
+22042
+
+Xã Hòa Kiến
+
+22045
+
+Xã Bình Kiến
+
+22048
+
+Xã Bình Ngọc
+
+**557**
+
+**Huyện Sông Cầu**
+
+22051
+
+Thị trấn Sông Cầu
+
+22054
+
+Xã Xuân Hải
+
+22057
+
+Xã Xuân Lộc
+
+22060
+
+Xã Xuân Bình
+
+22063
+
+Xã Xuân Hòa
+
+22066
+
+Xã Xuân Cảnh
+
+22069
+
+Xã Xuân Thịnh
+
+22072
+
+Xã Xuân Phương
+
+22075
+
+Xã Xuân Thọ 1
+
+22078
+
+Xã Xuân Thọ 2
+
+**558**
+
+**Huyện Đồng Xuân**
+
+22081
+
+Thị trấn La Hai
+
+22084
+
+Xã Đa Lộc
+
+22087
+
+Xã Phú Mỡ
+
+22090
+
+Xã Xuân Lãnh
+
+22093
+
+Xã Xuân Long
+
+22096
+
+Xã Xuân Quang 1
+
+22099
+
+Xã Xuân Sơn Bắc
+
+22102
+
+Xã Xuân Quang 2
+
+22105
+
+Xã Xuân Sơn Nam
+
+22108
+
+Xã Xuân Quang 3
+
+22111
+
+Xã Xuân Phước
+
+**559**
+
+**Huyện Tuy An**
+
+22114
+
+Thị trấn Chí Thạnh
+
+22117
+
+Xã An Dân
+
+22120
+
+Xã An Ninh Tây
+
+22123
+
+Xã An Ninh Đông
+
+22126
+
+Xã An Thạch
+
+22129
+
+Xã An Định
+
+22132
+
+Xã An Nghiệp
+
+22135
+
+Xã An Hải
+
+22138
+
+Xã An Cư
+
+22141
+
+Xã An Xuân
+
+22144
+
+Xã An Lĩnh
+
+22147
+
+Xã An Hòa
+
+22150
+
+Xã An Hiệp
+
+22153
+
+Xã An Mỹ
+
+22156
+
+Xã An Chấn
+
+22159
+
+Xã An Thọ
+
+22162
+
+Xã An Phú
+
+**560**
+
+**Huyện Sơn Hòa**
+
+22165
+
+Thị trấn Củng Sơn
+
+22168
+
+Xã Phước Tân
+
+22171
+
+Xã Sơn Hội
+
+22174
+
+Xã Sơn Định
+
+22177
+
+Xã Sơn Long
+
+22180
+
+Xã Cà Lúi
+
+22183
+
+Xã Sơn Phước
+
+22186
+
+Xã Sơn Xuân
+
+22189
+
+Xã Sơn Nguyên
+
+22192
+
+Xã Eachà Rang
+
+22195
+
+Xã Krông Pa
+
+22198
+
+Xã Suối Bạc
+
+22201
+
+Xã Sơn Hà
+
+22204
+
+Xã Suối Trai
+
+**561**
+
+**Huyện Sông Hinh**
+
+22207
+
+Thị trấn Hai Riêng
+
+22210
+
+Xã Ea Lâm
+
+22213
+
+Xã Đức Bình Tây
+
+22216
+
+Xã Ea Bá
+
+22219
+
+Xã Sơn Giang
+
+22222
+
+Xã Đức Bình Đông
+
+22225
+
+Xã EaBar
+
+22228
+
+Xã EaBia
+
+22231
+
+Xã EaTrol
+
+22234
+
+Xã Sông Hinh
+
+22237
+
+Xã Ealy
+
+**562**
+
+**Huyện Tuy Hòa**
+
+22240
+
+Thị trấn Phú Lâm
+
+22243
+
+Xã Hòa Thành
+
+22246
+
+Xã Hòa Hiệp Bắc
+
+22249
+
+Xã Sơn Thành
+
+22252
+
+Xã Hòa Bình 1
+
+22255
+
+Xã Hòa Bình 2
+
+22258
+
+Xã Hòa Vinh
+
+22261
+
+Xã Hòa Hiệp Trung
+
+22264
+
+Xã Hòa Phong
+
+22267
+
+Xã Hòa Tân Đông
+
+22270
+
+Xã Hòa Phú
+
+22273
+
+Xã Hòa Tân Tây
+
+22276
+
+Xã Hòa Đồng
+
+22279
+
+Xã Hòa Xuân Tây
+
+22282
+
+Xã Hòa Hiệp Nam
+
+22285
+
+Xã Hòa Mỹ Đông
+
+22288
+
+Xã Hòa Mỹ Tây
+
+22291
+
+Xã Hòa Xuân Đông
+
+22294
+
+Xã Hòa Thịnh
+
+22297
+
+Xã Hòa Tâm
+
+22300
+
+Xã Hòa Xuân Nam
+
+**563**
+
+**Huyện Phú Hòa**
+
+22303
+
+Xã Hòa Quang Bắc
+
+22306
+
+Xã Hòa Quang Nam
+
+22309
+
+Xã Hòa Hội
+
+22312
+
+Xã Hòa Trị
+
+22315
+
+Xã Hòa An
+
+22318
+
+Xã Hòa Định Đông
+
+22321
+
+Xã Hòa Định Tây
+
+22324
+
+Xã Hòa Thắng
+
+56. TỈNH KHÁNH HÒA
+
+(Tổng số
+xã, phường, thị trấn: 137; xã: 104, phường: 28, thị trấn: 5)
+
+(Total
+number of communes, subdistricts, subtowns: 137)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**568**
+
+**Thành phố Nha Trang**
+
+22327
+
+Phường Vĩnh Hòa
+
+22330
+
+Phường Vĩnh Hải
+
+22333
+
+Phường Vĩnh Phước
+
+22336
+
+Phường Ngọc Hiệp
+
+22339
+
+Phường Vĩnh Thọ
+
+22342
+
+Phường Xương Huân
+
+22345
+
+Phường Vạn Thắng
+
+22348
+
+Phường Vạn Thạnh
+
+22351
+
+Phường Phương Sài
+
+22354
+
+Phường Phương Sơn
+
+22357
+
+Phường Phước Hải
+
+22360
+
+Phường Phước Tân
+
+22363
+
+Phường Lộc Thọ
+
+22366
+
+Phường Phước Tiến
+
+22369
+
+Phường Tân Lập
+
+22372
+
+Phường Phước Hòa
+
+22375
+
+Phường Vĩnh Nguyên
+
+22378
+
+Phường Phước Long
+
+22381
+
+Phường Vĩnh Trường
+
+22384
+
+Xã Vĩnh Lương
+
+22387
+
+Xã Vĩnh Phương
+
+22390
+
+Xã Vĩnh Ngọc
+
+22393
+
+Xã Vĩnh Thạnh
+
+22396
+
+Xã Vĩnh Trung
+
+22399
+
+Xã Vĩnh Hiệp
+
+22402
+
+Xã Vĩnh Thái
+
+22405
+
+Xã Phước Đồng
+
+**569**
+
+**Thị xã Cam Ranh**
+
+22408
+
+Phường Cam Nghĩa
+
+22411
+
+Phường Cam Phúc Bắc
+
+22414
+
+Phường Cam Phúc Nam
+
+22417
+
+Phường Cam Lộc
+
+22420
+
+Phường Cam Phú
+
+22423
+
+Phường Ba Ngòi
+
+22426
+
+Phường Cam Thuận
+
+22429
+
+Phường Cam Lợi
+
+22432
+
+Phường Cam Linh
+
+22435
+
+Xã Cam Tân
+
+22438
+
+Xã Cam Hòa
+
+22441
+
+Xã Cam Hải Đông
+
+22444
+
+Xã Cam Hải Tây
+
+22447
+
+Xã Sơn Tân
+
+22450
+
+Xã Cam Hiệp Bắc
+
+22453
+
+Xã Cam Đức
+
+22456
+
+Xã Cam Hiệp Nam
+
+22459
+
+Xã Cam Phước Tây
+
+22462
+
+Xã Cam Thành Bắc
+
+22465
+
+Xã Cam An Bắc
+
+22468
+
+Xã Cam Thành Nam
+
+22471
+
+Xã Cam An Nam
+
+22474
+
+Xã Cam Phước Đông
+
+22477
+
+Xã Cam Thịnh Tây
+
+22480
+
+Xã Cam Thịnh Đông
+
+22483
+
+Xã Cam Lập
+
+22486
+
+Xã Cam Bình
+
+**571**
+
+**Huyện Vạn Ninh**
+
+22489
+
+Thị trấn Vạn Giã
+
+22492
+
+Xã Đại Lãnh
+
+22495
+
+Xã Vạn Phước
+
+22498
+
+Xã Vạn Long
+
+22501
+
+Xã Vạn Bình
+
+22504
+
+Xã Vạn Thọ
+
+22507
+
+Xã Vạn Khánh
+
+22510
+
+Xã Vạn Phú
+
+22513
+
+Xã Vạn Lương
+
+22516
+
+Xã Vạn Thắng
+
+22519
+
+Xã Vạn Thạnh
+
+22522
+
+Xã Xuân Sơn
+
+22525
+
+Xã Vạn Hưng
+
+**572**
+
+**Huyện Ninh Hòa**
+
+22528
+
+Thị trấn Ninh Hòa
+
+22531
+
+Xã Ninh Sơn
+
+22534
+
+Xã Ninh Tây
+
+22537
+
+Xã Ninh Thượng
+
+22540
+
+Xã Ninh An
+
+22543
+
+Xã Ninh Hải
+
+22546
+
+Xã Ninh Thọ
+
+22549
+
+Xã Ninh Trung
+
+22552
+
+Xã Ninh Sim
+
+22555
+
+Xã Ninh Xuân
+
+22558
+
+Xã Ninh Thân
+
+22561
+
+Xã Ninh Diêm
+
+22564
+
+Xã Ninh Đông
+
+22567
+
+Xã Ninh Thủy
+
+22570
+
+Xã Ninh Đa
+
+22573
+
+Xã Ninh Phụng
+
+22576
+
+Xã Ninh Bình
+
+22579
+
+Xã Ninh Phước
+
+22582
+
+Xã Ninh Phú
+
+22585
+
+Xã Ninh Tân
+
+22588
+
+Xã Ninh Quang
+
+22591
+
+Xã Ninh Giang
+
+22594
+
+Xã Ninh Hà
+
+22597
+
+Xã Ninh Hưng
+
+22600
+
+Xã Ninh Lộc
+
+22603
+
+Xã Ninh Ích
+
+22606
+
+Xã Ninh Vân
+
+**573**
+
+**Huyện Khánh Vĩnh**
+
+22609
+
+Thị trấn Khánh Vĩnh
+
+22612
+
+Xã Khánh Hiệp
+
+22615
+
+Xã Khánh Bình
+
+22618
+
+Xã Khánh Trung
+
+22621
+
+Xã Khánh Đông
+
+22624
+
+Xã Khánh Thượng
+
+22627
+
+Xã Khánh Nam
+
+22630
+
+Xã Sông Cầu
+
+22633
+
+Xã Giang Ly
+
+22636
+
+Xã Cầu Bà
+
+22639
+
+Xã Liên Sang
+
+22642
+
+Xã Khánh Thành
+
+22645
+
+Xã Khánh Phú
+
+22648
+
+Xã Sơn Thái
+
+**574**
+
+**Huyện Diên Khánh**
+
+22651
+
+Thị trấn Diên Khánh
+
+22654
+
+Xã Diên Lâm
+
+22657
+
+Xã Diên Điền
+
+22660
+
+Xã Diên Xuân
+
+22663
+
+Xã Diên Sơn
+
+22666
+
+Xã Diên Đồng
+
+22669
+
+Xã Diên Phú
+
+22672
+
+Xã Diên Thọ
+
+22675
+
+Xã Diên Phước
+
+22678
+
+Xã Diên Lạc
+
+22681
+
+Xã Diên Tân
+
+22684
+
+Xã Diên Hòa
+
+22687
+
+Xã Diên Thạnh
+
+22690
+
+Xã Diên Toàn
+
+22693
+
+Xã Diên An
+
+22696
+
+Xã Diên Bình
+
+22699
+
+Xã Diên Lộc
+
+22702
+
+Xã Suối Hiệp
+
+22705
+
+Xã Suối Tiên
+
+22708
+
+Xã Suối Cát
+
+22711
+
+Xã Suối Tân
+
+**575**
+
+**Huyện Khánh Sơn**
+
+22714
+
+Thị trấn Tô Hạp
+
+22717
+
+Xã Thành Sơn
+
+22720
+
+Xã Sơn Lâm
+
+22723
+
+Xã Sơn Hiệp
+
+22726
+
+Xã Sơn Bình
+
+22729
+
+Xã Sơn Trung
+
+22732
+
+Xã Ba Cụm Bắc
+
+22735
+
+Xã Ba Cụm Nam
+
+**576**
+
+**Huyện Trường Sa**
+
+58. TỈNH NINH THUẬN
+
+(Tổng số
+xã, phường, thị trấn: 59; xã: 44, phường: 12, thị trấn: 3)
+
+(Total
+number of communes, subdistricts, subtowns: 59)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**582**
+
+**Thị xã Phan Rang - Tháp Chàm**
+
+22738
+
+Phường Đô Vinh
+
+22741
+
+Phường Phước Mỹ
+
+22744
+
+Phường Bảo An
+
+22747
+
+Phường Phủ Hà
+
+22750
+
+Phường Thanh Sơn
+
+22753
+
+Phường Mỹ Hương
+
+22756
+
+Phường Tấn Tài
+
+22759
+
+Phường Kinh Dinh
+
+22762
+
+Phường Đạo Long
+
+22765
+
+Phường Đài Sơn
+
+22768
+
+Phường Đông Hải
+
+22771
+
+Phường Mỹ Đông
+
+22774
+
+Xã Thành Hải
+
+22777
+
+Xã Văn Hải
+
+22780
+
+Xã Mỹ Hải
+
+**584**
+
+**Huyện Bác Ái**
+
+22783
+
+Xã Phước Bình
+
+22786
+
+Xã Phước Hòa
+
+22789
+
+Xã Phước Tân
+
+22792
+
+Xã Phước Tiến
+
+22795
+
+Xã Phước Thắng
+
+22798
+
+Xã Phước Thành
+
+22801
+
+Xã Phước Đại
+
+22804
+
+Xã Phước Chính
+
+22807
+
+Xã Phước Trung
+
+**585**
+
+**Huyện Ninh Sơn**
+
+22810
+
+Thị trấn Tân Sơn
+
+22813
+
+Xã Lâm Sơn
+
+22816
+
+Xã Lương Sơn
+
+22819
+
+Xã Quảng Sơn
+
+22822
+
+Xã Mỹ Sơn
+
+22825
+
+Xã Hòa Sơn
+
+22828
+
+Xã Ma Nới
+
+22831
+
+Xã Nhơn Sơn
+
+**586**
+
+**Huyện Ninh Hải**
+
+22834
+
+Thị trấn Khánh Hải
+
+22837
+
+Xã Phước Chiến
+
+22840
+
+Xã Công Hải
+
+22843
+
+Xã Phước Kháng
+
+22846
+
+Xã Vĩnh Hải
+
+22849
+
+Xã Lợi Hải
+
+22852
+
+Xã Phương Hải
+
+22855
+
+Xã Tân Hải
+
+22858
+
+Xã Xuân Hải
+
+22861
+
+Xã Hộ Hải
+
+22864
+
+Xã Tri Hải
+
+22867
+
+Xã Nhơn Hải
+
+**587**
+
+**Huyện Ninh Phước**
+
+22870
+
+Thị trấn Phước Dân
+
+22873
+
+Xã Phước Sơn
+
+22876
+
+Xã Phước Thái
+
+22879
+
+Xã Phước Hậu
+
+22882
+
+Xã Phước Thuận
+
+22885
+
+Xã Phước Hà
+
+22888
+
+Xã An Hải
+
+22891
+
+Xã Phước Hữu
+
+22894
+
+Xã Phước Hải
+
+22897
+
+Xã Phước Nam
+
+22900
+
+Xã Nhị Hà
+
+22903
+
+Xã Phước Dinh
+
+22906
+
+Xã Phước Minh
+
+22909
+
+Xã Phước Diêm
+
+22912
+
+Xã Phước Vinh
+
+60. TỈNH BÌNH THUẬN
+
+(Tổng số
+xã, phường, thị trấn: 122; xã: 97, phường: 14, thị trấn: 11)
+
+(Total
+number of communes, subdistricts, subtowns: 122)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**593**
+
+**Thành phố Phan Thiết**
+
+22915
+
+Phường Mũi Né
+
+22918
+
+Phường Hàm Tiến
+
+22921
+
+Phường Phú Hài
+
+22924
+
+Phường Phú Thủy
+
+22927
+
+Phường Phú Tài
+
+22930
+
+Phường Phú Trinh
+
+22933
+
+Phường Xuân An
+
+22936
+
+Phường Thanh Hải
+
+22939
+
+Phường Bình Hưng
+
+22942
+
+Phường Đức Nghĩa
+
+22945
+
+Phường Lạc Đạo
+
+22948
+
+Phường Đức Thắng
+
+22951
+
+Phường Hưng Long
+
+22954
+
+Phường Đức Long
+
+22957
+
+Xã Thiện Nghiệp
+
+22960
+
+Xã Phong Nẫm
+
+22963
+
+Xã Tiến Lợi
+
+22966
+
+Xã Tiến Thành
+
+**595**
+
+**Huyện Tuy Phong**
+
+22969
+
+Thị trấn Liên Hương
+
+22972
+
+Thị trấn Phan Rí Cửa
+
+22975
+
+Xã Phan Dũng
+
+22978
+
+Xã Phong Phú
+
+22981
+
+Xã Vĩnh Hảo
+
+22984
+
+Xã Vĩnh Tân
+
+22987
+
+Xã Phú Lạc
+
+22990
+
+Xã Phước Thể
+
+22993
+
+Xã Hòa Minh
+
+22996
+
+Xã Chí Công
+
+22999
+
+Xã Bình Thạnh
+
+23002
+
+Xã Hòa Phú
+
+**596**
+
+**Huyện Bắc Bình**
+
+23005
+
+Thị trấn Chợ Lầu
+
+23008
+
+Xã Phan Sơn
+
+23011
+
+Xã Phan Lâm
+
+23014
+
+Xã Bình An
+
+23017
+
+Xã Phan Điền
+
+23020
+
+Xã Hải Ninh
+
+23023
+
+Xã Sông Lũy
+
+23026
+
+Xã Phan Tiến
+
+23029
+
+Xã Sông Bình
+
+23032
+
+Xã Lương Sơn
+
+23035
+
+Xã Phan Hòa
+
+23038
+
+Xã Phan Thanh
+
+23041
+
+Xã Hồng Thái
+
+23044
+
+Xã Phan Hiệp
+
+23047
+
+Xã Bình Tân
+
+23050
+
+Xã Phan Rí Thành
+
+23053
+
+Xã Hòa Thắng
+
+23056
+
+Xã Hồng Phong
+
+**597**
+
+**Huyện Hàm Thuận Bắc**
+
+23059
+
+Thị trấn Ma Lâm
+
+23062
+
+Thị trấn Phú Long
+
+23065
+
+Xã La Dạ
+
+23068
+
+Xã Đông Tiến
+
+23071
+
+Xã Thuận Hòa
+
+23074
+
+Xã Đông Giang
+
+23077
+
+Xã Hàm Phú
+
+23080
+
+Xã Hồng Liêm
+
+23083
+
+Xã Thuận Minh
+
+23086
+
+Xã Hồng Sơn
+
+23089
+
+Xã Hàm Trí
+
+23092
+
+Xã Hàm Đức
+
+23095
+
+Xã Hàm Liêm
+
+23098
+
+Xã Hàm Chính
+
+23101
+
+Xã Hàm Hiệp
+
+23104
+
+Xã Hàm Thắng
+
+23107
+
+Xã Đa Mi
+
+**598**
+
+**Huyện Hàm Thuận Nam**
+
+23110
+
+Thị trấn Thuận Nam
+
+23113
+
+Xã Mỹ Thạnh
+
+23116
+
+Xã Hàm Cần
+
+23119
+
+Xã Mương Mán
+
+23122
+
+Xã Hàm Thạnh
+
+23125
+
+Xã Hàm Kiệm
+
+23128
+
+Xã Hàm Cường
+
+23131
+
+Xã Hàm Mỹ
+
+23134
+
+Xã Tân Lập
+
+23137
+
+Xã Hàm Minh
+
+23140
+
+Xã Thuận Quý
+
+23143
+
+Xã Tân Thuận
+
+23146
+
+Xã Tân Thành
+
+**599**
+
+**Huyện Tánh Linh**
+
+23149
+
+Thị trấn Lạc Tánh
+
+23152
+
+Xã Bắc Ruộng
+
+23155
+
+Xã Măng Tố
+
+23158
+
+Xã Nghị Đức
+
+23161
+
+Xã La Ngâu
+
+23164
+
+Xã Huy Khiêm
+
+23167
+
+Xã Đức Tân
+
+23170
+
+Xã Đức Phú
+
+23173
+
+Xã Đồng Kho
+
+23176
+
+Xã Gia An
+
+23179
+
+Xã Đức Bình
+
+23182
+
+Xã Gia Huynh
+
+23185
+
+Xã Đức Thuận
+
+23188
+
+Xã Suối Kiết
+
+**600**
+
+**Huyện Đức Linh**
+
+23191
+
+Thị trấn Võ Xu
+
+23194
+
+Thị trấn Đức Tài
+
+23197
+
+Xã Đa Kai
+
+23200
+
+Xã Sùng Nhơn
+
+23203
+
+Xã Mê Pu
+
+23206
+
+Xã Nam Chính
+
+23209
+
+Xã Đức Chính
+
+23212
+
+Xã Đức Hạnh
+
+23215
+
+Xã Đức Tín
+
+23218
+
+Xã Vũ Hòa
+
+23221
+
+Xã Tân Hà
+
+23224
+
+Xã Đông Hà
+
+23227
+
+Xã Trà Tân
+
+**601**
+
+**Huyện Hàm Tân**
+
+23230
+
+Thị trấn Tân Minh
+
+23233
+
+Thị trấn La Gi
+
+23236
+
+Xã Tân Nghĩa
+
+23239
+
+Xã Sông Phan
+
+23242
+
+Xã Tân Phúc
+
+23245
+
+Xã Tân Hải
+
+23248
+
+Xã Tân Bình
+
+23251
+
+Xã Tân Đức
+
+23254
+
+Xã Tân Thắng
+
+23257
+
+Xã Tân Hà
+
+23260
+
+Xã Tân Xuân
+
+23266
+
+Xã Sơn Mỹ
+
+23269
+
+Xã Tân Thiện
+
+**602**
+
+**Huyện Phú Quý**
+
+23272
+
+Xã Ngũ Phụng
+
+23275
+
+Xã Long Hải
+
+23278
+
+Xã Tam Thanh
+
+62. TỈNH KON TUM
+
+(Tổng số
+xã, phường, thị trấn: 92; xã: 76, phường: 10, thị trấn: 6)
+
+(Total
+number of communes, subdistricts, subtowns: 92)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**608**
+
+**Thị xã Kon Tum**
+
+23281
+
+Phường Quang Trung
+
+23284
+
+Phường Duy Tân
+
+23287
+
+Phường Quyết Thắng
+
+23290
+
+Phường Trường Chinh
+
+23293
+
+Phường Thắng Lợi
+
+23296
+
+Phường Ngô Mây
+
+23299
+
+Phường Thống Nhất
+
+23302
+
+Phường Lê Lợi
+
+23305
+
+Phường Nguyễn Trãi
+
+23308
+
+Phường Trần Hưng Đạo
+
+23311
+
+Xã Đắk Cấm
+
+23314
+
+Xã Kroong
+
+23317
+
+Xã Ngọk Bay
+
+23320
+
+Xã Vinh Quang
+
+23323
+
+Xã Đắk Blà
+
+23326
+
+Xã Ia Chim
+
+23329
+
+Xã Đoàn Kết
+
+23332
+
+Xã Chư Hreng
+
+23335
+
+Xã Đắk Rơ Wa
+
+23338
+
+Xã Hòa Bình
+
+**610**
+
+**Huyện Đắk Glei**
+
+23341
+
+Thị trấn Đắk Glei
+
+23344
+
+Xã Đắk Plô
+
+23347
+
+Xã Đắk Man
+
+23350
+
+Xã Đắk Nhoong
+
+23353
+
+Xã Đắk Pék
+
+23356
+
+Xã Đắk Choong
+
+23359
+
+Xã Xốp
+
+23362
+
+Xã Mường Hoong
+
+23365
+
+Xã Ngọc Linh
+
+23368
+
+Xã Đắk Long
+
+23371
+
+Xã Đắk KRoong
+
+23374
+
+Xã Đắk Môn
+
+**611**
+
+**Huyện Ngọc Hồi**
+
+23377
+
+Thị trấn Plei Cần
+
+23380
+
+Xã Đắk Ang
+
+23383
+
+Xã Đắk Dục
+
+23386
+
+Xã Đắk Nông
+
+23389
+
+Xã Đắk Xú
+
+23392
+
+Xã Đắk Kan
+
+23395
+
+Xã Pờ Y
+
+23398
+
+Xã Sa Loong
+
+**612**
+
+**Huyện Đắk Tô**
+
+23401
+
+Thị trấn Đắk Tô
+
+23404
+
+Xã Ngọk Lây
+
+23407
+
+Xã Đắk Na
+
+23410
+
+Xã Măng Ri
+
+23413
+
+Xã Ngok Yêu
+
+23416
+
+Xã Đắk Sao
+
+23419
+
+Xã Đắk Tơ Kan
+
+23422
+
+Xã Tu Mơ Rông
+
+23425
+
+Xã Đắk Hà
+
+23428
+
+Xã Ngọk Tụ
+
+23431
+
+Xã Văn Lem
+
+23434
+
+Xã Kon Đào
+
+23437
+
+Xã Tân Cảnh
+
+23440
+
+Xã Diên Bình
+
+23443
+
+Xã Pô Kô
+
+23446
+
+Xã Tê Xăng
+
+23449
+
+Xã Văn Xuôi
+
+**613**
+
+**Huyện Kon Plông**
+
+23452
+
+Xã Đắk Nên
+
+23455
+
+Xã Đắk Ring
+
+23458
+
+Xã Măng Buk
+
+23461
+
+Xã Đắk Tăng
+
+23464
+
+Xã Ngok Tem
+
+23467
+
+Xã Pờ Ê
+
+23470
+
+Xã Măng Cành
+
+23473
+
+Xã Đắk Long
+
+23476
+
+Xã Hiếu
+
+**614**
+
+**Huyện Kon Rẫy**
+
+23479
+
+Thị trấn Đắk Rve
+
+23482
+
+Xã Đắk Kôi
+
+23485
+
+Xã Đắk Tơ Lung
+
+23488
+
+Xã Đắk Ruồng
+
+23491
+
+Xã Đắk Pne
+
+23494
+
+Xã Đắk Tờ Re
+
+23497
+
+Xã Tân Lập
+
+**615**
+
+**Huyện Đắk Hà**
+
+23500
+
+Thị trấn Đắk Hà
+
+23503
+
+Xã Đắk PXi
+
+23506
+
+Xã Đắk HRing
+
+23509
+
+Xã Đắk Ui
+
+23512
+
+Xã Đắk Mar
+
+23515
+
+Xã Ngok Wang
+
+23518
+
+Xã Ngok Réo
+
+23521
+
+Xã Hà Mòn
+
+23524
+
+Xã Đắk La
+
+**616**
+
+**Huyện Sa Thầy**
+
+23527
+
+Thị trấn Sa Thầy
+
+23530
+
+Xã Rơ Kơi
+
+23533
+
+Xã Sa Nhơn
+
+23536
+
+Xã Mô Rai
+
+23539
+
+Xã Sa Sơn
+
+23542
+
+Xã Sa Nghĩa
+
+23545
+
+Xã Sa Bình
+
+23548
+
+Xã Ya Xiêr
+
+23551
+
+Xã Ya Tăng
+
+23554
+
+Xã Ya Ly
+
+64. TỈNH GIA LAI
+
+(Tổng số
+xã, phường, thị trấn: 187; xã: 161, phường: 14, thị trấn: 12)
+
+(Total
+number of communes, subdistricts, subtowns: 187)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**622**
+
+**Thành phố Pleiku**
+
+23557
+
+Phường Yên Đỗ
+
+23560
+
+Phường Diên Hồng
+
+23563
+
+Phường Ia Kring
+
+23566
+
+Phường Hội Thương
+
+23569
+
+Phường Hội Phú
+
+23572
+
+Phường Hoa Lư
+
+23575
+
+Phường Tây Sơn
+
+23578
+
+Phường Thống Nhất
+
+23581
+
+Phường Trà Bá
+
+23584
+
+Phường Yên Thế
+
+23587
+
+Xã Chư HDrông
+
+23590
+
+Xã Biển Hồ
+
+23593
+
+Xã Tân Sơn
+
+23596
+
+Xã Trà Đa
+
+23599
+
+Xã Chư Á
+
+23602
+
+Xã An Phú
+
+23605
+
+Xã Diên Phú
+
+23608
+
+Xã Ia Kênh
+
+23611
+
+Xã Gào
+
+**623**
+
+**Thị Xã An Khê**
+
+23614
+
+Phường An Bình
+
+23617
+
+Phường Tây Sơn
+
+23620
+
+Phường An Phú
+
+23623
+
+Phường An Tân
+
+23626
+
+Xã Tú An
+
+23629
+
+Xã Cửu An
+
+23632
+
+Xã Song An
+
+23635
+
+Xã Thành An
+
+**625**
+
+**Huyện KBang**
+
+23638
+
+Thị trấn KBang
+
+23641
+
+Xã Kon Pne
+
+23644
+
+Xã Đăk Roong
+
+23647
+
+Xã Sơn Lang
+
+23650
+
+Xã KRong
+
+23653
+
+Xã Sơ Pai
+
+23656
+
+Xã Lơ Ku
+
+23659
+
+Xã Đông
+
+23662
+
+Xã Nghĩa An
+
+23665
+
+Xã Tơ Tung
+
+23668
+
+Xã Kông Lơng Khơng
+
+23671
+
+Xã Kông Pla
+
+23674
+
+Xã Đăk HLơ
+
+**626**
+
+**Huyện Đăk Đoa**
+
+23677
+
+Thị trấn Đăk Đoa
+
+23680
+
+Xã Hà Đông
+
+23683
+
+Xã Đăk Sơmei
+
+23686
+
+Xã Hải Yang
+
+23689
+
+Xã Kon Gang
+
+23692
+
+Xã Hà Bầu
+
+23695
+
+Xã Nam Yang
+
+23698
+
+Xã K' Dang
+
+23701
+
+Xã H' Neng
+
+23704
+
+Xã Tân Bình
+
+23707
+
+Xã Glar
+
+23710
+
+Xã A Dơk
+
+23713
+
+Xã Trang
+
+23716
+
+Xã Ia Pết
+
+23719
+
+Xã Ia Băng
+
+**627**
+
+**Huyện Chư Păh**
+
+23722
+
+Thị trấn Phú Hòa
+
+23725
+
+Xã Hà Tây
+
+23728
+
+Xã Ia Khươl
+
+23731
+
+Xã Ia Phí
+
+23734
+
+Xã Ia Ly
+
+23737
+
+Xã Ia Mơ Nông
+
+23740
+
+Xã Đăk Tơ Ver
+
+23743
+
+Xã Hòa Phú
+
+23746
+
+Xã Chư Đăng Ya
+
+23749
+
+Xã Ia Ka
+
+23752
+
+Xã Ia Nhin
+
+23755
+
+Xã Nghĩa Hòa
+
+23758
+
+Xã Chư Jôr
+
+23761
+
+Xã Nghĩa Hưng
+
+**628**
+
+**Huyện Ia Grai**
+
+23764
+
+Thị trấn Ia Kha
+
+23767
+
+Xã Ia Sao
+
+23770
+
+Xã Ia Hrung
+
+23773
+
+Xã Ia Khai
+
+23776
+
+Xã Ia KRai
+
+23779
+
+Xã Ia Tô
+
+23782
+
+Xã Ia O
+
+23785
+
+Xã Ia Dêr
+
+23788
+
+Xã Ia Chia
+
+23791
+
+Xã Ia Pếch
+
+**629**
+
+**Huyện Mang Yang**
+
+23794
+
+Thị trấn Kon Dơng
+
+23797
+
+Xã Ayun
+
+23800
+
+Xã Hà Ra
+
+23803
+
+Xã Đăk Yă
+
+23806
+
+Xã Đăk Djrăng
+
+23809
+
+Xã Lơ Pang
+
+23812
+
+Xã Kon Thụp
+
+23815
+
+Xã Đê Ar
+
+23818
+
+Xã Kon Chiêng
+
+23821
+
+Xã Đăk Trôi
+
+**630**
+
+**Huyện Kông Chro**
+
+23824
+
+Thị trấn Kông Chro
+
+23827
+
+Xã Chư Krêy
+
+23830
+
+Xã An Trung
+
+23833
+
+Xã Kông Yang
+
+23836
+
+Xã Đăk Tơ Pang
+
+23839
+
+Xã SRó
+
+23842
+
+Xã Đăk Song
+
+23845
+
+Xã Yang Trung
+
+23848
+
+Xã Ya Ma
+
+23851
+
+Xã Chơ Long
+
+23854
+
+Xã Yang Nam
+
+**631**
+
+**Huyện Đức Cơ**
+
+23857
+
+Thị trấn Chư Ty
+
+23860
+
+Xã Ia Dơk
+
+23863
+
+Xã Ia Krêl
+
+23866
+
+Xã Ia Din
+
+23869
+
+Xã Ia Kla
+
+23872
+
+Xã Ia Dom
+
+23875
+
+Xã Ia Lang
+
+23878
+
+Xã Ia Kriêng
+
+23881
+
+Xã Ia Pnôn
+
+23884
+
+Xã Ia Nan
+
+**632**
+
+**Huyện Chư Prông**
+
+23887
+
+Thị trấn Chư Prông
+
+23890
+
+Xã Bình Giáo
+
+23893
+
+Xã Ia Drăng
+
+23896
+
+Xã Thăng Hưng
+
+23899
+
+Xã Bàu Cạn
+
+23902
+
+Xã Ia Phìn
+
+23905
+
+Xã Ia Băng
+
+23908
+
+Xã Ia Tôr
+
+23911
+
+Xã Ia Boòng
+
+23914
+
+Xã Ia O
+
+23917
+
+Xã Ia Púch
+
+23920
+
+Xã Ia Me
+
+23923
+
+Xã Ia Vê
+
+23926
+
+Xã Ia Pia
+
+23929
+
+Xã Ia Ga
+
+23932
+
+Xã Ia Lâu
+
+23935
+
+Xã Ia Piơr
+
+23938
+
+Xã Ia Mơ
+
+**633**
+
+**Huyện Chư Sê**
+
+23941
+
+Thị trấn Chư Sê
+
+23944
+
+Xã Ia Tiêm
+
+23947
+
+Xã Bờ Ngoong
+
+23950
+
+Xã Ia Glai
+
+23953
+
+Xã AL Bá
+
+23956
+
+Xã AYun
+
+23959
+
+Xã Ia HLốp
+
+23962
+
+Xã Ia Blang
+
+23965
+
+Xã Dun
+
+23968
+
+Xã H Bông
+
+23971
+
+Xã Ia Hrú
+
+23974
+
+Xã Ia Dreng
+
+23977
+
+Xã Ia Ko
+
+23980
+
+Xã Nhơn Hòa
+
+23983
+
+Xã Ia Phang
+
+23986
+
+Xã Ia Le
+
+**634**
+
+**Huyện Đăk Pơ**
+
+23989
+
+Xã Hà Tam
+
+23992
+
+Xã An Thành
+
+23995
+
+Xã Đak Pơ
+
+23998
+
+Xã Yang Bắc
+
+24001
+
+Xã Cư An
+
+24004
+
+Xã Tân An
+
+24007
+
+Xã Phú An
+
+24010
+
+Xã Ya Hội
+
+**635**
+
+**Huyện Ia Pa**
+
+24013
+
+Xã Pờ Tó
+
+24016
+
+Xã Chư Răng
+
+24019
+
+Xã Ia KDăm
+
+24022
+
+Xã Kim Tân
+
+24025
+
+Xã Chư Mố
+
+24028
+
+Xã Ia Tul
+
+24031
+
+Xã Ia Ma Rơn
+
+24034
+
+Xã Ia Broăi
+
+24037
+
+Xã Ia Trok
+
+**636**
+
+**Huyện Ayun Pa**
+
+24040
+
+Thị trấn Ayun Pa
+
+24043
+
+Thị trấn Phú Thiện
+
+24046
+
+Xã Chư A Thai
+
+24049
+
+Xã Ia Ke
+
+24052
+
+Xã Ia Sol
+
+24055
+
+Xã Ia Piar
+
+24058
+
+Xã Ia Peng
+
+24061
+
+Xã Ia Hiao
+
+24064
+
+Xã Ia RBol
+
+24067
+
+Xã Ia Yeng
+
+24070
+
+Xã Ia RTô
+
+24073
+
+Xã Ia Sao
+
+**637**
+
+**Huyện Krông Pa**
+
+24076
+
+Thị trấn Phú Túc
+
+24079
+
+Xã Ia RSai
+
+24082
+
+Xã Ia RSươm
+
+24085
+
+Xã Chư Gu
+
+24088
+
+Xã Đất Bằng
+
+24091
+
+Xã Ia Mláh
+
+24094
+
+Xã Chư Drăng
+
+24097
+
+Xã Phú Cần
+
+24100
+
+Xã Ia HDreh
+
+24103
+
+Xã Ia RMok
+
+24106
+
+Xã Chư Ngọc
+
+24109
+
+Xã Uar
+
+24112
+
+Xã Chư Rcăm
+
+24115
+
+Xã Krông Năng
+
+66. TỈNH ĐĂK LĂK
+
+(Tổng số
+xã, phường, thị trấn: 165; xã: 139, phường: 13, thị trấn: 13)
+
+(Total
+number of communes, subdistricts, subtowns: 165)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**643**
+
+**Thành phố Buôn Ma Thuột**
+
+24118
+
+Phường Tân Lập
+
+24121
+
+Phường Tân Hòa
+
+24124
+
+Phường Tân An
+
+24127
+
+Phường Thống Nhất
+
+24130
+
+Phường Thành Nhất
+
+24133
+
+Phường Thắng Lợi
+
+24136
+
+Phường Tân Lợi
+
+24139
+
+Phường Thành Công
+
+24142
+
+Phường Tân Thành
+
+24145
+
+Phường Tân Tiến
+
+24148
+
+Phường Tự An
+
+24151
+
+Phường Ea Tam
+
+24154
+
+Phường Khánh Xuân
+
+24157
+
+Xã Hòa Thuận
+
+24160
+
+Xã Cư ÊBur
+
+24163
+
+Xã Ea Tu
+
+24166
+
+Xã Hòa Thắng
+
+24169
+
+Xã Ea Kao
+
+24172
+
+Xã Hòa Phú
+
+24175
+
+Xã Hòa Khánh
+
+24178
+
+Xã Hòa Xuân
+
+**645**
+
+**Huyện Ea H'leo**
+
+24181
+
+Thị trấn Ea Drăng
+
+24184
+
+Xã Ea H'leo
+
+24187
+
+Xã Ea Sol
+
+24190
+
+Xã Ea Ral
+
+24193
+
+Xã Ea Wy
+
+24196
+
+Xã Cư Mốt
+
+24199
+
+Xã Ea Hiao
+
+24202
+
+Xã Ea Khal
+
+24205
+
+Xã Dlê Yang
+
+24208
+
+Xã Ea Nam
+
+**646**
+
+**Huyện Ea Súp**
+
+24211
+
+Thị trấn Ea Súp
+
+24214
+
+Xã Ia Lốp
+
+24217
+
+Xã Ea Rốk
+
+24220
+
+Xã Ya Tờ Mốt
+
+24223
+
+Xã Ea Lê
+
+24226
+
+Xã Cư KBang
+
+24229
+
+Xã Ea Bung
+
+24232
+
+Xã Cư M'Lan
+
+**647**
+
+**Huyện Buôn Đôn**
+
+24235
+
+Xã Krông Na
+
+24238
+
+Xã Ea Huar
+
+24241
+
+Xã Ea Wer
+
+24244
+
+Xã Tân Hòa
+
+24247
+
+Xã Cuôr KNia
+
+24250
+
+Xã Ea Bar
+
+24253
+
+Xã Ea Nuôl
+
+**648**
+
+**Huyện Cư M'gar**
+
+24256
+
+Thị trấn Ea Pốk
+
+24259
+
+Thị trấn Quảng Phú
+
+24262
+
+Xã Quảng Tiến
+
+24265
+
+Xã Ea Kiết
+
+24268
+
+Xã Ea Tar
+
+24271
+
+Xã Cư Dliê M'nông
+
+24274
+
+Xã Ea H'đinh
+
+24277
+
+Xã Ea Tul
+
+24280
+
+Xã Ea KPam
+
+24283
+
+Xã Ea M'DRóh
+
+24286
+
+Xã Quảng Hiệp
+
+24289
+
+Xã Cư M'gar
+
+24292
+
+Xã Ea D'Rơng
+
+24295
+
+Xã Ea M'nang
+
+24298
+
+Xã Cư Suê
+
+24301
+
+Xã Cuor Đăng
+
+**649**
+
+**Huyện Krông Búk**
+
+24304
+
+Thị trấn Buôn Hồ
+
+24307
+
+Xã Cư Né
+
+24310
+
+Xã Chư KBô
+
+24313
+
+Xã Cư Pơng
+
+24316
+
+Xã Pơng Drang
+
+24319
+
+Xã Ea Ngai
+
+24322
+
+Xã Đoàn Kết
+
+24325
+
+Xã Ea Blang
+
+24328
+
+Xã Ea Drông
+
+24331
+
+Xã Thống Nhất
+
+24334
+
+Xã Ea Siên
+
+24337
+
+Xã Bình Thuận
+
+24340
+
+Xã Cư Bao
+
+**650**
+
+**Huyện Krông Năng**
+
+24343
+
+Thị trấn Krông Năng
+
+24346
+
+Xã ĐLiê Ya
+
+24349
+
+Xã Ea Tóh
+
+24352
+
+Xã Ea Tam
+
+24355
+
+Xã Phú Lộc
+
+24358
+
+Xã Tam Giang
+
+24361
+
+Xã Ea Hồ
+
+24364
+
+Xã Phú Xuân
+
+24367
+
+Xã Cư Klông
+
+24370
+
+Xã Ea Tân
+
+**651**
+
+**Huyện Ea Kar**
+
+24373
+
+Thị trấn Ea Kar
+
+24376
+
+Thị trấn Ea Knốp
+
+24379
+
+Xã Ea Sô
+
+24382
+
+Xã Xuân Phú
+
+24385
+
+Xã Cư Huê
+
+24388
+
+Xã Ea Tih
+
+24391
+
+Xã Ea Đar
+
+24394
+
+Xã Ea Kmút
+
+24397
+
+Xã Cư Ni
+
+24400
+
+Xã Ea Păn
+
+24403
+
+Xã Ea Ô
+
+24406
+
+Xã Cư Bông
+
+24409
+
+Xã Cư Jang
+
+**652**
+
+**Huyện M'Đrắk**
+
+24412
+
+Thị trấn M'Đrắk
+
+24415
+
+Xã Cư Prao
+
+24418
+
+Xã Ea Pil
+
+24421
+
+Xã Ea Lai
+
+24424
+
+Xã Ea H'MLay
+
+24427
+
+Xã Krông Jing
+
+24430
+
+Xã Ea M' Doal
+
+24433
+
+Xã Ea Riêng
+
+24436
+
+Xã Cư M'ta
+
+24439
+
+Xã Cư K Róa
+
+24442
+
+Xã KRông Á
+
+24445
+
+Xã Ea Trang
+
+**653**
+
+**Huyện Krông Bông**
+
+24448
+
+Thị trấn Krông Kmar
+
+24451
+
+Xã Dang Kang
+
+24454
+
+Xã Cư KTy
+
+24457
+
+Xã Hòa Thành
+
+24460
+
+Xã Hòa Tân
+
+24463
+
+Xã Hòa Phong
+
+24466
+
+Xã Hòa Lễ
+
+24469
+
+Xã Yang Reh
+
+24472
+
+Xã Ea Trul
+
+24475
+
+Xã Khuê Ngọc Điền
+
+24478
+
+Xã Cư Pui
+
+24481
+
+Xã Hòa Sơn
+
+24484
+
+Xã Cư Drăm
+
+24487
+
+Xã Yang Mao
+
+**654**
+
+**Huyện Krông Pắc**
+
+24490
+
+Thị trấn Phước An
+
+24493
+
+Xã KRông Búk
+
+24496
+
+Xã Ea Kly
+
+24499
+
+Xã Ea Kênh
+
+24502
+
+Xã Ea Phê
+
+24505
+
+Xã Ea KNuec
+
+24508
+
+Xã Ea Yông
+
+24511
+
+Xã Hòa An
+
+24514
+
+Xã Ea Kuăng
+
+24517
+
+Xã Hòa Đông
+
+24520
+
+Xã Ea Hiu
+
+24523
+
+Xã Hòa Tiến
+
+24526
+
+Xã Tân Tiến
+
+24529
+
+Xã Vụ Bổn
+
+24532
+
+Xã Ea Uy
+
+24535
+
+Xã Ea Yiêng
+
+**655**
+
+**Huyện Krông A Na**
+
+24538
+
+Thị trấn Buôn Trấp
+
+24541
+
+Xã Cư Ê Wi
+
+24544
+
+Xã Ea Ktur
+
+24547
+
+Xã Ea Tiêu
+
+24550
+
+Xã Ea BHốk
+
+24553
+
+Xã Ea Hu
+
+24556
+
+Xã Dray Sáp
+
+24559
+
+Xã Ea Na
+
+24562
+
+Xã Hòa Hiệp
+
+24565
+
+Xã Ea Bông
+
+24568
+
+Xã Băng A Drênh
+
+24571
+
+Xã Dur KMăl
+
+24574
+
+Xã Bình Hòa
+
+24577
+
+Xã Quảng Điền
+
+**656**
+
+**Huyện Lắk**
+
+24580
+
+Thị trấn Liên Sơn
+
+24583
+
+Xã Yang Tao
+
+24586
+
+Xã Bông Krang
+
+24589
+
+Xã Đắk Liêng
+
+24592
+
+Xã Buôn Triết
+
+24595
+
+Xã Buôn Tría
+
+24598
+
+Xã Đắk Phơi
+
+24601
+
+Xã Đắk Nuê
+
+24604
+
+Xã Krông Nô
+
+24607
+
+Xã Nam Ka
+
+24610
+
+Xã Ea R'Bin
+
+67. TỈNH ĐĂK NÔNG
+
+(Tổng số
+xã, phường, thị trấn: 52; xã: 47, phường: 0, thị trấn: 5)
+
+(Total
+number of communes, subdistricts, subtowns: 52)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**661**
+
+**Huyện Đắk Nông**
+
+24613
+
+Thị trấn Gia Nghĩa
+
+24616
+
+Xã Quảng Sơn
+
+24619
+
+Xã Quảng Thành
+
+24622
+
+Xã Đắk Ha
+
+24625
+
+Xã Đắk R'Măng
+
+24628
+
+Xã Đắk Nia
+
+24631
+
+Xã Quảng Khê
+
+24634
+
+Xã Đắk Plao
+
+24637
+
+Xã Đắk Som
+
+**662**
+
+**Huyện Cư Jút**
+
+24640
+
+Thị trấn Ea T'Ling
+
+24643
+
+Xã Đắk Wil
+
+24646
+
+Xã Ea Pô
+
+24649
+
+Xã Nam Dong
+
+24652
+
+Xã Đắk DRông
+
+24655
+
+Xã Tâm Thắng
+
+24658
+
+Xã Cư Knia
+
+24661
+
+Xã Trúc Sơn
+
+**663**
+
+**Huyện Đắk Mil**
+
+24664
+
+Thị trấn Đắk Mil
+
+24667
+
+Xã Đắk Lao
+
+24670
+
+Xã Đắk R'La
+
+24673
+
+Xã Đắk Gằn
+
+24676
+
+Xã Đức Mạnh
+
+24679
+
+Xã Đắk Sắk
+
+24682
+
+Xã Thuận An
+
+24685
+
+Xã Đức Minh
+
+**664**
+
+**Huyện Krông Nô**
+
+24688
+
+Thị trấn Đắk Mâm
+
+24691
+
+Xã Đắk Sôr
+
+24694
+
+Xã Buôn Choah
+
+24697
+
+Xã Nam Đà
+
+24700
+
+Xã Đắk Rồ
+
+24703
+
+Xã Nâm Nung
+
+24706
+
+Xã Đức Xuyên
+
+24709
+
+Xã Đắk Nang
+
+24712
+
+Xã Quảng Phú
+
+24715
+
+Xã Nâm N'Đir
+
+**665**
+
+**Huyện Đắk Song**
+
+24718
+
+Xã Đắk Môl
+
+24721
+
+Xã Đắk Song
+
+24724
+
+Xã Thuận Hạnh
+
+24727
+
+Xã Đắk Rung
+
+24730
+
+Xã Trường Xuân
+
+**666**
+
+**Huyện Đắk R'Lấp**
+
+24733
+
+Thị trấn Kiến Đức
+
+24736
+
+Xã Quảng Trực
+
+24739
+
+Xã Đắk Búk So
+
+24742
+
+Xã Đắk R'Tíh
+
+24745
+
+Xã Quảng Tín
+
+24748
+
+Xã Quảng Tân
+
+24751
+
+Xã Nhân Cơ
+
+24754
+
+Xã Kiến Thành
+
+24757
+
+Xã Đạo Nghĩa
+
+24760
+
+Xã Đắk Sin
+
+24763
+
+Xã Đắk Ru
+
+24766
+
+Xã Nhân Đạo
+
+68. TỈNH LÂM ĐỒNG
+
+(Tổng số
+xã, phường, thị trấn: 142; xã: 113, phường: 18, thị trấn: 11)
+
+(Total
+number of communes, subdistricts, subtowns: 142)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**672**
+
+**Thành phố Đà Lạt**
+
+24769
+
+Phường 7
+
+24772
+
+Phường 8
+
+24775
+
+Phường 12
+
+24778
+
+Phường 9
+
+24781
+
+Phường 2
+
+24784
+
+Phường 1
+
+24787
+
+Phường 6
+
+24790
+
+Phường 5
+
+24793
+
+Phường 4
+
+24796
+
+Phường 10
+
+24799
+
+Phường 11
+
+24802
+
+Phường 3
+
+24805
+
+Xã Xuân Thọ
+
+24808
+
+Xã Tà Nung
+
+24811
+
+Xã Xuân Trường
+
+**673**
+
+**Thị xã Bảo Lộc**
+
+24814
+
+Phường Lộc Phát
+
+24817
+
+Phường Lộc Tiến
+
+24820
+
+Phường 2
+
+24823
+
+Phường 1
+
+24826
+
+Phường B'lao
+
+24829
+
+Phường Lộc Sơn
+
+24832
+
+Xã Đạm Bri
+
+24835
+
+Xã Lộc Thanh
+
+24838
+
+Xã Lộc Nga
+
+24841
+
+Xã Lộc Châu
+
+24844
+
+Xã Đại Lào
+
+**675**
+
+**Huyện Lạc Dương**
+
+24847
+
+Xã Đạ Chais
+
+24850
+
+Xã Đưng KNớ
+
+24853
+
+Xã Đạ Tông
+
+24856
+
+Xã Đạ Long
+
+24859
+
+Xã Đam Rong
+
+24862
+
+Xã Lát
+
+24865
+
+Xã Đạ Sar
+
+**676**
+
+**Huyện Lâm Hà**
+
+24868
+
+Thị trấn Nam Ban
+
+24871
+
+Thị trấn Đinh Văn
+
+24874
+
+Xã Liêng S'Roin
+
+24877
+
+Xã Rô Men
+
+24880
+
+Xã Phú Sơn
+
+24883
+
+Xã Phi Tô
+
+24886
+
+Xã Phi Liêng
+
+24889
+
+Xã Đạ KNàng
+
+24892
+
+Xã Mê Linh
+
+24895
+
+Xã Đạ Đờn
+
+24898
+
+Xã Phúc Thọ
+
+24901
+
+Xã Đông Thanh
+
+24904
+
+Xã Gia Lâm
+
+24907
+
+Xã Tân Thanh
+
+24910
+
+Xã Tân Văn
+
+24913
+
+Xã Hoài Đức
+
+24916
+
+Xã Tân Hà
+
+24919
+
+Xã Liên Hà
+
+24922
+
+Xã Đan Phượng
+
+24925
+
+Xã Nam Hà
+
+**677**
+
+**Huyện Đơn Dương**
+
+24928
+
+Thị trấn D'Ran
+
+24931
+
+Thị trấn Thạnh Mỹ
+
+24934
+
+Xã Lạc Xuân
+
+24937
+
+Xã Đạ Ròn
+
+24940
+
+Xã Lạc Lâm
+
+24943
+
+Xã Ka Đô
+
+24946
+
+Xã Quảng Lập
+
+24949
+
+Xã Ka Đơn
+
+24952
+
+Xã Tu Tra
+
+24955
+
+Xã Pró
+
+**678**
+
+**Huyện Đức Trọng**
+
+24958
+
+Thị trấn Liên Nghĩa
+
+24961
+
+Xã Hiệp An
+
+24964
+
+Xã Liên Hiệp
+
+24967
+
+Xã Hiệp Thạnh
+
+24970
+
+Xã Bình Thạnh
+
+24973
+
+Xã N'Thol Hạ
+
+24976
+
+Xã Tân Hội
+
+24979
+
+Xã Tân Thành
+
+24982
+
+Xã Phú Hội
+
+24985
+
+Xã Ninh Gia
+
+24988
+
+Xã Tà Năng
+
+24991
+
+Xã Tà Hine
+
+24994
+
+Xã Đà Loan
+
+24997
+
+Xã Ninh Loan
+
+**679**
+
+**Huyện Di Linh**
+
+25000
+
+Thị trấn Di Linh
+
+25003
+
+Xã Đinh Trang Thượng
+
+25006
+
+Xã Tân Thượng
+
+25009
+
+Xã Tân Châu
+
+25012
+
+Xã Tân Nghĩa
+
+25015
+
+Xã Đinh Lạc
+
+25018
+
+Xã Gia Hiệp
+
+25021
+
+Xã Tam Bố
+
+25024
+
+Xã Đinh Trang Hòa
+
+25027
+
+Xã Liên Đầm
+
+25030
+
+Xã Gung Ré
+
+25033
+
+Xã Bảo Thuận
+
+25036
+
+Xã Hòa Ninh
+
+25039
+
+Xã Hòa Trung
+
+25042
+
+Xã Hòa Nam
+
+25045
+
+Xã Hòa Bắc
+
+25048
+
+Xã Sơn Điền
+
+25051
+
+Xã Gia Bắc
+
+**680**
+
+**Huyện Bảo Lâm**
+
+25054
+
+Thị trấn Lộc Thắng
+
+25057
+
+Xã Lộc Bảo
+
+25060
+
+Xã Lộc Lâm
+
+25063
+
+Xã Lộc Bắc
+
+25066
+
+Xã Lộc Phú
+
+25069
+
+Xã B' Lá
+
+25072
+
+Xã Lộc Ngãi
+
+25075
+
+Xã Lộc Quảng
+
+25078
+
+Xã Lộc Tân
+
+25081
+
+Xã Lộc Đức
+
+25084
+
+Xã Lộc An
+
+25087
+
+Xã Lộc Thành
+
+25093
+
+Xã Lộc Nam
+
+**681**
+
+**Huyện Đạ Huoai**
+
+25096
+
+Thị trấn Đạ M'ri
+
+25099
+
+Thị trấn Ma Đa Guôi
+
+25102
+
+Xã Đạ M'ri
+
+25105
+
+Xã Hà Lâm
+
+25108
+
+Xã Đạ Tồn
+
+25111
+
+Xã Đạ Oai
+
+25114
+
+Xã Đạ Ploa
+
+25117
+
+Xã Ma Đa Guôi
+
+25120
+
+Xã Đoàn Kết
+
+25123
+
+Xã Phước Lộc
+
+**682**
+
+**Huyện Đạ Tẻh**
+
+25126
+
+Thị trấn Đạ Tẻh
+
+25129
+
+Xã An Nhơn
+
+25132
+
+Xã Quốc Oai
+
+25135
+
+Xã Mỹ Đức
+
+25138
+
+Xã Quảng Trị
+
+25141
+
+Xã Đạ Lây
+
+25144
+
+Xã Hương Lâm
+
+25147
+
+Xã Triệu Hải
+
+25150
+
+Xã Hà Đông
+
+25153
+
+Xã Đạ Kho
+
+25156
+
+Xã Đạ Pal
+
+**683**
+
+**Huyện Cát Tiên**
+
+25159
+
+Thị trấn Đồng Nai
+
+25162
+
+Xã Tiên Hoàng
+
+25165
+
+Xã Phước Cát 2
+
+25168
+
+Xã Gia Viễn
+
+25171
+
+Xã Nam Ninh
+
+25174
+
+Xã Mỹ Lâm
+
+25177
+
+Xã Tư Nghĩa
+
+25180
+
+Xã Phước Cát 1
+
+25183
+
+Xã Đức Phổ
+
+25186
+
+Xã Phù Mỹ
+
+25189
+
+Xã Quảng Ngãi
+
+25192
+
+Xã Đồng Nai Thượng
+
+70. TỈNH BÌNH PHƯỚC
+
+(Tổng số
+xã, phường, thị trấn: 87; xã: 76, phường: 4, thị trấn: 7)
+
+(Total
+number of communes, subdistricts, subtowns: 87)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**689**
+
+**Thị xã Đồng Xoài**
+
+25195
+
+Phường Tân Phú
+
+25198
+
+Phường Tân Đồng
+
+25201
+
+Phường Tân Bình
+
+25204
+
+Phường Tân Xuân
+
+25207
+
+Xã Tân Thành
+
+25210
+
+Xã Tiến Thành
+
+25213
+
+Xã Tiến Hưng
+
+**691**
+
+**Huyện Phước Long**
+
+25216
+
+Thị trấn Thác Mơ
+
+25219
+
+Thị trấn Phước Bình
+
+25222
+
+Xã Bù Gia Mập
+
+25225
+
+Xã Đak Ơ
+
+25228
+
+Xã Đức Hạnh
+
+25231
+
+Xã Đa Kia
+
+25234
+
+Xã Bình Thắng
+
+25237
+
+Xã Sơn Giang
+
+25240
+
+Xã Long Bình
+
+25243
+
+Xã Bình Phước
+
+25246
+
+Xã Long Hưng
+
+25249
+
+Xã Phước Tín
+
+25252
+
+Xã Bù Nho
+
+25255
+
+Xã Long Hà
+
+25258
+
+Xã Long Tân
+
+25261
+
+Xã Phú Trung
+
+25264
+
+Xã Phú Riềng
+
+25267
+
+Xã Phú Nghĩa
+
+**692**
+
+**Huyện Lộc Ninh**
+
+25270
+
+Thị trấn Lộc Ninh
+
+25273
+
+Xã Lộc Hòa
+
+25276
+
+Xã Lộc An
+
+25279
+
+Xã Lộc Tấn
+
+25282
+
+Xã Lộc Hiệp
+
+25285
+
+Xã Lộc Thiện
+
+25288
+
+Xã Lộc Thuận
+
+25291
+
+Xã Lộc Quang
+
+25294
+
+Xã Lộc Thành
+
+25297
+
+Xã Lộc Thái
+
+25300
+
+Xã Lộc Điền
+
+25303
+
+Xã Lộc Hưng
+
+25306
+
+Xã Lộc Khánh
+
+**693**
+
+**Huyện Bù Đốp**
+
+25309
+
+Xã Hưng Phước
+
+25312
+
+Xã Thiện Hưng
+
+25315
+
+Xã Thanh Hòa
+
+25318
+
+Xã Tân Thành
+
+25321
+
+Xã Tân Tiến
+
+**694**
+
+**Huyện Bình Long**
+
+25324
+
+Thị trấn An Lộc
+
+25327
+
+Xã Thanh An
+
+25330
+
+Xã An Khương
+
+25333
+
+Xã Thanh Lương
+
+25336
+
+Xã Thanh Phú
+
+25339
+
+Xã An Phú
+
+25342
+
+Xã Tân Lợi
+
+25345
+
+Xã Tân Hưng
+
+25348
+
+Xã Minh Đức
+
+25351
+
+Xã Phước An
+
+25354
+
+Xã Thanh Bình
+
+25357
+
+Xã Tân Khai
+
+25360
+
+Xã Đồng Nơ
+
+**695**
+
+**Huyện Đồng Phù**
+
+25363
+
+Thị trấn Tân Phú
+
+25366
+
+Xã Thuận Lợi
+
+25369
+
+Xã Đồng Tâm
+
+25372
+
+Xã Tân Phước
+
+25375
+
+Xã Tân Hưng
+
+25378
+
+Xã Tân lợi
+
+25381
+
+Xã Tân Lập
+
+25384
+
+Xã Tân Hòa
+
+25387
+
+Xã Thuận Phú
+
+25390
+
+Xã Đồng Tiến
+
+25393
+
+Xã Tân Tiến
+
+**696**
+
+**Huyện Bù Đăng**
+
+25396
+
+Thị trấn Đức Phong
+
+25399
+
+Xã Đak Nhau
+
+25402
+
+Xã Thọ Sơn
+
+25405
+
+Xã Bom Bo
+
+25408
+
+Xã Minh Hưng
+
+25411
+
+Xã Đoàn Kết
+
+25414
+
+Xã Đồng Nai
+
+25417
+
+Xã Đức Liễu
+
+25420
+
+Xã Thống Nhất
+
+25423
+
+Xã Nghĩa Trung
+
+25426
+
+Xã Đăng Hà
+
+25429
+
+Xã Phước Sơn
+
+**697**
+
+**Huyện Chơn Thành**
+
+25432
+
+Thị trấn Chơn Thành
+
+25435
+
+Xã Minh Lập
+
+25438
+
+Xã Tân Quan
+
+25441
+
+Xã Minh Hưng
+
+25444
+
+Xã Minh Long
+
+25447
+
+Xã Minh Thành
+
+25450
+
+Xã Nha Bích
+
+25453
+
+Xã Minh Thắng
+
+72. TỈNH TÂY NINH
+
+(Tổng số
+xã, phường, thị trấn: 95; xã: 82, phường: 5, thị trấn: 8)
+
+(Total
+number of communes, Subdistricts, Subtowns: 95)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**703**
+
+**Thị xã Tây Ninh**
+
+25456
+
+Phường 1
+
+25459
+
+Phường 3
+
+25462
+
+Phường 4
+
+25465
+
+Phường Hiệp Ninh
+
+25468
+
+Phường 2
+
+25471
+
+Xã Thạnh Tân
+
+25474
+
+Xã Tân Bình
+
+25477
+
+Xã Bình Minh
+
+25480
+
+Xã Ninh Sơn
+
+25483
+
+Xã Ninh Thạnh
+
+**705**
+
+**Huyện Tân Biên**
+
+25486
+
+Thị trấn Tân Biên
+
+25489
+
+Xã Tân Lập
+
+25492
+
+Xã Thạnh Bắc
+
+25495
+
+Xã Tân Bình
+
+25498
+
+Xã Thạnh Bình
+
+25501
+
+Xã Thạnh Tây
+
+25504
+
+Xã Hòa Hiệp
+
+25507
+
+Xã Tân Phong
+
+25510
+
+Xã Mỏ Công
+
+25513
+
+Xã Trà Vong
+
+**706**
+
+**Huyện Tân Châu**
+
+25516
+
+Thị trấn Tân Châu
+
+25519
+
+Xã Tân Hà
+
+25522
+
+Xã Tân Đông
+
+25525
+
+Xã Tân Hội
+
+25528
+
+Xã Tân Hòa
+
+25531
+
+Xã Suối Ngô
+
+25534
+
+Xã Suối Dây
+
+25537
+
+Xã Tân Hiệp
+
+25540
+
+Xã Thạnh Đông
+
+25543
+
+Xã Tân Thành
+
+25546
+
+Xã Tân Phú
+
+25549
+
+Xã Tân Hưng
+
+**707**
+
+**Huyện Dương Minh Châu**
+
+25552
+
+Thị trấn Dương Minh Châu
+
+25555
+
+Xã Suối Đá
+
+25558
+
+Xã Phan
+
+25561
+
+Xã Phước Ninh
+
+25564
+
+Xã Phước Minh
+
+25567
+
+Xã Bàu Năng
+
+25570
+
+Xã Chà Là
+
+25573
+
+Xã Cầu Khởi
+
+25576
+
+Xã Bến Củi
+
+25579
+
+Xã Lộc Ninh
+
+25582
+
+Xã Truông Mít
+
+**708**
+
+**Huyện Châu Thành**
+
+25585
+
+Thị trấn Châu Thành
+
+25588
+
+Xã Hảo Đước
+
+25591
+
+Xã Phước Vinh
+
+25594
+
+Xã Đồng Khởi
+
+25597
+
+Xã Thái Bình
+
+25600
+
+Xã An Cơ
+
+25603
+
+Xã Biên Giới
+
+25606
+
+Xã Hòa Thạnh
+
+25609
+
+Xã Trí Bình
+
+25612
+
+Xã Hòa Hội
+
+25615
+
+Xã An Bình
+
+25618
+
+Xã Thanh Điền
+
+25621
+
+Xã Thành Long
+
+25624
+
+Xã Ninh Điền
+
+25627
+
+Xã Long Vĩnh
+
+**709**
+
+**Huyện Hòa Thành**
+
+25630
+
+Thị trấn Hòa Thành
+
+25633
+
+Xã Hiệp Tân
+
+25636
+
+Xã Long Thành Bắc
+
+25639
+
+Xã Trường Hòa
+
+25642
+
+Xã Trường Đông
+
+25645
+
+Xã Long Thành Trung
+
+25648
+
+Xã Trường Tây
+
+25651
+
+Xã Long Thành Nam
+
+**710**
+
+**Huyện Gò Dầu**
+
+25654
+
+Thị trấn Gò Dầu
+
+25657
+
+Xã Thạnh Đức
+
+25660
+
+Xã Cẩm Giang
+
+25663
+
+Xã Hiệp Thạnh
+
+25666
+
+Xã Bàu Đồn
+
+25669
+
+Xã Phước Thạnh
+
+25672
+
+Xã Phước Đông
+
+25675
+
+Xã Phước Trạch
+
+25678
+
+Xã Thanh Phước
+
+**711**
+
+**Huyện Bến Cầu**
+
+25681
+
+Thị trấn Bến Cầu
+
+25684
+
+Xã Long Chữ
+
+25687
+
+Xã Long Phước
+
+25690
+
+Xã Long Giang
+
+25693
+
+Xã Tiên Thuận
+
+25696
+
+Xã Long Khánh
+
+25699
+
+Xã Lợi Thuận
+
+25702
+
+Xã Long Thuận
+
+25705
+
+Xã An Thạnh
+
+**712**
+
+**Huyện Trảng Bàng**
+
+25708
+
+Thị trấn Trảng Bàng
+
+25711
+
+Xã Đôn Thuận
+
+25714
+
+Xã Hưng Thuận
+
+25717
+
+Xã Lộc Hưng
+
+25720
+
+Xã Gia Lộc
+
+25723
+
+Xã Gia Bình
+
+25726
+
+Xã Phước Lưu
+
+25729
+
+Xã Bình Thạnh
+
+25732
+
+Xã An Tịnh
+
+25735
+
+Xã An Hòa
+
+25738
+
+Xã Phước Chỉ
+
+74. TỈNH BÌNH DƯƠNG
+
+(Tổng Số
+xã, phường, thị trấn: 84; xã: 70, phường: 6, thị trấn: 8)
+
+(Total
+number of communes, subdistricts, subtowns: 84)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**718**
+
+**Thị xã Thủ Dầu Một**
+
+25741
+
+Phường Hiệp Thành
+
+25744
+
+Phường Phú Lợi
+
+25747
+
+Phường Phú Cường
+
+25750
+
+Phường Phú Hòa
+
+25753
+
+Phường Phú Thọ
+
+25756
+
+Phường Chánh Nghĩa
+
+25759
+
+Xã Định Hòa
+
+25762
+
+Xã Phú Mỹ
+
+25765
+
+Xã Tân An
+
+25768
+
+Xã Hiệp An
+
+25771
+
+Xã Tương Bình Hiệp
+
+25774
+
+Xã Chánh Mỹ
+
+**720**
+
+**Huyện Dầu tiếng**
+
+25777
+
+Thị trấn Dầu Tiếng
+
+25780
+
+Xã Minh Hòa
+
+25783
+
+Xã Minh Thạnh
+
+25786
+
+Xã Minh Tân
+
+25789
+
+Xã Định An
+
+25792
+
+Xã Long Hòa
+
+25795
+
+Xã Định Thành
+
+25798
+
+Xã Định Hiệp
+
+25801
+
+Xã An Lập
+
+25804
+
+Xã Long Tân
+
+25807
+
+Xã Thanh An
+
+25810
+
+Xã Thanh Tuyền
+
+**721**
+
+**Huyện Bến Cát**
+
+25813
+
+Thị trấn Mỹ Phước
+
+25816
+
+Xã Trừ Văn Thố
+
+25819
+
+Xã Cây Trường III
+
+25822
+
+Xã Lai Uyên
+
+25825
+
+Xã Tân Hưng
+
+25828
+
+Xã Long Nguyên
+
+25831
+
+Xã Hưng Hòa
+
+25834
+
+Xã Lai Hưng
+
+25837
+
+Xã Chánh Phú Hòa
+
+25840
+
+Xã An Điền
+
+25843
+
+Xã An Tây
+
+25846
+
+Xã Thới Hòa
+
+25849
+
+Xã Hòa Lợi
+
+25852
+
+Xã Tân Định
+
+25855
+
+Xã Phú An
+
+**722**
+
+**Huyện Phú Giáo**
+
+25858
+
+Thị trấn Phước Vĩnh
+
+25861
+
+Xã An Linh
+
+25864
+
+Xã Phước Sang
+
+25867
+
+Xã An Long
+
+25870
+
+Xã An Bình
+
+25873
+
+Xã Tân Hiệp
+
+25876
+
+Xã Tam Lập
+
+25879
+
+Xã Tân Long
+
+25882
+
+Xã Vĩnh Hòa
+
+25885
+
+Xã Phước Hòa
+
+**723**
+
+**Huyện Tân Uyên**
+
+25888
+
+Thị trấn Uyên Hưng
+
+25891
+
+Thị trấn Tân Phước Khánh
+
+25894
+
+Xã Tân Định
+
+25897
+
+Xã Bình Mỹ
+
+25900
+
+Xã Tân Bình
+
+25903
+
+Xã Tân Lập
+
+25906
+
+Xã Tân Thành
+
+25909
+
+Xã Lạc An
+
+25912
+
+Xã Vĩnh Tân
+
+25915
+
+Xã Hội Nghĩa
+
+25918
+
+Xã Tân Mỹ
+
+25921
+
+Xã Khánh Bình
+
+25924
+
+Xã Phú Chánh
+
+25927
+
+Xã Thường Tân
+
+25930
+
+Xã Bạch Đằng
+
+25933
+
+Xã Tân Vĩnh Hiệp
+
+25936
+
+Xã Thạnh Phước
+
+25939
+
+Xã Thái Hòa
+
+**724**
+
+**Huyện Dĩ An**
+
+25942
+
+Thị trấn Dĩ An
+
+25945
+
+Xã Tân Bình
+
+25948
+
+Xã Tân Đông Hiệp
+
+25951
+
+Xã Bình An
+
+25954
+
+Xã Bình Thắng
+
+25957
+
+Xã Đông Hòa
+
+25960
+
+Xã An Bình
+
+**725**
+
+**Huyện Thuận An**
+
+25963
+
+Thị trấn An Thạnh
+
+25966
+
+Thị trấn Lái Thiêu
+
+25969
+
+Xã Bình Chuẩn
+
+25972
+
+Xã Thuận Giao
+
+25975
+
+Xã An Phú
+
+25978
+
+Xã Hưng Định
+
+25981
+
+Xã An Sơn
+
+25984
+
+Xã Bình Nhâm
+
+25987
+
+Xã Bình Hòa
+
+25990
+
+Xã Vĩnh Phú
+
+75. TỈNH
+ĐỒNG NAI
+
+(Tổng số
+xã, phường, thị trấn: 171; xã: 136, phường: 29, thị trấn: 6)
+
+(Total
+number of communes, subdistricts, subtowns: 171)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**731**
+
+**Thành phố Biên Hòa**
+
+25993
+
+Phường Trảng Dài
+
+25996
+
+Phường Tân Phong
+
+25999
+
+Phường Tân Biên
+
+26002
+
+Phường Hố Nai
+
+26005
+
+Phường Tân Hòa
+
+26008
+
+Phường Tân Hiệp
+
+26011
+
+Phường Bửu Long
+
+26014
+
+Phường Tân Tiến
+
+26017
+
+Phường Tam Hiệp
+
+26020
+
+Phường Long Bình
+
+26023
+
+Phường Quang Vinh
+
+26026
+
+Phường Tân Mai
+
+26029
+
+Phường Thống Nhất
+
+26032
+
+Phường Trung Dũng
+
+26035
+
+Phường Tam Hòa
+
+26038
+
+Phường Hòa Bình
+
+26041
+
+Phường Quyết Thắng
+
+26044
+
+Phường Thanh Bình
+
+26047
+
+Phường Bình Đa
+
+26050
+
+Phường An Bình
+
+26053
+
+Phường Bửu Hòa
+
+26056
+
+Phường Long Bình Tân
+
+26059
+
+Phường Tân Vạn
+
+26062
+
+Xã Tân Hạnh
+
+26065
+
+Xã Hiệp Hòa
+
+26068
+
+Xã Hóa An
+
+**732**
+
+**Thị xã Long Khánh**
+
+26071
+
+Phường Xuân Trung
+
+26074
+
+Phường Xuân Thanh
+
+26077
+
+Phường Xuân Bình
+
+26080
+
+Phường Xuân An
+
+26083
+
+Phường Xuân Hòa
+
+26086
+
+Phường Phú Bình
+
+26089
+
+Xã Bình Lộc
+
+26092
+
+Xã Bảo Quang
+
+26095
+
+Xã Suối Tre
+
+26098
+
+Xã Bảo Vinh
+
+26101
+
+Xã Xuân Lập
+
+26104
+
+Xã Bàu Sen
+
+26107
+
+Xã Bàu Trâm
+
+26110
+
+Xã Xuân Tân
+
+26113
+
+Xã Hàng Gòn
+
+**734**
+
+**Huyện Tân Phú**
+
+26116
+
+Thị trấn Tân Phú
+
+26119
+
+Xã Dak Lua
+
+26122
+
+Xã Nam Cát Tiên
+
+26125
+
+Xã Phú An
+
+26128
+
+Xã Núi Tượng
+
+26131
+
+Xã Tà Lài
+
+26134
+
+Xã Phú Lập
+
+26137
+
+Xã Phú Sơn
+
+26140
+
+Xã Phú Thịnh
+
+26143
+
+Xã Thanh Sơn
+
+26146
+
+Xã Phú Trung
+
+26149
+
+Xã Phú Xuân
+
+26152
+
+Xã Phú Lộc
+
+26155
+
+Xã Phú Lâm
+
+26158
+
+Xã Phú Bình
+
+26161
+
+Xã Phú Thanh
+
+26164
+
+Xã Trà Cổ
+
+26167
+
+Xã Phú Điền
+
+**735**
+
+**Huyện Vĩnh Cửu**
+
+26170
+
+Thị trấn Vĩnh An
+
+26173
+
+Xã Phú Lý
+
+26176
+
+Xã Trị An
+
+26179
+
+Xã Tân An
+
+26182
+
+Xã Vĩnh Tân
+
+26185
+
+Xã Bình Lợi
+
+26188
+
+Xã Thạnh Phú
+
+26191
+
+Xã Thiện Tân
+
+26194
+
+Xã Tân Bình
+
+26197
+
+Xã Bình Hòa
+
+26200
+
+Xã Mã Đà
+
+26203
+
+Xã Hiếu Liêm
+
+**736**
+
+**Huyện Định Quán**
+
+26206
+
+Thị trấn Định Quán
+
+26209
+
+Xã Thanh Sơn
+
+26212
+
+Xã Phú Tân
+
+26215
+
+Xã Phú Vinh
+
+26218
+
+Xã Phú Lợi
+
+26221
+
+Xã Phú Hòa
+
+26224
+
+Xã Ngọc Định
+
+26227
+
+Xã La Ngà
+
+26230
+
+Xã Gia Canh
+
+26233
+
+Xã Phú Ngọc
+
+26236
+
+Xã Phú Cường
+
+26239
+
+Xã Túc Trưng
+
+26242
+
+Xã Phú Túc
+
+26245
+
+Xã Suối Nho
+
+**737**
+
+**Huyện Trảng Bom**
+
+26248
+
+Thị trấn Trảng Bom
+
+26251
+
+Xã Thanh Bình
+
+26254
+
+Xã Cây Gáo
+
+26257
+
+Xã Bàu Hàm
+
+26260
+
+Xã Sông Thao
+
+26263
+
+Xã Sông Trầu
+
+26266
+
+Xã Đông Hòa
+
+26269
+
+Xã Bắc Sơn
+
+26272
+
+Xã Hố Nai 3
+
+26275
+
+Xã Tây Hòa
+
+26278
+
+Xã Bình Minh
+
+26281
+
+Xã Trung Hòa
+
+26284
+
+Xã Đồi 61
+
+26287
+
+Xã Hưng Thịnh
+
+26290
+
+Xã Quảng Tiến
+
+26293
+
+Xã Giang Điền
+
+26296
+
+Xã An Viễn
+
+**738**
+
+**Huyện Thống Nhất**
+
+26299
+
+Xã Gia Tân 1
+
+26302
+
+Xã Gia Tân 2
+
+26305
+
+Xã Gia Tân 3
+
+26308
+
+Xã Gia Kiệm
+
+26311
+
+Xã Quang Trung
+
+26314
+
+Xã Bàu Hàm 2
+
+26317
+
+Xã Hưng Lộc
+
+26320
+
+Xã Lộ 25
+
+26323
+
+Xã Xuân Thiện
+
+26326
+
+Xã Xuân Thạnh
+
+**739**
+
+**Huyện Cẩm Mỹ**
+
+26329
+
+Xã Sông Nhạn
+
+26332
+
+Xã Xuân Quế
+
+26335
+
+Xã Nhân Nghĩa
+
+26338
+
+Xã Xuân Đường
+
+26341
+
+Xã Long Giao
+
+26344
+
+Xã Xuân Mỹ
+
+26347
+
+Xã Thừa Đức
+
+26350
+
+Xã Bảo Bình
+
+26353
+
+Xã Xuân Bảo
+
+26356
+
+Xã Xuân Tây
+
+26359
+
+Xã Xuân Đông
+
+26362
+
+Xã Sông RRay
+
+26365
+
+Xã Lâm San
+
+**740**
+
+**Huyện Long Thành**
+
+26368
+
+Thị trấn Long Thành
+
+26371
+
+Xã An Hòa
+
+26374
+
+Xã Tam Phước
+
+26377
+
+Xã Phước Tân
+
+26380
+
+Xã Long Hưng
+
+26383
+
+Xã An Phước
+
+26386
+
+Xã Bình An
+
+26389
+
+Xã Long Đức
+
+26392
+
+Xã Lộc An
+
+26395
+
+Xã Bình Sơn
+
+26398
+
+Xã Tam An
+
+26401
+
+Xã Cẩm Đường
+
+26404
+
+Xã Long An
+
+26407
+
+Xã Suối Trầu
+
+26410
+
+Xã Bàu Cạn
+
+26413
+
+Xã Long Phước
+
+26416
+
+Xã Phước Bình
+
+26419
+
+Xã Tân Hiệp
+
+26422
+
+Xã Phước Thái
+
+**741**
+
+**Huyện Xuân Lộc**
+
+26425
+
+Thị trấn Gia RRay
+
+26428
+
+Xã Xuân Bắc
+
+26431
+
+Xã Suối Cao
+
+26434
+
+Xã Xuân Thành
+
+26437
+
+Xã Xuân Thọ
+
+26440
+
+Xã Xuân Trường
+
+26443
+
+Xã Xuân Hòa
+
+26446
+
+Xã Xuân Hưng
+
+26449
+
+Xã Xuân Tâm
+
+26452
+
+Xã Suối Cát
+
+26455
+
+Xã Xuân Hiệp
+
+26458
+
+Xã Xuân Phú
+
+26461
+
+Xã Xuân Định
+
+26464
+
+Xã Bảo Hòa
+
+26467
+
+Xã Lang Minh
+
+**742**
+
+**Huyện Nhơn Trạch**
+
+26470
+
+Xã Phước Thiền
+
+26473
+
+Xã Long Tân
+
+26476
+
+Xã Đại Phước
+
+26479
+
+Xã Hiệp Phước
+
+26482
+
+Xã Phú Hữu
+
+26485
+
+Xã Phú Hội
+
+26488
+
+Xã Phú Thạnh
+
+26491
+
+Xã Phú Đông
+
+26494
+
+Xã Long Thọ
+
+26497
+
+Xã Vĩnh Thanh
+
+26500
+
+Xã Phước Khánh
+
+26503
+
+Xã Phước An
+
+77. TỈNH BÀ RỊA - VŨNG TÀU
+
+(Tổng số
+xã, phường, thị trấn: 76; xã: 51, phường: 20, thị trấn: 5)
+
+(Total
+number of communes, subdistricts, subtowns: 76)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**747**
+
+**Thành phố Vũng Tầu**
+
+26506
+
+Phường 1
+
+26509
+
+Phường 2
+
+26512
+
+Phường 3
+
+26515
+
+Phường 4
+
+26518
+
+Phường 5
+
+26521
+
+Phường 6
+
+26524
+
+Phường 7
+
+26527
+
+Phường 8
+
+26530
+
+Phường 9
+
+26533
+
+Phường Thắng Nhất
+
+26536
+
+Phường 10
+
+26539
+
+Phường 11
+
+26542
+
+Phường 12
+
+26545
+
+Xã Long Sơn
+
+**748**
+
+**Thị xã Bà RRịa**
+
+26548
+
+Phường Phước Hưng
+
+26551
+
+Phường Phước Hiệp
+
+26554
+
+Phường Phước Nguyên
+
+26557
+
+Phường Long Toàn
+
+26560
+
+Phường Phước Trung
+
+26563
+
+Phường Long Hương
+
+26566
+
+Phường Kim Dinh
+
+26569
+
+Xã Long Phước
+
+26572
+
+Xã Hòa Long
+
+**750**
+
+**Huyện Châu Đức**
+
+26575
+
+Thị trấn Ngãi Giao
+
+26578
+
+Xã Bình Ba
+
+26581
+
+Xã Suối Nghệ
+
+26584
+
+Xã Xuân Sơn
+
+26587
+
+Xã Sơn Bình
+
+26590
+
+Xã Bình Giã
+
+26593
+
+Xã Bình Trung
+
+26596
+
+Xã Xà Bang
+
+26599
+
+Xã Cù Bị
+
+26602
+
+Xã Láng Lớn
+
+26605
+
+Xã Quảng Thành
+
+26608
+
+Xã Kim Long
+
+26611
+
+Xã Suối Rao
+
+26614
+
+Xã Đá Bạc
+
+26617
+
+Xã Nghĩa Thành
+
+**751**
+
+**Huyện Xuyên Mộc**
+
+26620
+
+Thị trấn Phước Bửu
+
+26623
+
+Xã Phước Thuận
+
+26626
+
+Xã Phước Tân
+
+26629
+
+Xã Xuyên Mộc
+
+26632
+
+Xã Bông Trang
+
+26635
+
+Xã Tân Lâm
+
+26638
+
+Xã Bàu Lâm
+
+26641
+
+Xã Hòa Bình
+
+26644
+
+Xã Hòa Hưng
+
+26647
+
+Xã Hòa Hiệp
+
+26650
+
+Xã Hòa Hội
+
+26653
+
+Xã Bưng Riềng
+
+26656
+
+Xã Bình Châu
+
+**752**
+
+**Huyện Long Điền**
+
+26659
+
+Thị trấn Long Điền
+
+26662
+
+Thị trấn Long Hải
+
+26665
+
+Xã An Ngãi
+
+26668
+
+Xã Tam Phước
+
+26671
+
+Xã An Nhứt
+
+26674
+
+Xã Phước Tỉnh
+
+26677
+
+Xã Phước Hưng
+
+**753**
+
+**Huyện Đất Đỏ**
+
+26680
+
+Xã Phước Thạnh
+
+26683
+
+Xã Phước Long Thọ
+
+26686
+
+Xã Phước Hội
+
+26689
+
+Xã Long Mỹ
+
+26692
+
+Xã Phước Hải
+
+26695
+
+Xã Long Tân
+
+26698
+
+Xã Láng Dài
+
+26701
+
+Xã Lộc An
+
+**754**
+
+**Huyện Tân Thành**
+
+26704
+
+Thị trấn Phú Mỹ
+
+26707
+
+Xã Tân Hòa
+
+26710
+
+Xã Tân Hải
+
+26713
+
+Xã Phước Hòa
+
+26716
+
+Xã Tân Phước
+
+26719
+
+Xã Mỹ Xuân
+
+26722
+
+Xã Sông Xoài
+
+26725
+
+Xã Hắc Dịch
+
+26728
+
+Xã Châu Pha
+
+26731
+
+Xã Tóc Tiên
+
+**755**
+
+**Huyện Côn Đảo**
+
+79. THÀNH PHỐ HỒ CHÍ MINH
+
+(Tổng số
+xã, phường, thị trấn: 317; xã: 58, phường: 254, thị trấn: 5)
+
+(Total
+number of communes, subdistricts, subtowns: 317)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**760**
+
+**Quận 1**
+
+26734
+
+Phường Tân Định
+
+26737
+
+Phường Đa Kao
+
+26740
+
+Phường Bến Nghé
+
+26743
+
+Phường Bến Thành
+
+26746
+
+Phường Nguyễn Thái Bình
+
+26749
+
+Phường Phạm Ngũ Lão
+
+26752
+
+Phường Cầu Ông Lãnh
+
+26755
+
+Phường Cô Giang
+
+26758
+
+Phường Nguyễn Cư Trinh
+
+26761
+
+Phường Cầu Kho
+
+**761**
+
+**Quận 12**
+
+26764
+
+Phường Thạnh Xuân
+
+26767
+
+Phường Thạnh Lộc
+
+26770
+
+Phường Hiệp Thành
+
+26773
+
+Phường Thới An
+
+26776
+
+Phường Tân Chánh Hiệp
+
+26779
+
+Phường An Phú Đông
+
+26782
+
+Phường Tân Thới Hiệp
+
+26785
+
+Phường Trung Mỹ Tây
+
+26788
+
+Phường Đông Hưng Thuận
+
+26791
+
+Phường Tân Thới Nhất
+
+**762**
+
+**Quận Thủ Đức**
+
+26794
+
+Phường Linh Xuân
+
+26797
+
+Phường Bình Chiểu
+
+26800
+
+Phường Linh Trung
+
+26803
+
+Phường Tam Bình
+
+26806
+
+Phường Tam Phú
+
+26809
+
+Phường Hiệp Bình Phước
+
+26812
+
+Phường Hiệp Bình Chánh
+
+26815
+
+Phường Linh Chiểu
+
+26818
+
+Phường Linh Tây
+
+26821
+
+Phường Linh Đông
+
+26824
+
+Phường Bình Thọ
+
+26827
+
+Phường Trường Thọ
+
+**763**
+
+**Quận 9**
+
+26830
+
+Phường Long Bình
+
+26833
+
+Phường Long Thạnh Mỹ
+
+26836
+
+Phường Tân Phú
+
+26839
+
+Phường Hiệp Phú
+
+26842
+
+Phường Tăng Nhơn Phú A
+
+26845
+
+Phường Tăng Nhơn Phú B
+
+26848
+
+Phường Phước Long B
+
+26851
+
+Phường Phước Long A
+
+26854
+
+Phường Trường Thạnh
+
+26857
+
+Phường Long Phước
+
+26860
+
+Phường Long Trường
+
+26863
+
+Phường Phước Bình
+
+26866
+
+Phường Phú Hữu
+
+**764**
+
+**Quận Gò Vấp**
+
+26869
+
+Phường 15
+
+26872
+
+Phường 13
+
+26875
+
+Phường 17
+
+26878
+
+Phường 16
+
+26881
+
+Phường 12
+
+26884
+
+Phường 10
+
+26887
+
+Phường 05
+
+26890
+
+Phường 07
+
+26893
+
+Phường 04
+
+26896
+
+Phường 01
+
+26899
+
+Phường 11
+
+26902
+
+Phường 03
+
+**765**
+
+**Quận Bình Thạnh**
+
+26905
+
+Phường 13
+
+26908
+
+Phường 11
+
+26911
+
+Phường 27
+
+26914
+
+Phường 26
+
+26917
+
+Phường 12
+
+26920
+
+Phường 25
+
+26923
+
+Phường 05
+
+26926
+
+Phường 07
+
+26929
+
+Phường 24
+
+26932
+
+Phường 06
+
+26935
+
+Phường 14
+
+26938
+
+Phường 15
+
+26941
+
+Phường 02
+
+26944
+
+Phường 01
+
+26947
+
+Phường 03
+
+26950
+
+Phường 17
+
+26953
+
+Phường 21
+
+26956
+
+Phường 22
+
+26959
+
+Phường 19
+
+26962
+
+Phường 28
+
+**766**
+
+**Quận Tân Bình**
+
+26965
+
+Phường 02
+
+26968
+
+Phường 04
+
+26971
+
+Phường 12
+
+26974
+
+Phường 13
+
+26977
+
+Phường 01
+
+26980
+
+Phường 03
+
+26983
+
+Phường 11
+
+26986
+
+Phường 07
+
+26989
+
+Phường 05
+
+26992
+
+Phường 10
+
+26995
+
+Phường 06
+
+26998
+
+Phường 08
+
+27001
+
+Phường 09
+
+27004
+
+Phường 14
+
+27007
+
+Phường 15
+
+**767**
+
+**Quận Tân Phú**
+
+27010
+
+Phường Tân Sơn Nhì
+
+27013
+
+Phường Tây Thạnh
+
+27016
+
+Phường Sơn Kỳ
+
+27019
+
+Phường Tân Quý
+
+27022
+
+Phường Tân Thành
+
+27025
+
+Phường Phú Thọ Hòa
+
+27028
+
+Phường PHú Thạnh
+
+27031
+
+Phường Phú Trung
+
+27034
+
+Phường Hòa Thạnh
+
+27037
+
+Phường Hiệp Tân
+
+27040
+
+Phường Tân Thới Hòa
+
+**768**
+
+**Quận Phú Nhuận**
+
+27043
+
+Phường 04
+
+27046
+
+Phường 05
+
+27049
+
+Phường 09
+
+27052
+
+Phường 07
+
+27055
+
+Phường 03
+
+27058
+
+Phường 01
+
+27061
+
+Phường 02
+
+27064
+
+Phường 08
+
+27067
+
+Phường 15
+
+27070
+
+Phường 10
+
+27073
+
+Phường 11
+
+27076
+
+Phường 17
+
+27079
+
+Phường 14
+
+27082
+
+Phường 12
+
+27085
+
+Phường 13
+
+**769**
+
+**Quận 2**
+
+27088
+
+Phường Thảo Điền
+
+27091
+
+Phường An Phú
+
+27094
+
+Phường Bình An
+
+27097
+
+Phường Bình Trưng Đông
+
+27100
+
+Phường Bình Trưng Tây
+
+27103
+
+Phường Bình Khánh
+
+27106
+
+Phường An Khánh
+
+27109
+
+Phường Cát Lái
+
+27112
+
+Phường Thạnh Mỹ Lợi
+
+27115
+
+Phường An Lợi Đông
+
+27118
+
+Phường Thủ Thiêm
+
+**770**
+
+**Quận 3**
+
+27121
+
+Phường 08
+
+27124
+
+Phường 07
+
+27127
+
+Phường 14
+
+27130
+
+Phường 12
+
+27133
+
+Phường 11
+
+27136
+
+Phường 13
+
+27139
+
+Phường 06
+
+27142
+
+Phường 09
+
+27145
+
+Phường 10
+
+27148
+
+Phường 04
+
+27151
+
+Phường 05
+
+27154
+
+Phường 03
+
+27157
+
+Phường 02
+
+27160
+
+Phường 01
+
+**771**
+
+**Quận 10**
+
+27163
+
+Phường 15
+
+27166
+
+Phường 13
+
+27169
+
+Phường 14
+
+27172
+
+Phường 12
+
+27175
+
+Phường 11
+
+27178
+
+Phường 10
+
+27181
+
+Phường 09
+
+27184
+
+Phường 01
+
+27187
+
+Phường 08
+
+27190
+
+Phường 02
+
+27193
+
+Phường 04
+
+27196
+
+Phường 07
+
+27199
+
+Phường 05
+
+27202
+
+Phường 06
+
+27205
+
+Phường 03
+
+**772**
+
+**Quận 11**
+
+27208
+
+Phường 15
+
+27211
+
+Phường 05
+
+27214
+
+Phường 14
+
+27217
+
+Phường 11
+
+27220
+
+Phường 03
+
+27223
+
+Phường 10
+
+27226
+
+Phường 13
+
+27229
+
+Phường 08
+
+27232
+
+Phường 09
+
+27235
+
+Phường 12
+
+27238
+
+Phường 07
+
+27241
+
+Phường 06
+
+27244
+
+Phường 04
+
+27247
+
+Phường 01
+
+27250
+
+Phường 02
+
+27253
+
+Phường 16
+
+**773**
+
+**Quận 4**
+
+27256
+
+Phường 12
+
+27259
+
+Phường 13
+
+27262
+
+Phường 09
+
+27265
+
+Phường 06
+
+27268
+
+Phường 08
+
+27271
+
+Phường 10
+
+27274
+
+Phường 05
+
+27277
+
+Phường 18
+
+27280
+
+Phường 14
+
+27283
+
+Phường 04
+
+27286
+
+Phường 03
+
+27289
+
+Phường 16
+
+27292
+
+Phường 02
+
+27295
+
+Phường 15
+
+27298
+
+Phường 01
+
+**774**
+
+**Quận 5**
+
+27301
+
+Phường 04
+
+27304
+
+Phường 09
+
+27307
+
+Phường 03
+
+27310
+
+Phường 12
+
+27313
+
+Phường 02
+
+27316
+
+Phường 08
+
+27319
+
+Phường 15
+
+27322
+
+Phường 07
+
+27325
+
+Phường 01
+
+27328
+
+Phường 11
+
+27331
+
+Phường 14
+
+27334
+
+Phường 05
+
+27337
+
+Phường 06
+
+27340
+
+Phường 10
+
+27343
+
+Phường 13
+
+**775**
+
+**Quận 6**
+
+27346
+
+Phường 14
+
+27349
+
+Phường 13
+
+27352
+
+Phường 09
+
+27355
+
+Phường 06
+
+27358
+
+Phường 12
+
+27361
+
+Phường 05
+
+27364
+
+Phường 11
+
+27367
+
+Phường 02
+
+27370
+
+Phường 01
+
+27373
+
+Phường 04
+
+27376
+
+Phường 08
+
+27379
+
+Phường 03
+
+27382
+
+Phường 07
+
+27385
+
+Phường 10
+
+**776**
+
+**Quận 8**
+
+27388
+
+Phường 08
+
+27391
+
+Phường 02
+
+27394
+
+Phường 01
+
+27397
+
+Phường 03
+
+27400
+
+Phường 11
+
+27403
+
+Phường 09
+
+27406
+
+Phường 10
+
+27409
+
+Phường 04
+
+27412
+
+Phường 13
+
+27415
+
+Phường 12
+
+27418
+
+Phường 05
+
+27421
+
+Phường 14
+
+27424
+
+Phường 06
+
+27427
+
+Phường 15
+
+27430
+
+Phường 16
+
+27433
+
+Phường 07
+
+**777**
+
+**Quận Bình Tân**
+
+27436
+
+Phường Bình Hưng Hòa
+
+27439
+
+Phường Binh Hưng Hòa A
+
+27442
+
+Phường Binh Hưng Hòa B
+
+27445
+
+Phường Bình Trị Đông
+
+27448
+
+Phường Bình Trị Đông A
+
+27451
+
+Phường Bình Trị Đông B
+
+27454
+
+Phường Tân Tạo
+
+27457
+
+Phường Tân Tạo A
+
+27460
+
+Phường An Lạc
+
+27463
+
+Phường An Lạc A
+
+**778**
+
+**Quận 7**
+
+27466
+
+Phường Tân Thuận Đông
+
+27469
+
+Phường Tân Thuận Tây
+
+27472
+
+Phường Tân Kiểng
+
+27475
+
+Phường Tân Hưng
+
+27478
+
+Phường Bình Thuận
+
+27481
+
+Phường Tân Quy
+
+27484
+
+Phường Phú Thuận
+
+27487
+
+Phường Tân Phú
+
+27490
+
+Phường Tân Phong
+
+27493
+
+Phường Phú Mỹ
+
+**783**
+
+**Huyện Củ Chi**
+
+27496
+
+Thị trấn Củ Chi
+
+27499
+
+Xã Phú Mỹ Hưng
+
+27502
+
+Xã An Phú
+
+27505
+
+Xã Trung Lập Thượng
+
+27508
+
+Xã An Nhơn Tây
+
+27511
+
+Xã Nhuận Đức
+
+27514
+
+Xã Phạm Văn Cội
+
+27517
+
+Xã Phú Hòa Đông
+
+27520
+
+Xã Trung Lập Hạ
+
+27523
+
+Xã Trung An
+
+27526
+
+Xã Phước Thạnh
+
+27529
+
+Xã Phước Hiệp
+
+27532
+
+Xã Tân An Hội
+
+27535
+
+Xã Phước Vĩnh An
+
+27538
+
+Xã Thái Mỹ
+
+27541
+
+Xã Tân Thạnh Tây
+
+27544
+
+Xã Hòa Phú
+
+27547
+
+Xã Tân Thạnh Đông
+
+27550
+
+Xã Bình Mỹ
+
+27553
+
+Xã Tân Phú Trung
+
+27556
+
+Xã Tân Thông Hội
+
+**784**
+
+**Huyện Hóc Môn**
+
+27559
+
+Thị trấn Hóc Môn
+
+27562
+
+Xã Tân Hiệp
+
+27565
+
+Xã Nhị Bình
+
+27568
+
+Xã Đông Thạnh
+
+27571
+
+Xã Tân Thới Nhì
+
+27574
+
+Xã Thới Tam Thôn
+
+27577
+
+Xã Xuân Thới Sơn
+
+27580
+
+Xã Tân Xuân
+
+27583
+
+Xã Xuân Thới Đông
+
+27586
+
+Xã Trung Chánh
+
+27589
+
+Xã Xuân Thới Thượng
+
+27592
+
+Xã Bà Điểm
+
+**785**
+
+**Huyện Bình Chánh**
+
+27595
+
+Thị trấn Tân Túc
+
+27598
+
+Xã Phạm Văn Hai
+
+27601
+
+Xã Vĩnh Lộc A
+
+27604
+
+Xã Vĩnh Lộc B
+
+27607
+
+Xã Bình Lợi
+
+27610
+
+Xã Lê Minh Xuân
+
+27613
+
+Xã Tân Nhựt
+
+27616
+
+Xã Tân Kiên
+
+27619
+
+Xã Bình Hưng
+
+27622
+
+Xã Phong Phú
+
+27625
+
+Xã An Phú Tây
+
+27628
+
+Xã Hưng Long
+
+27631
+
+Xã Đa Phước
+
+27634
+
+Xã Tân Quý Tây
+
+27637
+
+Xã Bình Chánh
+
+27640
+
+Xã Quy Đức
+
+**786**
+
+**Huyện Nhà Bè**
+
+27643
+
+Thị trấn Nhà Bè
+
+27646
+
+Xã Phước Kiển
+
+27649
+
+Xã Phước Lộc
+
+27652
+
+Xã Nhơn Đức
+
+27655
+
+Xã Phú Xuân
+
+27658
+
+Xã Long Thới
+
+27661
+
+Xã Hiệp Phước
+
+**787**
+
+**Huyện Cần Giờ**
+
+27664
+
+Thị trấn Cần Thạnh
+
+27667
+
+Xã Bình Khánh
+
+27670
+
+Xã Tam Thôn Hiệp
+
+27673
+
+Xã An Thới Đông
+
+27676
+
+Xã Thạnh An
+
+27679
+
+Xã Long Hòa
+
+27682
+
+Xã Lý Nhơn
+
+80. TỈNH LONG AN
+
+(Tổng số
+xã, phường, thị trấn: 188; xã: 167, phường: 6, thị trấn: 15)
+
+(Total
+number of communes, subdistricts, subtowns: 188)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**794**
+
+**Thị xã Tân An**
+
+27685
+
+Phường 5
+
+27688
+
+Phường 2
+
+27691
+
+Phường 4
+
+27694
+
+Phường 1
+
+27697
+
+Phường 3
+
+27700
+
+Phường 6
+
+27703
+
+Xã Hướng Thọ Phú
+
+27706
+
+Xã Nhơn Thạnh Trung
+
+27709
+
+Xã Lợi Bình Nhơn
+
+27712
+
+Xã Bình Tâm
+
+27715
+
+Xã Khánh Hậu
+
+27718
+
+Xã An Vĩnh Ngãi
+
+**796**
+
+**Huyện Tân Hưng**
+
+27721
+
+Thị trấn Tân Hưng
+
+27724
+
+Xã Hưng Hà
+
+27727
+
+Xã Hưng Điền B
+
+27730
+
+Xã Hưng Điền
+
+27733
+
+Xã Thạnh Hưng
+
+27736
+
+Xã Hưng Thạnh
+
+27739
+
+Xã Vĩnh Thạnh
+
+27742
+
+Xã Vĩnh Châu B
+
+27745
+
+Xã Vĩnh Lợi
+
+27748
+
+Xã Vĩnh Đại
+
+27751
+
+Xã Vĩnh Châu A
+
+27754
+
+Xã Vĩnh Bửu
+
+**797**
+
+**Huyện Vĩnh Hưng**
+
+27757
+
+Thị trấn Vĩnh Hưng
+
+27760
+
+Xã Hưng Điền A
+
+27763
+
+Xã Khánh Hưng
+
+27766
+
+Xã Thái Trị
+
+27769
+
+Xã Vĩnh Trị
+
+27772
+
+Xã Thái Bình Trung
+
+27775
+
+Xã Vĩnh Bình
+
+27778
+
+Xã Vĩnh Thuận
+
+27781
+
+Xã Tuyên Bình
+
+27784
+
+Xã Tuyên Bình Tây
+
+**798**
+
+**Huyện Mộc Hóa**
+
+27787
+
+Thị trấn Mộc Hóa
+
+27790
+
+Xã Thạnh Trị
+
+27793
+
+Xã Bình Hiệp
+
+27796
+
+Xã Bình Hòa Tây
+
+27799
+
+Xã Bình Tân
+
+27802
+
+Xã Bình Thạnh
+
+27805
+
+Xã Tuyên Thạnh
+
+27808
+
+Xã Bình Hòa Trung
+
+27811
+
+Xã Bình Hòa Đông
+
+27814
+
+Xã Bình Phong Thạnh
+
+27817
+
+Xã Thạnh Hưng
+
+27820
+
+Xã Tân Lập
+
+27823
+
+Xã Tân Thành
+
+**799**
+
+**Huyện Tân Thạnh**
+
+27826
+
+Thị trấn Tân Thạnh
+
+27829
+
+Xã Bắc Hòa
+
+27832
+
+Xã Hậu Thạnh Tây
+
+27835
+
+Xã Nhơn Hòa Lập
+
+27838
+
+Xã Tân Lập
+
+27841
+
+Xã Hậu Thạnh Đông
+
+27844
+
+Xã Nhơn Hòa
+
+27847
+
+Xã Kiến Bình
+
+27850
+
+Xã Tân Thành
+
+27853
+
+Xã Tân Bình
+
+27856
+
+Xã Tân Ninh
+
+27859
+
+Xã Nhơn Ninh
+
+27862
+
+Xã Tân Hòa
+
+**800**
+
+**Huyện Thạnh Hóa**
+
+27865
+
+Thị trấn Thạnh Hóa
+
+27868
+
+Xã Tân Hiệp
+
+27871
+
+Xã Thuận Bình
+
+27874
+
+Xã Thạnh Phước
+
+27877
+
+Xã Thạnh Phú
+
+27880
+
+Xã Thuận Nghĩa Hòa
+
+27883
+
+Xã Thủy Đông
+
+27886
+
+Xã Thủy Tây
+
+27889
+
+Xã Tân Tây
+
+27892
+
+Xã Tân Đông
+
+27895
+
+Xã Thạnh An
+
+**801**
+
+**Huyện Đức Huệ**
+
+27898
+
+Thị trấn Đông Thành
+
+27901
+
+Xã Mỹ Quý Đông
+
+27904
+
+Xã Mỹ Thạnh Bắc
+
+27907
+
+Xã Mỹ Quý Tây
+
+27910
+
+Xã Mỹ Thạnh Tây
+
+27913
+
+Xã Mỹ Thạnh Đông
+
+27916
+
+Xã Bình Thành
+
+27919
+
+Xã Bình Hòa Bắc
+
+27922
+
+Xã Bình Hòa Hưng
+
+27925
+
+Xã Bình Hòa Nam
+
+27928
+
+Xã Mỹ Bình
+
+**802**
+
+**Huyện Đức Hòa**
+
+27931
+
+Thị trấn Hậu Nghĩa
+
+27934
+
+Thị trấn Hiệp Hòa
+
+27937
+
+Thị trấn Đức Hòa
+
+27940
+
+Xã Lộc Giang
+
+27943
+
+Xã An Ninh Đông
+
+27946
+
+Xã An Ninh Tây
+
+27949
+
+Xã Tân Mỹ
+
+27952
+
+Xã Hiệp Hòa
+
+27955
+
+Xã Đức Lập Thượng
+
+27958
+
+Xã Đức Lập Hạ
+
+27961
+
+Xã Tân Phú
+
+27964
+
+Xã Mỹ Hạnh Bắc
+
+27967
+
+Xã Đức Hòa Thượng
+
+27970
+
+Xã Hòa Khánh Tây
+
+27973
+
+Xã Hòa Khánh Đông
+
+27976
+
+Xã Mỹ Hạnh Nam
+
+27979
+
+Xã Hòa Khánh Nam
+
+27982
+
+Xã Đức Hòa Đông
+
+27985
+
+Xã Đức Hòa Hạ
+
+27988
+
+Xã Hựu Thạnh
+
+**803**
+
+**Huyện Bến Lức**
+
+27991
+
+Thị trấn Bến Lức
+
+27994
+
+Xã Thạnh Lợi
+
+27997
+
+Xã Lương Bình
+
+28000
+
+Xã Thạnh Hòa
+
+28003
+
+Xã Lương Hòa
+
+28006
+
+Xã Tân Hòa
+
+28009
+
+Xã Tân Bửu
+
+28012
+
+Xã An Thạnh
+
+28015
+
+Xã Bình Đức
+
+28018
+
+Xã Mỹ Yên
+
+28021
+
+Xã Thanh Phú
+
+28024
+
+Xã Long Hiệp
+
+28027
+
+Xã Thạnh Đức
+
+28030
+
+Xã Phước Lợi
+
+28033
+
+Xã Nhựt Chánh
+
+**804**
+
+**Huyện Thủ Thừa**
+
+28036
+
+Thị trấn Thủ Thừa
+
+28039
+
+Xã Long Thạnh
+
+28042
+
+Xã Tân Thành
+
+28045
+
+Xã Long Thuận
+
+28048
+
+Xã Mỹ Lạc
+
+28051
+
+Xã Mỹ Thạnh
+
+28054
+
+Xã Bình An
+
+28057
+
+Xã Nhị Thành
+
+28060
+
+Xã Mỹ An
+
+28063
+
+Xã Bình Thạnh
+
+28066
+
+Xã Mỹ Phú
+
+28069
+
+Xã Long Thành
+
+28072
+
+Xã Tân Lập
+
+**805**
+
+**Huyện Tân Trụ**
+
+28075
+
+Thị trấn Tân Trụ
+
+28078
+
+Xã Mỹ Bình
+
+28081
+
+Xã An Nhựt Tân
+
+28084
+
+Xã Quê Mỹ Thạnh
+
+28087
+
+Xã Lạc Tấn
+
+28090
+
+Xã Bình Trinh Đông
+
+28093
+
+Xã Tân Phước Tây
+
+28096
+
+Xã Bình Lãng
+
+28099
+
+Xã Bình Tịnh
+
+28102
+
+Xã Đức Tân
+
+28105
+
+Xã Nhựt Ninh
+
+**806**
+
+**Huyện Cần Đước**
+
+28108
+
+Thị trấn Cần Đước
+
+28111
+
+Xã Long Trạch
+
+28114
+
+Xã Long Khê
+
+28117
+
+Xã Long Định
+
+28120
+
+Xã Phước Vân
+
+28123
+
+Xã Long Hòa
+
+28126
+
+Xã Long Cang
+
+28129
+
+Xã Long Sơn
+
+28132
+
+Xã Tân Trạch
+
+28135
+
+Xã Mỹ Lệ
+
+28138
+
+Xã Tân Lân
+
+28141
+
+Xã Phước Tuy
+
+28144
+
+Xã Long Hựu Đông
+
+28147
+
+Xã Tân Ân
+
+28150
+
+Xã Phước Đông
+
+28153
+
+Xã Long Hựu Tây
+
+28156
+
+Xã Tân Chánh
+
+**807**
+
+**Huyện Cần Giuộc**
+
+28159
+
+Thị trấn Cần Giuộc
+
+28162
+
+Xã Phước Lý
+
+28165
+
+Xã Long Thượng
+
+28168
+
+Xã Long Hậu
+
+28171
+
+Xã Tân Kim
+
+28174
+
+Xã Phước Hậu
+
+28177
+
+Xã Mỹ Lộc
+
+28180
+
+Xã Phước Lại
+
+28183
+
+Xã Phước Lâm
+
+28186
+
+Xã Trường Bình
+
+28189
+
+Xã Thuận Thành
+
+28192
+
+Xã Phước Vĩnh Tây
+
+28195
+
+Xã Phước Vĩnh Đông
+
+28198
+
+Xã Long An
+
+28201
+
+Xã Long Phụng
+
+28204
+
+Xã Đông Thạnh
+
+28207
+
+Xã Tân Tập
+
+**808**
+
+**Huyện Châu Thành**
+
+28210
+
+Thị trấn Tầm Vu
+
+28213
+
+Xã Bình Quới
+
+28216
+
+Xã Hòa Phú
+
+28219
+
+Xã Phú Ngãi Trị
+
+28222
+
+Xã Vĩnh Công
+
+28225
+
+Xã Thuận Mỹ
+
+28228
+
+Xã Hiệp Thạnh
+
+28231
+
+Xã Phước Tân Hưng
+
+28234
+
+Xã Thanh Phú Long
+
+28237
+
+Xã Dương Xuân Hội
+
+28240
+
+Xã An Lục Long
+
+28243
+
+Xã Long Trì
+
+28246
+
+Xã Thanh Vĩnh Đông
+
+82. TỈNH TIỀN GIANG
+
+(Tổng số
+xã, phường, thị trấn: 169; xã: 146, phường: 16, thị trấn: 7)
+
+(Total
+number of communes, subdistricts, subtowns: 169)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**815**
+
+**Thành phố Mỹ Tho**
+
+28249
+
+Phường 5
+
+28252
+
+Phường 4
+
+28255
+
+Phường 7
+
+28258
+
+Phường 3
+
+28261
+
+Phường 1
+
+28264
+
+Phường 2
+
+28267
+
+Phường 8
+
+28270
+
+Phường 6
+
+28273
+
+Phường 9
+
+28276
+
+Phường 10
+
+28279
+
+Phường Tân Long
+
+28282
+
+Xã Đạo Thạnh
+
+28285
+
+Xã Trung An
+
+28288
+
+Xã Mỹ Phong
+
+28291
+
+Xã Tân Mỹ Chánh
+
+**816**
+
+**Thị xã Gò Công**
+
+28294
+
+Phường 3
+
+28297
+
+Phường 2
+
+28300
+
+Phường 4
+
+28303
+
+Phường 1
+
+28306
+
+Phường 5
+
+28309
+
+Xã Long Hưng
+
+28312
+
+Xã Long Thuận
+
+28315
+
+Xã Long Chánh
+
+28318
+
+Xã Long Hòa
+
+**818**
+
+**Huyện Tân Phước**
+
+28321
+
+Thị trấn Mỹ Phước
+
+28324
+
+Xã Tân Hòa Đông
+
+28327
+
+Xã Thạnh Tân
+
+28330
+
+Xã Thạnh Mỹ
+
+28333
+
+Xã Thạnh Hòa
+
+28336
+
+Xã Phú Mỹ
+
+28339
+
+Xã Tân Hòa Thành
+
+28342
+
+Xã Hưng Thạnh
+
+28345
+
+Xã Tân Lập 1
+
+28348
+
+Xã Tân Hòa Tây
+
+28351
+
+Xã Mỹ Phước
+
+28354
+
+Xã Tân Lập 2
+
+28357
+
+Xã Phước Lập
+
+**819**
+
+**Huyện Cái Bè**
+
+28360
+
+Thị trấn Cái Bè
+
+28363
+
+Xã Hậu Mỹ Bắc B
+
+28366
+
+Xã Hậu Mỹ Bắc A
+
+28369
+
+Xã Mỹ Trung
+
+28372
+
+Xã Hậu Mỹ Trinh
+
+28375
+
+Xã Hậu Mỹ Phú
+
+28378
+
+Xã Mỹ Tân
+
+28381
+
+Xã Mỹ Lợi B
+
+28384
+
+Xã Thiện Trung
+
+28387
+
+Xã Mỹ Hội
+
+28390
+
+Xã An Cư
+
+28393
+
+Xã Hậu Thành
+
+28396
+
+Xã Mỹ Lợi A
+
+28399
+
+Xã Hòa Khánh
+
+28402
+
+Xã Thiện Trí
+
+28405
+
+Xã Mỹ Đức Đông
+
+28408
+
+Xã Mỹ Đức Tây
+
+28411
+
+Xã Đông Hòa Hiệp
+
+28414
+
+Xã An Thái Đông
+
+28417
+
+Xã Tân Hưng
+
+28420
+
+Xã Mỹ Lương
+
+28423
+
+Xã Tân Thanh
+
+28426
+
+Xã An Thái Trung
+
+28429
+
+Xã An Hữu
+
+28432
+
+Xã Hòa Hưng
+
+**820**
+
+**Huyện Cai Lậy**
+
+28435
+
+Thị trấn Cai Lậy
+
+28438
+
+Xã Thạnh Lộc
+
+28441
+
+Xã Mỹ Thành Bắc
+
+28444
+
+Xã Phú Cường
+
+28447
+
+Xã Mỹ Phước Tây
+
+28450
+
+Xã Mỹ Hạnh Đông
+
+28453
+
+Xã Mỹ Hạnh Trung
+
+28456
+
+Xã Mỹ Thành Nam
+
+28459
+
+Xã Tân Phú
+
+28462
+
+Xã Tân Bình
+
+28465
+
+Xã Phú Nhuận
+
+28468
+
+Xã Tân Hội
+
+28471
+
+Xã Bình Phú
+
+28474
+
+Xã Nhị Mỹ
+
+28477
+
+Xã Nhị Quý
+
+28480
+
+Xã Thanh Hòa
+
+28483
+
+Xã Phú Quý
+
+28486
+
+Xã Long Khánh
+
+28489
+
+Xã Cẩm Sơn
+
+28492
+
+Xã Phú An
+
+28495
+
+Xã Mỹ Long
+
+28498
+
+Xã Long Tiên
+
+28501
+
+Xã Hiệp Đức
+
+28504
+
+Xã Long Trung
+
+28507
+
+Xã Hội Xuân
+
+28510
+
+Xã Tân Phong
+
+28513
+
+Xã Tam Bình
+
+28516
+
+Xã Ngũ Hiệp
+
+**821**
+
+**Huyện Châu Thành**
+
+28519
+
+Thị trấn Tân Hiệp
+
+28522
+
+Xã Tân Hội Đông
+
+28525
+
+Xã Tân Hương
+
+28528
+
+Xã Tân Lý Đông
+
+28531
+
+Xã Tân Lý Tây
+
+28534
+
+Xã Thân Cửu Nghĩa
+
+28537
+
+Xã Tam Hiệp
+
+28540
+
+Xã Điềm Hy
+
+28543
+
+Xã Nhị Bình
+
+28546
+
+Xã Dưỡng Điềm
+
+28549
+
+Xã Đông Hòa
+
+28552
+
+Xã Long Định
+
+28555
+
+Xã Hữu Đạo
+
+28558
+
+Xã Long An
+
+28561
+
+Xã Long Hưng
+
+28564
+
+Xã Bình Trưng
+
+28567
+
+Xã Phước Thạnh
+
+28570
+
+Xã Thạnh Phú
+
+28573
+
+Xã Bàn Long
+
+28576
+
+Xã Vĩnh Kim
+
+28579
+
+Xã Bình Đức
+
+28582
+
+Xã Song Thuận
+
+28585
+
+Xã Kim Sơn
+
+28588
+
+Xã Phú Phong
+
+28591
+
+Xã Thới Sơn
+
+**822**
+
+**Huyện Chợ Gạo**
+
+28594
+
+Thị trấn Chợ Gạo
+
+28597
+
+Xã Trung Hòa
+
+28600
+
+Xã Hòa Tịnh
+
+28603
+
+Xã Mỹ Tịnh An
+
+28606
+
+Xã Tân Bình Thạnh
+
+28609
+
+Xã Phú Kiết
+
+28612
+
+Xã Lương Hòa Lạc
+
+28615
+
+Xã Thanh Bình
+
+28618
+
+Xã Quơn Long
+
+28621
+
+Xã Bình Phục Nhứt
+
+28624
+
+Xã Đăng Hưng Phước
+
+28627
+
+Xã Tân Thuận Bình
+
+28630
+
+Xã Song Bình
+
+28633
+
+Xã Bình Phan
+
+28636
+
+Xã Long Bình Điền
+
+28639
+
+Xã An Thạnh Thủy
+
+28642
+
+Xã Xuân Đông
+
+28645
+
+Xã Hòa Định
+
+28648
+
+Xã Bình Ninh
+
+**823**
+
+**Huyện Gò Công Tây**
+
+28651
+
+Thị trấn Vĩnh Bình
+
+28654
+
+Xã Đồng Sơn
+
+28657
+
+Xã Bình Phú
+
+28660
+
+Xã Đồng Thạnh
+
+28663
+
+Xã Thành Công
+
+28666
+
+Xã Bình Nhì
+
+28669
+
+Xã Yên Luông
+
+28672
+
+Xã Thạnh Trị
+
+28675
+
+Xã Thạnh Nhựt
+
+28678
+
+Xã Long Vĩnh
+
+28681
+
+Xã Bình Tân
+
+28684
+
+Xã Vĩnh Hựu
+
+28687
+
+Xã Long Bình
+
+28690
+
+Xã Tân Thới
+
+28693
+
+Xã Tân Phú
+
+28696
+
+Xã Phú Thạnh
+
+28699
+
+Xã Tân Thạnh
+
+**824**
+
+**Huyện Gò Công Đông**
+
+28702
+
+Thị trấn Tân Hòa
+
+28705
+
+Xã Tăng Hòa
+
+28708
+
+Xã Bình Đông
+
+28711
+
+Xã Tân Phước
+
+28714
+
+Xã Gia Thuận
+
+28717
+
+Xã Bình Xuân
+
+28720
+
+Xã Vàm Láng
+
+28723
+
+Xã Tân Tây
+
+28726
+
+Xã Kiểng Phước
+
+28729
+
+Xã Tân Trung
+
+28732
+
+Xã Tân Đông
+
+28735
+
+Xã Bình Ân
+
+28738
+
+Xã Tân Điền
+
+28741
+
+Xã Bình Nghị
+
+28744
+
+Xã Phước Trung
+
+28747
+
+Xã Tân Thành
+
+28750
+
+Xã Phú Đông
+
+28753
+
+Xã Phú Tân
+
+83. TỈNH BẾN TRE
+
+(Tổng số
+xã, phường, thị trấn: 160; xã: 144, phường: 9, thị trấn: 7)
+
+(Total
+number of communes, subdistricts, subtowns: 160)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**829**
+
+**Thị xã Bến Tre**
+
+28756
+
+Phường Phú Khương
+
+28759
+
+Phường 8
+
+28762
+
+Phường 6
+
+28765
+
+Phường 4
+
+28768
+
+Phường 5
+
+28771
+
+Phường 1
+
+28774
+
+Phường 3
+
+28777
+
+Phường 2
+
+28780
+
+Phường 7
+
+28783
+
+Xã Sơn Đông
+
+28786
+
+Xã Phú Hưng
+
+28789
+
+Xã Bình Phú
+
+28792
+
+Xã Mỹ Thạnh An
+
+28795
+
+Xã Nhơn Thạnh
+
+28798
+
+Xã Phú Nhuận
+
+**831**
+
+**Huyện Châu Thành**
+
+28801
+
+Thị trấn Châu Thành
+
+28804
+
+Xã Tân Thạch
+
+28807
+
+Xã Qưới Sơn
+
+28810
+
+Xã An Khánh
+
+28813
+
+Xã Giao Long
+
+28816
+
+Xã Giao Hòa
+
+28819
+
+Xã Phú Túc
+
+28822
+
+Xã Phú Đức
+
+28825
+
+Xã Phú An Hòa
+
+28828
+
+Xã An Phước
+
+28831
+
+Xã Tam Phước
+
+28834
+
+Xã Thành Triệu
+
+28837
+
+Xã Tường Đa
+
+28840
+
+Xã Tân Phú
+
+28843
+
+Xã Quới Thành
+
+28846
+
+Xã Phước Thạnh
+
+28849
+
+Xã An Hóa
+
+28852
+
+Xã Tiên Long
+
+28855
+
+Xã An Hiệp
+
+28858
+
+Xã Hữu Định
+
+28861
+
+Xã Tiên Thủy
+
+28864
+
+Xã Sơn Hòa
+
+28867
+
+Xã Mỹ Thành
+
+**832**
+
+**Huyện Chợ Lách**
+
+28870
+
+Thị trấn Chợ Lách
+
+28873
+
+Xã Phú Phụng
+
+28876
+
+Xã Sơn Định
+
+28879
+
+Xã Vĩnh Bình
+
+28882
+
+Xã Hòa Nghĩa
+
+28885
+
+Xã Long Thới
+
+28888
+
+Xã Phú Sơn
+
+28891
+
+Xã Tân Thiềng
+
+28894
+
+Xã Vĩnh Thành
+
+28897
+
+Xã Vĩnh Hòa
+
+28900
+
+Xã Hưng Khánh Trung
+
+**833**
+
+**Huyện Mỏ Cày**
+
+28903
+
+Thị trấn Mỏ Cày
+
+28906
+
+Xã Thanh Tân
+
+28909
+
+Xã Thạnh Ngãi
+
+28912
+
+Xã Tân Phú Tây
+
+28915
+
+Xã Phước Mỹ Trung
+
+28918
+
+Xã Tân Thành Bình
+
+28921
+
+Xã Thành An
+
+28924
+
+Xã Hòa Lộc
+
+28927
+
+Xã Tân Thanh Tây
+
+28930
+
+Xã Định Thủy
+
+28933
+
+Xã Tân Bình
+
+28936
+
+Xã Nhuận Phú Tân
+
+28939
+
+Xã Đa Phước Hội
+
+28942
+
+Xã Phước Hiệp
+
+28945
+
+Xã Bình Khánh Đông
+
+28948
+
+Xã Khánh Thạnh Tân
+
+28951
+
+Xã An Thạnh
+
+28954
+
+Xã Bình Khánh Tây
+
+28957
+
+Xã An Định
+
+28960
+
+Xã Thành Thới B
+
+28963
+
+Xã Tân Trung
+
+28966
+
+Xã An Thới
+
+28969
+
+Xã Thành Thới A
+
+28972
+
+Xã Minh Đức
+
+28975
+
+Xã Ngãi Đăng
+
+28978
+
+Xã Cẩm Sơn
+
+28981
+
+Xã Hương Mỹ
+
+**834**
+
+**Huyện Giồng Trôm**
+
+28984
+
+Thị trấn Giồng Trôm
+
+28987
+
+Xã Phong Nẫm
+
+28990
+
+Xã Phong Mỹ
+
+28993
+
+Xã Mỹ Thạnh
+
+28996
+
+Xã Châu Hòa
+
+28999
+
+Xã Lương Hòa
+
+29002
+
+Xã Lương Quới
+
+29005
+
+Xã Lương Phú
+
+29008
+
+Xã Châu Bình
+
+29011
+
+Xã Thuận Điền
+
+29014
+
+Xã Sơn Phú
+
+29017
+
+Xã Bình Hòa
+
+29020
+
+Xã Phước Long
+
+29023
+
+Xã Hưng Phong
+
+29026
+
+Xã Long Mỹ
+
+29029
+
+Xã Tân Hào
+
+29032
+
+Xã Bình Thành
+
+29035
+
+Xã Tân Thanh
+
+29038
+
+Xã Tân Lợi Thạnh
+
+29041
+
+Xã Thạnh Phú Đông
+
+29044
+
+Xã Hưng Nhượng
+
+29047
+
+Xã Hưng Lễ
+
+**835**
+
+**Huyện Bình Đại**
+
+29050
+
+Thị trấn Bình Đại
+
+29053
+
+Xã Tam Hiệp
+
+29056
+
+Xã Long Định
+
+29059
+
+Xã Long Hòa
+
+29062
+
+Xã Phú Thuận
+
+29065
+
+Xã Vang Quới Tây
+
+29068
+
+Xã Vang Quới Đông
+
+29071
+
+Xã Châu Hưng
+
+29074
+
+Xã Phú Vang
+
+29077
+
+Xã Lộc Thuận
+
+29080
+
+Xã Định Trung
+
+29083
+
+Xã Thới Lai
+
+29086
+
+Xã Bình Thới
+
+29089
+
+Xã Phú Long
+
+29092
+
+Xã Bình Thắng
+
+29095
+
+Xã Thạnh Trị
+
+29098
+
+Xã Đại Hòa Lộc
+
+29101
+
+Xã Thừa Đức
+
+29104
+
+Xã Thạnh Phước
+
+29107
+
+Xã Thới Thuận
+
+**836**
+
+**Huyện Ba Tri**
+
+29110
+
+Thị trấn Ba Tri
+
+29113
+
+Xã Tân Mỹ
+
+29116
+
+Xã Mỹ Hòa
+
+29119
+
+Xã Tân Xuân
+
+29122
+
+Xã Mỹ Chánh
+
+29125
+
+Xã Bảo Thạnh
+
+29128
+
+Xã An Phú Trung
+
+29131
+
+Xã Mỹ Thạnh
+
+29134
+
+Xã Mỹ Nhơn
+
+29137
+
+Xã Phước Tuy
+
+29140
+
+Xã Phú Ngãi
+
+29143
+
+Xã An Ngãi Trung
+
+29146
+
+Xã Phú Lễ
+
+29149
+
+Xã An Bình Tây
+
+29152
+
+Xã Bảo Thuận
+
+29155
+
+Xã Tân Hưng
+
+29158
+
+Xã An Ngãi Tây
+
+29161
+
+Xã An Hiệp
+
+29164
+
+Xã Vĩnh Hòa
+
+29167
+
+Xã Tân Thủy
+
+29170
+
+Xã Vĩnh An
+
+29173
+
+Xã An Đức
+
+29176
+
+Xã An Hòa Tây
+
+29179
+
+Xã An Thủy
+
+**837**
+
+**Huyện Thạnh Phú**
+
+29182
+
+Thị trấn Thạnh Phú
+
+29185
+
+Xã Phú Khánh
+
+29188
+
+Xã Đại Điền
+
+29191
+
+Xã Quới Điền
+
+29194
+
+Xã Tân Phong
+
+29197
+
+Xã Mỹ Hưng
+
+29200
+
+Xã An Thạnh
+
+29203
+
+Xã Thới Thạnh
+
+29206
+
+Xã Hòa Lợi
+
+29209
+
+Xã An Điền
+
+29212
+
+Xã Bình Thạnh
+
+29215
+
+Xã An Thuận
+
+29218
+
+Xã An Quy
+
+29221
+
+Xã Thạnh Hải
+
+29224
+
+Xã An Nhơn
+
+29227
+
+Xã Giao Thạnh
+
+29230
+
+Xã Thạnh Phong
+
+29233
+
+Xã Mỹ An
+
+84. TỈNH TRÀ VINH
+
+(Tổng số
+xã, phường, thị trấn: 102; xã: 84, phường: 9, thị trấn: 9)
+
+(Total
+number of communes, subdistricts, subtowns: 102)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**842**
+
+**Thị xã Trà Vinh**
+
+29236
+
+Phường 4
+
+29239
+
+Phường 1
+
+29242
+
+Phường 3
+
+29245
+
+Phường 2
+
+29248
+
+Phường 5
+
+29251
+
+Phường 6
+
+29254
+
+Phường 7
+
+29257
+
+Phường 8
+
+29260
+
+Phường 9
+
+29263
+
+Xã Long Đức
+
+**844**
+
+**Huyện Càng Long**
+
+29266
+
+Thị trấn Càng Long
+
+29269
+
+Xã Mỹ Cẩm
+
+29272
+
+Xã An Trường A
+
+29275
+
+Xã An Trường
+
+29278
+
+Xã Huyền Hội
+
+29281
+
+Xã Tân An
+
+29284
+
+Xã Tân Bình
+
+29287
+
+Xã Bình Phú
+
+29290
+
+Xã Phương Thạnh
+
+29293
+
+Xã Đại Phúc
+
+29296
+
+Xã Đại Phước
+
+29299
+
+Xã Nhị Long Phú
+
+29302
+
+Xã Nhị Long
+
+29305
+
+Xã Đức Mỹ
+
+**845**
+
+**Huyện Cầu Kè**
+
+29308
+
+Thị trấn Cầu Kè
+
+29311
+
+Xã Hòa Ân
+
+29314
+
+Xã Châu Điền
+
+29317
+
+Xã An Phú Tân
+
+29320
+
+Xã Hòa Tân
+
+29323
+
+Xã Ninh Thới
+
+29326
+
+Xã Phong Phú
+
+29329
+
+Xã Phong Thạnh
+
+29332
+
+Xã Tam Ngãi
+
+29335
+
+Xã Thông Hòa
+
+29338
+
+Xã Thạnh Phú
+
+**846**
+
+**Huyện Tiểu Cần**
+
+29341
+
+Thị trấn Tiểu Cần
+
+29344
+
+Thị trấn Cầu Quan
+
+29347
+
+Xã Phú Cần
+
+29350
+
+Xã Hiếu Tử
+
+29353
+
+Xã Hiếu Trung
+
+29356
+
+Xã Long Thới
+
+29359
+
+Xã Hùng Hòa
+
+29362
+
+Xã Tân Hùng
+
+29365
+
+Xã Tập Ngãi
+
+29362
+
+Xã Ngãi Hùng
+
+29371
+
+Xã Tân Hòa
+
+**847**
+
+**Huyện Châu Thành**
+
+29374
+
+Thị trấn Châu Thành
+
+29377
+
+Xã Đa Lộc
+
+29380
+
+Xã Mỹ Chánh
+
+29383
+
+Xã Thanh Mỹ
+
+29386
+
+Xã Lương Hòa A
+
+29389
+
+Xã Lương Hòa
+
+29392
+
+Xã Song Lộc
+
+29395
+
+Xã Nguyệt Hóa
+
+29398
+
+Xã Hòa Thuận
+
+29401
+
+Xã Hòa Lợi
+
+29404
+
+Xã Phước Hảo
+
+29407
+
+Xã Hưng Mỹ
+
+29410
+
+Xã Hòa Minh
+
+29413
+
+Xã Long Hòa
+
+**848**
+
+**Huyện Cầu Ngang**
+
+29416
+
+Thị trấn Cầu Ngang
+
+29419
+
+Thị trấn Mỹ Long
+
+29422
+
+Xã Mỹ Long Bắc
+
+29425
+
+Xã Mỹ Long Nam
+
+29428
+
+Xã Mỹ Hòa
+
+29431
+
+Xã Vĩnh Kim
+
+29434
+
+Xã Kim Hòa
+
+29437
+
+Xã Hiệp Hòa
+
+29440
+
+Xã Thuận Hòa
+
+29443
+
+Xã Long Sơn
+
+29446
+
+Xã Nhị Trường
+
+29449
+
+Xã Trường Thọ
+
+29452
+
+Xã Hiệp Mỹ Đông
+
+29455
+
+Xã Hiệp Mỹ Tây
+
+29458
+
+Xã Thạnh Hòa Sơn
+
+**849**
+
+**Huyện Trà Cú**
+
+29461
+
+Thị trấn Trà Cú
+
+29464
+
+Xã Phước Hưng
+
+29467
+
+Xã Tập Sơn
+
+29470
+
+Xã Tân Sơn
+
+29473
+
+Xã An Quảng Hữu
+
+29476
+
+Xã Lưu Nghiệp Anh
+
+29479
+
+Xã Ngãi Xuyên
+
+29482
+
+Xã Kim Sơn
+
+29485
+
+Xã Thanh Sơn
+
+29488
+
+Xã Hàm Giang
+
+29491
+
+Xã Đại An
+
+29494
+
+Xã Định An
+
+29497
+
+Xã Đôn Xuân
+
+29500
+
+Xã Đôn Châu
+
+29503
+
+Xã Ngọc Biên
+
+29506
+
+Xã Long Hiệp
+
+29509
+
+Xã Tân Hiệp
+
+**850**
+
+**Huyện Duyên Hải**
+
+29512
+
+Thị trấn Duyên Hải
+
+29515
+
+Xã Long Toàn
+
+29518
+
+Xã Long Hữu
+
+29521
+
+Xã Long Khánh
+
+29524
+
+Xã Dân Thành
+
+29527
+
+Xã Trường Long Hòa
+
+29530
+
+Xã Ngũ Lạc
+
+29533
+
+Xã Long Vĩnh
+
+29536
+
+Xã Đông Hải
+
+29539
+
+Xã Hiệp Thạnh
+
+86. TỈNH VĨNH LONG
+
+(Tổng số
+xã, phường, thị trấn: 107; xã: 94, phường: 7, thị trấn: 6)
+
+(Total
+number of communes, subdistricts, subtowns: 107)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**855**
+
+**Thị xã Vĩnh Long**
+
+29542
+
+Phường 9
+
+29545
+
+Phường 5
+
+29548
+
+Phường 1
+
+29551
+
+Phường 2
+
+29554
+
+Phường 4
+
+29557
+
+Phường 3
+
+29560
+
+Phường 8
+
+29563
+
+Xã Tân Ngãi
+
+29566
+
+Xã Tân Hòa
+
+29569
+
+Xã Tân Hội
+
+29572
+
+Xã Trường An
+
+**857**
+
+**Huyện Long Hồ**
+
+29575
+
+Thị trấn Long Hồ
+
+29578
+
+Xã Đồng Phú
+
+29581
+
+Xã Bình Hòa Phước
+
+29584
+
+Xã Hòa Ninh
+
+29587
+
+Xã An Bình
+
+29590
+
+Xã Thanh Đức
+
+29593
+
+Xã Tân Hạnh
+
+29596
+
+Xã Phước Hậu
+
+29599
+
+Xã Long Phước
+
+29602
+
+Xã Phú Đức
+
+29605
+
+Xã Lộc Hòa
+
+29608
+
+Xã Long An
+
+29611
+
+Xã Phú Quới
+
+29614
+
+Xã Thạnh Quới
+
+29617
+
+Xã Hòa Phú
+
+**858**
+
+**Huyện Mang Thít**
+
+29620
+
+Thị trấn Cái Nhum
+
+29623
+
+Xã Mỹ An
+
+29626
+
+Xã Mỹ Phước
+
+29629
+
+Xã An Phước
+
+29632
+
+Xã Nhơn Phú
+
+29635
+
+Xã Long Mỹ
+
+29638
+
+Xã Hòa Tịnh
+
+29641
+
+Xã Chánh Hội
+
+29644
+
+Xã Bình Phước
+
+29647
+
+Xã Chánh An
+
+29650
+
+Xã Tân An Hội
+
+29653
+
+Xã Tân Long
+
+29656
+
+Xã Tân Long Hội
+
+**859**
+
+**Huyện Vũng Liêm**
+
+29659
+
+Thị trấn Vũng Liêm
+
+29662
+
+Xã Tân Quới Trung
+
+29665
+
+Xã Quới Thiện
+
+29668
+
+Xã Quới An
+
+29671
+
+Xã Trung Chánh
+
+29674
+
+Xã Tân An Luông
+
+29677
+
+Xã Thanh Bình
+
+29680
+
+Xã Trung Thành Tây
+
+29683
+
+Xã Trung Hiệp
+
+29686
+
+Xã Hiếu Phụng
+
+29689
+
+Xã Trung Thành Đông
+
+29692
+
+Xã Trung Thành
+
+29695
+
+Xã Trung Hiếu
+
+29698
+
+Xã Trung Ngãi
+
+29701
+
+Xã Hiếu Thuận
+
+29704
+
+Xã Trung Nghĩa
+
+29707
+
+Xã Trung An
+
+29710
+
+Xã Hiếu Nhơn
+
+29713
+
+Xã Hiếu Thành
+
+29716
+
+Xã Hiếu Nghĩa
+
+**860**
+
+**Huyện Tam Bình**
+
+29719
+
+Thị trấn Tam Bình
+
+29722
+
+Xã Tân Lộc
+
+29725
+
+Xã Phú Thịnh
+
+29728
+
+Xã Hậu Lộc
+
+29731
+
+Xã Hòa Thạnh
+
+29734
+
+Xã Hòa Lộc
+
+29737
+
+Xã Phú Lộc
+
+29740
+
+Xã Song Phú
+
+29743
+
+Xã Hòa Hiệp
+
+29746
+
+Xã Mỹ Lộc
+
+29749
+
+Xã Tân Phú
+
+29752
+
+Xã Long Phú
+
+29755
+
+Xã Mỹ Thạnh Trung
+
+29758
+
+Xã Tường Lộc
+
+29761
+
+Xã Loan Mỹ
+
+29764
+
+Xã Ngãi Tứ
+
+29767
+
+Xã Bình Ninh
+
+**861**
+
+**Huyện Bình Minh**
+
+29770
+
+Thị trấn Cái Vồn
+
+29773
+
+Xã Tân Hưng
+
+29776
+
+Xã Tân Thành
+
+29779
+
+Xã Thành Trung
+
+29782
+
+Xã Tân An Thạnh
+
+29785
+
+Xã Tân Lược
+
+29788
+
+Xã Nguyễn Văn Thảnh
+
+29791
+
+Xã Thành Đông
+
+29794
+
+Xã Mỹ Thuận
+
+29797
+
+Xã Tân Bình
+
+29800
+
+Xã Thành Lợi
+
+29803
+
+Xã Tân Quới
+
+29806
+
+Xã Thuận An
+
+29809
+
+Xã Đông Thạnh
+
+29812
+
+Xã Đông Bình
+
+29815
+
+Xã Mỹ Hòa
+
+29818
+
+Xã Đông Thành
+
+**862**
+
+**Huyện Trà Ôn**
+
+29821
+
+Thị trấn Trà Ôn
+
+29824
+
+Xã Xuân Hiệp
+
+29827
+
+Xã Nhơn Bình
+
+29830
+
+Xã Hòa Bình
+
+29833
+
+Xã Thới Hòa
+
+29836
+
+Xã Trà Côn
+
+29839
+
+Xã Tân Mỹ
+
+29842
+
+Xã Hựu Thành
+
+29845
+
+Xã Vĩnh Xuân
+
+29848
+
+Xã Thuận Thới
+
+29851
+
+Xã Phú Thành
+
+29854
+
+Xã Thiện Mỹ
+
+29857
+
+Xã Lục Sỹ Thành
+
+29860
+
+Xã Tích Thiện
+
+87. TỈNH ĐỒNG THÁP
+
+(Tổng số
+xã, phường, thị trấn: 139; xã: 120, phường: 10, thị trấn: 9)
+
+(Total
+number of communes, subdistricts, subtowns: 139)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**866**
+
+**Thị xã Cao Lãnh**
+
+29863
+
+Phường 11
+
+29866
+
+Phường 1
+
+29869
+
+Phường 2
+
+29872
+
+Phường 4
+
+29875
+
+Phường 3
+
+29878
+
+Phường 6
+
+29881
+
+Xã Mỹ Ngãi
+
+29884
+
+Xã Mỹ Tân
+
+29887
+
+Xã Mỹ Trà
+
+29890
+
+Xã Tân Thuận Tây
+
+29893
+
+Xã Hòa An
+
+29896
+
+Xã Tân Thuận Đông
+
+29899
+
+Xã Tịnh Thới
+
+**867**
+
+**Thị xã Sa Đéc**
+
+29902
+
+Phường 3
+
+29905
+
+Phường 1
+
+29908
+
+Phường 4
+
+29911
+
+Phường 2
+
+29914
+
+Xã Tân Khánh Đông
+
+29917
+
+Xã Tân Quy Đông
+
+29920
+
+Xã Tân Quy Tây
+
+29923
+
+Xã Tân Phú Đông
+
+**869**
+
+**Huyện Tân Hồng**
+
+29926
+
+Thị trấn Sa Rài
+
+29929
+
+Xã Tân Hộ Cơ
+
+29932
+
+Xã Thông Bình
+
+29935
+
+Xã Bình Phú
+
+29938
+
+Xã Tân Thành A
+
+29941
+
+Xã Tân Thành B
+
+29944
+
+Xã Tân Phước
+
+29947
+
+Xã Tân Công Chí
+
+29950
+
+Xã An Phước
+
+**870**
+
+**Huyện Hồng Ngự**
+
+29953
+
+Thị trấn Hồng Ngự
+
+29956
+
+Xã Thường Phước 1
+
+29959
+
+Xã Bình Thạnh
+
+29962
+
+Xã Thường Thới Hậu A
+
+29965
+
+Xã Tân Hội
+
+29968
+
+Xã Thường Thới Hậu B
+
+29971
+
+Xã Thường Thới Tiền
+
+29974
+
+Xã Thường Phước 2
+
+29977
+
+Xã Thường Lạc
+
+29980
+
+Xã Long Khánh A
+
+29983
+
+Xã Long Khánh B
+
+29986
+
+Xã An Bình B
+
+29989
+
+Xã An Bình A
+
+29992
+
+Xã Long Thuận
+
+29995
+
+Xã Phú Thuận B
+
+29998
+
+Xã Phú Thuận A
+
+**871**
+
+**Huyện Tam Nông**
+
+30001
+
+Thị trấn Tràm Chim
+
+30004
+
+Xã Hào Bình
+
+30007
+
+Xã Tân Công Sính
+
+30010
+
+Xã Phú Hiệp
+
+30013
+
+Xã Phú Đức
+
+30016
+
+Xã Phú Thành B
+
+30019
+
+Xã An Hòa
+
+30022
+
+Xã An Long
+
+30025
+
+Xã Phú Cường
+
+30028
+
+Xã Phú Ninh
+
+30031
+
+Xã Phú Thọ
+
+30034
+
+Xã Phú Thành A
+
+**872**
+
+**Huyện Tháp Mười**
+
+30037
+
+Thị trấn Mỹ An
+
+30040
+
+Xã Thạnh Lợi
+
+30043
+
+Xã Hưng Thạnh
+
+30046
+
+Xã Trường Xuân
+
+30049
+
+Xã Tân Kiều
+
+30052
+
+Xã Mỹ Hòa
+
+30055
+
+Xã Mỹ Quý
+
+30058
+
+Xã Mỹ Đông
+
+30061
+
+Xã Đốc Binh Kiều
+
+30064
+
+Xã Mỹ An
+
+30067
+
+Xã Phú Điền
+
+30070
+
+Xã Láng Biển
+
+30073
+
+Xã Thanh Mỹ
+
+**873**
+
+**Huyện Cao Lãnh**
+
+30076
+
+Thị trấn Mỹ Thọ
+
+30079
+
+Xã Gáo Giồng
+
+30082
+
+Xã Phương Thịnh
+
+30085
+
+Xã Ba Sao
+
+30088
+
+Xã Phong Mỹ
+
+30091
+
+Xã Tân Nghĩa
+
+30094
+
+Xã Phương Trà
+
+30097
+
+Xã Nhị Mỹ
+
+30100
+
+Xã Mỹ Thọ
+
+30103
+
+Xã Tân Hội Trung
+
+30106
+
+Xã An Bình
+
+30109
+
+Xã Mỹ Hội
+
+30112
+
+Xã Mỹ Hiệp
+
+30115
+
+Xã Mỹ Long
+
+30118
+
+Xã Bình Hàng Trung
+
+30121
+
+Xã Mỹ Xương
+
+30124
+
+Xã Bình Hàng Tây
+
+30127
+
+Xã Bình Thạnh
+
+**874**
+
+**Huyện Thanh Bình**
+
+30130
+
+Thị trấn Thanh Bình
+
+30133
+
+Xã Tân Quới
+
+30136
+
+Xã Tân Hòa
+
+30139
+
+Xã An Phong
+
+30142
+
+Xã Phú Lợi
+
+30145
+
+Xã Tân Mỹ
+
+30148
+
+Xã Bình Tấn
+
+30151
+
+Xã Tân Huề
+
+30154
+
+Xã Tân Bình
+
+30157
+
+Xã Tân Thạnh
+
+30160
+
+Xã Tân Phú
+
+30163
+
+Xã Bình Thành
+
+30166
+
+Xã Tân Long
+
+**875**
+
+**Huyện Lấp Vò**
+
+30169
+
+Thị trấn Lấp Vò
+
+30172
+
+Xã Mỹ An Hưng A
+
+30175
+
+Xã Tân Mỹ
+
+30178
+
+Xã Mỹ An Hưng B
+
+30181
+
+Xã Tân Khánh Trung
+
+30184
+
+Xã Long Hưng A
+
+30187
+
+Xã Vĩnh Thạnh
+
+30190
+
+Xã Long Hưng B
+
+30193
+
+Xã Bình Thành
+
+30196
+
+Xã Định An
+
+30199
+
+Xã Định Yên
+
+30202
+
+Xã Hội An Đông
+
+30205
+
+Xã Bình Thạnh Trung
+
+**876**
+
+**Huyện Lai Vung**
+
+30208
+
+Thị trấn Lai Vung
+
+30211
+
+Xã Tân Dương
+
+30214
+
+Xã Hòa Thành
+
+30217
+
+Xã Long Hậu
+
+30220
+
+Xã Tân Phước
+
+30223
+
+Xã Hòa Long
+
+30226
+
+Xã Tân Thành
+
+30229
+
+Xã Long Thắng
+
+30232
+
+Xã Vĩnh Thới
+
+30235
+
+Xã Tân Hòa
+
+30238
+
+Xã Định Hòa
+
+30241
+
+Xã Phong Hòa
+
+**877**
+
+**Huyện Châu Thành**
+
+30244
+
+Thị trấn Cái Tàu Hạ
+
+30247
+
+Xã An Hiệp
+
+30250
+
+Xã An Nhơn
+
+30253
+
+Xã Tân Nhuận Đông
+
+30256
+
+Xã Tân Bình
+
+30259
+
+Xã Tân Phú Trung
+
+30262
+
+Xã Phú Long
+
+30265
+
+Xã An Phú Thuận
+
+30268
+
+Xã Phú Hựu
+
+30271
+
+Xã An Khánh
+
+30274
+
+Xã Tân Phú
+
+30277
+
+Xã Hòa Tân
+
+89. TỈNH AN GIANG
+
+(Tổng số
+xã, phường, thị trấn: 150; xã: 122, phường: 13, thị trấn: 15)
+
+(Total
+number of communes, subdistricts, subtowns: 150)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**883**
+
+**Thành phố Long Xuyên**
+
+30280
+
+Phường Mỹ Bình
+
+30283
+
+Phường Mỹ Long
+
+30286
+
+Phường Mỹ Xuyên
+
+30289
+
+Phường Bình Đức
+
+30292
+
+Phường Bình Khánh
+
+30295
+
+Phường Mỹ Phước
+
+30298
+
+Phường Mỹ Quý
+
+30301
+
+Phường Mỹ Thới
+
+30304
+
+Phường Mỹ Thạnh
+
+30307
+
+Xã Mỹ Hòa
+
+30310
+
+Xã Mỹ Khánh
+
+30313
+
+Xã Mỹ Hoà Hưng
+
+**884**
+
+**Thị xã Châu Đốc**
+
+30316
+
+Phường Châu Phú B
+
+30319
+
+Phường Châu Phú A
+
+30322
+
+Phường Vĩnh Mỹ
+
+30325
+
+Phường Núi Sam
+
+30328
+
+Xã Vĩnh Ngươn
+
+30331
+
+Xã Vĩnh Tế
+
+30334
+
+Xã Vĩnh Châu
+
+**886**
+
+**Huyện An Phú**
+
+30337
+
+Thị trấn An Phú
+
+30340
+
+Xã Khánh An
+
+30343
+
+Xã Khánh Bình
+
+30346
+
+Xã Quốc Thái
+
+30349
+
+Xã Nhơn Hội
+
+30352
+
+Xã Phú Hữu
+
+30355
+
+Xã Phú Hội
+
+30358
+
+Xã Phước Hưng
+
+30361
+
+Xã Vĩnh Lộc
+
+30364
+
+Xã Vĩnh Hậu
+
+30367
+
+Xã Vĩnh Trường
+
+30370
+
+Xã Vĩnh Hội Đông
+
+30373
+
+Xã Đa Phước
+
+**887**
+
+**Huyện Tân Châu**
+
+30376
+
+Thị trấn Tân Châu
+
+30379
+
+Xã Phú Lộc
+
+30382
+
+Xã Vĩnh Xương
+
+30385
+
+Xã Vĩnh Hòa
+
+30388
+
+Xã Tân An
+
+30391
+
+Xã Long An
+
+30394
+
+Xã Long Phú
+
+30397
+
+Xã Châu Phong
+
+30400
+
+Xã Phú Vĩnh
+
+30403
+
+Xã Lê Chánh
+
+**888**
+
+**Huyện Phú Tân**
+
+30406
+
+Thị trấn Phú Mỹ
+
+30409
+
+Thị trấn Chợ Vàm
+
+30412
+
+Xã Long Sơn
+
+30415
+
+Xã Long Hòa
+
+30418
+
+Xã Phú Long
+
+30421
+
+Xã Phú Lâm
+
+30424
+
+Xã Phú Hiệp
+
+30427
+
+Xã Phú Thạnh
+
+30430
+
+Xã Hòa Lạc
+
+30433
+
+Xã Phú Thành
+
+30436
+
+Xã Phú An
+
+30439
+
+Xã Phú Xuân
+
+30442
+
+Xã Hiệp Xương
+
+30445
+
+Xã Phú Bình
+
+30448
+
+Xã Phú Thọ
+
+30451
+
+Xã Phú Hưng
+
+30454
+
+Xã Bình Thạnh Đông
+
+30457
+
+Xã Tân Hòa
+
+30460
+
+Xã Tân Trung
+
+**889**
+
+**Huyện Châu Phú**
+
+30463
+
+Thị trấn Cái Dầu
+
+30466
+
+Xã Khánh Hòa
+
+30469
+
+Xã Mỹ Đức
+
+30472
+
+Xã Mỹ Phú
+
+30475
+
+Xã Ô Long Vỹ
+
+30478
+
+Xã Vĩnh Thạnh Trung
+
+30481
+
+Xã Thạnh Mỹ Tây
+
+30484
+
+Xã Đình Long
+
+30487
+
+Xã Bình Mỹ
+
+30490
+
+Xã Bình Thủy
+
+30493
+
+Xã Đào Hữu Cảnh
+
+30496
+
+Xã Bình Phú
+
+30499
+
+Xã Bình Chánh
+
+**890**
+
+**Huyện Tịnh Biên**
+
+30502
+
+Thị trấn Nhà Bàng
+
+30505
+
+Thị trấn Chi Lăng
+
+30508
+
+Xã Núi Voi
+
+30511
+
+Xã Nhơn Hưng
+
+30514
+
+Xã An Phú
+
+30517
+
+Xã Thới Sơn
+
+30520
+
+Xã Xuân Tô
+
+30523
+
+Xã Văn Giáo
+
+30526
+
+Xã An Cư
+
+30529
+
+Xã An Nông
+
+30532
+
+Xã Vĩnh Trung
+
+30535
+
+Xã Tân Lợi
+
+30538
+
+Xã An Hảo
+
+30541
+
+Xã Tân Lập
+
+**891**
+
+**Huyện Tri Tôn**
+
+30544
+
+Thị trấn Tri Tôn
+
+30547
+
+Thị trấn Ba Chúc
+
+30550
+
+Xã Lạc Quới
+
+30553
+
+Xã Lê Trì
+
+30556
+
+Xã Vĩnh Gia
+
+30559
+
+Xã Vĩnh Phước
+
+30562
+
+Xã Châu Lăng
+
+30565
+
+Xã Lương Phi
+
+30568
+
+Xã Lương An Trà
+
+30571
+
+Xã Tà Đảnh
+
+30574
+
+Xã Núi Tô
+
+30577
+
+Xã An Tức
+
+30580
+
+Xã Cô Tô
+
+30583
+
+Xã Tân Tuyến
+
+30586
+
+Xã Ô Lâm
+
+**892**
+
+**Huyện Châu Thành**
+
+30589
+
+Thị trấn An Châu
+
+30592
+
+Xã An Hòa
+
+30595
+
+Xã Cần Đăng
+
+30598
+
+Xã Vĩnh Hanh
+
+30601
+
+Xã Bình Thạnh
+
+30604
+
+Xã Vĩnh Bình
+
+30607
+
+Xã Bình Hòa
+
+30610
+
+Xã Vĩnh An
+
+30613
+
+Xã Hòa Bình Thạnh
+
+30616
+
+Xã Vĩnh Lợi
+
+30619
+
+Xã Vĩnh Nhuận
+
+30622
+
+Xã Tân Phú
+
+30625
+
+Xã Vĩnh Thành
+
+**893**
+
+**Huyện Chợ Mới**
+
+30628
+
+Thị trấn Chợ Mới
+
+30931
+
+Thị trấn Mỹ Luông
+
+30634
+
+Xã Kiến An
+
+30637
+
+Xã Mỹ Hội Đông
+
+30640
+
+Xã Long Điền A
+
+30643
+
+Xã Tấn Mỹ
+
+30646
+
+Xã Long Điền B
+
+30649
+
+Xã Kiến Thành
+
+30652
+
+Xã Mỹ Hiệp
+
+30655
+
+Xã Mỹ An
+
+30658
+
+Xã Nhơn Mỹ
+
+30661
+
+Xã Long Giang
+
+30664
+
+Xã Long Kiến
+
+30667
+
+Xã Bình Phước Xuân
+
+30670
+
+Xã An Thạnh Trung
+
+30673
+
+Xã Hội An
+
+30676
+
+Xã Hòa Bình
+
+30679
+
+Xã Hòa An
+
+**894**
+
+**Huyện Thoại Sơn**
+
+30682
+
+Thị trấn Núi Sập
+
+30685
+
+Thị trấn Phú Hòa
+
+30688
+
+Thị trấn Óc Eo
+
+30691
+
+Xã Tây Phú
+
+30694
+
+Xã Vĩnh Phú
+
+30697
+
+Xã Vĩnh Trạch
+
+30700
+
+Xã Phú Thuận
+
+30703
+
+Xã Vĩnh Chánh
+
+30706
+
+Xã Định Mỹ
+
+30709
+
+Xã Định Thành
+
+30712
+
+Xã Mỹ Phú Đông
+
+30715
+
+Xã Vọng Đông
+
+30718
+
+Xã Vĩnh Khánh
+
+30721
+
+Xã Thoại Giang
+
+30724
+
+Xã Bình Thành
+
+30727
+
+Xã Vọng Thê
+
+91. TỈNH KIÊN GIANG
+
+(Tổng số
+xã, phường, thị trấn: 129; xã: 102, phường: 15, thị trấn: 12)
+
+(Total
+number of communes, subdistricts, subtowns: 129)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**899**
+
+**Thị xã Rạch Giá**
+
+30730
+
+Phường Vĩnh Thanh Vân
+
+30733
+
+Phường Vĩnh Thanh
+
+30736
+
+Phường Vĩnh Quang
+
+30739
+
+Phường Vĩnh Hiệp
+
+30742
+
+Phường Vĩnh Bảo
+
+30745
+
+Phường Vĩnh Lạc
+
+30748
+
+Phường An Hòa
+
+30751
+
+Phường An Bình
+
+30754
+
+Phường Rạch Sỏi
+
+30757
+
+Phường Vĩnh Lợi
+
+30760
+
+Phường Vĩnh Thông
+
+30763
+
+Xã Phi Thông
+
+**900**
+
+**Thị xã Hà Tiên**
+
+30766
+
+Phường Tô Châu
+
+30769
+
+Phường Đông Hồ
+
+30772
+
+Phường Bình San
+
+30775
+
+Phường Pháo Đài
+
+30778
+
+Xã Mỹ Đức
+
+30781
+
+Xã Tiên Hải
+
+30784
+
+Xã Thuận Yên
+
+**902**
+
+**Huyện Kiên Lương**
+
+30787
+
+Thị trấn Kiên Lương
+
+30790
+
+Xã Kiên Bình
+
+30793
+
+Xã Vĩnh Điều
+
+30796
+
+Xã Tân Khánh Hòa
+
+30799
+
+Xã Phú Mỹ
+
+30802
+
+Xã Hòa Điền
+
+30805
+
+Xã Dương Hòa
+
+30808
+
+Xã Bình An
+
+30811
+
+Xã Sơn Hải
+
+30814
+
+Xã Hòn Nghệ
+
+**903**
+
+**Huyện Hòn Đất**
+
+30817
+
+Thị trấn Hòn Đất
+
+30820
+
+Thị trấn Sóc Sơn
+
+30823
+
+Xã Bình Sơn
+
+30826
+
+Xã Bình Giang
+
+30829
+
+Xã Nam Thái Sơn
+
+30832
+
+Xã Mỹ Hiệp Sơn
+
+30835
+
+Xã Sơn Kiên
+
+30838
+
+Xã Sóc Sơn
+
+30841
+
+Xã Thổ Sơn
+
+30844
+
+Xã Mỹ Lâm
+
+30847
+
+Xã Mỹ Phước
+
+**904**
+
+**Huyện Tân Hiệp**
+
+30850
+
+Thị trấn Tân Hiệp
+
+30853
+
+Xã Tân Hội
+
+30856
+
+Xã Tân Thành
+
+30859
+
+Xã Tân Hiệp B
+
+30862
+
+Xã Thạnh Đông B
+
+30865
+
+Xã Thạnh Đông
+
+30868
+
+Xã Tân Hiệp A
+
+30871
+
+Xã Tân An
+
+30874
+
+Xã Thạnh Đông A
+
+30877
+
+Xã Thạnh Trị
+
+**905**
+
+**Huyện Châu Thành**
+
+30880
+
+Thị trấn Minh Lương
+
+30883
+
+Xã Mong Thọ A
+
+30886
+
+Xã Mong Thọ B
+
+30889
+
+Xã Giục Tượng
+
+30892
+
+Xã Vĩnh Hòa Hiệp
+
+30895
+
+Xã Minh Hòa
+
+30898
+
+Xã Bình An
+
+30901
+
+Xã Thạnh Lộc
+
+**906**
+
+**Huyện Giồng Giềng**
+
+30904
+
+Thị trấn Giồng Giềng
+
+30907
+
+Xã Thạnh Hưng
+
+30910
+
+Xã Thạnh Phước
+
+30913
+
+Xã Thạnh Lộc
+
+30916
+
+Xã Thạnh Hòa
+
+30919
+
+Xã Bàn Thạch
+
+30922
+
+Xã Bàn Tân Định
+
+30925
+
+Xã Ngọc Thành
+
+30928
+
+Xã Ngọc Chúc
+
+30931
+
+Xã Ngọc Thuận
+
+30934
+
+Xã Hòa Hưng
+
+30937
+
+Xã Hòa Lợi
+
+30940
+
+Xã Hòa An
+
+30943
+
+Xã Long Thạnh
+
+30946
+
+Xã Vĩnh Thạnh
+
+30949
+
+Xã Hòa Thuận
+
+**907**
+
+**Huyện Gò Quao**
+
+30952
+
+Thị trấn Gò Quao
+
+30955
+
+Xã Vĩnh Hòa Hưng Bắc
+
+30958
+
+Xã Định Hòa
+
+30961
+
+Xã Thới Quản
+
+30964
+
+Xã Định An
+
+30967
+
+Xã Thủy Liểu
+
+30970
+
+Xã Vĩnh Hòa Hưng Nam
+
+30973
+
+Xã Vĩnh Phước A
+
+30976
+
+Xã Vĩnh Phước B
+
+30979
+
+Xã Vĩnh Tuy
+
+30982
+
+Xã Vĩnh Thắng
+
+**908**
+
+**Huyện An Biên**
+
+30985
+
+Thị trấn Thứ Ba
+
+30988
+
+Xã Tây Yên
+
+30991
+
+Xã Tây Yên A
+
+30994
+
+Xã Nam Yên
+
+30997
+
+Xã Hưng Yên
+
+31000
+
+Xã Nam Thái
+
+31003
+
+Xã Nam Thái A
+
+31006
+
+Xã Đông Thái
+
+31009
+
+Xã Đông Yên
+
+31012
+
+Xã Thạnh Yên
+
+31015
+
+Xã Thạnh Yên A
+
+**909**
+
+**Huyện An Minh**
+
+31018
+
+Thị trấn Thứ Mười Một
+
+31021
+
+Xã Thuận Hòa
+
+31024
+
+Xã Đông Hòa
+
+31027
+
+Xã An Minh Bắc
+
+31030
+
+Xã Đông Thạnh
+
+31033
+
+Xã Đông Hưng
+
+31036
+
+Xã Đông Hưng A
+
+31039
+
+Xã Đông Hưng B
+
+31042
+
+Xã Vân Khánh
+
+31045
+
+Xã Vân Khánh Đông
+
+31048
+
+Xã Vân Khánh Tây
+
+**910**
+
+**Huyện Vĩnh Thuận**
+
+31051
+
+Thị trấn Vĩnh Thuận
+
+31054
+
+Xã Vĩnh Hòa
+
+31057
+
+Xã Hòa Chánh
+
+31060
+
+Xã Vĩnh Bình Bắc
+
+31063
+
+Xã Vĩnh Bình Nam
+
+31066
+
+Xã Minh Thuận
+
+31069
+
+Xã Vĩnh Thuận
+
+31072
+
+Xã Tân Thuận
+
+31075
+
+Xã Vĩnh Phong
+
+**911**
+
+**Huyện Phú Quốc**
+
+31078
+
+Thị trấn Dương Đông
+
+31081
+
+Thị trấn An Thới
+
+31084
+
+Xã Cửa Cạn
+
+31087
+
+Xã Gành Dầu
+
+31090
+
+Xã Cửa Dương
+
+31093
+
+Xã Hàm Ninh
+
+31096
+
+Xã Dương Tơ
+
+31099
+
+Xã Hòn Thơm
+
+31102
+
+Xã Bãi Thơm
+
+31105
+
+Xã Thổ Châu
+
+**912**
+
+**Huyện Kiên Hải**
+
+31108
+
+Xã Hòn Tre
+
+31111
+
+Xã Lại Sơn
+
+31114
+
+Xã An Sơn
+
+92. THÀNH PHỐ CẦN THƠ
+
+(Tổng số
+xã, phường, thị trấn: 67; xã: 33, phường: 30, thị trấn: 4)
+
+(Total
+number of communes, subdistricts, subtowns: 67)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**916**
+
+**Quận Ninh Kiều**
+
+31117
+
+Phường Cái Khế
+
+31120
+
+Phường An Hòa
+
+31123
+
+Phường Thới Bình
+
+31126
+
+Phường An Nghiệp
+
+31129
+
+Phường An Cư
+
+31132
+
+Phường An Hội
+
+31135
+
+Phường Tân An
+
+31138
+
+Phường An Lạc
+
+31141
+
+Phường An Phú
+
+31144
+
+Phường Xuân Khánh
+
+31147
+
+Phường Hưng Lợi
+
+31150
+
+Phường An Bình
+
+**917**
+
+**Quận Ô Môn**
+
+31153
+
+Phường Châu Văn Liêm
+
+31156
+
+Phường Thới Long
+
+31159
+
+Phường Thới An
+
+31162
+
+Phường Phước Thới
+
+31165
+
+Phường Trường Lạc
+
+**918**
+
+**Quận Bình Thủy**
+
+31168
+
+Phường Bình Thủy
+
+31171
+
+Phường Trà Nóc
+
+31174
+
+Phường Thới An Đông
+
+31177
+
+Phường An Thới
+
+31180
+
+Phường Long Hòa
+
+31183
+
+Phường Long Tuyền
+
+**919**
+
+**Quận Cái Răng**
+
+31186
+
+Phường Lê Bình
+
+31189
+
+Phường Hưng Phú
+
+31192
+
+Phường Hưng Thạnh
+
+31195
+
+Phường Ba Láng
+
+31198
+
+Phường Thường Thạnh
+
+31201
+
+Phường Phú Thứ
+
+31204
+
+Phường Tân Phú
+
+**923**
+
+**Huyện Thốt Nốt**
+
+31207
+
+Thị trấn Thốt Nốt
+
+31210
+
+Xã Thới Thuận
+
+31213
+
+Xã Tân Lộc
+
+31216
+
+Xã Trung Nhất
+
+31219
+
+Xã Trung Kiên
+
+31222
+
+Xã Trung An
+
+31225
+
+Xã Trung Thạnh
+
+31228
+
+Xã Thuận Hưng
+
+**924**
+
+**Huyện Vĩnh Thạnh**
+
+31231
+
+Thị trấn Thanh An
+
+31234
+
+Xã Thạnh Mỹ
+
+31237
+
+Xã Vĩnh Trinh
+
+31240
+
+Xã Thạnh An
+
+31243
+
+Xã Thạnh Thắng
+
+31246
+
+Xã Thạnh Qưới
+
+31249
+
+Xã Thạnh Phú
+
+31252
+
+Xã Thạnh Lộc
+
+31255
+
+Xã Trung Hưng
+
+**925**
+
+**Huyện Cờ Đỏ**
+
+31258
+
+Thị trấn Thới Lai
+
+31261
+
+Thị trấn Cờ Đỏ
+
+31264
+
+Xã Thới Hưng
+
+31267
+
+Xã Thới Thạnh
+
+31270
+
+Xã Xuân Thắng
+
+31273
+
+Xã Đông Hiệp
+
+31276
+
+Xã Thới Đông
+
+31279
+
+Xã Đông Bình
+
+31282
+
+Xã Đông Thuận
+
+31285
+
+Xã Thới Lai
+
+31288
+
+Xã Định Môn
+
+31291
+
+Xã Trường Thành
+
+31294
+
+Xã Trường Xuân
+
+31297
+
+Xã Trường Xuân A
+
+**926**
+
+**Huyện Phong Điền**
+
+31300
+
+Xã Nhơn Ái
+
+31303
+
+Xã Giai Xuân
+
+31306
+
+Xã Tân Thới
+
+31309
+
+Xã Trường Long
+
+31312
+
+Xã Mỹ Khánh
+
+31315
+
+Xã Nhơn Nghĩa
+
+93. TỈNH HẬU GIANG
+
+(Tổng số
+xã, phường, thị trấn: 60; xã: 48, phường: 5, thị trấn: 7)
+
+(Total
+number of communes, subdistricts, subtowns: 60)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**930**
+
+**Thị xã Vị Thanh**
+
+31318
+
+Phường I
+
+31321
+
+Phường IIII
+
+31324
+
+Phường IV
+
+31327
+
+Phường V
+
+31330
+
+Phường VII
+
+31333
+
+Xã Vị Tân
+
+31336
+
+Xã Hỏa Lựu
+
+31339
+
+Xã Hỏa Tiến
+
+**932**
+
+**Huyện Châu Thành A**
+
+31342
+
+Thị trấn Một Ngàn
+
+31345
+
+Xã Tân Thuận
+
+31348
+
+Xã Trường Long Tây
+
+31351
+
+Xã Trường Long A
+
+31354
+
+Xã Tân Hòa
+
+31357
+
+Xã Nhơn nghĩa A
+
+31360
+
+Xã Thạnh Xuân
+
+31363
+
+Xã Tân Phú Thạnh
+
+**933**
+
+**Huyện Châu Thành**
+
+31366
+
+Thị trấn Ngã Sáu
+
+31369
+
+Xã Đông Thạnh
+
+31372
+
+Xã Phú An
+
+31375
+
+Xã Đông Phú
+
+31378
+
+Xã Phú Hữu
+
+31381
+
+Xã Phú Hữu A
+
+31384
+
+Xã Đông Phước
+
+31387
+
+Xã Đông Phước A
+
+**934**
+
+**Huyện Phụng Hiệp**
+
+31390
+
+Thị trấn Phụng Hiệp
+
+31393
+
+Thị trấn Kinh Cùng
+
+31396
+
+Thị trấn Cây Dương
+
+31399
+
+Xã Tân Bình
+
+31402
+
+Xã Bình Thành
+
+31405
+
+Xã Thạnh Hòa
+
+31408
+
+Xã Long Thạnh
+
+31411
+
+Xã Đại Thành
+
+31414
+
+Xã Tân Thành
+
+31417
+
+Xã Phụng Hiệp
+
+31420
+
+Xã Hòa Mỹ
+
+31423
+
+Xã Hòa An
+
+31426
+
+Xã Phương Bình
+
+31429
+
+Xã Hiệp Hưng
+
+31432
+
+Xã Tân Phước Hưng
+
+31435
+
+Xã Phương Phú
+
+31438
+
+Xã Tân Long
+
+**935**
+
+**Huyện Vị Thủy**
+
+31441
+
+Thị trấn Nàng Mau
+
+31444
+
+Xã Vị Trung
+
+31447
+
+Xã Vị Thuỷ
+
+31450
+
+Xã Vị Thắng
+
+31453
+
+Xã Vĩnh Thuận Tây
+
+31456
+
+Xã Vĩnh Trung
+
+31459
+
+Xã Vĩnh Tường
+
+31462
+
+Xã Vị Đông
+
+31465
+
+Xã Vị Thanh
+
+31468
+
+Xã Vị Bình
+
+**936**
+
+**Huyện Long Mỹ**
+
+31471
+
+Thị trấn Long Mỹ
+
+31474
+
+Xã Long Bình
+
+31477
+
+Xã Long Trị
+
+31480
+
+Xã Long Phú
+
+31483
+
+Xã Thuận Hưng
+
+31486
+
+Xã Vĩnh Thuận Đông
+
+31489
+
+Xã Vĩnh Viễn
+
+31492
+
+Xã Lương Tâm
+
+31495
+
+Xã Xà Phiên
+
+94. TỈNH SÓC TRĂNG
+
+(Tổng số
+xã, phường, thị trấn: 105; xã: 87, phường: 10, thị trấn: 8)
+
+(Total
+number of communes, subdistricts, subtowns: 105)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**941**
+
+**Thị xã Sóc Trăng**
+
+31498
+
+Phường 5
+
+31501
+
+Phường 7
+
+31504
+
+Phường 8
+
+31507
+
+Phường 6
+
+31510
+
+Phường 2
+
+31513
+
+Phường 1
+
+31516
+
+Phường 4
+
+31519
+
+Phường 3
+
+31522
+
+Phường 9
+
+31525
+
+Phường 10
+
+**943**
+
+**Huyện Kế Sách**
+
+31528
+
+Thị trấn Kế Sách
+
+31531
+
+Xã An Lạc Thôn
+
+31534
+
+Xã Xuân Hòa
+
+31537
+
+Xã Phong Nẫm
+
+31540
+
+Xã An Lạc Tây
+
+31543
+
+Xã Trinh Phú
+
+31546
+
+Xã Ba Trinh
+
+31549
+
+Xã Thới An Hội
+
+31552
+
+Xã Nhơn Mỹ
+
+31555
+
+Xã Kế Thành
+
+31558
+
+Xã Kế An
+
+31561
+
+Xã Đại Hải
+
+31564
+
+Xã An Mỹ
+
+**944**
+
+**Huyện Mỹ Tú**
+
+31567
+
+Thị trấn Huỳnh Hữu Nghĩa
+
+31570
+
+Xã Hồ Đắc Kiện
+
+31573
+
+Xã Phú Tâm
+
+31576
+
+Xã Thuận Hòa
+
+31579
+
+Xã Long Hưng
+
+31582
+
+Xã Phú Tân
+
+31585
+
+Xã Thiện Mỹ
+
+31588
+
+Xã Hưng Phú
+
+31591
+
+Xã Mỹ Hương
+
+31594
+
+Xã An Hiệp
+
+31597
+
+Xã Mỹ Tú
+
+31600
+
+Xã An Ninh
+
+31603
+
+Xã Mỹ Phước
+
+31606
+
+Xã Thuận Hưng
+
+31609
+
+Xã Mỹ Thuận
+
+31612
+
+Xã Phú Mỹ
+
+**945**
+
+**Huyện Cù Lao Dung**
+
+31615
+
+Thị trấn Cù Lao Dung
+
+31618
+
+Xã An Thạnh 1
+
+31621
+
+Xã An Thạnh Tây
+
+31624
+
+Xã An Thạnh Đông
+
+31627
+
+Xã Đại Ân 1
+
+31630
+
+Xã An Thạnh 2
+
+31633
+
+Xã An Thạnh 3
+
+31636
+
+Xã An Thạnh Nam
+
+**946**
+
+**Huyện Long Phú**
+
+31639
+
+Thị trấn Long Phú
+
+31642
+
+Xã Song Phụng
+
+31645
+
+Xã Đại Ngãi
+
+31648
+
+Xã Hậu Thạnh
+
+31651
+
+Xã Long Đức
+
+31654
+
+Xã Trường Khánh
+
+31657
+
+Xã Phú Hữu
+
+31660
+
+Xã Tân Hưng
+
+31663
+
+Xã Châu Khánh
+
+31666
+
+Xã Tân Thạnh
+
+31669
+
+Xã Long Phú
+
+31672
+
+Xã Đại Ân 2
+
+31675
+
+Xã Liêu Tú
+
+31678
+
+Xã Lịch Hội Thượng
+
+31681
+
+Xã Trung Bình
+
+**947**
+
+**Huyện Mỹ Xuyên**
+
+31684
+
+Thị trấn Mỹ Xuyên
+
+31687
+
+Xã Tài Văn
+
+31690
+
+Xã Đại Tâm
+
+31693
+
+Xã Tham Đôn
+
+31696
+
+Xã Viên An
+
+31699
+
+Xã Thạnh Thới An
+
+31702
+
+Xã Thạnh Thới Thuận
+
+31705
+
+Xã Viên Bình
+
+31708
+
+Xã Thạnh Phú
+
+31711
+
+Xã Ngọc Đông
+
+31714
+
+Xã Thạnh Quới
+
+31717
+
+Xã Hòa Tú 1
+
+31720
+
+Xã Gia Hòa 1
+
+31723
+
+Xã Ngọc Tố
+
+31726
+
+Xã Gia Hòa 2
+
+31729
+
+Xã Hòa Tú III
+
+**948**
+
+**Huyện Ngã Năm**
+
+31732
+
+Thị trấn Ngã Năm
+
+31735
+
+Xã Long Tân
+
+31738
+
+Xã Vĩnh Quới
+
+31741
+
+Xã Tân Long
+
+31744
+
+Xã Long Bình
+
+31747
+
+Xã Vĩnh Biên
+
+31750
+
+Xã Mỹ Bình
+
+31753
+
+Xã Mỹ Quới
+
+**949**
+
+**Huyện Thạnh Trị**
+
+31756
+
+Thị trấn Phú Lộc
+
+31759
+
+Xã Lâm Tân
+
+31762
+
+Xã Thạnh Tân
+
+31765
+
+Xã Lâm Kiết
+
+31768
+
+Xã Tuân Tức
+
+31771
+
+Xã Vĩnh Thành
+
+31774
+
+Xã Thạnh Trị
+
+31777
+
+Xã Vĩnh Lợi
+
+31780
+
+Xã Châu Hưng
+
+**950**
+
+**Huyện Vĩnh Châu**
+
+31783
+
+Thị trấn Vĩnh Châu
+
+31786
+
+Xã Hòa Đông
+
+31789
+
+Xã Khánh Hòa
+
+31792
+
+Xã Vĩnh Hiệp
+
+31795
+
+Xã Vĩnh Hải
+
+31798
+
+Xã Lạc Hòa
+
+31801
+
+Xã Vĩnh Châu
+
+31804
+
+Xã Vĩnh Phước
+
+31807
+
+Xã Vĩnh Tân
+
+31810
+
+Xã Lai Hòa
+
+95. TỈNH BẠC LIÊU
+
+(Tổng số
+xã, phường, thị trấn: 62; xã: 49, phường: 7, thị trấn: 6)
+
+(Total
+number of communes, subdistricts, subtowns: 62)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**954**
+
+**Thị xã Bạc Liêu**
+
+31813
+
+Phường 2
+
+31816
+
+Phường 3
+
+31819
+
+Phường 5
+
+31822
+
+Phường 7
+
+31825
+
+Phường 1
+
+31828
+
+Phường 8
+
+31831
+
+Phường Nhà Mát
+
+31834
+
+Xã Vĩnh Trạch
+
+31837
+
+Xã Vĩnh Trạch Đông
+
+31840
+
+Xã Hiệp Thành
+
+**956**
+
+**Huyện Hồng Dân**
+
+31843
+
+Thị trấn Ngan Dừa
+
+31846
+
+Xã Ninh Quới
+
+31849
+
+Xã Ninh Quới A
+
+31852
+
+Xã Ninh Hòa
+
+31855
+
+Xã Lộc Ninh
+
+31858
+
+Xã Vĩnh Lộc
+
+31861
+
+Xã Vĩnh Lộc A
+
+31864
+
+Xã Ninh Thạnh Lợi
+
+**957**
+
+**Huyện Phước Long**
+
+31867
+
+Thị trấn Phước Long
+
+31870
+
+Xã Vĩnh Phú Đông
+
+31873
+
+Xã Vĩnh Phú Tây
+
+31876
+
+Xã Phước Long
+
+31879
+
+Xã Hưng Phú
+
+31882
+
+Xã Vĩnh Thanh
+
+31885
+
+Xã Phong Thạnh Tây A
+
+31888
+
+Xã Phong Thạnh Tây B
+
+**958**
+
+**Huyện Vĩnh Lợi**
+
+31891
+
+Thị trấn Hòa Bình
+
+31894
+
+Xã Vĩnh Hưng
+
+31897
+
+Xã Vĩnh Hưng A
+
+31900
+
+Xã Châu Hưng
+
+31903
+
+Xã Châu Hưng A
+
+31906
+
+Xã Hưng Thành
+
+31909
+
+Xã Hưng Hội
+
+31912
+
+Xã Châu Thới
+
+31915
+
+Xã Minh Diệu
+
+31918
+
+Xã Vĩnh Bình
+
+31921
+
+Xã Long Thạnh
+
+31924
+
+Xã Vĩnh Mỹ B
+
+31927
+
+Xã Vĩnh Hậu
+
+31930
+
+Xã Vĩnh Hậu A
+
+31933
+
+Xã Vĩnh Mỹ A
+
+31936
+
+Xã Vĩnh Thịnh
+
+31939
+
+Xã Phong Thạnh Tây B
+
+**959**
+
+**Huyện Giá RRai**
+
+31942
+
+Thị trấn Giá RRai
+
+31945
+
+Thị trấn Hộ Phòng
+
+31948
+
+Xã Phong Thạnh Đông
+
+31951
+
+Xã Phong Thạnh Đông A
+
+31954
+
+Xã Phong Tân
+
+31957
+
+Xã Tân Phong
+
+31960
+
+Xã Phong Thạnh
+
+31963
+
+Xã Phong Thạnh A
+
+31966
+
+Xã Phong Thạnh Tây
+
+31969
+
+Xã Tân Thạnh
+
+**960**
+
+**Huyện Đông Hải**
+
+31972
+
+Thị trấn Gành Hào
+
+31975
+
+Xã Long Điền Đông
+
+31978
+
+Xã Long Điền Đông A
+
+31981
+
+Xã Long Điền
+
+31984
+
+Xã Long Điền Tây
+
+31987
+
+Xã An Trạch
+
+31990
+
+Xã An Phúc
+
+31993
+
+Xã Định Thành
+
+31996
+
+Xã Định Thành A
+
+96. TỈNH CÀ MAU
+
+(Tổng số
+xã, phường, thị trấn: 84; xã: 68, phường: 8, thị trấn: 8)
+
+(Total
+number of communes, subdistricts, subtowns: 84)
+
+**Mã
+số**
+
+**Code**
+
+**Tên
+đơn vị hành chính**
+
+**Name
+of the Administrative Divisions**
+
+1
+
+2
+
+**964**
+
+**Thành phố Cà Mau**
+
+31999
+
+Phường 9
+
+32002
+
+Phường 4
+
+32005
+
+Phường 1
+
+32008
+
+Phường 5
+
+32011
+
+Phường 2
+
+32014
+
+Phường 8
+
+32017
+
+Phường 6
+
+32020
+
+Phường 7
+
+32023
+
+Xã An Xuyên
+
+32026
+
+Xã Tân Thành
+
+32029
+
+Xã Tắc Vân
+
+32032
+
+Xã Lý Văn Lâm
+
+32035
+
+Xã Định Bình
+
+32038
+
+Xã Hòa Thành
+
+32041
+
+Xã Hòa Tân
+
+**966**
+
+**Huyện U Minh**
+
+32044
+
+Thị trấn U Minh
+
+32047
+
+Xã Khánh Hòa
+
+32050
+
+Xã Khánh Tiến
+
+32053
+
+Xã Nguyễn Phích
+
+32056
+
+Xã Khánh Lâm
+
+32059
+
+Xã Khánh An
+
+32062
+
+Xã Khánh Hội
+
+**967**
+
+**Huyện Thới Bình**
+
+32065
+
+Thị trấn Thới Bình
+
+32068
+
+Xã Biển Bạch
+
+32071
+
+Xã Trí Phải
+
+32074
+
+Xã Biển Bạch Đông
+
+32077
+
+Xã Thới Bình
+
+32080
+
+Xã Tân Phú
+
+32083
+
+Xã Tân Lộc Bắc
+
+32086
+
+Xã Tân Lộc
+
+32089
+
+Xã Tân Lộc Đông
+
+32092
+
+Xã Hồ Thị Kỷ
+
+**968**
+
+**Huyện Trần Văn Thời**
+
+32095
+
+Thị trấn Trần Văn Thời
+
+32098
+
+Thị trấn Sông Đốc
+
+32101
+
+Xã Khánh Bình Tây Bắc
+
+32104
+
+Xã Khánh Bình Tây
+
+32107
+
+Xã Trần Hợi
+
+32110
+
+Xã Khánh Bình
+
+32113
+
+Xã Khánh Hưng
+
+32116
+
+Xã Khánh Bình Đông
+
+32119
+
+Xã Khánh Hải
+
+32122
+
+Xã Lợi An
+
+32125
+
+Xã Phong Lạc
+
+**969**
+
+**Huyện Cái Nước**
+
+32128
+
+Thị trấn Cái Nước
+
+32131
+
+Xã Lương Thế Trân
+
+32134
+
+Xã Phú Hưng
+
+32137
+
+Xã Tân Hưng
+
+32140
+
+Xã Hưng Mỹ
+
+32143
+
+Xã Đông Thới
+
+32146
+
+Xã Tân Hưng Đông
+
+32149
+
+Xã Trần Thới
+
+**970**
+
+**Huyện Đầm Dơi**
+
+32152
+
+Thị trấn Đầm Dơi
+
+32155
+
+Xã Tạ An Khương
+
+32158
+
+Xã Tạ An Khương Đông
+
+32161
+
+Xã Trần Phán
+
+32164
+
+Xã Tân Đức
+
+32167
+
+Xã Tân Thuận
+
+32170
+
+Xã Tạ An Khương Nam
+
+32173
+
+Xã Tân Duyệt
+
+32176
+
+Xã Tân Tiến
+
+32179
+
+Xã Quách Phẩm Bắc
+
+32182
+
+Xã Quách Phẩm
+
+32185
+
+Xã Thanh Tùng
+
+32188
+
+Xã Nguyễn Huân
+
+**971**
+
+**Huyện Năm Căn**
+
+32191
+
+Thị trấn Ngọc Hiển
+
+32194
+
+Xã Hàm Rồng
+
+32197
+
+Xã Hiệp Tùng
+
+32200
+
+Xã Đất Mới
+
+32203
+
+Xã Hàng Vịnh
+
+32206
+
+Xã Tam Giang
+
+32209
+
+Xã Tam Giang Đông
+
+**972**
+
+**Huyện Phú Tân**
+
+32212
+
+Thị trấn Cái Đôi Vàm
+
+32215
+
+Xã Phú Mỹ
+
+32218
+
+Xã Phú Tân
+
+32221
+
+Xã Tân Hải
+
+32224
+
+Xã Việt Thắng
+
+32227
+
+Xã Tân Hưng Tây
+
+32230
+
+Xã Việt Khái
+
+**973**
+
+**Huyện Ngọc Hiển**
+
+32233
+
+Xã Tam Giang Tây
+
+32236
+
+Xã Tân Ân Tây
+
+32239
+
+Xã Viên An Đông
+
+32242
+
+Xã Viên An
+
+32245
+
+Xã Tân Ân
+
+32248
+
+Xã Đất Mũi

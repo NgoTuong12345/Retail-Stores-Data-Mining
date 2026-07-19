@@ -1,0 +1,10 @@
+# Aha coffee — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: aha-coffee
+name: Aha coffee
+brand_regex: Aha\ coffee
+spelling_variants:
+- Aha coffee
+- AHA COFFEE
+- aha coffee
+seed_parent_msts: []
+default_store_type: Aha coffee

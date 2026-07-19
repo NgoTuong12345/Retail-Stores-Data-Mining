@@ -1,0 +1,10 @@
+# Givral — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: givral
+name: Givral
+brand_regex: Givral
+spelling_variants:
+- Givral
+- GIVRAL
+- givral
+seed_parent_msts: []
+default_store_type: Givral

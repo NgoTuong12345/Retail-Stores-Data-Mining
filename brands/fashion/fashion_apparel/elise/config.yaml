@@ -1,0 +1,10 @@
+# Elise — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: elise
+name: Elise
+brand_regex: Elise
+spelling_variants:
+- Elise
+- ELISE
+- elise
+seed_parent_msts: []
+default_store_type: Elise

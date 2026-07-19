@@ -1,0 +1,10 @@
+# MevaBe 1080 — auto-generated from vn_retail_system.json (mother_baby / kids_baby_stores)
+slug: mevabe-1080
+name: MevaBe 1080
+brand_regex: MevaBe\ 1080
+spelling_variants:
+- MevaBe 1080
+- MEVABE 1080
+- mevabe 1080
+seed_parent_msts: []
+default_store_type: MevaBe 1080

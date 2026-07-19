@@ -1,0 +1,10 @@
+# Nike — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: nike
+name: Nike
+brand_regex: Nike
+spelling_variants:
+- Nike
+- NIKE
+- nike
+seed_parent_msts: []
+default_store_type: Nike

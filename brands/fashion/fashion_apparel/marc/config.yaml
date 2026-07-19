@@ -1,0 +1,9 @@
+# MARC — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: marc
+name: MARC
+brand_regex: MARC
+spelling_variants:
+- MARC
+- marc
+seed_parent_msts: []
+default_store_type: MARC

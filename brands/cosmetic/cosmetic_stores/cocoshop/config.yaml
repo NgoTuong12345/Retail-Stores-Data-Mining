@@ -1,0 +1,10 @@
+# Cocoshop — auto-generated from vn_retail_system.json (cosmetic / cosmetic_stores)
+slug: cocoshop
+name: Cocoshop
+brand_regex: Cocoshop
+spelling_variants:
+- Cocoshop
+- COCOSHOP
+- cocoshop
+seed_parent_msts: []
+default_store_type: Cocoshop

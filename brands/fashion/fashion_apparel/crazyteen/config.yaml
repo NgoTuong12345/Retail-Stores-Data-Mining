@@ -1,0 +1,10 @@
+# Crazyteen — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: crazyteen
+name: Crazyteen
+brand_regex: Crazyteen
+spelling_variants:
+- Crazyteen
+- CRAZYTEEN
+- crazyteen
+seed_parent_msts: []
+default_store_type: Crazyteen

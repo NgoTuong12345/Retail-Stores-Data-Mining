@@ -1,0 +1,36 @@
+# Python / build
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.pytest_cache/
+
+# Env / secrets
+.env
+
+# Editor/IDE
+.claude/settings.local.json
+.vscode/
+.idea/
+
+# Archived docs
+docs/archive/
+
+# Regenerable pipeline artifacts (root-anchored — NOT dkkd/data/, which is
+# bundled package source: geo_lookup.json, provinces.py, etc.)
+/data/
+*.log
+~$*.xlsx
+
+# Brand HARVEST (accumulated scrape state, exports, reports, analysis) —
+# track only config.yaml + _master/brand_master.yaml; ignore everything else
+# under brands/ (state.json, checkpoint.json*, discovered.json, output/,
+# <slug>.csv/.xlsx exports, *_standard_schema.*, *_audit_report.md,
+# *_backtest_report.md, and all other loose harvest artifacts).
+brands/**
+!brands/**/
+!brands/**/config.yaml
+!brands/_master/brand_master.yaml

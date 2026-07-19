@@ -1,0 +1,10 @@
+# Pull & Bear — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: pull-bear
+name: Pull & Bear
+brand_regex: Pull\ \&\ Bear
+spelling_variants:
+- Pull & Bear
+- PULL & BEAR
+- pull & bear
+seed_parent_msts: []
+default_store_type: Pull & Bear

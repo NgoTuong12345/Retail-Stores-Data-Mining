@@ -1,0 +1,10 @@
+# Pizza Inn — auto-generated from vn_retail_system.json (F&B / fast_food_chains)
+slug: pizza-inn
+name: Pizza Inn
+brand_regex: Pizza\ Inn
+spelling_variants:
+- Pizza Inn
+- PIZZA INN
+- pizza inn
+seed_parent_msts: []
+default_store_type: Pizza Inn

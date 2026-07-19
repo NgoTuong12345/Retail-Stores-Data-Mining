@@ -1,0 +1,10 @@
+# Subway — auto-generated from vn_retail_system.json (F&B / fast_food_chains)
+slug: subway
+name: Subway
+brand_regex: Subway
+spelling_variants:
+- Subway
+- SUBWAY
+- subway
+seed_parent_msts: []
+default_store_type: Subway

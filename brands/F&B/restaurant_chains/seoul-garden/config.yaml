@@ -1,0 +1,10 @@
+# Seoul Garden — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: seoul-garden
+name: Seoul Garden
+brand_regex: Seoul\ Garden
+spelling_variants:
+- Seoul Garden
+- SEOUL GARDEN
+- seoul garden
+seed_parent_msts: []
+default_store_type: Seoul Garden

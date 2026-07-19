@@ -1,0 +1,10 @@
+# Chewy Chewy — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: chewy-chewy
+name: Chewy Chewy
+brand_regex: Chewy\ Chewy
+spelling_variants:
+- Chewy Chewy
+- CHEWY CHEWY
+- chewy chewy
+seed_parent_msts: []
+default_store_type: Chewy Chewy

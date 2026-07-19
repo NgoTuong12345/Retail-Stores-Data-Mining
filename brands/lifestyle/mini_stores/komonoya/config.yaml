@@ -1,0 +1,10 @@
+# Komonoya — auto-generated from vn_retail_system.json (lifestyle / mini_stores)
+slug: komonoya
+name: Komonoya
+brand_regex: Komonoya
+spelling_variants:
+- Komonoya
+- KOMONOYA
+- komonoya
+seed_parent_msts: []
+default_store_type: Komonoya

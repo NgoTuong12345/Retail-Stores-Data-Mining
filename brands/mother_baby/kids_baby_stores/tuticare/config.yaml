@@ -1,0 +1,10 @@
+# TutiCare — auto-generated from vn_retail_system.json (mother_baby / kids_baby_stores)
+slug: tuticare
+name: TutiCare
+brand_regex: TutiCare
+spelling_variants:
+- TutiCare
+- TUTICARE
+- tuticare
+seed_parent_msts: []
+default_store_type: TutiCare

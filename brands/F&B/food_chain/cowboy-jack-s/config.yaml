@@ -1,0 +1,10 @@
+# Cowboy Jack's — auto-generated from vn_retail_system.json (F&B / food_chain)
+slug: cowboy-jack-s
+name: Cowboy Jack's
+brand_regex: Cowboy\ Jack's
+spelling_variants:
+- Cowboy Jack's
+- COWBOY JACK'S
+- cowboy jack's
+seed_parent_msts: []
+default_store_type: Cowboy Jack's

@@ -1,0 +1,10 @@
+# Cinestar — auto-generated from vn_retail_system.json (movie / movie_theatres)
+slug: cinestar
+name: Cinestar
+brand_regex: Cinestar
+spelling_variants:
+- Cinestar
+- CINESTAR
+- cinestar
+seed_parent_msts: []
+default_store_type: Cinestar

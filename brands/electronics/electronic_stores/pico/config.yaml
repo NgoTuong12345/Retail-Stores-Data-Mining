@@ -1,0 +1,10 @@
+# Pico — auto-generated from vn_retail_system.json (electronics / electronic_stores)
+slug: pico
+name: Pico
+brand_regex: Pico
+spelling_variants:
+- Pico
+- PICO
+- pico
+seed_parent_msts: []
+default_store_type: Pico

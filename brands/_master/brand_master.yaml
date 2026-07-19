@@ -1,0 +1,250 @@
+# Curated overlay for the unified brand master. One entry per brand slug.
+# Net-new fields ONLY — name/spelling_variants come from config.yaml, and
+# industry/subsector default from the brands/<cat>/<subcat>/<slug>/ path.
+# See docs/archive/superpowers/specs/2026-07-08-unified-company-brand-master-design.md
+#
+# Fields:
+#   slug                          - required; must match brands/**/<slug>/config.yaml
+#   country_origin                - country name
+#   domestic_foreign               - Domestic | Foreign
+#   description                   - short business description
+#   owner_msts                    - {mst: owner_legal_name} — structured VN owner names
+#   website_slug                  - comp_website_scrapper/brands/<slug> link (nullable)
+#   industry_override / subsector_override - only when the folder path is wrong
+
+- slug: winmart
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Masan's modern-trade mini-supermarket & supermarket banner."
+  owner_msts:
+    "0104918404": "WinCommerce General Commercial Services JSC"
+  website_slug: winmart
+
+- slug: circle-k
+  country_origin: United States
+  domestic_foreign: Foreign
+  description: "Convenience-store chain operated in Vietnam under franchise."
+  website_slug: circle-k
+
+- slug: bach-hoa-xanh
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "MWG's grocery/mini-mart banner."
+  owner_msts:
+    "0301912299": "Investment The Gioi Di Dong JSC (MWG)"
+  website_slug: bach-hoa-xanh
+
+- slug: long-chau
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "FPT Retail's pharmacy chain."
+
+- slug: go
+  country_origin: Thailand
+  domestic_foreign: Foreign
+  description: "Central Retail's rebrand of the former Big C hypermarket chain in Vietnam."
+
+- slug: dien-may-xanh
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "MWG's consumer-electronics banner."
+
+- slug: pharmacity
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Independent pharmacy chain."
+
+- slug: viettel-store
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Viettel Group's electronics/telecom retail banner."
+
+- slug: aeon-supermarket
+  country_origin: Japan
+  domestic_foreign: Foreign
+  description: "AEON Co.'s supermarket format in Vietnam."
+
+- slug: nha-thuoc-an-khang
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "MWG's pharmacy chain."
+
+- slug: pnj
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Phu Nhuan Jewelry — gold/jewelry chain."
+
+- slug: mm-mega-market
+  country_origin: Thailand
+  domestic_foreign: Foreign
+  description: "Former Metro Cash & Carry Vietnam, now owned by Thailand's TCC Group/BJC."
+
+- slug: fpt-shop
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "FPT Retail's electronics chain."
+
+- slug: coop-food
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Saigon Co.op's mini-supermarket banner."
+
+- slug: the-gioi-di-dong-tgdd
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "MWG's flagship electronics/mobile-phone chain."
+
+- slug: co-op-mart
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Saigon Co.op's supermarket banner."
+
+- slug: family-mart
+  country_origin: Japan
+  domestic_foreign: Foreign
+  description: "FamilyMart Co.'s convenience-store chain, operated in Vietnam under franchise."
+
+- slug: mini-stop
+  country_origin: Japan
+  domestic_foreign: Foreign
+  description: "AEON's Ministop convenience-store chain."
+
+- slug: gs25
+  country_origin: South Korea
+  domestic_foreign: Foreign
+  description: "GS Retail's convenience-store chain, operated in Vietnam under franchise (Sonkim)."
+
+- slug: doji
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "DOJI Group's gold/jewelry chain."
+
+- slug: guardian
+  country_origin: Singapore
+  domestic_foreign: Foreign
+  description: "DFI Retail Group's health & beauty chain."
+
+- slug: b-s-mart
+  country_origin: Thailand
+  domestic_foreign: Foreign
+  description: "Thai-origin convenience-store concept (B'Smart lineage); operated in Vietnam via a local joint venture."
+
+- slug: cheers
+  country_origin: Singapore
+  domestic_foreign: Foreign
+  description: "NTUC FairPrice's (Singapore) convenience-store chain, operated in Vietnam via a joint venture with Saigon Co.op."
+
+- slug: sjc
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "State-owned Saigon Jewelry Company — gold chain."
+
+- slug: phong-vu
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Independent computer/electronics retailer."
+
+- slug: 7-eleven
+  # country_origin uses the brand's FOUNDING country (matching circle-k's
+  # convention above, which stays "United States" despite Canadian ownership)
+  # — not its current owner. 7-Eleven founded 1927 in Dallas, Texas; now
+  # majority-owned by Japan's Seven & I Holdings.
+  country_origin: United States
+  domestic_foreign: Foreign
+  description: "Convenience-store chain founded in the US; Vietnam franchise via Seven System Vietnam, global brand now controlled by Japan's Seven & I Holdings."
+
+- slug: cellphones
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Independent electronics/mobile-phone retailer (CellphoneS)."
+
+- slug: di-dong-viet
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Independent mobile-phone retailer (Di Dong Viet)."
+
+- slug: phano-pharmacy
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Independent pharmacy chain."
+
+- slug: hoang-ha
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Independent mobile-phone retailer (Hoang Ha Mobile)."
+
+- slug: medicare
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Independent pharmacy chain."
+
+- slug: coop-extra
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Saigon Co.op's hypermarket banner."
+
+- slug: lotte-mart
+  country_origin: South Korea
+  domestic_foreign: Foreign
+  description: "Lotte Group's hypermarket chain."
+
+- slug: bao-tin-minh-chau
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Independent gold/jewelry chain (Bao Tin Minh Chau)."
+
+- slug: matsumoto-kiyoshi
+  country_origin: Japan
+  domestic_foreign: Foreign
+  description: "Matsumotokiyoshi Holdings' drugstore chain, operated in Vietnam under franchise."
+
+- slug: mi-hong
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Independent gold shop chain (Mi Hong, Ho Chi Minh City)."
+
+- slug: sk-pharmacy
+  # Country of origin not independently verified — best-available inference
+  # from a Vietnamese-registered small pharmacy chain with no evidence of a
+  # foreign parent; treat with lower confidence than other Domestic entries.
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Independent pharmacy chain."
+
+- slug: jemmia
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  # Previously described as "PNJ Group's jewelry sub-brand" — that corporate
+  # affiliation is unverified (Jemmia Diamond appears to operate
+  # independently); softened until confirmed.
+  description: "Independent gold/jewelry chain (Jemmia)."
+
+- slug: precita
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Independent jewelry chain (Precita)."
+
+- slug: phu-quy
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Phu Quy Group's gold/jewelry chain."
+
+- slug: topzone
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "MWG's Apple-authorized retail banner."
+
+- slug: eco-pharma
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Independent pharmacy chain (ECO Pharma)."
+
+- slug: my-chau
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Independent pharmacy chain (My Chau Pharmacy)."
+
+- slug: cao-fine-jewellery
+  country_origin: Vietnam
+  domestic_foreign: Domestic
+  description: "Independent jewelry chain (CAO Fine Jewellery)."

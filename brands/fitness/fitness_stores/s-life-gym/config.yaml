@@ -1,0 +1,10 @@
+# S'Life GYM — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: s-life-gym
+name: S'Life GYM
+brand_regex: S'Life\ GYM
+spelling_variants:
+- S'Life GYM
+- S'LIFE GYM
+- s'life gym
+seed_parent_msts: []
+default_store_type: S'Life GYM

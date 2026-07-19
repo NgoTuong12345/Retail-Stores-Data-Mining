@@ -1,0 +1,10 @@
+# Goofoo — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: goofoo
+name: Goofoo
+brand_regex: Goofoo
+spelling_variants:
+- Goofoo
+- GOOFOO
+- goofoo
+seed_parent_msts: []
+default_store_type: Goofoo

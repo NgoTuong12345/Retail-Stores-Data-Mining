@@ -1,0 +1,10 @@
+# Levi’s — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: levi-s
+name: Levi’s
+brand_regex: Levi’s
+spelling_variants:
+- Levi’s
+- LEVI’S
+- levi’s
+seed_parent_msts: []
+default_store_type: Levi’s

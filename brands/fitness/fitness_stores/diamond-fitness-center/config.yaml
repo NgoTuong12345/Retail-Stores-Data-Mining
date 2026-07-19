@@ -1,0 +1,10 @@
+# Diamond Fitness Center — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: diamond-fitness-center
+name: Diamond Fitness Center
+brand_regex: Diamond\ Fitness\ Center
+spelling_variants:
+- Diamond Fitness Center
+- DIAMOND FITNESS CENTER
+- diamond fitness center
+seed_parent_msts: []
+default_store_type: Diamond Fitness Center

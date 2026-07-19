@@ -1,0 +1,10 @@
+# The Body Shop — auto-generated from vn_retail_system.json (cosmetic / cosmetic_stores)
+slug: the-body-shop
+name: The Body Shop
+brand_regex: The\ Body\ Shop
+spelling_variants:
+- The Body Shop
+- THE BODY SHOP
+- the body shop
+seed_parent_msts: []
+default_store_type: The Body Shop

@@ -1,0 +1,60 @@
+# brands/bao-tin-minh-chau/config.yaml
+# Bảo Tín Minh Châu — major Northern Vietnam gold chain
+# ~50-100 stores, concentrated in Hà Nội and northern provinces
+
+slug: bao-tin-minh-chau
+name: Bảo Tín Minh Châu
+# Require the full distinctive phrase "Bảo Tín Minh Châu". Bare 'BẢO TÍN' / 'BTMC'
+# match unrelated firms (tea, fashion, finance, building materials, …) and caused
+# 87% false positives (see tests/test_btmc_brand_filter.py).
+brand_regex: 'BẢO\s*TÍN\s*MINH\s*CHÂU|BAO\s*TIN\s*MINH\s*CHAU'
+spelling_variants:
+  - 'BẢO TÍN MINH CHÂU'
+  - 'BAO TIN MINH CHAU'
+  - 'BTMC'
+  - 'BẢO TÍN'
+  - 'BAO TIN'
+  - 'VÀNG BẠC ĐÁ QUÝ BẢO TÍN MINH CHÂU'
+  - 'VÀNG BẠC ĐÁ QUÍ BẢO TÍN MINH CHÂU'
+
+seed_parent_msts:
+  - '0100683952'
+
+default_store_type: 'Bảo Tín Minh Châu Store'
+
+classification:
+  # National cross-brand Id->date curve instead of bao-tin-minh-chau's own masothue
+  # calibration (suffix-axis capped at 'low' regardless of accuracy). See enrich.py GlobalDateInterpolator.
+  date_calibration_force_global: true
+  date_calibration_parent_mst: '0100683952'
+  date_calibration_min_date: '2010-01-01'
+  masothue_parent_url: 'https://masothue.com/0100683952-cong-ty-tnhh-bao-tin-minh-chau'
+  corporate_keywords:
+    - 'VĂN PHÒNG'
+    - 'VPĐD'
+    - 'VP ĐẠI DIỆN'
+    - 'KHO '
+    - 'XÍ NGHIỆP'
+    - 'NHÀ MÁY'
+    - 'XƯỞNG CHẾ TÁC'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'LOGISTICS'
+    - 'VĂN PHÒNG ĐẠI DIỆN'
+    - 'VAN PHONG'
+    - 'VP DAI DIEN'
+    - 'XUONG CHE TAC'
+    - 'TRUNG TAM PHAN PHOI'
+    - 'VAN PHONG DAI DIEN'
+  # Generic BHX-shaped schema_export defaults assume BHX's own vocabulary
+  # (CỬA HÀNG/KHO/ONLINE/FARM). This override adds jewelry-sector-safe
+  # Warehouse/Services buckets (workshop, factory, appraisal lab) so those
+  # don't fall into the catch-all 'Other' bucket; Retail keyword unchanged.
+  schema_export:
+    store_type_patterns:
+      - ['Warehouse', '\bXƯỞNG\b|\bNHÀ MÁY\b|\bKHO\b']
+      - ['Services', 'GIÁM ĐỊNH']
+      - ['Retail', 'C[ỬU]A H[ÀA]NG']
+
+store_type_rules:
+  - ['ĐẠI LÝ|DAI LY', 'BTMC Agent']
+  - ['TRUNG TÂM|CENTER', 'BTMC Center']

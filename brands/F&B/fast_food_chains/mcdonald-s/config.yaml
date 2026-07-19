@@ -1,0 +1,10 @@
+# McDonald's — auto-generated from vn_retail_system.json (F&B / fast_food_chains)
+slug: mcdonald-s
+name: McDonald's
+brand_regex: McDonald's
+spelling_variants:
+- McDonald's
+- MCDONALD'S
+- mcdonald's
+seed_parent_msts: []
+default_store_type: McDonald's

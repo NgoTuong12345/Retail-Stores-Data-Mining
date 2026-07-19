@@ -1,0 +1,10 @@
+# Urban Station Coffee — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: urban-station-coffee
+name: Urban Station Coffee
+brand_regex: Urban\ Station\ Coffee
+spelling_variants:
+- Urban Station Coffee
+- URBAN STATION COFFEE
+- urban station coffee
+seed_parent_msts: []
+default_store_type: Urban Station Coffee

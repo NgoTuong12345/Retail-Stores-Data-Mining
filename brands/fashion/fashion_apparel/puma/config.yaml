@@ -1,0 +1,10 @@
+# Puma — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: puma
+name: Puma
+brand_regex: Puma
+spelling_variants:
+- Puma
+- PUMA
+- puma
+seed_parent_msts: []
+default_store_type: Puma

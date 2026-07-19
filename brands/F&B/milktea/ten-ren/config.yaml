@@ -1,0 +1,10 @@
+# Ten Ren — auto-generated from vn_retail_system.json (F&B / milktea)
+slug: ten-ren
+name: Ten Ren
+brand_regex: Ten\ Ren
+spelling_variants:
+- Ten Ren
+- TEN REN
+- ten ren
+seed_parent_msts: []
+default_store_type: Ten Ren

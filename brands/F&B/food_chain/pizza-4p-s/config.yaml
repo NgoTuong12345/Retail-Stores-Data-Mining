@@ -1,0 +1,10 @@
+# Pizza 4P's — auto-generated from vn_retail_system.json (F&B / food_chain)
+slug: pizza-4p-s
+name: Pizza 4P's
+brand_regex: Pizza\ 4P's
+spelling_variants:
+- Pizza 4P's
+- PIZZA 4P'S
+- pizza 4p's
+seed_parent_msts: []
+default_store_type: Pizza 4P's

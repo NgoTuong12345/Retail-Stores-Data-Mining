@@ -1,0 +1,24 @@
+# Topzone — auto-generated from vn_retail_system.json (ICT / ict_stores)
+slug: topzone
+name: Topzone
+brand_regex: 'Topzone|TOPZONE|topzone'
+spelling_variants:
+- Thế giới Di động
+seed_parent_msts:
+- '0303217354'
+default_store_type: Topzone
+classification:
+  corporate_keywords:
+    - 'KHO'
+    - 'VĂN PHÒNG'
+    - 'VP'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'BẢO HÀNH'
+    - 'TRUNG TÂM ĐIỀU HÀNH'
+    - 'HỘI SỞ'
+  corporate_regexes:
+    - '^CÔNG TY CỔ PHẦN THẾ GIỚI DI ĐỘNG$'
+    - '^CÔNG TY CỔ PHẦN ĐẦU TƯ THẾ GIỚI DI ĐỘNG$'
+backtest:
+  report_label: "Official website"
+  expected_total: 85

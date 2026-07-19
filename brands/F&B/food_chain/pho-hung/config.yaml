@@ -1,0 +1,10 @@
+# Pho Hung — auto-generated from vn_retail_system.json (F&B / food_chain)
+slug: pho-hung
+name: Pho Hung
+brand_regex: Pho\ Hung
+spelling_variants:
+- Pho Hung
+- PHO HUNG
+- pho hung
+seed_parent_msts: []
+default_store_type: Pho Hung

@@ -1,0 +1,10 @@
+# Wayne's Coffee — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: wayne-s-coffee
+name: Wayne's Coffee
+brand_regex: Wayne's\ Coffee
+spelling_variants:
+- Wayne's Coffee
+- WAYNE'S COFFEE
+- wayne's coffee
+seed_parent_msts: []
+default_store_type: Wayne's Coffee

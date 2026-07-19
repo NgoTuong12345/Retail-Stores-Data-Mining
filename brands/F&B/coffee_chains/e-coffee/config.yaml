@@ -1,0 +1,10 @@
+# E-Coffee — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: e-coffee
+name: E-Coffee
+brand_regex: E\-Coffee
+spelling_variants:
+- E-Coffee
+- E-COFFEE
+- e-coffee
+seed_parent_msts: []
+default_store_type: E-Coffee

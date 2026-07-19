@@ -1,0 +1,10 @@
+# Usupso — auto-generated from vn_retail_system.json (lifestyle / mini_stores)
+slug: usupso
+name: Usupso
+brand_regex: Usupso
+spelling_variants:
+- Usupso
+- USUPSO
+- usupso
+seed_parent_msts: []
+default_store_type: Usupso

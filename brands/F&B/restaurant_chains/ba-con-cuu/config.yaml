@@ -1,0 +1,10 @@
+# Ba Con Cuu — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: ba-con-cuu
+name: Ba Con Cuu
+brand_regex: Ba\ Con\ Cuu
+spelling_variants:
+- Ba Con Cuu
+- BA CON CUU
+- ba con cuu
+seed_parent_msts: []
+default_store_type: Ba Con Cuu

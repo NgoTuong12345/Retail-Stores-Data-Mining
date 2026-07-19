@@ -1,0 +1,10 @@
+# Kichi-Kichi — auto-generated from vn_retail_system.json (F&B / food_chain)
+slug: kichi-kichi
+name: Kichi-Kichi
+brand_regex: Kichi\-Kichi
+spelling_variants:
+- Kichi-Kichi
+- KICHI-KICHI
+- kichi-kichi
+seed_parent_msts: []
+default_store_type: Kichi-Kichi

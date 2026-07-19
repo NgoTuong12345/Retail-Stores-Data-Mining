@@ -1,0 +1,10 @@
+# Sumo BBQ — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: sumo-bbq
+name: Sumo BBQ
+brand_regex: Sumo\ BBQ
+spelling_variants:
+- Sumo BBQ
+- SUMO BBQ
+- sumo bbq
+seed_parent_msts: []
+default_store_type: Sumo BBQ

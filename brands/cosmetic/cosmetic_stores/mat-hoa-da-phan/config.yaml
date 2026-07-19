@@ -1,0 +1,10 @@
+# Mat Hoa Da Phan — auto-generated from vn_retail_system.json (cosmetic / cosmetic_stores)
+slug: mat-hoa-da-phan
+name: Mat Hoa Da Phan
+brand_regex: Mat\ Hoa\ Da\ Phan
+spelling_variants:
+- Mat Hoa Da Phan
+- MAT HOA DA PHAN
+- mat hoa da phan
+seed_parent_msts: []
+default_store_type: Mat Hoa Da Phan

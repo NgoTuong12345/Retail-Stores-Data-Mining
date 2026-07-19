@@ -1,0 +1,10 @@
+# Elite fitness — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: elite-fitness
+name: Elite fitness
+brand_regex: Elite\ fitness
+spelling_variants:
+- Elite fitness
+- ELITE FITNESS
+- elite fitness
+seed_parent_msts: []
+default_store_type: Elite fitness

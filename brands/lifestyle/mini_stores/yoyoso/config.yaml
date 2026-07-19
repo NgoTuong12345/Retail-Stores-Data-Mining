@@ -1,0 +1,10 @@
+# Yoyoso — auto-generated from vn_retail_system.json (lifestyle / mini_stores)
+slug: yoyoso
+name: Yoyoso
+brand_regex: Yoyoso
+spelling_variants:
+- Yoyoso
+- YOYOSO
+- yoyoso
+seed_parent_msts: []
+default_store_type: Yoyoso

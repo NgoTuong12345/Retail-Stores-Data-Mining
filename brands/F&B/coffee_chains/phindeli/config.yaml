@@ -1,0 +1,10 @@
+# Phindeli — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: phindeli
+name: Phindeli
+brand_regex: Phindeli
+spelling_variants:
+- Phindeli
+- PHINDELI
+- phindeli
+seed_parent_msts: []
+default_store_type: Phindeli

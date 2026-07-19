@@ -1,0 +1,25 @@
+# Điện Máy Xanh
+slug: dien-may-xanh
+name: Điện Máy Xanh
+brand_regex: 'Điện\ Máy\ Xanh|Dien\ May\ Xanh|ĐMX|DMX|Thế\ giới\ di\ động|The\ gioi\ di\ dong|TGDĐ|TGDD'
+spelling_variants:
+- Thế giới Di động
+- The gioi Di dong
+seed_parent_msts:
+- '0303217354'
+default_store_type: Điện Máy Xanh
+classification:
+  corporate_keywords:
+    - 'KHO'
+    - 'VĂN PHÒNG'
+    - 'VP'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'BẢO HÀNH'
+    - 'TRUNG TÂM ĐIỀU HÀNH'
+    - 'HỘI SỞ'
+  corporate_regexes:
+    - '^CÔNG TY CỔ PHẦN THẾ GIỚI DI ĐỘNG$'
+    - '^CÔNG TY CỔ PHẦN ĐẦU TƯ THẾ GIỚI DI ĐỘNG$'
+backtest:
+  report_label: "Official website"
+  expected_total: 2008

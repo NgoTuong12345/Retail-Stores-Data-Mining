@@ -1,0 +1,10 @@
+# Khao Lao — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: khao-lao
+name: Khao Lao
+brand_regex: Khao\ Lao
+spelling_variants:
+- Khao Lao
+- KHAO LAO
+- khao lao
+seed_parent_msts: []
+default_store_type: Khao Lao

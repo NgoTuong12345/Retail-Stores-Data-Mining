@@ -1,0 +1,13 @@
+# Koi Thé — auto-generated from vn_retail_system.json (F&B / milktea)
+slug: koi-the
+name: Koi Thé
+brand_regex: Koi\ Thé|Koi\ The
+spelling_variants:
+- Koi Thé
+- KOI THÉ
+- koi thé
+- Koi The
+- KOI THE
+- koi the
+seed_parent_msts: []
+default_store_type: Koi Thé

@@ -1,0 +1,10 @@
+# Savoure Bakery — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: savoure-bakery
+name: Savoure Bakery
+brand_regex: Savoure\ Bakery
+spelling_variants:
+- Savoure Bakery
+- SAVOURE BAKERY
+- savoure bakery
+seed_parent_msts: []
+default_store_type: Savoure Bakery

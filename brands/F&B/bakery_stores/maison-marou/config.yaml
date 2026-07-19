@@ -1,0 +1,10 @@
+# Maison Marou — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: maison-marou
+name: Maison Marou
+brand_regex: Maison\ Marou
+spelling_variants:
+- Maison Marou
+- MAISON MAROU
+- maison marou
+seed_parent_msts: []
+default_store_type: Maison Marou

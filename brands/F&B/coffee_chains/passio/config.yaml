@@ -1,0 +1,10 @@
+# Passio — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: passio
+name: Passio
+brand_regex: Passio
+spelling_variants:
+- Passio
+- PASSIO
+- passio
+seed_parent_msts: []
+default_store_type: Passio

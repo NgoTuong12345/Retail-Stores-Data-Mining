@@ -1,0 +1,10 @@
+# Yutang — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: yutang
+name: Yutang
+brand_regex: Yutang
+spelling_variants:
+- Yutang
+- YUTANG
+- yutang
+seed_parent_msts: []
+default_store_type: Yutang

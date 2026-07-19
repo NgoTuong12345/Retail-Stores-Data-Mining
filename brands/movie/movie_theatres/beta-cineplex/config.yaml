@@ -1,0 +1,10 @@
+# Beta Cineplex — auto-generated from vn_retail_system.json (movie / movie_theatres)
+slug: beta-cineplex
+name: Beta Cineplex
+brand_regex: Beta\ Cineplex
+spelling_variants:
+- Beta Cineplex
+- BETA CINEPLEX
+- beta cineplex
+seed_parent_msts: []
+default_store_type: Beta Cineplex

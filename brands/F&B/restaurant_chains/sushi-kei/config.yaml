@@ -1,0 +1,10 @@
+# Sushi Kei — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: sushi-kei
+name: Sushi Kei
+brand_regex: Sushi\ Kei
+spelling_variants:
+- Sushi Kei
+- SUSHI KEI
+- sushi kei
+seed_parent_msts: []
+default_store_type: Sushi Kei

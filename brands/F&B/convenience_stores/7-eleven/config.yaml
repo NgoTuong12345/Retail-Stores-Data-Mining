@@ -1,0 +1,16 @@
+# 7 Eleven — auto-generated from vn_retail_system.json (F&B / convenience_stores)
+slug: 7-eleven
+name: 7 Eleven
+brand_regex: 7\ Eleven|SEVEN SYSTEM
+spelling_variants:
+- 7 Eleven
+- 7 ELEVEN
+- 7 eleven
+- SEVEN SYSTEM
+seed_parent_msts:
+- '0313330856'
+default_store_type: 7 Eleven
+
+classification:
+  # National cross-brand Id->date curve instead of the degenerate 2-point fallback.
+  date_calibration_force_global: true

@@ -1,0 +1,10 @@
+# Olympia Hadong — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: olympia-hadong
+name: Olympia Hadong
+brand_regex: Olympia\ Hadong
+spelling_variants:
+- Olympia Hadong
+- OLYMPIA HADONG
+- olympia hadong
+seed_parent_msts: []
+default_store_type: Olympia Hadong

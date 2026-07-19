@@ -1,0 +1,10 @@
+# CGV Cinemas — auto-generated from vn_retail_system.json (movie / movie_theatres)
+slug: cgv-cinemas
+name: CGV Cinemas
+brand_regex: CGV\ Cinemas
+spelling_variants:
+- CGV Cinemas
+- CGV CINEMAS
+- cgv cinemas
+seed_parent_msts: []
+default_store_type: CGV Cinemas

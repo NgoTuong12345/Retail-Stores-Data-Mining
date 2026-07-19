@@ -1,0 +1,13 @@
+# Café Ông Bầu — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: cafe-ong-bau
+name: Café Ông Bầu
+brand_regex: Café\ Ông\ Bầu|Cafe\ Ong\ Bau
+spelling_variants:
+- Café Ông Bầu
+- CAFÉ ÔNG BẦU
+- café ông bầu
+- Cafe Ong Bau
+- CAFE ONG BAU
+- cafe ong bau
+seed_parent_msts: []
+default_store_type: Café Ông Bầu

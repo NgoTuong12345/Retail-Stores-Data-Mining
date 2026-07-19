@@ -1,0 +1,10 @@
+# Galaxy Cinema — auto-generated from vn_retail_system.json (movie / movie_theatres)
+slug: galaxy-cinema
+name: Galaxy Cinema
+brand_regex: Galaxy\ Cinema
+spelling_variants:
+- Galaxy Cinema
+- GALAXY CINEMA
+- galaxy cinema
+seed_parent_msts: []
+default_store_type: Galaxy Cinema

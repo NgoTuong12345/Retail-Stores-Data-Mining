@@ -1,0 +1,10 @@
+# Chamichi — auto-generated from vn_retail_system.json (F&B / milktea)
+slug: chamichi
+name: Chamichi
+brand_regex: Chamichi
+spelling_variants:
+- Chamichi
+- CHAMICHI
+- chamichi
+seed_parent_msts: []
+default_store_type: Chamichi

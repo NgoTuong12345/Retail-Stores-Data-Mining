@@ -1,0 +1,10 @@
+# Vinpro — auto-generated from vn_retail_system.json (electronics / electronic_stores)
+slug: vinpro
+name: Vinpro
+brand_regex: Vinpro
+spelling_variants:
+- Vinpro
+- VINPRO
+- vinpro
+seed_parent_msts: []
+default_store_type: Vinpro

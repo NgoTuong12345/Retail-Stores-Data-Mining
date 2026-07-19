@@ -1,0 +1,14 @@
+# Phano Pharmacy — auto-generated from vn_retail_system.json (pharma / drug_stores)
+slug: phano-pharmacy
+name: Phano Pharmacy
+brand_regex: 'Phano\ Pharmacy|PHANO\ PHARMACY|Nhà\ thuốc\ Phano|Phano'
+spelling_variants:
+- Phano Pharmacy
+- PHANO PHARMACY
+- phano pharmacy
+- Phano
+- Nhà thuốc Phano
+seed_parent_msts:
+- '0304860663'
+default_store_type: Phano Pharmacy
+

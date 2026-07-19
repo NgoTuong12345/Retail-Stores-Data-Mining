@@ -1,0 +1,10 @@
+# Mint Cosmetics — auto-generated from vn_retail_system.json (cosmetic / cosmetic_stores)
+slug: mint-cosmetics
+name: Mint Cosmetics
+brand_regex: Mint\ Cosmetics
+spelling_variants:
+- Mint Cosmetics
+- MINT COSMETICS
+- mint cosmetics
+seed_parent_msts: []
+default_store_type: Mint Cosmetics

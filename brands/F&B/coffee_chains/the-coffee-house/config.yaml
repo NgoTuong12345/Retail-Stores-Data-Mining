@@ -1,0 +1,10 @@
+# The Coffee House — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: the-coffee-house
+name: The Coffee House
+brand_regex: The\ Coffee\ House
+spelling_variants:
+- The Coffee House
+- THE COFFEE HOUSE
+- the coffee house
+seed_parent_msts: []
+default_store_type: The Coffee House

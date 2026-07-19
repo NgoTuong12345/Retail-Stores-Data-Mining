@@ -1,0 +1,10 @@
+# Daiso — auto-generated from vn_retail_system.json (lifestyle / mini_stores)
+slug: daiso
+name: Daiso
+brand_regex: Daiso
+spelling_variants:
+- Daiso
+- DAISO
+- daiso
+seed_parent_msts: []
+default_store_type: Daiso

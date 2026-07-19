@@ -1,0 +1,10 @@
+# AVA Kids — auto-generated from vn_retail_system.json (mother_baby / kids_baby_stores)
+slug: ava-kids
+name: AVA Kids
+brand_regex: AVA\ Kids
+spelling_variants:
+- AVA Kids
+- AVA KIDS
+- ava kids
+seed_parent_msts: []
+default_store_type: AVA Kids

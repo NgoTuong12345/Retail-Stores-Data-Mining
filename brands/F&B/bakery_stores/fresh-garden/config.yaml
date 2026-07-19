@@ -1,0 +1,10 @@
+# Fresh Garden — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: fresh-garden
+name: Fresh Garden
+brand_regex: Fresh\ Garden
+spelling_variants:
+- Fresh Garden
+- FRESH GARDEN
+- fresh garden
+seed_parent_msts: []
+default_store_type: Fresh Garden

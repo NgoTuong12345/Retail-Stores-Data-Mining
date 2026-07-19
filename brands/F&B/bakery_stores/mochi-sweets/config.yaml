@@ -1,0 +1,10 @@
+# Mochi Sweets — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: mochi-sweets
+name: Mochi Sweets
+brand_regex: Mochi\ Sweets
+spelling_variants:
+- Mochi Sweets
+- MOCHI SWEETS
+- mochi sweets
+seed_parent_msts: []
+default_store_type: Mochi Sweets

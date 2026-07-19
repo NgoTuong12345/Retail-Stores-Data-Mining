@@ -1,0 +1,10 @@
+# Beard Papa's — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: beard-papa-s
+name: Beard Papa's
+brand_regex: Beard\ Papa's
+spelling_variants:
+- Beard Papa's
+- BEARD PAPA'S
+- beard papa's
+seed_parent_msts: []
+default_store_type: Beard Papa's

@@ -1,0 +1,10 @@
+# Swensen's — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: swensen-s
+name: Swensen's
+brand_regex: Swensen's
+spelling_variants:
+- Swensen's
+- SWENSEN'S
+- swensen's
+seed_parent_msts: []
+default_store_type: Swensen's

@@ -1,0 +1,10 @@
+# Thuc Coffee — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: thuc-coffee
+name: Thuc Coffee
+brand_regex: Thuc\ Coffee
+spelling_variants:
+- Thuc Coffee
+- THUC COFFEE
+- thuc coffee
+seed_parent_msts: []
+default_store_type: Thuc Coffee

@@ -1,0 +1,84 @@
+slug: 'bach-hoa-xanh'
+name: 'Bách Hóa Xanh'
+brand_regex: 'BÁCH HÓA XANH|BÁCH HOÁ XANH|BACH HOA XANH|BHX'
+spelling_variants:
+  - 'BÁCH HÓA XANH'
+  - 'BACH HOA XANH'
+  - 'BHX'
+  - 'BÁCH HOÁ XANH'
+  - 'BACHHOAXANH'
+seed_parent_msts:
+  - '0310471746'
+default_store_type: 'Bách Hóa Xanh'
+
+# ── Post-scrape classification rules ──────────────────────────────
+classification:
+  # Date interpolation settings — use the national cross-brand Id->date curve
+  # instead of the old 8 hand-guessed manual anchors, so BHX gets a real
+  # computed Date_Confidence tier (global/low) instead of an unconditional
+  # 'low' default. See date-inference wiki P6 / GlobalDateInterpolator.
+  date_calibration_parent_mst: '0310471746'
+  date_calibration_min_date: '2010-11-23'
+  date_calibration_force_global: true
+
+  # Corporate and logistics filters to exclude non-store entities
+  corporate_keywords:
+    - 'KHO'
+    - 'VĂN PHÒNG'
+    - 'VPĐD'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'LOGISTICS'
+    - 'VP ĐẠI DIỆN'
+    - 'TRẠM TRUNG CHUYỂN'
+    - 'VĂN PHÒNG ĐẠI DIỆN'
+    - 'CÔNG TY TNHH'
+    - 'ONLINE'
+    - 'FARM'
+    - 'BHX HÀ NỘI'
+  corporate_gdt_codes:
+    - '0310471746'
+    - '0310471746-007'
+    - '0310471746-015'
+  # A real per-location filing always has a "... - CỬA HÀNG ..." / "... – KHO ..."
+  # store-descriptor suffix after a dash. Names with no dash at all are bare
+  # corporate/branch registrations (e.g. "CHI NHÁNH ... BÁCH HÓA XANH" with no
+  # suffix) — verified against all 3185 records: zero false positives against
+  # genuine "CỬA HÀNG"-named stores.
+  corporate_regexes:
+    - '^[^\-–]+$'
+
+  # ── Standard-schema export (dkkd export-schema) ──────────────────
+  # store_type: functional category by name pattern, checked in order;
+  #   falls back to Corporate (no dash at all) / Other (unrecognized, has a dash).
+  # official_entity_patterns: name phrases that confirm the record belongs to
+  #   the real Bách Hóa Xanh corporate entity (current + pre-2016 MWG-parent
+  #   filings) -> store_brand_name_confidence = high.
+  # low_confidence_patterns: entity forms known to collide with the brand
+  #   regex via unrelated small businesses using generic "BHX"/"Bách Hóa
+  #   Xanh" wording (e.g. CÔNG TY TNHH ...) -> confidence = low.
+  # Anything matching neither list (e.g. a different CÔNG TY CỔ PHẦN entity
+  # sharing the BHX name) is 'medium' — genuinely ambiguous, not guessed.
+  schema_export:
+    store_type_patterns:
+      - ['Retail', 'C[ỦƯỬU]A H[ÀA]NG']
+      - ['Warehouse', '\bKHO\b']
+      - ['Online', '\bONLINE\b']
+      - ['Services', '\bFARM\b|NÔNG SẢN']
+    official_entity_patterns:
+      - 'C[ỔO] PH[ẦA]N THƯƠNG MẠI\s+B[ÁA]CH H[ÓO]A XANH'
+      - 'THƯƠNG MẠI THẾ GIỚI ĐIỆN TỬ'
+    low_confidence_patterns:
+      - 'C[ÔO]NG TY TNHH'
+    # store_name_pattern: which store-numbering convention the name follows.
+    # Verified against all 3185 records: both rules correlate near-perfectly
+    # (Spearman >= 0.94) with DKKD registration order within their own scope,
+    # i.e. the trailing number really is a running store-open count, just
+    # scoped per-province vs chain-wide. Order matters — province-with-SỐ must
+    # be tried before the bare brand-token rule, or it would match first.
+    # Anything Retail that matches neither is 'Street_Address' (the name
+    # embeds a house-number + street instead of a sequence code — mostly
+    # pre-2019 HCMC-area stores). Non-Retail types get 'Not_Applicable'.
+    name_pattern_rules:
+      - ['Province_Sequential', '(B[ÁA]CH H[ÓO]A XANH|BHX)\s+[A-ZÀ-Ỹ][A-ZÀ-Ỹ ]*?\s+S[ỐO]\s+\d+\.?\s*$']
+      - ['National_Sequential', '(B[ÁA]CH H[ÓO]A XANH|BHX)\s*(?:S[ỐO]\s*)?\d+\.?\s*$']
+      - ['National_Sequential', '\d+\.?\s*$']

@@ -1,0 +1,10 @@
+# King Coffee — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: king-coffee
+name: King Coffee
+brand_regex: King\ Coffee
+spelling_variants:
+- King Coffee
+- KING COFFEE
+- king coffee
+seed_parent_msts: []
+default_store_type: King Coffee

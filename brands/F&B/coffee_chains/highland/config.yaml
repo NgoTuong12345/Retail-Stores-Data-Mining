@@ -1,0 +1,10 @@
+# Highland — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: highland
+name: Highland
+brand_regex: Highland
+spelling_variants:
+- Highland
+- HIGHLAND
+- highland
+seed_parent_msts: []
+default_store_type: Highland

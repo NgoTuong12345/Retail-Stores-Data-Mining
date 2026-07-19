@@ -1,0 +1,10 @@
+# Vuvuzela — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: vuvuzela
+name: Vuvuzela
+brand_regex: Vuvuzela
+spelling_variants:
+- Vuvuzela
+- VUVUZELA
+- vuvuzela
+seed_parent_msts: []
+default_store_type: Vuvuzela

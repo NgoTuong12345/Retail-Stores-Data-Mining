@@ -1,0 +1,10 @@
+# Lavida — auto-generated from vn_retail_system.json (F&B / milktea)
+slug: lavida
+name: Lavida
+brand_regex: Lavida
+spelling_variants:
+- Lavida
+- LAVIDA
+- lavida
+seed_parent_msts: []
+default_store_type: Lavida

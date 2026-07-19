@@ -1,0 +1,10 @@
+# Bud's — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: bud-s
+name: Bud's
+brand_regex: Bud's
+spelling_variants:
+- Bud's
+- BUD'S
+- bud's
+seed_parent_msts: []
+default_store_type: Bud's

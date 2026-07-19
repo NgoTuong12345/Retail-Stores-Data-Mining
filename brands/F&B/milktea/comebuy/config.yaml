@@ -1,0 +1,10 @@
+# Comebuy — auto-generated from vn_retail_system.json (F&B / milktea)
+slug: comebuy
+name: Comebuy
+brand_regex: Comebuy
+spelling_variants:
+- Comebuy
+- COMEBUY
+- comebuy
+seed_parent_msts: []
+default_store_type: Comebuy

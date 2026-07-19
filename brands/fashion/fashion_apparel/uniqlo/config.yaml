@@ -1,0 +1,10 @@
+# Uniqlo — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: uniqlo
+name: Uniqlo
+brand_regex: Uniqlo
+spelling_variants:
+- Uniqlo
+- UNIQLO
+- uniqlo
+seed_parent_msts: []
+default_store_type: Uniqlo

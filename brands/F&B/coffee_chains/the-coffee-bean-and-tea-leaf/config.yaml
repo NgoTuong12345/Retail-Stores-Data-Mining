@@ -1,0 +1,10 @@
+# The Coffee Bean and Tea Leaf — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: the-coffee-bean-and-tea-leaf
+name: The Coffee Bean and Tea Leaf
+brand_regex: The\ Coffee\ Bean\ and\ Tea\ Leaf
+spelling_variants:
+- The Coffee Bean and Tea Leaf
+- THE COFFEE BEAN AND TEA LEAF
+- the coffee bean and tea leaf
+seed_parent_msts: []
+default_store_type: The Coffee Bean and Tea Leaf

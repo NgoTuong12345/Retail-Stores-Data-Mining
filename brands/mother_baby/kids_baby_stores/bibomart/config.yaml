@@ -1,0 +1,10 @@
+# Bibomart — auto-generated from vn_retail_system.json (mother_baby / kids_baby_stores)
+slug: bibomart
+name: Bibomart
+brand_regex: Bibomart
+spelling_variants:
+- Bibomart
+- BIBOMART
+- bibomart
+seed_parent_msts: []
+default_store_type: Bibomart

@@ -1,0 +1,13 @@
+# Co.op smile — auto-generated from vn_retail_system.json (F&B / mini_supermarket)
+slug: co-op-smile
+name: Co.op smile
+brand_regex: 'CO[\.\\\,\-]?\s*OP\s*SMILE|COOPSMILE'
+spelling_variants:
+  - 'CO.OP SMILE'
+  - 'COOP SMILE'
+  - 'COOPSMILE'
+  - 'Co-op Smile'
+  - 'Co.op Smile'
+  - 'co.op smile'
+seed_parent_msts: []
+default_store_type: Co.op smile

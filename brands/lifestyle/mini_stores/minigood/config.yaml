@@ -1,0 +1,10 @@
+# Minigood — auto-generated from vn_retail_system.json (lifestyle / mini_stores)
+slug: minigood
+name: Minigood
+brand_regex: Minigood
+spelling_variants:
+- Minigood
+- MINIGOOD
+- minigood
+seed_parent_msts: []
+default_store_type: Minigood

@@ -1,0 +1,10 @@
+# Kids Plaza — auto-generated from vn_retail_system.json (mother_baby / kids_baby_stores)
+slug: kids-plaza
+name: Kids Plaza
+brand_regex: Kids\ Plaza
+spelling_variants:
+- Kids Plaza
+- KIDS PLAZA
+- kids plaza
+seed_parent_msts: []
+default_store_type: Kids Plaza

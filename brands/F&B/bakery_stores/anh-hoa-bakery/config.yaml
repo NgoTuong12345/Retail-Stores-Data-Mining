@@ -1,0 +1,10 @@
+# Anh Hoa Bakery — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: anh-hoa-bakery
+name: Anh Hoa Bakery
+brand_regex: Anh\ Hoa\ Bakery
+spelling_variants:
+- Anh Hoa Bakery
+- ANH HOA BAKERY
+- anh hoa bakery
+seed_parent_msts: []
+default_store_type: Anh Hoa Bakery

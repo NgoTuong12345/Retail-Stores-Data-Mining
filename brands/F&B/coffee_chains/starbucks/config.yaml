@@ -1,0 +1,10 @@
+# Starbucks — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: starbucks
+name: Starbucks
+brand_regex: Starbucks
+spelling_variants:
+- Starbucks
+- STARBUCKS
+- starbucks
+seed_parent_msts: []
+default_store_type: Starbucks

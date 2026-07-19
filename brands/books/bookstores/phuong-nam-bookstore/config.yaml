@@ -1,0 +1,10 @@
+# Phuong Nam Bookstore — auto-generated from vn_retail_system.json (books / bookstores)
+slug: phuong-nam-bookstore
+name: Phuong Nam Bookstore
+brand_regex: Phuong\ Nam\ Bookstore
+spelling_variants:
+- Phuong Nam Bookstore
+- PHUONG NAM BOOKSTORE
+- phuong nam bookstore
+seed_parent_msts: []
+default_store_type: Phuong Nam Bookstore

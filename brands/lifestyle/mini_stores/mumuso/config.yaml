@@ -1,0 +1,10 @@
+# Mumuso — auto-generated from vn_retail_system.json (lifestyle / mini_stores)
+slug: mumuso
+name: Mumuso
+brand_regex: Mumuso
+spelling_variants:
+- Mumuso
+- MUMUSO
+- mumuso
+seed_parent_msts: []
+default_store_type: Mumuso

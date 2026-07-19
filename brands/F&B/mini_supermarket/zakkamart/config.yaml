@@ -1,0 +1,11 @@
+# Zakkamart — auto-generated from vn_retail_system.json (F&B / mini_supermarket)
+slug: zakkamart
+name: Zakkamart
+brand_regex: 'ZAKKA\s*MART'
+spelling_variants:
+  - 'ZAKKAMART'
+  - 'ZAKKA MART'
+  - 'Zakkamart'
+  - 'Zakka Mart'
+seed_parent_msts: []
+default_store_type: Zakkamart

@@ -1,0 +1,10 @@
+# Phuc Long — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: phuc-long
+name: Phuc Long
+brand_regex: Phuc\ Long
+spelling_variants:
+- Phuc Long
+- PHUC LONG
+- phuc long
+seed_parent_msts: []
+default_store_type: Phuc Long

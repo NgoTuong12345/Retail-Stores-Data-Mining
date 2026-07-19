@@ -1,0 +1,56 @@
+# brands/phu-quy/config.yaml
+# Phú Quý — mid-tier gold chain
+# COLLISION RISK: "Phú Quý" is also an island name.
+# brand_regex requires gold-context anchor to avoid false positives.
+
+slug: phu-quy
+name: Phú Quý
+brand_regex: '(?:VÀNG|VANG|KIM HOÀN|KIM HOAN|JEWELRY|TRANG SỨC|TRANG SUC).*PHÚ QUÝ|PHÚ QUÝ.*(?:VÀNG|VANG|KIM HOÀN|KIM HOAN|JEWELRY)|VÀ[Nn]G BẠC.*PHÚ QUÝ|PHU QUY.*(?:VÀNG|VANG|KIM)'
+spelling_variants:
+  - 'VÀNG PHÚ QUÝ'
+  - 'VANG PHU QUY'
+  - 'VÀNG BẠC PHÚ QUÝ'
+  - 'VÀNG BẠC ĐÁ QUÝ PHÚ QUÝ'
+  - 'VÀNG BẠC ĐÁ QUÍ PHÚ QUÝ'
+  - 'KIM HOÀN PHÚ QUÝ'
+  - 'PHÚ QUÝ GOLD'
+
+seed_parent_msts:
+  - '0102617088'
+  - '0101339864'
+  - '0107675291'
+
+default_store_type: 'Phú Quý Store'
+
+classification:
+  # National cross-brand Id->date curve instead of phu-quy's own masothue calibration
+  # (suffix-axis capped at 'low' regardless of accuracy). See enrich.py GlobalDateInterpolator.
+  date_calibration_force_global: true
+  date_calibration_parent_mst: '0102617088'
+  date_calibration_min_date: '2010-01-01'
+  masothue_parent_url: 'https://masothue.com/0102617088-cong-ty-co-phan-dau-tu-vang-phu-quy'
+  corporate_keywords:
+    - 'VĂN PHÒNG'
+    - 'VPĐD'
+    - 'VP ĐẠI DIỆN'
+    - 'KHO '
+    - 'NHÀ MÁY'
+    - 'XƯỞNG CHẾ TÁC'
+    - 'VĂN PHÒNG ĐẠI DIỆN'
+    - 'VAN PHONG'
+    - 'VP DAI DIEN'
+    - 'XUONG CHE TAC'
+    - 'TRUNG TAM PHAN PHOI'
+    - 'VAN PHONG DAI DIEN'
+  # Generic BHX-shaped schema_export defaults assume BHX's own vocabulary
+  # (CỬA HÀNG/KHO/ONLINE/FARM). This override adds jewelry-sector-safe
+  # Warehouse/Services buckets (workshop, factory, appraisal lab) so those
+  # don't fall into the catch-all 'Other' bucket; Retail keyword unchanged.
+  schema_export:
+    store_type_patterns:
+      - ['Warehouse', '\bXƯỞNG\b|\bNHÀ MÁY\b|\bKHO\b']
+      - ['Services', 'GIÁM ĐỊNH']
+      - ['Retail', 'C[ỬU]A H[ÀA]NG']
+
+store_type_rules:
+  - ['ĐẠI LÝ|DAI LY', 'Phú Quý Agent']

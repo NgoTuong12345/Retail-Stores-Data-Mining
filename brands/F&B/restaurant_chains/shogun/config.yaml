@@ -1,0 +1,10 @@
+# Shogun — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: shogun
+name: Shogun
+brand_regex: Shogun
+spelling_variants:
+- Shogun
+- SHOGUN
+- shogun
+seed_parent_msts: []
+default_store_type: Shogun

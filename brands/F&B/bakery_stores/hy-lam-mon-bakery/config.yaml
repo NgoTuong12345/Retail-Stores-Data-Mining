@@ -1,0 +1,10 @@
+# Hy Lam Mon Bakery — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: hy-lam-mon-bakery
+name: Hy Lam Mon Bakery
+brand_regex: Hy\ Lam\ Mon\ Bakery
+spelling_variants:
+- Hy Lam Mon Bakery
+- HY LAM MON BAKERY
+- hy lam mon bakery
+seed_parent_msts: []
+default_store_type: Hy Lam Mon Bakery

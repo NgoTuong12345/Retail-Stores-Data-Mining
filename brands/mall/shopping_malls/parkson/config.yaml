@@ -1,0 +1,10 @@
+# Parkson — auto-generated from vn_retail_system.json (mall / shopping_malls)
+slug: parkson
+name: Parkson
+brand_regex: Parkson
+spelling_variants:
+- Parkson
+- PARKSON
+- parkson
+seed_parent_msts: []
+default_store_type: Parkson

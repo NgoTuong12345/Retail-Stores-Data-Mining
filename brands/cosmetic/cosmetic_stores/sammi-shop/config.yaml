@@ -1,0 +1,10 @@
+# Sammi Shop — auto-generated from vn_retail_system.json (cosmetic / cosmetic_stores)
+slug: sammi-shop
+name: Sammi Shop
+brand_regex: Sammi\ Shop
+spelling_variants:
+- Sammi Shop
+- SAMMI SHOP
+- sammi shop
+seed_parent_msts: []
+default_store_type: Sammi Shop

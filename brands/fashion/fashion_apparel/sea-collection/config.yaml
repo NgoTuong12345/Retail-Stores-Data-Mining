@@ -1,0 +1,10 @@
+# Sea Collection — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: sea-collection
+name: Sea Collection
+brand_regex: Sea\ Collection
+spelling_variants:
+- Sea Collection
+- SEA COLLECTION
+- sea collection
+seed_parent_msts: []
+default_store_type: Sea Collection

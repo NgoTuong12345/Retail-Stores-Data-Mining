@@ -1,0 +1,10 @@
+# Dingtea — auto-generated from vn_retail_system.json (F&B / milktea)
+slug: dingtea
+name: Dingtea
+brand_regex: Dingtea
+spelling_variants:
+- Dingtea
+- DINGTEA
+- dingtea
+seed_parent_msts: []
+default_store_type: Dingtea

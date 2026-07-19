@@ -1,0 +1,9 @@
+# PT2000 — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: pt2000
+name: PT2000
+brand_regex: PT2000
+spelling_variants:
+- PT2000
+- pt2000
+seed_parent_msts: []
+default_store_type: PT2000

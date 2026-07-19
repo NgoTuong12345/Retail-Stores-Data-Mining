@@ -1,0 +1,13 @@
+# Món Huế — auto-generated from vn_retail_system.json (F&B / food_chain)
+slug: mon-hue
+name: Món Huế
+brand_regex: Món\ Huế|Mon\ Hue
+spelling_variants:
+- Món Huế
+- MÓN HUẾ
+- món huế
+- Mon Hue
+- MON HUE
+- mon hue
+seed_parent_msts: []
+default_store_type: Món Huế

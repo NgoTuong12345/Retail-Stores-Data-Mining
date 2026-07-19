@@ -1,0 +1,33 @@
+# Viettel Store
+slug: viettel-store
+name: Viettel Store
+brand_regex: 'Viettel\ Store|Thương\ mại\ và\ Xuất\ nhập\ khẩu\ Viettel|Thuong\ mai\ va\ Xuat\ nhap\ khau\ Viettel|Viettelimex|Trung\ tâm\ Kinh\ doanh\ thiết\ bị\ số'
+spelling_variants:
+- Viettel Store
+- VIETTEL STORE
+- viettel store
+- Thương mại và Xuất nhập khẩu Viettel
+- THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU VIETTEL
+- Trung tâm Kinh doanh thiết bị số
+- TRUNG TÂM KINH DOANH THIẾT BỊ SỐ
+seed_parent_msts:
+- '0104831030'
+default_store_type: Viettel Store
+classification:
+  corporate_keywords:
+    - 'KHO'
+    - 'VĂN PHÒNG'
+    - 'VP'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'BẢO HÀNH'
+    - 'TRUNG TÂM ĐIỀU HÀNH'
+    - 'HỘI SỞ'
+  corporate_regexes:
+    - '^CÔNG TY TNHH MỘT THÀNH VIÊN THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU VIETTEL$'
+    - '^CÔNG TY TNHH NHÀ NƯỚC MỘT THÀNH VIÊN THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU VIETTEL$'
+    - '^CHI NHÁNH CÔNG TY TNHH MỘT THÀNH VIÊN THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU VIETTEL'
+    - '^CHI NHÁNH CÔNG TY TNHH NHÀ NƯỚC MỘT THÀNH VIÊN THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU VIETTEL'
+    - 'TRUNG TÂM KINH DOANH THIẾT BỊ SỐ'
+backtest:
+  report_label: "Official website"
+  expected_total: 400

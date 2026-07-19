@@ -1,0 +1,13 @@
+# Satrafoods — auto-generated from vn_retail_system.json (F&B / mini_supermarket)
+slug: satrafoods
+name: Satrafoods
+brand_regex: 'SATRA\s*FOODS?'
+spelling_variants:
+  - 'SATRAFOODS'
+  - 'SATRA FOODS'
+  - 'SATRA FOOD'
+  - 'SATRAFOOD'
+  - 'Satrafoods'
+  - 'Satra Food'
+seed_parent_msts: []
+default_store_type: Satrafoods

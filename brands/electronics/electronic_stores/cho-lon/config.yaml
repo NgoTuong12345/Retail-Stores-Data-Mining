@@ -1,0 +1,10 @@
+# Cho Lon — auto-generated from vn_retail_system.json (electronics / electronic_stores)
+slug: cho-lon
+name: Cho Lon
+brand_regex: Cho\ Lon
+spelling_variants:
+- Cho Lon
+- CHO LON
+- cho lon
+seed_parent_msts: []
+default_store_type: Cho Lon

@@ -1,0 +1,50 @@
+# brands/jemmia/config.yaml
+# Jemmia — modern diamond/jewelry chain
+# Small footprint: ~5-15 stores
+
+slug: jemmia
+name: Jemmia
+brand_regex: 'JEMMIA'
+spelling_variants:
+  - 'JEMMIA'
+  - 'JEMMIA DIAMOND'
+
+seed_parent_msts:
+  - '0315638910'
+
+default_store_type: 'Jemmia'
+
+classification:
+  # National cross-brand Id->date curve instead of jemmia's own masothue calibration
+  # (suffix-axis capped at 'low' regardless of accuracy). See enrich.py GlobalDateInterpolator.
+  date_calibration_force_global: true
+  date_calibration_parent_mst: '0315638910'
+  date_calibration_min_date: '2010-01-01'
+  masothue_parent_url: 'https://masothue.com/0315638910-cong-ty-co-phan-jemmia'
+  corporate_keywords:
+    - 'VĂN PHÒNG'
+    - 'VPĐD'
+    - 'VP ĐẠI DIỆN'
+    - 'KHO '
+    - 'XÍ NGHIỆP'
+    - 'NHÀ MÁY'
+    - 'XƯỞNG CHẾ TÁC'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'LOGISTICS'
+    - 'VĂN PHÒNG ĐẠI DIỆN'
+    - 'VAN PHONG'
+    - 'VP DAI DIEN'
+    - 'XUONG CHE TAC'
+    - 'TRUNG TAM PHAN PHOI'
+    - 'VAN PHONG DAI DIEN'
+  # Generic BHX-shaped schema_export defaults assume BHX's own vocabulary
+  # (CỬA HÀNG/KHO/ONLINE/FARM). This override adds jewelry-sector-safe
+  # Warehouse/Services buckets (workshop, factory, appraisal lab) so those
+  # don't fall into the catch-all 'Other' bucket; Retail keyword unchanged.
+  schema_export:
+    store_type_patterns:
+      - ['Warehouse', '\bXƯỞNG\b|\bNHÀ MÁY\b|\bKHO\b']
+      - ['Services', 'GIÁM ĐỊNH']
+      - ['Retail', 'C[ỬU]A H[ÀA]NG']
+
+store_type_rules: []

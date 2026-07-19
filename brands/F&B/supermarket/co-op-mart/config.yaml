@@ -1,0 +1,14 @@
+slug: co-op-mart
+name: Co.op mart
+brand_regex: 'CO[\.\\\,\-]?\s*OP\s*MART|COOPMART'
+spelling_variants:
+  - 'CO.OP MART'
+  - 'COOPMART'
+  - 'COOP MART'
+  - 'CO.OPMART'
+  - 'Co.opmart'
+  - 'Co-opmart'
+  - 'CO,OP MART'
+seed_parent_msts:
+  - '0301175691' # Saigon Co.op
+default_store_type: Co.op mart

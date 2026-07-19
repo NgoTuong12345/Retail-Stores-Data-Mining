@@ -1,0 +1,10 @@
+# Nguyen Kim — auto-generated from vn_retail_system.json (electronics / electronic_stores)
+slug: nguyen-kim
+name: Nguyen Kim
+brand_regex: Nguyen\ Kim
+spelling_variants:
+- Nguyen Kim
+- NGUYEN KIM
+- nguyen kim
+seed_parent_msts: []
+default_store_type: Nguyen Kim

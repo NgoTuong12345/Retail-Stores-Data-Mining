@@ -1,0 +1,10 @@
+# Origato Cake — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: origato-cake
+name: Origato Cake
+brand_regex: Origato\ Cake
+spelling_variants:
+- Origato Cake
+- ORIGATO CAKE
+- origato cake
+seed_parent_msts: []
+default_store_type: Origato Cake

@@ -1,0 +1,9 @@
+# KFC — auto-generated from vn_retail_system.json (F&B / fast_food_chains)
+slug: kfc
+name: KFC
+brand_regex: KFC
+spelling_variants:
+- KFC
+- kfc
+seed_parent_msts: []
+default_store_type: KFC

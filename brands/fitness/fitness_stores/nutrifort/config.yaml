@@ -1,0 +1,10 @@
+# Nutrifort — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: nutrifort
+name: Nutrifort
+brand_regex: Nutrifort
+spelling_variants:
+- Nutrifort
+- NUTRIFORT
+- nutrifort
+seed_parent_msts: []
+default_store_type: Nutrifort

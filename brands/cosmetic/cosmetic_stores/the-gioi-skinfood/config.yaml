@@ -1,0 +1,10 @@
+# The Gioi SkinFood — auto-generated from vn_retail_system.json (cosmetic / cosmetic_stores)
+slug: the-gioi-skinfood
+name: The Gioi SkinFood
+brand_regex: The\ Gioi\ SkinFood
+spelling_variants:
+- The Gioi SkinFood
+- THE GIOI SKINFOOD
+- the gioi skinfood
+seed_parent_msts: []
+default_store_type: The Gioi SkinFood

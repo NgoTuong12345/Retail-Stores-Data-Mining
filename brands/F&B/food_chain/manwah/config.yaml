@@ -1,0 +1,10 @@
+# Manwah — auto-generated from vn_retail_system.json (F&B / food_chain)
+slug: manwah
+name: Manwah
+brand_regex: Manwah
+spelling_variants:
+- Manwah
+- MANWAH
+- manwah
+seed_parent_msts: []
+default_store_type: Manwah

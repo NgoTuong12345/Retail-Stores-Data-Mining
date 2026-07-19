@@ -1,0 +1,9 @@
+# G2000 — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: g2000
+name: G2000
+brand_regex: G2000
+spelling_variants:
+- G2000
+- g2000
+seed_parent_msts: []
+default_store_type: G2000

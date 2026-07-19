@@ -1,0 +1,13 @@
+# Guta Café — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: guta-cafe
+name: Guta Café
+brand_regex: Guta\ Café|Guta\ Cafe
+spelling_variants:
+- Guta Café
+- GUTA CAFÉ
+- guta café
+- Guta Cafe
+- GUTA CAFE
+- guta cafe
+seed_parent_msts: []
+default_store_type: Guta Café

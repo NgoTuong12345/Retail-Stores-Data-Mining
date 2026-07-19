@@ -1,0 +1,10 @@
+# An Phuoc — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: an-phuoc
+name: An Phuoc
+brand_regex: An\ Phuoc
+spelling_variants:
+- An Phuoc
+- AN PHUOC
+- an phuoc
+seed_parent_msts: []
+default_store_type: An Phuoc

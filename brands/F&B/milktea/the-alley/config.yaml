@@ -1,0 +1,10 @@
+# The Alley — auto-generated from vn_retail_system.json (F&B / milktea)
+slug: the-alley
+name: The Alley
+brand_regex: The\ Alley
+spelling_variants:
+- The Alley
+- THE ALLEY
+- the alley
+seed_parent_msts: []
+default_store_type: The Alley

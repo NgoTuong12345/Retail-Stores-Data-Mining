@@ -1,0 +1,10 @@
+# Gym Newlife — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: gym-newlife
+name: Gym Newlife
+brand_regex: Gym\ Newlife
+spelling_variants:
+- Gym Newlife
+- GYM NEWLIFE
+- gym newlife
+seed_parent_msts: []
+default_store_type: Gym Newlife

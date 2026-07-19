@@ -1,0 +1,37 @@
+slug: aeon-supermarket
+name: AEON (Supermarket)
+brand_regex: 'AEON|CITIMART|MAX\s*VALU'
+spelling_variants:
+  - 'AEON'
+  - 'CITIMART'
+  - 'MAXVALU'
+  - 'MAX VALU'
+seed_parent_msts:
+  # Retail banners only (AEON operates ~6 actual hypermarkets - MaxValu and
+  # Citimart are real AEON-operated retail chains at different scale/format,
+  # not the same thing as "hypermarket"). Non-retail AEON group subsidiaries
+  # (Fantasy arcades, Delight facility mgmt, Land real estate, Finance/credit)
+  # are deliberately NOT here - they aren't stores of this brand and fall
+  # through to in_brand_tenant like any other business operating inside a mall.
+  - '0311241512' # Công ty TNHH AEON Việt Nam (hypermarkets + MaxValu, same legal entity)
+  - '0301056158' # Công ty TNHH TM DV Đông Hưng (Citimart, pre-AEON parent brand)
+  - '0311852575' # Công ty TNHH AEON
+  - '0315571060' # Công ty TNHH Thương mại AEON Việt Nam
+  - '0312953537' # Công ty Cổ phần Thương mại AEON
+default_store_type: AEON (Supermarket)
+classification:
+  tenant_separation:
+    enabled: true
+    # MaxValu banner stores are each their own Format-A business location
+    # ('CÔNG TY TNHH AEON VIỆT NAM – ĐỊA ĐIỂM KINH DOANH MAXVALU ...') with a
+    # unique Enterprise_Code, so seed_parent_msts can't group them (see
+    # dkkd/tenant.py's own_store_name_patterns docstring).
+    own_store_name_patterns:
+      - '^CÔNG TY TNHH AEON VIỆT NAM'
+      # Citimart's original operator and its post-restructuring successor -
+      # both real AEON-lineage brands, but their Citimart store locations are
+      # individually-registered Format-A entries (no shared parent MST), and
+      # some put the legal name at the END of the registration, not the start.
+      - 'CÔNG TY TNHH THƯƠNG MẠI( -)?\s*DỊCH VỤ ĐÔNG HƯNG'
+      - 'CÔNG TY TNHH MỘT THÀNH VIÊN HỘI NHẬP PHÁT TRIỂN ĐÔNG HƯNG'
+      - '^CÔNG TY TNHH MAXVALU VIỆT NAM'

@@ -1,0 +1,9 @@
+# THE FACE SHOP — auto-generated from vn_retail_system.json (cosmetic / cosmetic_stores)
+slug: the-face-shop
+name: THE FACE SHOP
+brand_regex: THE\ FACE\ SHOP
+spelling_variants:
+- THE FACE SHOP
+- the face shop
+seed_parent_msts: []
+default_store_type: THE FACE SHOP

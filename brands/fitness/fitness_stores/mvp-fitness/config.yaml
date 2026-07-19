@@ -1,0 +1,10 @@
+# MVP Fitness — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: mvp-fitness
+name: MVP Fitness
+brand_regex: MVP\ Fitness
+spelling_variants:
+- MVP Fitness
+- MVP FITNESS
+- mvp fitness
+seed_parent_msts: []
+default_store_type: MVP Fitness

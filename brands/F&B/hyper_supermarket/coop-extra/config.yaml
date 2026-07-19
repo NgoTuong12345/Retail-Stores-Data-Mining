@@ -1,0 +1,16 @@
+slug: coop-extra
+name: Coop-Extra
+brand_regex: 'CO[\.\\\,\-]?\s*OP\s*XTRA|COOPXTRA'
+spelling_variants:
+  - 'CO.OP XTRA'
+  - 'COOPXTRA'
+  - 'COOP XTRA'
+  - 'CO.OPXTRA'
+  - 'CO-OP XTRA'
+  - 'CO,OP XTRA'
+seed_parent_msts:
+  - '0301175691' # Saigon Co.op
+default_store_type: Coop-Extra
+classification:
+  tenant_separation:
+    enabled: true

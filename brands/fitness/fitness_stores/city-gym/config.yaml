@@ -1,0 +1,10 @@
+# City Gym — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: city-gym
+name: City Gym
+brand_regex: City\ Gym
+spelling_variants:
+- City Gym
+- CITY GYM
+- city gym
+seed_parent_msts: []
+default_store_type: City Gym

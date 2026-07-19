@@ -1,0 +1,10 @@
+# Nguyen Son Bakery — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: nguyen-son-bakery
+name: Nguyen Son Bakery
+brand_regex: Nguyen\ Son\ Bakery
+spelling_variants:
+- Nguyen Son Bakery
+- NGUYEN SON BAKERY
+- nguyen son bakery
+seed_parent_msts: []
+default_store_type: Nguyen Son Bakery

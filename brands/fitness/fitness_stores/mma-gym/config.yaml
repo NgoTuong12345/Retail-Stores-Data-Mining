@@ -1,0 +1,10 @@
+# MMA - Gym — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: mma-gym
+name: MMA - Gym
+brand_regex: MMA\ \-\ Gym
+spelling_variants:
+- MMA - Gym
+- MMA - GYM
+- mma - gym
+seed_parent_msts: []
+default_store_type: MMA - Gym

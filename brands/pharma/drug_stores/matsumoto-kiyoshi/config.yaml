@@ -1,0 +1,10 @@
+# Matsumoto Kiyoshi — auto-generated from vn_retail_system.json (pharma / drug_stores)
+slug: matsumoto-kiyoshi
+name: Matsumoto Kiyoshi
+brand_regex: Matsumoto\ Kiyoshi
+spelling_variants:
+- Matsumoto Kiyoshi
+- MATSUMOTO KIYOSHI
+- matsumoto kiyoshi
+seed_parent_msts: []
+default_store_type: Matsumoto Kiyoshi

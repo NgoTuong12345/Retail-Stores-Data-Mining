@@ -1,0 +1,10 @@
+# Olympia Viet Nam — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: olympia-viet-nam
+name: Olympia Viet Nam
+brand_regex: Olympia\ Viet\ Nam
+spelling_variants:
+- Olympia Viet Nam
+- OLYMPIA VIET NAM
+- olympia viet nam
+seed_parent_msts: []
+default_store_type: Olympia Viet Nam

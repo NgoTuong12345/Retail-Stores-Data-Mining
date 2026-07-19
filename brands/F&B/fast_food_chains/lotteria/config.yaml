@@ -1,0 +1,10 @@
+# Lotteria — auto-generated from vn_retail_system.json (F&B / fast_food_chains)
+slug: lotteria
+name: Lotteria
+brand_regex: Lotteria
+spelling_variants:
+- Lotteria
+- LOTTERIA
+- lotteria
+seed_parent_msts: []
+default_store_type: Lotteria

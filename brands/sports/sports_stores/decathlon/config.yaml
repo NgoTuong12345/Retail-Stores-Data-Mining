@@ -1,0 +1,10 @@
+# Decathlon — auto-generated from vn_retail_system.json (sports / sports_stores)
+slug: decathlon
+name: Decathlon
+brand_regex: Decathlon
+spelling_variants:
+- Decathlon
+- DECATHLON
+- decathlon
+seed_parent_msts: []
+default_store_type: Decathlon

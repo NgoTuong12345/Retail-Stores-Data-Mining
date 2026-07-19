@@ -1,0 +1,10 @@
+# Hallo shop — auto-generated from vn_retail_system.json (mother_baby / kids_baby_stores)
+slug: hallo-shop
+name: Hallo shop
+brand_regex: Hallo\ shop
+spelling_variants:
+- Hallo shop
+- HALLO SHOP
+- hallo shop
+seed_parent_msts: []
+default_store_type: Hallo shop

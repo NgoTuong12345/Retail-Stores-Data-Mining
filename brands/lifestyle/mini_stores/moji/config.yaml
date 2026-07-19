@@ -1,0 +1,10 @@
+# Moji — auto-generated from vn_retail_system.json (lifestyle / mini_stores)
+slug: moji
+name: Moji
+brand_regex: Moji
+spelling_variants:
+- Moji
+- MOJI
+- moji
+seed_parent_msts: []
+default_store_type: Moji

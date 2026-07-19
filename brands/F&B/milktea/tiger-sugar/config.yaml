@@ -1,0 +1,10 @@
+# Tiger Sugar — auto-generated from vn_retail_system.json (F&B / milktea)
+slug: tiger-sugar
+name: Tiger Sugar
+brand_regex: Tiger\ Sugar
+spelling_variants:
+- Tiger Sugar
+- TIGER SUGAR
+- tiger sugar
+seed_parent_msts: []
+default_store_type: Tiger Sugar

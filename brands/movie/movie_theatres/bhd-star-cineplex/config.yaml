@@ -1,0 +1,10 @@
+# BHD Star Cineplex — auto-generated from vn_retail_system.json (movie / movie_theatres)
+slug: bhd-star-cineplex
+name: BHD Star Cineplex
+brand_regex: BHD\ Star\ Cineplex
+spelling_variants:
+- BHD Star Cineplex
+- BHD STAR CINEPLEX
+- bhd star cineplex
+seed_parent_msts: []
+default_store_type: BHD Star Cineplex

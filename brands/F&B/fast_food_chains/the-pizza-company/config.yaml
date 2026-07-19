@@ -1,0 +1,10 @@
+# The Pizza Company — auto-generated from vn_retail_system.json (F&B / fast_food_chains)
+slug: the-pizza-company
+name: The Pizza Company
+brand_regex: The\ Pizza\ Company
+spelling_variants:
+- The Pizza Company
+- THE PIZZA COMPANY
+- the pizza company
+seed_parent_msts: []
+default_store_type: The Pizza Company

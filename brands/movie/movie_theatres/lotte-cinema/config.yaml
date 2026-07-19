@@ -1,0 +1,10 @@
+# Lotte Cinema — auto-generated from vn_retail_system.json (movie / movie_theatres)
+slug: lotte-cinema
+name: Lotte Cinema
+brand_regex: Lotte\ Cinema
+spelling_variants:
+- Lotte Cinema
+- LOTTE CINEMA
+- lotte cinema
+seed_parent_msts: []
+default_store_type: Lotte Cinema

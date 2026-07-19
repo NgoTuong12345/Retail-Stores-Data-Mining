@@ -1,0 +1,9 @@
+# OWNDAYS — auto-generated from vn_retail_system.json (optical / optical_stores)
+slug: owndays
+name: OWNDAYS
+brand_regex: OWNDAYS
+spelling_variants:
+- OWNDAYS
+- owndays
+seed_parent_msts: []
+default_store_type: OWNDAYS

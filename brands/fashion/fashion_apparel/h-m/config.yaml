@@ -1,0 +1,9 @@
+# H&M — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: h-m
+name: H&M
+brand_regex: H\&M
+spelling_variants:
+- H&M
+- h&m
+seed_parent_msts: []
+default_store_type: H&M

@@ -1,0 +1,10 @@
+# Viet Tien — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: viet-tien
+name: Viet Tien
+brand_regex: Viet\ Tien
+spelling_variants:
+- Viet Tien
+- VIET TIEN
+- viet tien
+seed_parent_msts: []
+default_store_type: Viet Tien

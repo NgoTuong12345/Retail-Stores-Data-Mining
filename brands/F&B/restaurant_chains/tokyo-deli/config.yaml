@@ -1,0 +1,10 @@
+# Tokyo Deli — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: tokyo-deli
+name: Tokyo Deli
+brand_regex: Tokyo\ Deli
+spelling_variants:
+- Tokyo Deli
+- TOKYO DELI
+- tokyo deli
+seed_parent_msts: []
+default_store_type: Tokyo Deli

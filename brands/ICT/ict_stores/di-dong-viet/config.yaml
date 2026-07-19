@@ -1,0 +1,31 @@
+# Di Dong Viet
+slug: di-dong-viet
+name: Di Dong Viet
+brand_regex: 'Di\ ?Động\ ?Việt|Di\ ?Dong\ ?Viet|DiDongViet|DIDONGVIET|didongviet'
+spelling_variants:
+- Di Dong Viet
+- DI DONG VIET
+- di dong viet
+- Di Động Việt
+- DI ĐỘNG VIỆT
+- di động việt
+- DiDongViet
+- DIDONGVIET
+seed_parent_msts:
+- '0312193244'
+default_store_type: Di Dong Viet
+classification:
+  corporate_keywords:
+    - 'KHO'
+    - 'VĂN PHÒNG'
+    - 'VP'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'BẢO HÀNH'
+    - 'TRUNG TÂM ĐIỀU HÀNH'
+    - 'HỘI SỞ'
+  corporate_regexes:
+    - '^CÔNG TY TNHH CÔNG NGHỆ DI ĐỘNG VIỆT$'
+    - '^CHI NHÁNH CÔNG TY TNHH CÔNG NGHỆ DI ĐỘNG VIỆT$'
+backtest:
+  report_label: "Official website"
+  expected_total: 50

@@ -1,0 +1,46 @@
+# Co.op Food brand configuration
+# Migrated from coopfood_scraper.py legacy constants
+
+slug: coop-food
+name: Co.op Food
+brand_regex: 'CO[\.\\\,\-]?\s*OP\s*FOOD|COOPFOOD'
+
+spelling_variants:
+  - 'CO.OP FOOD'
+  - 'co.op food'
+  - 'COOPFOOD'
+  - 'COOP FOOD'
+  - 'Co.op Food'
+  - 'Co-op Food'
+  - 'CO,OP FOOD'
+  - 'coopfood'
+
+# 8 seed parent MSTs from coopfood_scraper.py:355
+seed_parent_msts:
+  - '0309129418'
+  - '0305767459'
+  - '0302271510'
+  - '0310178586'
+  - '0314077109'
+  - '0305781598'
+  - '0308425100'
+  - '0305757161'
+
+# Store type classification rules: [name_regex, label]
+store_type_rules:
+  - ['CO[\.\\\,\-]?\s*OP\s*FOOD|COOPFOOD', 'Co.op Food']
+  - ['CHEERS', 'Cheers']
+  - ['CO[\.\\\,\-]?\s*OP\s*SMILE', 'Co.op Smile']
+
+default_store_type: 'Co.op Food'
+
+classification:
+  # National cross-brand Id->date curve instead of coop-food's own masothue calibration
+  # (suffix-axis capped at 'low' regardless of accuracy). See enrich.py GlobalDateInterpolator.
+  date_calibration_force_global: true
+
+sibling_brands: []
+
+backtest:
+  report_label: "Known baseline 2026-06-27"
+  expected_total: 817

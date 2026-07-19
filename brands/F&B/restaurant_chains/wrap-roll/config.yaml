@@ -1,0 +1,10 @@
+# Wrap & Roll — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: wrap-roll
+name: Wrap & Roll
+brand_regex: Wrap\ \&\ Roll
+spelling_variants:
+- Wrap & Roll
+- WRAP & ROLL
+- wrap & roll
+seed_parent_msts: []
+default_store_type: Wrap & Roll

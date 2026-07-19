@@ -1,0 +1,10 @@
+slug: mm-mega-market
+name: MM Mega Market
+brand_regex: 'MM\s*MEGA\s*MARKET|MEGA\s*MARKET|METRO'
+spelling_variants:
+  - 'MM MEGA MARKET'
+  - 'MEGA MARKET'
+  - 'METRO'
+seed_parent_msts:
+  - '0302249586' # MM Mega Market Vietnam
+default_store_type: MM Mega Market

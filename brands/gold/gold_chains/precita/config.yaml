@@ -1,0 +1,49 @@
+# brands/precita/config.yaml
+# Precita — PNJ watch/jewelry brand
+# Small footprint: ~5-15 stores
+
+slug: precita
+name: Precita
+brand_regex: 'PRECITA|BẾN THÀNH|BEN THANH|BTJ'
+spelling_variants:
+  - 'PRECITA'
+
+seed_parent_msts:
+  - '0300847936'
+
+default_store_type: 'Precita'
+
+classification:
+  # National cross-brand Id->date curve instead of precita's own masothue calibration
+  # (suffix-axis capped at 'low' regardless of accuracy). See enrich.py GlobalDateInterpolator.
+  date_calibration_force_global: true
+  date_calibration_parent_mst: '0300847936'
+  date_calibration_min_date: '2010-01-01'
+  masothue_parent_url: 'https://masothue.com/0300847936-cong-ty-co-phan-vang-bac-da-quy-ben-thanh'
+  corporate_keywords:
+    - 'VĂN PHÒNG'
+    - 'VPĐD'
+    - 'VP ĐẠI DIỆN'
+    - 'KHO '
+    - 'XÍ NGHIỆP'
+    - 'NHÀ MÁY'
+    - 'XƯỞNG CHẾ TÁC'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'LOGISTICS'
+    - 'VĂN PHÒNG ĐẠI DIỆN'
+    - 'VAN PHONG'
+    - 'VP DAI DIEN'
+    - 'XUONG CHE TAC'
+    - 'TRUNG TAM PHAN PHOI'
+    - 'VAN PHONG DAI DIEN'
+  # Generic BHX-shaped schema_export defaults assume BHX's own vocabulary
+  # (CỬA HÀNG/KHO/ONLINE/FARM). This override adds jewelry-sector-safe
+  # Warehouse/Services buckets (workshop, factory, appraisal lab) so those
+  # don't fall into the catch-all 'Other' bucket; Retail keyword unchanged.
+  schema_export:
+    store_type_patterns:
+      - ['Warehouse', '\bXƯỞNG\b|\bNHÀ MÁY\b|\bKHO\b']
+      - ['Services', 'GIÁM ĐỊNH']
+      - ['Retail', 'C[ỬU]A H[ÀA]NG']
+
+store_type_rules: []

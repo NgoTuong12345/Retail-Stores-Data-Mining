@@ -1,0 +1,10 @@
+# Robins — auto-generated from vn_retail_system.json (mall / shopping_malls)
+slug: robins
+name: Robins
+brand_regex: Robins
+spelling_variants:
+- Robins
+- ROBINS
+- robins
+seed_parent_msts: []
+default_store_type: Robins

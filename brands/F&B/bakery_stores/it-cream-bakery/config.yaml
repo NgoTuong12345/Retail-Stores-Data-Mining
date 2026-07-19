@@ -1,0 +1,10 @@
+# IT Cream & Bakery — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: it-cream-bakery
+name: IT Cream & Bakery
+brand_regex: IT\ Cream\ \&\ Bakery
+spelling_variants:
+- IT Cream & Bakery
+- IT CREAM & BAKERY
+- it cream & bakery
+seed_parent_msts: []
+default_store_type: IT Cream & Bakery

@@ -1,0 +1,10 @@
+# Tous Les Jours — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: tous-les-jours
+name: Tous Les Jours
+brand_regex: Tous\ Les\ Jours
+spelling_variants:
+- Tous Les Jours
+- TOUS LES JOURS
+- tous les jours
+seed_parent_msts: []
+default_store_type: Tous Les Jours

@@ -1,0 +1,10 @@
+# Platinum Cineplex — auto-generated from vn_retail_system.json (movie / movie_theatres)
+slug: platinum-cineplex
+name: Platinum Cineplex
+brand_regex: Platinum\ Cineplex
+spelling_variants:
+- Platinum Cineplex
+- PLATINUM CINEPLEX
+- platinum cineplex
+seed_parent_msts: []
+default_store_type: Platinum Cineplex

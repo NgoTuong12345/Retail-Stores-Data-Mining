@@ -1,0 +1,29 @@
+# Phong Vu
+slug: phong-vu
+name: Phong Vu
+brand_regex: 'Phong\ Vũ|Phong\ Vu'
+spelling_variants:
+- Phong Vu
+- PHONG VU
+- phong vu
+- Phong Vũ
+- PHONG VŨ
+- phong vũ
+seed_parent_msts:
+- '0304998358'
+default_store_type: Phong Vu
+classification:
+  corporate_keywords:
+    - 'KHO'
+    - 'VĂN PHÒNG'
+    - 'VP'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'BẢO HÀNH'
+    - 'TRUNG TÂM ĐIỀU HÀNH'
+    - 'HỘI SỞ'
+  corporate_regexes:
+    - '^CÔNG TY CỔ PHẦN THƯƠNG MẠI \- DỊCH VỤ PHONG VŨ$'
+    - '^CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ PHONG VŨ$'
+backtest:
+  report_label: "Official website"
+  expected_total: 36

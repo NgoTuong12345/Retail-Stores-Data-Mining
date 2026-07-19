@@ -1,0 +1,10 @@
+# ECO pharma — auto-generated from vn_retail_system.json (pharma / drug_stores)
+slug: eco-pharma
+name: ECO pharma
+brand_regex: ECO\ pharma
+spelling_variants:
+- ECO pharma
+- ECO PHARMA
+- eco pharma
+seed_parent_msts: []
+default_store_type: ECO pharma

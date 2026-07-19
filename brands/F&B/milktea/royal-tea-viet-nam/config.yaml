@@ -1,0 +1,10 @@
+# Royal Tea Viet Nam — auto-generated from vn_retail_system.json (F&B / milktea)
+slug: royal-tea-viet-nam
+name: Royal Tea Viet Nam
+brand_regex: Royal\ Tea\ Viet\ Nam
+spelling_variants:
+- Royal Tea Viet Nam
+- ROYAL TEA VIET NAM
+- royal tea viet nam
+seed_parent_msts: []
+default_store_type: Royal Tea Viet Nam

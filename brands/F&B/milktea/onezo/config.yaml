@@ -1,0 +1,10 @@
+# Onezo — auto-generated from vn_retail_system.json (F&B / milktea)
+slug: onezo
+name: Onezo
+brand_regex: Onezo
+spelling_variants:
+- Onezo
+- ONEZO
+- onezo
+seed_parent_msts: []
+default_store_type: Onezo

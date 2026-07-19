@@ -1,0 +1,12 @@
+# Pharmacity — auto-generated from vn_retail_system.json (pharma / drug_stores)
+slug: pharmacity
+name: Pharmacity
+brand_regex: 'Pharmacity|PHARMACITY'
+spelling_variants:
+- Pharmacity
+- PHARMACITY
+- pharmacity
+- Dược phẩm Pharmacity
+seed_parent_msts:
+- '0311770883'
+default_store_type: Pharmacity

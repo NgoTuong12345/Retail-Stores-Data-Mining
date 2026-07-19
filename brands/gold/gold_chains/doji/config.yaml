@@ -1,0 +1,64 @@
+# brands/doji/config.yaml
+# DOJI Group — ~50 branches + ~200 jewelry centers + ~400 agents
+# No Vietnamese diacritics in brand name — clean search
+
+slug: doji
+name: DOJI
+brand_regex: 'DOJI'
+spelling_variants:
+  - 'DOJI'
+  - 'DOJI GOLD'
+  - 'DOJI TOWER'
+  - 'DOJI LAND'
+  - 'VÀNG BẠC ĐÁ QUÝ DOJI'
+  - 'VÀNG BẠC ĐÁ QUÍ DOJI'
+  - 'VANG BAC DA QUY DOJI'
+  - 'VANG BAC DA QUI DOJI'
+  - 'DOJI GOLD & GEMS'
+
+seed_parent_msts:
+  - '0100365621'
+
+default_store_type: 'DOJI Store'
+
+classification:
+  # National cross-brand Id->date curve instead of doji's own masothue calibration
+  # (suffix-axis capped at 'low' regardless of accuracy). See enrich.py GlobalDateInterpolator.
+  date_calibration_force_global: true
+  date_calibration_parent_mst: '0100365621'
+  date_calibration_min_date: '2010-01-01'
+  masothue_parent_url: 'https://masothue.com/0100365621-cong-ty-co-phan-tap-doan-vang-bac-da-quy-doji'
+  corporate_keywords:
+    - 'VĂN PHÒNG'
+    - 'VPĐD'
+    - 'VP ĐẠI DIỆN'
+    - 'KHO '
+    - 'XÍ NGHIỆP'
+    - 'NHÀ MÁY'
+    - 'XƯỞNG CHẾ TÁC'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'LOGISTICS'
+    - 'VĂN PHÒNG ĐẠI DIỆN'
+    - 'DOJI TOWER'
+    - 'DOJI LAND'
+    - 'VAN PHONG'
+    - 'VP DAI DIEN'
+    - 'XUONG CHE TAC'
+    - 'TRUNG TAM PHAN PHOI'
+    - 'VAN PHONG DAI DIEN'
+  # Generic BHX-shaped schema_export defaults (CỬA HÀNG/KHO/ONLINE/FARM) don't
+  # recognize jewelry-sector vocabulary — DOJI's own "jewelry center" format is
+  # "TRUNG TÂM VÀNG BẠC (ĐÁ QUÝ)" (~146 records), which fell into 'Other'
+  # without this override. Order matters: Warehouse/Services checked before
+  # Retail so 'TRUNG TÂM PHÂN PHỐI' (distribution center) and 'GIÁM ĐỊNH'
+  # (appraisal service) don't get swept into the broader retail-center match.
+  schema_export:
+    store_type_patterns:
+      - ['Warehouse', 'TRUNG TÂM PHÂN PHỐI|\bXƯỞNG\b|\bNHÀ MÁY\b|\bKHO\b']
+      - ['Services', 'GIÁM ĐỊNH']
+      - ['Retail', 'C[ỬU]A H[ÀA]NG|TRUNG TÂM (VÀNG BẠC|TRANG SỨC|KIM HOÀN|NỮ TRANG)']
+
+store_type_rules:
+  - ['TRUNG TÂM|CENTER', 'DOJI Center']
+  - ['ĐẠI LÝ|DAI LY', 'DOJI Agent']
+  - ['SỈ|WHOLESALE', 'DOJI Wholesale']

@@ -1,0 +1,10 @@
+# Mediamart — auto-generated from vn_retail_system.json (electronics / electronic_stores)
+slug: mediamart
+name: Mediamart
+brand_regex: Mediamart
+spelling_variants:
+- Mediamart
+- MEDIAMART
+- mediamart
+seed_parent_msts: []
+default_store_type: Mediamart

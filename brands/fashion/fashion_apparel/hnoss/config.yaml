@@ -1,0 +1,9 @@
+# HNOSS — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: hnoss
+name: HNOSS
+brand_regex: HNOSS
+spelling_variants:
+- HNOSS
+- hnoss
+seed_parent_msts: []
+default_store_type: HNOSS

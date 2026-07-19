@@ -1,0 +1,10 @@
+# Dairy Queen — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: dairy-queen
+name: Dairy Queen
+brand_regex: Dairy\ Queen
+spelling_variants:
+- Dairy Queen
+- DAIRY QUEEN
+- dairy queen
+seed_parent_msts: []
+default_store_type: Dairy Queen

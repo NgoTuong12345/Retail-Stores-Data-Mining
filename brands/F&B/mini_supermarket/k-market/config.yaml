@@ -1,0 +1,12 @@
+# K-market — auto-generated from vn_retail_system.json (F&B / mini_supermarket)
+slug: k-market
+name: K-market
+brand_regex: 'K[\s\-]?MARKET'
+spelling_variants:
+  - 'K-MARKET'
+  - 'K MARKET'
+  - 'KMARKET'
+  - 'K-market'
+  - 'K market'
+seed_parent_msts: []
+default_store_type: K-market

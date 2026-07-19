@@ -1,0 +1,12 @@
+# Family Mart — auto-generated from vn_retail_system.json (F&B / convenience_stores)
+slug: family-mart
+name: Family Mart
+brand_regex: Family\ Mart|FamilyMart
+spelling_variants:
+- Family Mart
+- FAMILY MART
+- family mart
+- FamilyMart
+seed_parent_msts:
+- '0312283473'
+default_store_type: Family Mart

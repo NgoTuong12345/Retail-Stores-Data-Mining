@@ -1,0 +1,10 @@
+# EMS Fitness & Yoga — auto-generated from vn_retail_system.json (fitness / fitness_stores)
+slug: ems-fitness-yoga
+name: EMS Fitness & Yoga
+brand_regex: EMS\ Fitness\ \&\ Yoga
+spelling_variants:
+- EMS Fitness & Yoga
+- EMS FITNESS & YOGA
+- ems fitness & yoga
+seed_parent_msts: []
+default_store_type: EMS Fitness & Yoga

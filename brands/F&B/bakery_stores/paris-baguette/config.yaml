@@ -1,0 +1,10 @@
+# Paris Baguette — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: paris-baguette
+name: Paris Baguette
+brand_regex: Paris\ Baguette
+spelling_variants:
+- Paris Baguette
+- PARIS BAGUETTE
+- paris baguette
+seed_parent_msts: []
+default_store_type: Paris Baguette

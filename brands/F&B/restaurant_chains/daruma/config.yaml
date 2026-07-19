@@ -1,0 +1,10 @@
+# Daruma — auto-generated from vn_retail_system.json (F&B / restaurant_chains)
+slug: daruma
+name: Daruma
+brand_regex: Daruma
+spelling_variants:
+- Daruma
+- DARUMA
+- daruma
+seed_parent_msts: []
+default_store_type: Daruma

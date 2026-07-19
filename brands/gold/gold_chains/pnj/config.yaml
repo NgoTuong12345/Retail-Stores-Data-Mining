@@ -1,0 +1,81 @@
+# brands/pnj/config.yaml
+# PNJ (Phú Nhuận Jewelry) — largest organized jewelry retail chain in Vietnam
+# ~431 points of sale across 31/63 provinces (2025)
+
+slug: pnj
+name: PNJ
+brand_regex: 'PNJ|VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN|VANG BAC DA QUY PHU NHUAN|VÀNG BẠC ĐÁ QUÍ PHÚ NHUẬN|VANG BAC DA QUI PHU NHUAN'
+spelling_variants:
+  - 'PNJ'
+  - 'PHÚ NHUẬN'
+  - 'PHU NHUAN'
+  - 'PNJ SILVER'
+  - 'PNJ CENTER'
+  - 'STYLE BY PNJ'
+  - 'VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN'
+  - 'VANG BAC DA QUY PHU NHUAN'
+  - 'VÀNG BẠC ĐÁ QUÍ PHÚ NHUẬN'
+  - 'VANG BAC DA QUI PHU NHUAN'
+
+seed_parent_msts:
+  - '0300521758'
+
+default_store_type: 'PNJ Store'
+
+classification:
+  # National cross-brand Id->date curve instead of pnj's own masothue calibration
+  # (suffix-axis capped at 'low' regardless of accuracy). See enrich.py GlobalDateInterpolator.
+  date_calibration_force_global: true
+  date_calibration_parent_mst: '0300521758'
+  date_calibration_min_date: '2010-01-01'
+  masothue_parent_url: 'https://masothue.com/0300521758-cong-ty-co-phan-vang-bac-da-quy-phu-nhuan'
+  entity_status:
+    '0300521758-032': 'NNT ngừng HĐ nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực MST'
+    '0300521758-066': 'NNT ngừng hoạt động và đã hoàn thành thủ tục chấm dứt hiệu lực MST'
+    '0300521758-074': 'NNT ngừng hoạt động'
+    '0300521758-124': 'NNT ngừng HĐ nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực MST'
+  corporate_keywords:
+    - 'VĂN PHÒNG'
+    - 'VPĐD'
+    - 'VP ĐẠI DIỆN'
+    - 'KHO '
+    - 'XÍ NGHIỆP'
+    - 'NHÀ MÁY'
+    - 'XƯỞNG CHẾ TÁC'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'LOGISTICS'
+    - 'VĂN PHÒNG ĐẠI DIỆN'
+    - 'VAN PHONG'
+    - 'VP DAI DIEN'
+    - 'XUONG CHE TAC'
+    - 'TRUNG TAM PHAN PHOI'
+    - 'VAN PHONG DAI DIEN'
+    - 'SƠN PNJ'
+    - 'MEDIA'
+    - 'FARMING'
+    - 'PNJ VINA'
+    - 'GAS'
+    - 'TẬP ĐOÀN PNJ'
+    - 'TĐ PNJ'
+    - 'CÔNG TY TNHH PNJ'
+  name_enrichment:
+    masothue_parent_urls:
+      - parent_mst: '0300521758'
+        url: 'https://masothue.com/0300521758-cong-ty-co-phan-vang-bac-da-quy-phu-nhuan'
+  # Generic BHX-shaped schema_export defaults (CỬA HÀNG/KHO/ONLINE/FARM) don't
+  # recognize jewelry-sector vocabulary — PNJ's own showroom format is "TRUNG
+  # TÂM KIM HOÀN" (jewelry center, ~257 records), which fell into 'Other'
+  # without this override. Order matters: Warehouse/Services checked before
+  # Retail so 'TRUNG TÂM PHÂN PHỐI' (distribution center) and 'GIÁM ĐỊNH'
+  # (appraisal service) don't get swept into the broader retail-center match.
+  schema_export:
+    store_type_patterns:
+      - ['Warehouse', 'TRUNG TÂM PHÂN PHỐI|\bXƯỞNG\b|\bNHÀ MÁY\b|\bKHO\b']
+      - ['Services', 'GIÁM ĐỊNH']
+      - ['Retail', 'C[ỬU]A H[ÀA]NG|TRUNG TÂM (VÀNG BẠC|TRANG SỨC|KIM HOÀN|NỮ TRANG)']
+
+store_type_rules:
+  - ['CENTER|TRUNG TÂM', 'PNJ Center']
+  - ['SILVER', 'PNJ Silver']
+  - ['STYLE BY', 'Style by PNJ']
+  - ['ĐẠI LÝ|DAI LY', 'PNJ Agent']

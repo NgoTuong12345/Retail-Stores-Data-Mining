@@ -1,0 +1,10 @@
+# Biciocosmetics — auto-generated from vn_retail_system.json (cosmetic / cosmetic_stores)
+slug: biciocosmetics
+name: Biciocosmetics
+brand_regex: Biciocosmetics
+spelling_variants:
+- Biciocosmetics
+- BICIOCOSMETICS
+- biciocosmetics
+seed_parent_msts: []
+default_store_type: Biciocosmetics

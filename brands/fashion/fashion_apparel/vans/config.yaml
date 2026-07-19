@@ -1,0 +1,10 @@
+# Vans — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: vans
+name: Vans
+brand_regex: Vans
+spelling_variants:
+- Vans
+- VANS
+- vans
+seed_parent_msts: []
+default_store_type: Vans

@@ -1,0 +1,42 @@
+# FPT Shop
+slug: fpt-shop
+name: FPT Shop
+brand_regex: 'FPT\ ?Shop|FPTShop|FPTSHOP|Trung\ tâm\ bán\ lẻ\ FPT|F\.Studio|FStudio|Bán\ lẻ\ Kỹ\ thuật\ số\ FPT|Ban\ le\ Ky\ thuat\ so\ FPT'
+spelling_variants:
+- FPT Shop
+- FPT SHOP
+- fpt shop
+- FPTShop
+- FPTSHOP
+- fptshop
+- Trung tâm bán lẻ FPT
+- TRUNG TÂM BÁN LẺ FPT
+- Bán lẻ Kỹ thuật số FPT
+- BÁN LẺ KỸ THUẬT SỐ FPT
+- F.Studio
+- FStudio
+seed_parent_msts:
+- '0104264737'
+- '0311609355'
+default_store_type: FPT Shop
+classification:
+  corporate_keywords:
+    - 'KHO'
+    - 'VĂN PHÒNG'
+    - 'VP'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'BẢO HÀNH'
+    - 'TRUNG TÂM ĐIỀU HÀNH'
+    - 'HỘI SỞ'
+  corporate_regexes:
+    - '^CHI NHÁNH CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT TẠI [^-\n]*$'
+    - '^CHI NHÁNH [^-\n]* - CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT$'
+    - '^CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT - CHI NHÁNH [^-\n]*$'
+    - '^CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT$'
+    - 'TỔNG KHO HO'
+  operating_status:
+    enabled: true
+    sources: [locator]   # FPT Shop has no independently-queryable own-MST branches; gdt rung is inert
+backtest:
+  report_label: "Official website"
+  expected_total: 622

@@ -1,0 +1,14 @@
+# Cheers — auto-generated from vn_retail_system.json (F&B / convenience_stores)
+slug: cheers
+name: Cheers
+brand_regex: Cheers
+spelling_variants:
+- Cheers
+- CHEERS
+- cheers
+- BÁCH HÓA SÀI GÒN CO.OP
+- BACH HOA SAI GON COOP
+seed_parent_msts:
+- '0314057952'
+- '0309129418'
+default_store_type: Cheers

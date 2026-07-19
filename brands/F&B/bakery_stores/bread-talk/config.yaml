@@ -1,0 +1,10 @@
+# Bread Talk — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: bread-talk
+name: Bread Talk
+brand_regex: Bread\ Talk
+spelling_variants:
+- Bread Talk
+- BREAD TALK
+- bread talk
+seed_parent_msts: []
+default_store_type: Bread Talk

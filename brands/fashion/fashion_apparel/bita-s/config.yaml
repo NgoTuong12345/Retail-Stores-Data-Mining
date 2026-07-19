@@ -1,0 +1,10 @@
+# Bita's — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: bita-s
+name: Bita's
+brand_regex: Bita's
+spelling_variants:
+- Bita's
+- BITA'S
+- bita's
+seed_parent_msts: []
+default_store_type: Bita's

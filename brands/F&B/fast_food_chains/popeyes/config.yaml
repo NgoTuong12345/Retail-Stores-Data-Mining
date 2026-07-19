@@ -1,0 +1,10 @@
+# Popeyes — auto-generated from vn_retail_system.json (F&B / fast_food_chains)
+slug: popeyes
+name: Popeyes
+brand_regex: Popeyes
+spelling_variants:
+- Popeyes
+- POPEYES
+- popeyes
+seed_parent_msts: []
+default_store_type: Popeyes

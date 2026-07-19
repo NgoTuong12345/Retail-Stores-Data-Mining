@@ -1,0 +1,10 @@
+# Osaka Ohsho — auto-generated from vn_retail_system.json (F&B / food_chain)
+slug: osaka-ohsho
+name: Osaka Ohsho
+brand_regex: Osaka\ Ohsho
+spelling_variants:
+- Osaka Ohsho
+- OSAKA OHSHO
+- osaka ohsho
+seed_parent_msts: []
+default_store_type: Osaka Ohsho

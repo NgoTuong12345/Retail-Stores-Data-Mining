@@ -1,0 +1,10 @@
+# AEON Mall — auto-generated from vn_retail_system.json (mall / shopping_malls)
+slug: aeon-mall
+name: AEON Mall
+brand_regex: AEON\ Mall
+spelling_variants:
+- AEON Mall
+- AEON MALL
+- aeon mall
+seed_parent_msts: []
+default_store_type: AEON Mall

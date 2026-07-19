@@ -1,0 +1,13 @@
+# Phê La — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: phe-la
+name: Phê La
+brand_regex: Phê\ La|Phe\ La
+spelling_variants:
+- Phê La
+- PHÊ LA
+- phê la
+- Phe La
+- PHE LA
+- phe la
+seed_parent_msts: []
+default_store_type: Phê La

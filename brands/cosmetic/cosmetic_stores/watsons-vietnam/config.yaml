@@ -1,0 +1,10 @@
+# Watsons Vietnam — auto-generated from vn_retail_system.json (cosmetic / cosmetic_stores)
+slug: watsons-vietnam
+name: Watsons Vietnam
+brand_regex: Watsons\ Vietnam
+spelling_variants:
+- Watsons Vietnam
+- WATSONS VIETNAM
+- watsons vietnam
+seed_parent_msts: []
+default_store_type: Watsons Vietnam

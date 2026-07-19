@@ -1,0 +1,10 @@
+# Katinat — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: katinat
+name: Katinat
+brand_regex: Katinat
+spelling_variants:
+- Katinat
+- KATINAT
+- katinat
+seed_parent_msts: []
+default_store_type: Katinat

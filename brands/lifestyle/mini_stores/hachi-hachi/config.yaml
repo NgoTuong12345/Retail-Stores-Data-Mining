@@ -1,0 +1,10 @@
+# Hachi Hachi — auto-generated from vn_retail_system.json (lifestyle / mini_stores)
+slug: hachi-hachi
+name: Hachi Hachi
+brand_regex: Hachi\ Hachi
+spelling_variants:
+- Hachi Hachi
+- HACHI HACHI
+- hachi hachi
+seed_parent_msts: []
+default_store_type: Hachi Hachi

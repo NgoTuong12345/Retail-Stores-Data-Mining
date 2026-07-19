@@ -1,0 +1,10 @@
+# Concung — auto-generated from vn_retail_system.json (mother_baby / kids_baby_stores)
+slug: concung
+name: Concung
+brand_regex: Concung
+spelling_variants:
+- Concung
+- CONCUNG
+- concung
+seed_parent_msts: []
+default_store_type: Concung

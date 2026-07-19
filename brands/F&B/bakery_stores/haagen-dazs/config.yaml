@@ -1,0 +1,13 @@
+# Häagen-Dazs — auto-generated from vn_retail_system.json (F&B / bakery_stores)
+slug: haagen-dazs
+name: Häagen-Dazs
+brand_regex: Häagen\-Dazs|Haagen\-Dazs
+spelling_variants:
+- Häagen-Dazs
+- HÄAGEN-DAZS
+- häagen-dazs
+- Haagen-Dazs
+- HAAGEN-DAZS
+- haagen-dazs
+seed_parent_msts: []
+default_store_type: Häagen-Dazs

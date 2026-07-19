@@ -1,0 +1,10 @@
+# Old Navy — auto-generated from vn_retail_system.json (fashion / fashion_apparel)
+slug: old-navy
+name: Old Navy
+brand_regex: Old\ Navy
+spelling_variants:
+- Old Navy
+- OLD NAVY
+- old navy
+seed_parent_msts: []
+default_store_type: Old Navy

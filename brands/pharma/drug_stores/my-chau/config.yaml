@@ -1,0 +1,10 @@
+# My Chau — auto-generated from vn_retail_system.json (pharma / drug_stores)
+slug: my-chau
+name: My Chau
+brand_regex: My\ Chau
+spelling_variants:
+- My Chau
+- MY CHAU
+- my chau
+seed_parent_msts: []
+default_store_type: My Chau

@@ -1,0 +1,31 @@
+# Hoang Ha
+slug: hoang-ha
+name: Hoang Ha
+brand_regex: 'Xây\ dựng\ và\ Đầu\ tư\ Thương\ mại\ Hoàng\ Hà|Xay\ dung\ va\ Dau\ tu\ Thuong\ mai\ Hoang\ Ha'
+spelling_variants:
+- Hoang Ha
+- HOANG HA
+- hoang ha
+- Hoàng Hà
+- HOÀNG HÀ
+- hoàng hà
+seed_parent_msts:
+- '0106713191'
+default_store_type: Hoang Ha
+classification:
+  corporate_keywords:
+    - 'KHO'
+    - 'VĂN PHÒNG'
+    - 'VP'
+    - 'PHÒNG KHÁM'
+    - 'BỆNH VIỆN'
+    - 'NHA KHOA'
+    - 'TRUNG TÂM PHÂN PHỐI'
+    - 'BẢO HÀNH'
+    - 'TRUNG TÂM ĐIỀU HÀNH'
+    - 'HỘI SỞ'
+  corporate_regexes:
+    - '^CÔNG TY CỔ PHẦN XÂY DỰNG VÀ ĐẦU TƯ THƯƠNG MẠI HOÀNG HÀ$'
+backtest:
+  report_label: "Official website"
+  expected_total: 124

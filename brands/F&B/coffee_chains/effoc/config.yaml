@@ -1,0 +1,10 @@
+# Effoc — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: effoc
+name: Effoc
+brand_regex: Effoc
+spelling_variants:
+- Effoc
+- EFFOC
+- effoc
+seed_parent_msts: []
+default_store_type: Effoc

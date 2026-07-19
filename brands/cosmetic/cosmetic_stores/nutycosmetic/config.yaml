@@ -1,0 +1,10 @@
+# Nutycosmetic — auto-generated from vn_retail_system.json (cosmetic / cosmetic_stores)
+slug: nutycosmetic
+name: Nutycosmetic
+brand_regex: Nutycosmetic
+spelling_variants:
+- Nutycosmetic
+- NUTYCOSMETIC
+- nutycosmetic
+seed_parent_msts: []
+default_store_type: Nutycosmetic

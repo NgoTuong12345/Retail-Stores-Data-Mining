@@ -1,0 +1,10 @@
+# Viva Star Coffee — auto-generated from vn_retail_system.json (F&B / coffee_chains)
+slug: viva-star-coffee
+name: Viva Star Coffee
+brand_regex: Viva\ Star\ Coffee
+spelling_variants:
+- Viva Star Coffee
+- VIVA STAR COFFEE
+- viva star coffee
+seed_parent_msts: []
+default_store_type: Viva Star Coffee
